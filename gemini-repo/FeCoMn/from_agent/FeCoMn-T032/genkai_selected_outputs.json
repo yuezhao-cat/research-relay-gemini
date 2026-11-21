@@ -1,0 +1,970 @@
+[
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_full",
+    "family": "8O_noOH",
+    "state": "base",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 8
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2129.34174525,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 3.116,
+    "total_moment": 140.9068,
+    "INCAR": "SYSTEM = FCM_base_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 8*0.5\n",
+    "Mn_N_distances_A": [
+      1.9128802060848957,
+      1.9142067915290537,
+      1.914521893779412,
+      1.915684710406083
+    ],
+    "Mn_N_mean_A": 1.914323400449861,
+    "Mn_height_signed_A": -0.009593639509533024,
+    "local_z_angle_deg": 0.09608625805084126,
+    "nearby_O": [],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_full/DOSCAR",
+      "fermi_eV": -2.20443632,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.8865081933163552,
+      "center_eV": -3.013458729467272,
+      "spin_difference_integral": 0.7928756868918653,
+      "EF_pm025_mean_DOS": 2.7886328246753245e-05,
+      "d_center_eV": -3.083041325602729
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OOH_full",
+    "family": "8O_noOH",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2144.2712247,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 2.233,
+    "total_moment": 137.1453,
+    "INCAR": "SYSTEM = FCM_OOH_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 10*0.5 1*0\n",
+    "Mn_N_distances_A": [
+      1.9190940589563295,
+      1.91922113393966,
+      1.945392908636854,
+      1.9479390925352227
+    ],
+    "Mn_N_mean_A": 1.9329117985170166,
+    "Mn_height_signed_A": -0.3115365699659039,
+    "local_z_angle_deg": 1.9376075432935935,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.8062219060374451,
+        "height_relative_Mn_A": -1.8045357658955186,
+        "moment": 0.035
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OOH_full/DOSCAR",
+      "fermi_eV": -2.22628266,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.72963191325,
+      "center_eV": -3.739191079039059,
+      "spin_difference_integral": 0.17276806045000012,
+      "EF_pm025_mean_DOS": 0.1952657827510917,
+      "d_center_eV": -2.9318525841952074
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_O_full",
+    "family": "8O_noOH",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2135.71603299,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": -0.505,
+    "total_moment": 134.3342,
+    "INCAR": "SYSTEM = FCM_O_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 9*0.5\n",
+    "Mn_N_distances_A": [
+      1.9617291108289394,
+      1.9621319672268154,
+      1.9640809349711206,
+      1.9648198366588074
+    ],
+    "Mn_N_mean_A": 1.9631904624214207,
+    "Mn_height_signed_A": -0.40568087652496876,
+    "local_z_angle_deg": 0.479074378995832,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.6540319504643635,
+        "height_relative_Mn_A": -1.654026643831845,
+        "moment": -0.127
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_O_full/DOSCAR",
+      "fermi_eV": -2.26348597,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.825019879629999,
+      "center_eV": -4.511119093872131,
+      "spin_difference_integral": -0.03184463960000127,
+      "EF_pm025_mean_DOS": 0.09162564496919925,
+      "d_center_eV": -2.805758473010076
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OH_full",
+    "family": "8O_noOH",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2140.08378759,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": -3.186,
+    "total_moment": 133.7816,
+    "INCAR": "SYSTEM = FCM_OH_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 9*0.5 1*0\n",
+    "Mn_N_distances_A": [
+      1.9662817718011578,
+      1.9671807428155246,
+      1.96906686896542,
+      1.9697610469748923
+    ],
+    "Mn_N_mean_A": 1.9680726076392487,
+    "Mn_height_signed_A": -0.4562470841475977,
+    "local_z_angle_deg": 0.3281546912916252,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.8694122993326765,
+        "height_relative_Mn_A": -1.868849967132818,
+        "moment": -0.159
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OH_full/DOSCAR",
+      "fermi_eV": -2.24988729,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.9764613027,
+      "center_eV": -3.300251763205051,
+      "spin_difference_integral": -0.497549358,
+      "EF_pm025_mean_DOS": 0.36675051333333347,
+      "d_center_eV": -3.4701273133364903
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_full",
+    "family": "8O_OH",
+    "state": "base",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2140.09673312,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 3.206,
+    "total_moment": 141.3101,
+    "INCAR": "SYSTEM = FCMnew_base_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = -1\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 9*0.5 1*0\nNBANDS = 1200\n",
+    "Mn_N_distances_A": [
+      1.9666078175363906,
+      1.9683720716828494,
+      1.9687789548395587,
+      1.9698706593300435
+    ],
+    "Mn_N_mean_A": 1.9684073758472105,
+    "Mn_height_signed_A": 0.44176057610180963,
+    "local_z_angle_deg": 0.19212602722938787,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.877242172374744,
+        "height_relative_Mn_A": 1.8772390674583157,
+        "moment": 0.167
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_full/DOSCAR",
+      "fermi_eV": -2.25495644,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.9948970527849998,
+      "center_eV": -3.166596624751271,
+      "spin_difference_integral": 0.5191499717649998,
+      "EF_pm025_mean_DOS": 0.3705852041036715,
+      "d_center_eV": -3.4162985309700282
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_full",
+    "family": "8O_OH",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 11,
+      "H": 2
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2154.75901952,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 2.384,
+    "total_moment": 138.0457,
+    "INCAR": "SYSTEM = FCMnew_OOH_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = -1\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 11*0.5 2*0\nNBANDS = 1200\n",
+    "Mn_N_distances_A": [
+      1.9382839005903112,
+      1.9399548010835153,
+      1.940615623862051,
+      1.9479261372264831
+    ],
+    "Mn_N_mean_A": 1.9416951156905902,
+    "Mn_height_signed_A": 0.0025545435864849533,
+    "local_z_angle_deg": 1.602314996652477,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.8728333720504367,
+        "height_relative_Mn_A": 1.8716655813517107,
+        "moment": 0.102
+      },
+      {
+        "index": 248,
+        "distance_A": 1.8948352157844304,
+        "height_relative_Mn_A": -1.8917837935264077,
+        "moment": 0.088
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_full/DOSCAR",
+      "fermi_eV": -2.24980301,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.7442712282949997,
+      "center_eV": -4.8411665865992495,
+      "spin_difference_integral": 0.10609924666500026,
+      "EF_pm025_mean_DOS": 0.012269890228165915,
+      "d_center_eV": -3.401212811006933
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_O_full",
+    "family": "8O_OH",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2145.58775483,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 0.374,
+    "total_moment": 137.9641,
+    "INCAR": "SYSTEM = FCMnew_O_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = -1\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 10*0.5 1*0\nNBANDS = 1200\n",
+    "Mn_N_distances_A": [
+      1.9429033944855973,
+      1.9455844461897938,
+      1.9504495057133746,
+      1.9528071207703892
+    ],
+    "Mn_N_mean_A": 1.9479361167897888,
+    "Mn_height_signed_A": -0.09753738744739193,
+    "local_z_angle_deg": 0.37038343193455286,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.958670690602496,
+        "height_relative_Mn_A": 1.9580192933545415,
+        "moment": -0.008
+      },
+      {
+        "index": 248,
+        "distance_A": 1.683603020129629,
+        "height_relative_Mn_A": -1.6834119797176326,
+        "moment": 0.115
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_O_full/DOSCAR",
+      "fermi_eV": -2.31405183,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.8145963593374991,
+      "center_eV": -4.787127833606592,
+      "spin_difference_integral": 0.01124715649250032,
+      "EF_pm025_mean_DOS": 0.0006761325,
+      "d_center_eV": -2.744995268727226
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OH_full",
+    "family": "8O_OH",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 2
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2150.50328291,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 2.446,
+    "total_moment": 139.9659,
+    "INCAR": "SYSTEM = FCMnew_OH_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = -1\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 10*0.5 2*0\nNBANDS = 1200\n",
+    "Mn_N_distances_A": [
+      1.9404169295138356,
+      1.94375516230805,
+      1.9449443884048134,
+      1.9456845581091997
+    ],
+    "Mn_N_mean_A": 1.9437002595839747,
+    "Mn_height_signed_A": -0.009276699794436656,
+    "local_z_angle_deg": 0.6680680676442573,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.8759458426153959,
+        "height_relative_Mn_A": 1.875257950551147,
+        "moment": 0.102
+      },
+      {
+        "index": 248,
+        "distance_A": 1.8673985801453534,
+        "height_relative_Mn_A": -1.8655924835125561,
+        "moment": 0.089
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OH_full/DOSCAR",
+      "fermi_eV": -2.26881879,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.76541749254321,
+      "center_eV": -5.121891080147767,
+      "spin_difference_integral": 0.0954792971742098,
+      "EF_pm025_mean_DOS": 0.012762766893518525,
+      "d_center_eV": -3.5416951541331585
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full",
+    "family": "MnNC_O",
+    "state": "base",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1667.7794598,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 0.287,
+    "total_moment": 0.468,
+    "INCAR": "SYSTEM = MnNC_base_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 1*3 1*0.5\n",
+    "Mn_N_distances_A": [
+      1.947318644529329,
+      1.9484939948514577,
+      1.949018037391037,
+      1.9491338475763589
+    ],
+    "Mn_N_mean_A": 1.9484911310870459,
+    "Mn_height_signed_A": 0.5062840977341392,
+    "local_z_angle_deg": 0.6329973697352579,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.5770846336315383,
+        "height_relative_Mn_A": 1.5770529391376238,
+        "moment": 0.079
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/DOSCAR",
+      "fermi_eV": -3.0718559,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.8645226581398027,
+      "center_eV": -5.082853693967823,
+      "spin_difference_integral": 0.01348853052530952,
+      "EF_pm025_mean_DOS": 0.05786565119440865,
+      "d_center_eV": -3.4420218129548563
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OOH_full",
+    "family": "MnNC_O",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 3,
+      "H": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1681.90697725,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 0.256,
+    "total_moment": 0.2039,
+    "INCAR": "SYSTEM = MnNC_OOH_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 1*3 3*0.5 1*0\n",
+    "Mn_N_distances_A": [
+      1.934096867903635,
+      1.948561358283705,
+      1.9522287720749425,
+      1.9538213918816436
+    ],
+    "Mn_N_mean_A": 1.9471770975359814,
+    "Mn_height_signed_A": 0.16546556996434203,
+    "local_z_angle_deg": 0.889366005759707,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.6072067133680703,
+        "height_relative_Mn_A": 1.6052751241181518,
+        "moment": 0.106
+      },
+      {
+        "index": 181,
+        "distance_A": 1.936163451210029,
+        "height_relative_Mn_A": -1.9280913601095828,
+        "moment": -0.035
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OOH_full/DOSCAR",
+      "fermi_eV": -3.11406033,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.7548052820735764,
+      "center_eV": -4.956115074466962,
+      "spin_difference_integral": 0.005391431866923372,
+      "EF_pm025_mean_DOS": 0.0008915072887061408,
+      "d_center_eV": -2.960411715136324
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_O_full",
+    "family": "MnNC_O",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1672.93453631,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 0.0,
+    "total_moment": 0.0001,
+    "INCAR": "SYSTEM = MnNC_O_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 1*3 2*0.5\n",
+    "Mn_N_distances_A": [
+      1.9590907682064715,
+      1.9592502518307833,
+      1.9594082510409612,
+      1.9599964904224005
+    ],
+    "Mn_N_mean_A": 1.959436440375154,
+    "Mn_height_signed_A": -0.007380229235082384,
+    "local_z_angle_deg": 0.5568412693305974,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.6604457413909646,
+        "height_relative_Mn_A": 1.6603544092339517,
+        "moment": -0.0
+      },
+      {
+        "index": 181,
+        "distance_A": 1.6595204945004833,
+        "height_relative_Mn_A": -1.6595005769859275,
+        "moment": -0.0
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_O_full/DOSCAR",
+      "fermi_eV": -3.13993554,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.8424444086041079,
+      "center_eV": -4.578416328148028,
+      "spin_difference_integral": 7.16490578539273e-06,
+      "EF_pm025_mean_DOS": 0.00921157998558168,
+      "d_center_eV": -2.7098957625483235
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OH_full",
+    "family": "MnNC_O",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1677.56095571,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": -0.0,
+    "total_moment": -0.0005,
+    "INCAR": "SYSTEM = MnNC_OH_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 1*3 2*0.5 1*0\n",
+    "Mn_N_distances_A": [
+      1.9421614735372752,
+      1.9446430349001613,
+      1.9548411062744244,
+      1.9556960765237372
+    ],
+    "Mn_N_mean_A": 1.9493354228088997,
+    "Mn_height_signed_A": 0.13349801194587022,
+    "local_z_angle_deg": 0.7776018773627601,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.606487687637199,
+        "height_relative_Mn_A": 1.6047420361632474,
+        "moment": -0.0
+      },
+      {
+        "index": 181,
+        "distance_A": 1.895143382350921,
+        "height_relative_Mn_A": -1.8948731983522376,
+        "moment": 0.0
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OH_full/DOSCAR",
+      "fermi_eV": -3.09239962,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.827308295228269,
+      "center_eV": -5.49371223414747,
+      "spin_difference_integral": -8.181228151646367e-06,
+      "EF_pm025_mean_DOS": 0.001076690893399347,
+      "d_center_eV": -3.2682642342790826
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_O_magnetic_wavecheck_20261031",
+    "family": "8O_OH_wave_continuation",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2145.42324509,
+    "normal_end": true,
+    "ionic_converged": false,
+    "Mn_moment": 2.085,
+    "total_moment": 139.6017,
+    "INCAR": "SYSTEM = FCMnew_O_optimized_wave_control\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = -1\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 1\nICHARG = 0\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 10*0.5 1*0\nNBANDS = 1200\n",
+    "Mn_N_distances_A": [
+      1.9429033944855973,
+      1.9455844461897938,
+      1.9504495057133746,
+      1.9528071207703892
+    ],
+    "Mn_N_mean_A": 1.9479361167897888,
+    "Mn_height_signed_A": -0.09753738744739193,
+    "local_z_angle_deg": 0.37038343193455286,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.958670690602496,
+        "height_relative_Mn_A": 1.9580192933545415,
+        "moment": 0.004
+      },
+      {
+        "index": 248,
+        "distance_A": 1.683603020129629,
+        "height_relative_Mn_A": -1.6834119797176326,
+        "moment": 0.345
+      }
+    ],
+    "dz2": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_O_magnetic_wavecheck_20261031/DOSCAR",
+      "fermi_eV": -2.31005423,
+      "columns": 19,
+      "window_eV": [
+        -8,
+        0
+      ],
+      "integral": 0.8184299577329996,
+      "center_eV": -4.450819922868634,
+      "spin_difference_integral": 0.07407969220299983,
+      "EF_pm025_mean_DOS": 0.009888421271739115,
+      "d_center_eV": -3.3855130830267646
+    }
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_OOH",
+    "family": "MnNC_O_relax",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 3,
+      "H": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1681.88746356,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 0.2041,
+    "INCAR": "SYSTEM = MnNC_cov1O_OOH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW = 800\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM = 174*0 4*0 1*3 3*0.5 1*0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE = 12\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n\nISTART = 0\n\nICHARG = 2\n",
+    "Mn_N_distances_A": [
+      1.9340968679036423,
+      1.9485613582835954,
+      1.9522287720748959,
+      1.9538213918816751
+    ],
+    "Mn_N_mean_A": 1.9471770975359521,
+    "Mn_height_signed_A": 0.16546556996428777,
+    "local_z_angle_deg": 0.8893660057592973,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.6072067133681238,
+        "height_relative_Mn_A": 1.6052751241182042,
+        "moment": null
+      },
+      {
+        "index": 181,
+        "distance_A": 1.9361634512100492,
+        "height_relative_Mn_A": -1.9280913601095926,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_O",
+    "family": "MnNC_O_relax",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1672.90904517,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 0.0,
+    "INCAR": "SYSTEM = MnNC_cov1O_O\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW = 800\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM = 174*0 4*0 1*3 2*0.5\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE = 12\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n\nISTART = 0\n\nICHARG = 2\n",
+    "Mn_N_distances_A": [
+      1.959090768206432,
+      1.959250251830779,
+      1.9594082510409454,
+      1.959996490422321
+    ],
+    "Mn_N_mean_A": 1.9594364403751194,
+    "Mn_height_signed_A": -0.007380229235027786,
+    "local_z_angle_deg": 0.5568412693286339,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.6604457413908902,
+        "height_relative_Mn_A": 1.6603544092338771,
+        "moment": null
+      },
+      {
+        "index": 181,
+        "distance_A": 1.6595204945006419,
+        "height_relative_Mn_A": -1.6595005769860867,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_OH",
+    "family": "MnNC_O_relax",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1677.5465758,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 0.2164,
+    "INCAR": "SYSTEM = MnNC_cov1O_OH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW = 800\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM = 174*0 4*0 1*3 2*0.5 1*0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE = 12\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n\nISTART = 0\n\nICHARG = 2\n",
+    "Mn_N_distances_A": [
+      1.9421614735372619,
+      1.9446430349002026,
+      1.954841106274524,
+      1.955696076523759
+    ],
+    "Mn_N_mean_A": 1.9493354228089368,
+    "Mn_height_signed_A": 0.1334980119459528,
+    "local_z_angle_deg": 0.7776018773632288,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.6064876876370644,
+        "height_relative_Mn_A": 1.6047420361631153,
+        "moment": null
+      },
+      {
+        "index": 181,
+        "distance_A": 1.895143382351071,
+        "height_relative_Mn_A": -1.894873198352387,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH",
+    "family": "8O_OH_relax",
+    "state": "base",
+    "missing": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OOH",
+    "family": "8O_OH_relax",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 11,
+      "H": 2
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2154.81243475,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 138.0412,
+    "INCAR": "SYSTEM = FCM_bg8O_MnOH_OOH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW = 800\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 11*0.5 2*0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE = 12\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\nISTART = 0\nICHARG = 2\n",
+    "Mn_N_distances_A": [
+      1.938283900590355,
+      1.9399548010835423,
+      1.9406156238619967,
+      1.9479261372264438
+    ],
+    "Mn_N_mean_A": 1.9416951156905844,
+    "Mn_height_signed_A": 0.0025545435864536272,
+    "local_z_angle_deg": 1.6023149966515673,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.872833372050425,
+        "height_relative_Mn_A": 1.8716655813516987,
+        "moment": null
+      },
+      {
+        "index": 248,
+        "distance_A": 1.8948352157843715,
+        "height_relative_Mn_A": -1.8917837935263446,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_O",
+    "family": "8O_OH_relax",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2145.47551691,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 139.6012,
+    "INCAR": "SYSTEM = FCM_bg8O_MnOH_O\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW = 800\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 10*0.5 1*0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE = 12\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\nISTART = 0\nICHARG = 2\n",
+    "Mn_N_distances_A": [
+      1.9429033944856513,
+      1.9455844461897174,
+      1.950449505713503,
+      1.9528071207704494
+    ],
+    "Mn_N_mean_A": 1.9479361167898304,
+    "Mn_height_signed_A": -0.09753738744748147,
+    "local_z_angle_deg": 0.3703834319355369,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.9586706906025484,
+        "height_relative_Mn_A": 1.9580192933545928,
+        "moment": null
+      },
+      {
+        "index": 248,
+        "distance_A": 1.6836030201295415,
+        "height_relative_Mn_A": -1.6834119797175437,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OH",
+    "family": "8O_OH_relax",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 2
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2150.55347134,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 139.9656,
+    "INCAR": "SYSTEM = FCM_bg8O_MnOH_OH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW = 800\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM = 174*0 4*0 27*3 32*2 1*3 10*0.5 2*0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE = 12\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\nISTART = 0\nICHARG = 2\n",
+    "Mn_N_distances_A": [
+      1.9404169295137963,
+      1.9437551623080862,
+      1.9449443884048492,
+      1.9456845581091882
+    ],
+    "Mn_N_mean_A": 1.94370025958398,
+    "Mn_height_signed_A": -0.009276699794426458,
+    "local_z_angle_deg": 0.6680680676448029,
+    "nearby_O": [
+      {
+        "index": 247,
+        "distance_A": 1.8759458426154414,
+        "height_relative_Mn_A": 1.8752579505511935,
+        "moment": null
+      },
+      {
+        "index": 248,
+        "distance_A": 1.8673985801453614,
+        "height_relative_Mn_A": -1.8655924835125641,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  }
+]

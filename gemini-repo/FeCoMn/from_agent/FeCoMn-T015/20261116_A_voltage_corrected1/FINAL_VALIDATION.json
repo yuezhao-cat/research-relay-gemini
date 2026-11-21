@@ -1,0 +1,44 @@
+{
+  "editable": {
+    "text_elements": 42,
+    "all_internal_references_resolved": true
+  },
+  "Arial_paths": {
+    "text_elements": 0,
+    "all_internal_references_resolved": true
+  },
+  "PNG": {
+    "pixels": [
+      4200,
+      4204
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ]
+  },
+  "all_raw_processed_spectral_arrays_unchanged": true,
+  "A_frame_mm": [
+    [
+      13.0,
+      109,
+      53.008620689655174,
+      54
+    ],
+    [
+      68.50862068965517,
+      109,
+      36.98275862068966,
+      54
+    ],
+    [
+      107.99137931034483,
+      109,
+      53.008620689655174,
+      54
+    ]
+  ],
+  "potential_SCE_last": -1.0,
+  "potential_RHE_last": 0.016000000000000014,
+  "displayed_last": "0 V"
+}

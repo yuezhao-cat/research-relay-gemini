@@ -1,0 +1,2473 @@
+[
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCM_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCM_base_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_OH_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCN_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCN_base_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCM_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCM_OH_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCN_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCN_OH_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCM_base_support",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCM_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_OOH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCN_OH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCN_O_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_OH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_O_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCN_base_support",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCN_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCM_O_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCM_OOH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCN_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCN_OOH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FeCoNC59_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_final_20261011/FCM_5O_MnOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_final_20261011/FCM_5O_MnO",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_final_20261011/FCN_5O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/S_FeCoMnNC59_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/4O_4OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/2O_hol",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1OH_topCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1OH_lbCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1O_lbFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/6OH_sb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1OH_topFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1H_topCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/6OH_top",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/2O_lb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/4O_lb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1OH_hFe2Co",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1H_lbFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1O_sb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1OH_sb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1O_topCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1O_topFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/8OH_sb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1H_topFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1O_hFeCo2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1O_lbCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/6O_hol",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/4OH_top",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/6OH_top_cont1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1H_sb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1H_lbCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1H_lbCo/_fail_algofast_1008",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/4O_hol",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/8OH_top",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/8H_hol",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1O_hFe2Co",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/2OH_sb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1OH_hFeCo2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1H_hFeCo2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/4H_hol",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/2OH_top",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/2O_4OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/bulk_B2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/2O_2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/2H_hol",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/8O_hol",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/6H_hol",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1H_hFe2Co",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/4OH_sb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/1OH_lbFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/slab110/4O_2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FeCoMnNC59_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_rich_20261011/FCM_rich8O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_rich_20261011/FCN_rich8O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_p_O_topFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_L_O_100",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/rich8O_joint_20261014/FCM_8O_MnO",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/rich8O_joint_20261014/FCM_8O_MnOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_five_queues_v2_20261011/FCM_Mn_OH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_five_queues_v2_20261011/MnNC_OOH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/rich8O_resume_20261013/FCM_rich8O_cont1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_H_H_Mn2side",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH_Mn_OH_C",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_H_Mn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_L_O_050",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_H_Mn_H_N",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_L_OH_100_Mn_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_pair_cp_20261011/MnNC_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_Mn_O_CC",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH_C",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_p_OH_topCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_L_O_100_Mn_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FCN_support_alone",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FCM_support_alone",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FCM_aimd_300K",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FCM_reconstruction_check",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FCN_reconstruction_check",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FeCo_cluster_alone",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_p_O_briFeCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_20261010/FCM_Mn_OH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_20261010/FCM_Mn_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_20261010/FCM_Mn_O_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_20261010/FCM_Mn_OOH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_20261010/MnNC_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_20261010/MnNC_O_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/frequency_20261010/MnNC_OOH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_p_O_hol3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_L_OH_100",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCN_C_OH_mid",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_p_OH_hol3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OHb_nearer",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_H3_Mn2side_N",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/distance_orr_20261013/FCM_far_OOH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/distance_orr_20261013/FCM_near_O_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/distance_orr_20261013/FCM_near_OOH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/distance_orr_20261013/FCM_near_OH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_L_OH_100_Mn_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/S_FeCoNC59_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_p_O_topCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_p_OH_topFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_L_O_100_Mn_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_p_OH_briFeCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_2H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_4O4OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_MnO_MnOH_mix",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_2O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_6O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_1O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_7H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_1H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_2O2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_1H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_2H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_6O_MnO",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_6O_MnOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_3H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_Mn2O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_4O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_3O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_7O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_4O2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_5H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_4H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_5H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_6H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_6H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_4H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_8H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_4O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_3H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_7O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_2O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_4O_MnO",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_8H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_1O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_4O_MnOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_6O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_Mn2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_2O4OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_2O4OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCM_3O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/coverage_6O7O_20261014/FCN_7H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_CC",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_H_N",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/covered_particle_20261010/FCM_top110_5O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_L_O_100_Mn_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/FCM_bg8O_MnO_OH_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/FCM_bg8O_MnO_O_MnMinus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/FCM_bg8O_MnO_O_MnPlus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/FCM_bg8O_MnO_OOH_MnMinus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_O_OH_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/FCM_8O_MnO_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_OH_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_OOH_OHb_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/FCM_bg8O_MnO_OOH_MnPlus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/near_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/near_O/run1_killed_20260914",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/gas_H2O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/gas_H2O/run1_unfinished_20260914",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/gas_H2O/run2_zbrent_20260914",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/near_OOH/run1_killed_20260915",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/gas_H2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/near_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_OH/run1_killed_20260916",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_O/run1_killed_20260915",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/_backup_diverged_20260906/near",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/_backup_diverged_20260906/remote",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/remote",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/imr_dup_20260918/FCM254_near",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/imr_dup_20260918/FCM254_remote",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/imr_dup_20260918/remote_OH_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/near_nondirect",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/near_nondirect/round1_300steps",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/genkai254_line/remote/run2_ibrion1_stuck_20260915",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/genkai254_line/remote/run1_killed_20260914",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/genkai254_line/near_nondirect/run2_ibrion1_stuck_20260915",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_indep_20260905/genkai254_line/near_nondirect/run1_killed_20260914",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_O_OH_symmetric_20261102/OH_original_MnMinus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_O_OH_symmetric_20261102/OH_outplane_MnPlus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_O_OH_symmetric_20261102/O_OH_local_moments/OH_original",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_O_OH_symmetric_20261102/O_OH_local_moments/O_short",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/near_mn4_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/mid_mn4_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/mid_mn4_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/near_mn4_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/near_mn4_clean/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/far_mn4_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/far_mn4_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/near_mn4_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/far_mn4_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/mid_mn4_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/mid_mn4_O/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/mid_mn4_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/near_mn4_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_mn4_20260923/far_mn4_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M1_O_OHback",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_clean_mid",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_clean_mid/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_clean_mid/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_clean_mid/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoCoFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoCoFe/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoCoFe/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoCoFe/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_topCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_topCo/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_topCo/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_topCo/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M1_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/cluster_vac_lo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_clean_hi",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_clean_hi/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_clean_hi/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_Mn_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_clean_lo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_O_brCoFe_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brFeFe/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brFeFe/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brFeFe/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M1_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OOH_brFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brCoFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brCoFe/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brCoFe/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brCoFe/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_Mn_OHback",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_topFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_topFe/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_topFe/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_topFe/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/cluster_vac_hi",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/near_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/big_frag_MnN4C",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/near_frag_particle",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/big_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/near_frag_MnN4C",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/big_frag_particle",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/lobster_short_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/lobster_Long_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/near_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/big_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/cdd_cohp_main_v2_20260921/FeCoMnNC_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/cdd_cohp_main_v2_20260921/MnNC_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/cdd_cohp_main_v2_20260921/MnNC_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/cdd_cohp_main_v2_20260921/MnNC_total",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/cdd_cohp_main_v2_20260921/FeCoMnNC_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/cdd_cohp_main_v2_20260921/FeCoMnNC_total",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/M1_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/M1_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/lobster_MnNC_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/cdd_ads_FeCoMnNC_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/SP/cdd_ads_MnNC_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_OH_brCoCo_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_OH_hoCoCoCo_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_Mn_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brCoCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brCoCo/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brCoCo/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brCoCo/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_O_brCoCo_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_O_brCoCo_nearMn/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_O_brCoCo_nearMn/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brCoFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brCoFe/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brCoFe/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brCoFe/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_clean_mid",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_clean_mid/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_hoCoFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoFeFe/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoFeFe/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoFeFe/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brFeFe/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brFeFe/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_brFeFe/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_hoCoCoFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_clean_lo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_hoFeFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/cluster_vac_mid",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_Mn_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/big253_remote_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_hoCoCoCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_hoCoCoCo/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_hoCoCoCo/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_hoCoCoCo/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brCoCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brCoCo/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brCoCo/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_OH_brCoCo/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoFeFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoFeFeFe/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoFeFeFe/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoFeFeFe/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M1_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M1_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoCoCo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoCoCo/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoCoCo/run3",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M2_O_hoCoCoCo/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_OH_brCoFe_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M1_2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_clean_hi",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_OOH_brCoCo_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_OH_hoCoCoFe_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_OH_hoCoCoFe_nearMn/run2",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch3_remodel_20260919/M3_OH_hoCoCoFe_nearMn/run1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  }
+]

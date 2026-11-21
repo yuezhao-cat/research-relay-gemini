@@ -1,0 +1,77 @@
+[
+  {
+    "file": "1215区峰谷位置_逐电位.csv",
+    "bytes": 892,
+    "sha256": "353e8403cd41851c7cf91e7fd6bdce846570c4379ff88700c940018327b233fb"
+  },
+  {
+    "file": "Figure_4_20261114_210528_Arial_paths_C_purple.svg",
+    "bytes": 450708,
+    "sha256": "4a0f75d8284cbff36a2b9c1d458510af73c839c9096b307936ee31c782ba9acd"
+  },
+  {
+    "file": "Figure_4_20261114_210528_Arial_paths_D_red.svg",
+    "bytes": 450684,
+    "sha256": "fcafb6421cc2cdace0a1f512cde062c49150285f11b3afdab1b26146b9c9b85d"
+  },
+  {
+    "file": "Figure_4_20261114_210528_C_purple.png",
+    "bytes": 1068621,
+    "sha256": "e5e3be0ddfb1002cbef3ecf91860536c53869775707826034d9c02e56f2c0f5d"
+  },
+  {
+    "file": "Figure_4_20261114_210528_D_red.png",
+    "bytes": 1081484,
+    "sha256": "ac19128b170a99b85b04cde24ac65a2bd68f8f516b653baddbfb0828c585965e"
+  },
+  {
+    "file": "Figure_4_20261114_210528_editable_C_purple.svg",
+    "bytes": 419418,
+    "sha256": "a916fc8b335765bd50141b6eb9c9dd10c13dcba9481c8d3ad2aed9c095f3b6d8"
+  },
+  {
+    "file": "Figure_4_20261114_210528_editable_D_red.svg",
+    "bytes": 419394,
+    "sha256": "36de01895011fc1c880b1c7b112c0cdd4af4b9c378b5a2f34f23357c102a1708"
+  },
+  {
+    "file": "Figure_4_20261114_210528_preview_C_purple.png",
+    "bytes": 261131,
+    "sha256": "03ecb54d1b22b593304e99142d26e554080840335ff2ec99627e7299999dc5f2"
+  },
+  {
+    "file": "Figure_4_20261114_210528_preview_D_red.png",
+    "bytes": 263991,
+    "sha256": "9584c87856b9bdd3a5bda0453782ea2f8b4c6f0bdc0d12b94bb4d55436bfd266"
+  },
+  {
+    "file": "generate_Figure4_T002_20261114_210528.py",
+    "bytes": 3038,
+    "sha256": "38302ca0fb5a8f26afb5603036d3f82b3647c11a30182e155a7ca6f159ba1219"
+  },
+  {
+    "file": "MODIFICATION_CHECKS.json",
+    "bytes": 855,
+    "sha256": "60306cbd46f692d323ea84b9a75d279ad80cebb328bc3111fe52f100c1ea4fe9"
+  },
+  {
+    "file": "O_H_peak_checks.csv",
+    "bytes": 1323,
+    "sha256": "306bd991dd0524e8fa2f34b2a2c4fa49488b26bf422335b9df2c62b29fbef5a6"
+  },
+  {
+    "file": "processing_arrays.npz",
+    "bytes": 2656849,
+    "sha256": "9b6eac06c84fb1b9b3dcd9b1317fada62ffd35f0e4eb1b6cc9920bb25ef2b468"
+  },
+  {
+    "file": "REPORT.md",
+    "bytes": 1819,
+    "sha256": "62c8986ba2feb96f759f654c42149f5f02569c5a588c83f9fe9ff6be91f05dfe"
+  },
+  {
+    "file": "数值核查.json",
+    "bytes": 12234,
+    "sha256": "48335a89921fdc1b3e7ff932d512b7e21c12acec45700dca3778cf2a22507dcd"
+  }
+]

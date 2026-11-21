@@ -1,0 +1,16 @@
+{
+  "name": "FCM_interface",
+  "net_difference_e": 1.6295465631255337e-07,
+  "grid": [
+    252,
+    240,
+    360
+  ],
+  "max_coordinate_error_fractional": 0.0,
+  "source_files": [
+    "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCM_base_full/CHGCAR",
+    "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCM_base_particle/CHGCAR",
+    "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCM_base_support/CHGCAR"
+  ],
+  "cluster": "IMR"
+}

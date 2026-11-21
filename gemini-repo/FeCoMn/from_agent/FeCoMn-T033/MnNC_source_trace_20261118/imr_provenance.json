@@ -1,0 +1,402 @@
+[
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri",
+    "energy_sigma0": -1667.74239034,
+    "NBANDS_actual": 462.0,
+    "NELECT": 735.0,
+    "total_moment": 0.0128,
+    "normal_end": true,
+    "EDIFF_reached": true,
+    "vasp_version": " vasp.6.6.0 06Mar2026 (build Jun 17 2026 20:16:44) complex                      ",
+    "files": {
+      "POSCAR": {
+        "exists": true,
+        "size": 22616,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri/POSCAR",
+        "sha256": "bdc1afd60ee71cac0d0eb5d783007dc9d2302863a67efdcc939e33d538f48011"
+      },
+      "CONTCAR": {
+        "exists": true,
+        "size": 21385,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri/CONTCAR",
+        "sha256": "fb6ad776c00bcb0aa649c42fcb8a74b83054a1a5a355f600a3679fe8f6583bf4"
+      },
+      "POTCAR": {
+        "exists": true,
+        "size": 873390,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri/POTCAR",
+        "sha256": "6bb38400d690dd502c00704579549c0cad3ea27be2e0b4abceb01d02f6fbc50b",
+        "token_sha256": "7b0cefc384587222b02a3acd47f21a7ee638f3b232b676065903f5ae382dceca",
+        "TITEL": [
+          "TITEL  = PAW_PBE C 08Apr2002",
+          "TITEL  = PAW_PBE N 08Apr2002",
+          "TITEL  = PAW_PBE Mn_pv 02Aug2007",
+          "TITEL  = PAW_PBE O 08Apr2002"
+        ]
+      },
+      "KPOINTS": {
+        "exists": true,
+        "size": 88,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri/KPOINTS",
+        "sha256": "312cab1b59147a2cebb6fc35373ae914624239c7bee81419b96f49dbe0769135"
+      },
+      "WAVECAR": {
+        "exists": true,
+        "size": 2143932416,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri/WAVECAR"
+      },
+      "CHGCAR": {
+        "exists": true,
+        "size": 616617615,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri/CHGCAR",
+        "grid": [
+          252,
+          240,
+          280
+        ]
+      },
+      "AECCAR0": {
+        "exists": false
+      },
+      "AECCAR2": {
+        "exists": false
+      },
+      "DOSCAR": {
+        "exists": true,
+        "size": 18297,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri/DOSCAR"
+      },
+      "COHPCAR.lobster": {
+        "exists": false
+      },
+      "ICOHPLIST.lobster": {
+        "exists": false
+      },
+      "ACF.dat": {
+        "exists": false
+      }
+    },
+    "INCAR": "SYSTEM  = MnNC_O_MnNbri\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0 1*0.5\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n"
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full",
+    "energy_sigma0": -1775.75653855,
+    "NBANDS_actual": 462.0,
+    "NELECT": 735.0,
+    "total_moment": null,
+    "normal_end": false,
+    "EDIFF_reached": false,
+    "vasp_version": " vasp.6.6.0 06Mar2026 (build Jun 17 2026 20:16:44) complex                      ",
+    "files": {
+      "POSCAR": {
+        "exists": true,
+        "size": 22616,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full/POSCAR",
+        "sha256": "b01683e4a7529462e678c30f3dadb0bc48f7f50a0171734ac448895c393f41d3"
+      },
+      "CONTCAR": {
+        "exists": true,
+        "size": 0,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full/CONTCAR"
+      },
+      "POTCAR": {
+        "exists": true,
+        "size": 873378,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full/POTCAR",
+        "sha256": "aa97bffe0ebf269afcf4d641832e2a3686e4885722aed9e10fc73b7812e2a5ae",
+        "token_sha256": "7b0cefc384587222b02a3acd47f21a7ee638f3b232b676065903f5ae382dceca",
+        "TITEL": [
+          "TITEL  = PAW_PBE C 08Apr2002",
+          "TITEL  = PAW_PBE N 08Apr2002",
+          "TITEL  = PAW_PBE Mn_pv 02Aug2007",
+          "TITEL  = PAW_PBE O 08Apr2002"
+        ]
+      },
+      "KPOINTS": {
+        "exists": true,
+        "size": 31,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full/KPOINTS",
+        "sha256": "eb5458194ab7121b0491b77381659e7dfe887a47d2aa6dde49eb1a55c7a01036"
+      },
+      "WAVECAR": {
+        "exists": true,
+        "size": 0,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full/WAVECAR"
+      },
+      "CHGCAR": {
+        "exists": false
+      },
+      "AECCAR0": {
+        "exists": true,
+        "size": 396270971,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full/AECCAR0",
+        "grid": [
+          252,
+          240,
+          360
+        ]
+      },
+      "AECCAR2": {
+        "exists": false
+      },
+      "DOSCAR": {
+        "exists": true,
+        "size": 167,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/MnNC_base_full/DOSCAR"
+      },
+      "COHPCAR.lobster": {
+        "exists": false
+      },
+      "ICOHPLIST.lobster": {
+        "exists": false
+      },
+      "ACF.dat": {
+        "exists": false
+      }
+    },
+    "INCAR": "SYSTEM = MnNC_base_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 8\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 1*3 1*0.5\n",
+    "submission.json": "{\n  \"name\": \"MnNC_base_full\",\n  \"host\": \"imr\",\n  \"queue\": \"A_002\",\n  \"directory\": \"MnNC_base_full\",\n  \"returncode\": 0,\n  \"stdout\": \"495145.cmspbs1\\n\",\n  \"stderr\": \"\"\n}"
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full",
+    "energy_sigma0": -1667.77216576,
+    "NBANDS_actual": 840.0,
+    "NELECT": 735.0,
+    "total_moment": -0.0004,
+    "Mn179_moment": 0.001,
+    "normal_end": true,
+    "EDIFF_reached": true,
+    "vasp_version": " vasp.6.6.0 06Mar2026 (build Jun 17 2026 20:16:44) complex                      ",
+    "files": {
+      "POSCAR": {
+        "exists": true,
+        "size": 22616,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/POSCAR",
+        "sha256": "b01683e4a7529462e678c30f3dadb0bc48f7f50a0171734ac448895c393f41d3"
+      },
+      "CONTCAR": {
+        "exists": true,
+        "size": 21385,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/CONTCAR",
+        "sha256": "e3ef387eebceb34cdd8d763ae6e9837f49cea7f1b5f8cf1ef9865596d06067ea"
+      },
+      "POTCAR": {
+        "exists": true,
+        "size": 873378,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/POTCAR",
+        "sha256": "aa97bffe0ebf269afcf4d641832e2a3686e4885722aed9e10fc73b7812e2a5ae",
+        "token_sha256": "7b0cefc384587222b02a3acd47f21a7ee638f3b232b676065903f5ae382dceca",
+        "TITEL": [
+          "TITEL  = PAW_PBE C 08Apr2002",
+          "TITEL  = PAW_PBE N 08Apr2002",
+          "TITEL  = PAW_PBE Mn_pv 02Aug2007",
+          "TITEL  = PAW_PBE O 08Apr2002"
+        ]
+      },
+      "KPOINTS": {
+        "exists": true,
+        "size": 31,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/KPOINTS",
+        "sha256": "eb5458194ab7121b0491b77381659e7dfe887a47d2aa6dde49eb1a55c7a01036"
+      },
+      "WAVECAR": {
+        "exists": true,
+        "size": 3890498048,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/WAVECAR"
+      },
+      "CHGCAR": {
+        "exists": true,
+        "size": 792735375,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/CHGCAR",
+        "grid": [
+          252,
+          240,
+          360
+        ]
+      },
+      "AECCAR0": {
+        "exists": true,
+        "size": 396270971,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/AECCAR0",
+        "grid": [
+          252,
+          240,
+          360
+        ]
+      },
+      "AECCAR2": {
+        "exists": true,
+        "size": 396270971,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/AECCAR2",
+        "grid": [
+          252,
+          240,
+          360
+        ]
+      },
+      "DOSCAR": {
+        "exists": true,
+        "size": 82212837,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/DOSCAR"
+      },
+      "COHPCAR.lobster": {
+        "exists": false
+      },
+      "ICOHPLIST.lobster": {
+        "exists": false
+      },
+      "ACF.dat": {
+        "exists": false
+      }
+    },
+    "INCAR": "SYSTEM = MnNC_base_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = -1\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 8\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 1*3 1*0.5\nNBANDS = 840\n",
+    "submission_cohp.json": "{\n  \"name\": \"MnNC_base_full\",\n  \"queue\": \"CS_001\",\n  \"returncode\": 0,\n  \"stdout\": \"497505.cmspbs1\\n\",\n  \"stderr\": \"\"\n}",
+    "lobsterin": "COHPstartEnergy -15\nCOHPendEnergy 10\nbasisSet pbeVaspFit2015\ngaussianSmearingWidth 0.1\nbasisfunctions C 2s 2p\nbasisfunctions N 2s 2p\nbasisfunctions Mn 3p 3d 4s\nbasisfunctions O 2s 2p\ncohpbetween atom 179 and atom 180 orbitalwise\n",
+    "DOS_occupied_d_center_eV": -3.542064770564297,
+    "DOS_window_eV": [
+      -8,
+      0
+    ]
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/lobster_post_v2_20261024",
+    "energy_sigma0": -1667.77216576,
+    "NBANDS_actual": 840.0,
+    "NELECT": 735.0,
+    "total_moment": null,
+    "Mn179_moment": 0.001,
+    "normal_end": true,
+    "EDIFF_reached": true,
+    "vasp_version": " vasp.6.6.0 06Mar2026 (build Jun 17 2026 20:16:44) complex                      ",
+    "files": {
+      "POSCAR": {
+        "exists": true,
+        "size": 22616,
+        "symlink": true,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/POSCAR",
+        "sha256": "b01683e4a7529462e678c30f3dadb0bc48f7f50a0171734ac448895c393f41d3"
+      },
+      "CONTCAR": {
+        "exists": true,
+        "size": 21385,
+        "symlink": true,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/CONTCAR",
+        "sha256": "e3ef387eebceb34cdd8d763ae6e9837f49cea7f1b5f8cf1ef9865596d06067ea"
+      },
+      "POTCAR": {
+        "exists": true,
+        "size": 873378,
+        "symlink": true,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/POTCAR",
+        "sha256": "aa97bffe0ebf269afcf4d641832e2a3686e4885722aed9e10fc73b7812e2a5ae",
+        "token_sha256": "7b0cefc384587222b02a3acd47f21a7ee638f3b232b676065903f5ae382dceca",
+        "TITEL": [
+          "TITEL  = PAW_PBE C 08Apr2002",
+          "TITEL  = PAW_PBE N 08Apr2002",
+          "TITEL  = PAW_PBE Mn_pv 02Aug2007",
+          "TITEL  = PAW_PBE O 08Apr2002"
+        ]
+      },
+      "KPOINTS": {
+        "exists": true,
+        "size": 31,
+        "symlink": true,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/KPOINTS",
+        "sha256": "eb5458194ab7121b0491b77381659e7dfe887a47d2aa6dde49eb1a55c7a01036"
+      },
+      "WAVECAR": {
+        "exists": true,
+        "size": 3890498048,
+        "symlink": true,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/WAVECAR"
+      },
+      "CHGCAR": {
+        "exists": true,
+        "size": 792735375,
+        "symlink": true,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/CHGCAR",
+        "grid": [
+          252,
+          240,
+          360
+        ]
+      },
+      "AECCAR0": {
+        "exists": false
+      },
+      "AECCAR2": {
+        "exists": false
+      },
+      "DOSCAR": {
+        "exists": false
+      },
+      "COHPCAR.lobster": {
+        "exists": true,
+        "size": 768532,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/lobster_post_v2_20261024/COHPCAR.lobster"
+      },
+      "ICOHPLIST.lobster": {
+        "exists": true,
+        "size": 3468,
+        "symlink": false,
+        "resolved": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/lobster_post_v2_20261024/ICOHPLIST.lobster"
+      },
+      "ACF.dat": {
+        "exists": false
+      }
+    },
+    "INCAR": "SYSTEM = MnNC_base_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = -1\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 8\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 1*3 1*0.5\nNBANDS = 840\n",
+    "execution_result.json": "{\n  \"name\": \"MnNC_base_full\",\n  \"returncode\": 0,\n  \"spilling_lines\": [\n    \"spillings for spin channel 1\",\n    \"abs. charge spilling:   1.04%\",\n    \"spillings for spin channel 2\",\n    \"abs. charge spilling:   1.04%\",\n    \"NOTE: The spilling is a measure for the relocation, *not* the absence of electrons.\"\n  ],\n  \"ICOHP_exists\": true,\n  \"status\": \"projection_finished_pending_quality_review\"\n}",
+    "lobsterin": "COHPstartEnergy -15\nCOHPendEnergy 10\nbasisSet pbeVaspFit2015\ngaussianSmearingWidth 0.1\nbasisfunctions C 2s 2p\nbasisfunctions N 2s 2p\nbasisfunctions Mn 3p 3d 4s\nbasisfunctions O 2s 2p\ncohpbetween atom 179 and atom 180 orbitalwise\n"
+  },
+  {
+    "curve_export_validation": {
+      "raw": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/lobster_post_v2_20261024/COHPCAR.lobster",
+      "old_csv": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/cohp_curves_20261024/MnNC_base_full__Mn179-O180.csv",
+      "raw_rows": 501,
+      "old_csv_rows": 500,
+      "nbonds_declared": 38,
+      "matched_label": "No.1:Mn179->O180(1.5770846336315383)",
+      "zero_based_column": 1,
+      "cohp_columns": [
+        3,
+        79
+      ],
+      "integral_columns": [
+        4,
+        80
+      ],
+      "energy_nearest_zero": 0.0,
+      "integral_at_nearest_zero": 8.06724,
+      "missing_raw_rows": [
+        0
+      ],
+      "max_export_energy_error": 0.0,
+      "max_export_curve_error": 8.317070000000001
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "file": "CHECKS.json",
+    "bytes": 8547,
+    "sha256": "040a9cfcfa919e7469f3167c9bfb0fac829389459f68458fdc6c2bf2e8333e4d"
+  },
+  {
+    "file": "Figure_4_20261114_212618.png",
+    "bytes": 1145854,
+    "sha256": "1fd65cd0000660b1eb01850a30e88eaef3bff4e9586cdcf37d2a1f7bdccba85e"
+  },
+  {
+    "file": "Figure_4_20261114_212618_Arial_paths.svg",
+    "bytes": 538416,
+    "sha256": "d1573bc5f12c3164413c217b1d952c5f9ab6ab91e7d92c0a8d755854cad45291"
+  },
+  {
+    "file": "Figure_4_20261114_212618_editable.svg",
+    "bytes": 504651,
+    "sha256": "9e6b81cf7ba6fabb4538900b524a3cdc63cea11614bf2fda9549de7f5c9271e7"
+  },
+  {
+    "file": "Figure_4_20261114_212618_preview.png",
+    "bytes": 281944,
+    "sha256": "2a6f850f608c251cff5a42fcb45fbbebec504ca2961222c7d5b69f7b1e8f8fb6"
+  },
+  {
+    "file": "generate_Figure4_T003_20261114_212618.py",
+    "bytes": 5980,
+    "sha256": "54d5bc4fdf423a652662423e55a60090fcf1c468c0a8905e8560e229fa68df44"
+  },
+  {
+    "file": "REPORT.md",
+    "bytes": 3779,
+    "sha256": "8e94b8a6c554810b1c27c6e719dea5ba988cc9774e523eb7d18f545b85341d5a"
+  }
+]

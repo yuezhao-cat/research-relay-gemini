@@ -1,0 +1,225 @@
+{
+  "FCM_base": {
+    "real_paths": {
+      "doscar": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_full/DOSCAR",
+      "outcar": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_full/OUTCAR",
+      "icohplist": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_base_full/ICOHPLIST.lobster"
+    },
+    "outcar": {
+      "ISYM": -1,
+      "NBANDS": 1200,
+      "LORBIT": 11,
+      "E_sigma0_eV": -2140.09673312,
+      "total_mag_muB": 141.3104977,
+      "Mn_local_mag": {
+        "s": 0.019,
+        "p": 0.059,
+        "d": 3.128,
+        "tot": 3.206
+      }
+    },
+    "doscar": {
+      "natoms": 248,
+      "nedos": 2000,
+      "ncol": 19,
+      "efermi": -2.25495644,
+      "dz2_weight_up_-8_0": 0.7570235122749995,
+      "dz2_weight_dn_-8_0": 0.23787354050999995,
+      "dz2_weight_tot_-8_0": 0.9948970527849995,
+      "dz2_spin_diff_-8_0": 0.5191499717649996,
+      "dz2_center_-8_0_eV": -3.1665966247512722,
+      "d3_weight_tot_-8_0": 4.7392543158455,
+      "d3_center_-8_0_eV": -3.4162985309700273
+    },
+    "icohp": {
+      "axial_Mn238_O247": {
+        "found": true,
+        "dist_A": 1.87724,
+        "total_minus_ICOHP_spin1": 0.74016,
+        "total_minus_ICOHP_spin2": 1.90014,
+        "total_minus_ICOHP": 2.6403,
+        "Mn_dz2_sum_minus_ICOHP": 0.99516,
+        "Mn_dz2_O_pz_minus_ICOHP": 0.76992,
+        "Mn_dz2_orbital_breakdown": {
+          "3d_z^2--2p_x": 0.00014,
+          "3d_z^2--2p_y": 0.00422,
+          "3d_z^2--2p_z": 0.76992,
+          "3d_z^2--2s": 0.22088
+        }
+      }
+    }
+  },
+  "FCM_OOH": {
+    "real_paths": {
+      "doscar": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_full/DOSCAR",
+      "outcar": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_full/OUTCAR",
+      "icohplist": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_OOH_full/ICOHPLIST.lobster"
+    },
+    "outcar": {
+      "ISYM": -1,
+      "NBANDS": 1200,
+      "LORBIT": 11,
+      "E_sigma0_eV": -2154.75901952,
+      "total_mag_muB": 138.0459052,
+      "Mn_local_mag": {
+        "s": 0.013,
+        "p": 0.025,
+        "d": 2.346,
+        "tot": 2.384
+      }
+    },
+    "doscar": {
+      "natoms": 251,
+      "nedos": 2000,
+      "ncol": 19,
+      "efermi": -2.24980301,
+      "dz2_weight_up_-8_0": 0.42518523748,
+      "dz2_weight_dn_-8_0": 0.3190859908150001,
+      "dz2_weight_tot_-8_0": 0.7442712282950001,
+      "dz2_spin_diff_-8_0": 0.10609924666499987,
+      "dz2_center_-8_0_eV": -4.841166586599248,
+      "d3_weight_tot_-8_0": 4.579470835977056,
+      "d3_center_-8_0_eV": -3.4012128110069297
+    },
+    "icohp": {
+      "axial_Mn238_O247": {
+        "found": true,
+        "dist_A": 1.87283,
+        "total_minus_ICOHP_spin1": 1.25974,
+        "total_minus_ICOHP_spin2": 1.74365,
+        "total_minus_ICOHP": 3.00339,
+        "Mn_dz2_sum_minus_ICOHP": 1.51226,
+        "Mn_dz2_O_pz_minus_ICOHP": 1.17626,
+        "Mn_dz2_orbital_breakdown": {
+          "3d_z^2--2p_x": 0.00117,
+          "3d_z^2--2p_y": 0.00434,
+          "3d_z^2--2p_z": 1.17626,
+          "3d_z^2--2s": 0.33049
+        }
+      },
+      "opposite_Mn238_O248": {
+        "found": true,
+        "dist_A": 1.89484,
+        "total_minus_ICOHP_spin1": 1.37428,
+        "total_minus_ICOHP_spin2": 1.74338,
+        "total_minus_ICOHP": 3.11766,
+        "Mn_dz2_sum_minus_ICOHP": 1.38304,
+        "Mn_dz2_O_pz_minus_ICOHP": 1.07753,
+        "Mn_dz2_orbital_breakdown": {
+          "3d_z^2--2p_x": -0.00408,
+          "3d_z^2--2p_y": 0.00838,
+          "3d_z^2--2p_z": 1.07753,
+          "3d_z^2--2s": 0.30121
+        }
+      }
+    }
+  },
+  "MnNC_OOH": {
+    "real_paths": {
+      "doscar": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_OOH_full/DOSCAR",
+      "outcar": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_OOH_full/OUTCAR",
+      "icohplist": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_OOH_full/lobster_post_v2_20261024/ICOHPLIST.lobster"
+    },
+    "outcar": {
+      "ISYM": -1,
+      "NBANDS": 840,
+      "LORBIT": 11,
+      "E_sigma0_eV": -1681.90697865,
+      "total_mag_muB": 0.2044277,
+      "Mn_local_mag": {
+        "s": 0.001,
+        "p": 0.002,
+        "d": 0.253,
+        "tot": 0.256
+      }
+    },
+    "doscar": {
+      "natoms": 183,
+      "nedos": 2000,
+      "ncol": 19,
+      "efermi": -3.11406595,
+      "dz2_weight_up_-8_0": 0.3800588087753877,
+      "dz2_weight_dn_-8_0": 0.3747856540592099,
+      "dz2_weight_tot_-8_0": 0.7548444628345976,
+      "dz2_spin_diff_-8_0": 0.005273154716177841,
+      "dz2_center_-8_0_eV": -4.954436934074372,
+      "d3_weight_tot_-8_0": 4.843530082828211,
+      "d3_center_-8_0_eV": -2.952623672656145
+    },
+    "icohp": {
+      "axial_Mn179_O180": {
+        "found": false,
+        "dist_A": null,
+        "total_minus_ICOHP": null,
+        "Mn_dz2_sum_minus_ICOHP": null,
+        "Mn_dz2_O_pz_minus_ICOHP": null,
+        "Mn_dz2_orbital_breakdown": {}
+      },
+      "opposite_Mn179_O181": {
+        "found": true,
+        "dist_A": 1.93616,
+        "total_minus_ICOHP_spin1": 1.34093,
+        "total_minus_ICOHP_spin2": 1.31125,
+        "total_minus_ICOHP": 2.65218,
+        "Mn_dz2_sum_minus_ICOHP": 1.06276,
+        "Mn_dz2_O_pz_minus_ICOHP": 0.75846,
+        "Mn_dz2_orbital_breakdown": {
+          "3d_z^2--2p_x": 0.0098,
+          "3d_z^2--2p_y": 0.03355,
+          "3d_z^2--2p_z": 0.75846,
+          "3d_z^2--2s": 0.26095
+        }
+      }
+    }
+  },
+  "MnNC_base": {
+    "real_paths": {
+      "doscar": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/DOSCAR",
+      "outcar": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/OUTCAR",
+      "icohplist": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/lobster_post_v2_20261024/ICOHPLIST.lobster"
+    },
+    "outcar": {
+      "ISYM": -1,
+      "NBANDS": 840,
+      "LORBIT": 11,
+      "E_sigma0_eV": -1667.77216576,
+      "total_mag_muB": -4.5e-05,
+      "Mn_local_mag": {
+        "s": 0.0,
+        "p": 0.0,
+        "d": 0.001,
+        "tot": 0.001
+      }
+    },
+    "doscar": {
+      "natoms": 180,
+      "nedos": 2000,
+      "ncol": 19,
+      "efermi": -3.07433534,
+      "dz2_weight_up_-8_0": 0.4353281287346038,
+      "dz2_weight_dn_-8_0": 0.43525393869506485,
+      "dz2_weight_tot_-8_0": 0.8705820674296687,
+      "dz2_spin_diff_-8_0": 7.41900395389572e-05,
+      "dz2_center_-8_0_eV": -5.12139445527084,
+      "d3_weight_tot_-8_0": 4.838298978174202,
+      "d3_center_-8_0_eV": -3.542064770564297
+    },
+    "icohp": {
+      "axial_Mn179_O180": {
+        "found": true,
+        "dist_A": 1.57708,
+        "total_minus_ICOHP_spin1": 4.01527,
+        "total_minus_ICOHP_spin2": 4.01751,
+        "total_minus_ICOHP": 8.03278,
+        "Mn_dz2_sum_minus_ICOHP": 2.97544,
+        "Mn_dz2_O_pz_minus_ICOHP": 2.32192,
+        "Mn_dz2_orbital_breakdown": {
+          "3d_z^2--2p_x": 0.00364,
+          "3d_z^2--2p_y": 8e-05,
+          "3d_z^2--2p_z": 2.32192,
+          "3d_z^2--2s": 0.6498
+        }
+      }
+    }
+  }
+}

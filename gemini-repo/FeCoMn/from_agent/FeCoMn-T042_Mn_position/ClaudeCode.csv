@@ -1,0 +1,10 @@
+system,axial_ligand,intermediate,h_base_Ang,h_after_Ang,dh_Ang,dE_bind_eV,UL_V,notes
+FCM 8O* noOH,none,OH*,-0.0096,-0.4562,-0.4466,-3.2040,0.52,
+FCM 8O* noOH,none,OOH*,-0.0096,-0.3105,-0.3009,-1.9249,0.52,
+FCM 8O* noOH,none,O*,-0.0096,-0.4057,-0.3961,-4.8273,0.52,
+FCM 8O* axOH,OH,OH*,0.4418,-0.0092,-0.4510,-2.8682,0.78,
+FCM 8O* axOH,OH,OOH*,0.4418,0.0027,-0.4391,-1.5929,0.78,from Antigravity table
+FCM 8O* axOH,OH,O*,0.4418,-0.0976,-0.5394,N/A,0.78,FCMnew_O_full not available
+MnNC axO,O,OH*,0.5062,0.1336,-0.3726,-2.2434,0.26,
+MnNC axO,O,OOH*,0.5062,0.1656,-0.3406,-0.9713,0.26,
+MnNC axO,O,O*,0.5062,-0.0074,-0.5136,-3.6081,0.26,

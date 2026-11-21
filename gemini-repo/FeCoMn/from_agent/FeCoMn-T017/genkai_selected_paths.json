@@ -1,0 +1,1185 @@
+[
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/genkai254_line/near_nondirect",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/genkai254_line/near_nondirect/run_ibrion2_killed_20260917",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": false,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/genkai254_line/remote",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/genkai254_line/remote/run_ibrion2_killed_20260917",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": false,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/remote",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/remote/round1_diverged",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": false,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/near_nondirect",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/near_nondirect/round1_diverged",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": false,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_OH_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_OH_OH/run_killed_yield_20260917",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": false,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_OHlow_Oup",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_O_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/near_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_Olow_OHup",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_indep_20260905/ads253_ORR/remote_OH/run2_magcollapse_20260918",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": false
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_clean_hi",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_O_hoCoCoFe_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_O_brCoCo_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M2_OH_hoFeFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M2_OH_hoCoCoFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M2_clean_hi",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_O_hoCoCoCo_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_OH_brCoFe_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M2_OH_hoCoFeFe",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_OH_hoCoCoFe_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/SP/near_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/SP/near_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M2_clean_lo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_OH_hoCoCoCo_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_O_brCoFe_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_OH_brCoCo_nearMn",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch3_remodel_20260919/M3_clean_lo",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_electronic_near_far_20261014/Far_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_electronic_near_far_20261014/Near_support",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_electronic_near_far_20261014/Near_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_electronic_near_far_20261014/Near_particle",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_electronic_near_far_20261014/Far_clean_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_electronic_near_far_20261014/Far_particle",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_electronic_near_far_20261014/Near_clean_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_electronic_near_far_20261014/Far_support",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_OH_symmetric_fromIMR_20261102/OH_outplane_MnMinus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_OH_symmetric_fromIMR_20261102/OH_outplane_MnPlus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_OH_symmetric_fromIMR_20261102/OH_original_MnMinus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/near_mn4_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/far_mn4_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/near_mn4_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/far_mn4_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/near_mn4_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/mid_mn4_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/near_mn4_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/mid_mn4_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/far_mn4_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/mid_mn4_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_mn4_20260923/mid_mn4_clean",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_O_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_O_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_O_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_OOH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_O_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_particle",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_OH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OOH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_OOH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OOH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_O_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_OOH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_O_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_O_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_OH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_O_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OOH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OOH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_base_particle",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_base_support",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OOH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/stability_from_imr_20261016/FCM_aimd_300K",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_OHmag_fromIMR_20261102/FCM_bg8O_MnO_OH_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_rich8O_resume_20261013/FCM_rich8O_cont1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_rich8O_resume_20261013/FCN_rich8O_cont1",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_distance_ORR_20261013/FCM_near_OOH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_distance_ORR_20261013/FCM_far_OH_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_distance_ORR_20261013/FCM_far_O_OHb",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_O_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_support",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_O_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_O_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_adsorbate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_particle",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OH_substrate",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCN_cov8O_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCN_cov8O_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCN_cov8O_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_O_magnetic_check_20261031",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/MnNC_O_OH_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/MnNC_OH_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/MnNC_OH_OH_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/MnNC_OOH_OHb_magcheck",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/FCM_bg8O_MnO_O_MnPlus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/FCM_bg8O_MnO_O_MnMinus",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_O_magnetic_wavecheck_20261031",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCN_O_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCN_O_full/lobster_post_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": false,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCN_O_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_OOH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_OOH_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_OOH_full/lobster_post_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": false,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_OOH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_OOH_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_OOH_full/lobster_post_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": false,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCN_OOH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCN_OOH_full/lobster_post_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": false,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCN_OOH_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_O_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_O_full/lobster_post_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": false,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_O_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_O_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_O_full/lobster_post_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": false,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_O_full/lobster_post_v2_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_FCN_restart_check_20261024",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_base_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_OH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_O_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_OOH_full",
+    "has_OUTCAR": true,
+    "has_OSZICAR": false,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_3H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_4O2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_6H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_2O2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_Mn2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_4O4OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_4O_MnOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_2H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_4O2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_2O4OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_2O2OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_6O_MnO",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_5H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_1O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_3O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_1O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_2O4OH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_4H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_6O_MnOH",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCN_1H",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_recalc_from_imr_20261015/FCM_Mn2O",
+    "has_OUTCAR": true,
+    "has_OSZICAR": true,
+    "has_CONTCAR": true,
+    "has_INCAR": true
+  }
+]

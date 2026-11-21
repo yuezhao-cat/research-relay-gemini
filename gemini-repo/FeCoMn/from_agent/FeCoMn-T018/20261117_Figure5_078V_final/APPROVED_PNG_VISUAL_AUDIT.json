@@ -1,0 +1,14 @@
+{
+  "audit": "Full figure a-h inspected in enlarged crops",
+  "image": "Figure_5_078V_白痕清理_高清.png",
+  "image_SHA256": "42bba7d6812725f636cb9a2f7374380eb2ef6b4e2afc5d450331c8ee5d71d370",
+  "image_pixels": [
+    4200,
+    4305
+  ],
+  "additional_edits_this_audit": false,
+  "white_patch_artifacts": "No obvious residual white repair artifacts in inspected plot lines or markers. Intentional white/light-gray name label backgrounds retained.",
+  "label_dark_line_intersection_pixels": 0,
+  "insets": "All three above associated steps; no inset/frame collisions observed.",
+  "scope": "Visual export audit only; no new scientific recalculation or Word change."
+}

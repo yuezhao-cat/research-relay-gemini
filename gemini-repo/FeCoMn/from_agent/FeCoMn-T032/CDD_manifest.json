@@ -1,0 +1,149 @@
+[
+  {
+    "family": "8O_OH",
+    "state": "OOH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/cdd/OOH",
+    "validation": {
+      "name": "OOH",
+      "full_dir": "FCMnew_OOH_full",
+      "part1_dir": "FCMnew_OOH_substrate",
+      "part2_dir": "FCMnew_OOH_adsorbate",
+      "grid": [
+        252,
+        240,
+        360
+      ],
+      "net_difference_e": 4.0877279453529844e-08
+    },
+    "rho_min": -0.0008636385805247836,
+    "rho_max": 0.0005860982498117294,
+    "cumulative_min_e": -1.5147953176917487e-05,
+    "cumulative_max_e": 0.2430346707614768,
+    "last_cumulative_e": 4.0877279427132e-08,
+    "delta_density_exists": true
+  },
+  {
+    "family": "8O_OH",
+    "state": "O",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/cdd/O",
+    "validation": {
+      "name": "O",
+      "full_dir": "FCMnew_O_full",
+      "part1_dir": "FCMnew_O_substrate",
+      "part2_dir": "FCMnew_O_adsorbate",
+      "grid": [
+        252,
+        240,
+        360
+      ],
+      "net_difference_e": -2.7026810885732096e-06
+    },
+    "rho_min": -0.0016338618496131454,
+    "rho_max": 0.001706660647326472,
+    "cumulative_min_e": -0.04731297342682479,
+    "cumulative_max_e": 0.26783960531383066,
+    "last_cumulative_e": -2.7026810885838916e-06,
+    "delta_density_exists": true
+  },
+  {
+    "family": "8O_OH",
+    "state": "OH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/cdd/OH",
+    "validation": {
+      "name": "OH",
+      "full_dir": "FCMnew_OH_full",
+      "part1_dir": "FCMnew_OH_substrate",
+      "part2_dir": "FCMnew_OH_adsorbate",
+      "grid": [
+        252,
+        240,
+        360
+      ],
+      "net_difference_e": 2.7998018172925663e-07
+    },
+    "rho_min": -0.000910781466141876,
+    "rho_max": 0.0006202819060214471,
+    "cumulative_min_e": -2.115678925860842e-06,
+    "cumulative_max_e": 0.2514757134658828,
+    "last_cumulative_e": 2.799801816876098e-07,
+    "delta_density_exists": true
+  },
+  {
+    "family": "MnNC_O",
+    "state": "MnNC_OOH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/cdd_20261024/MnNC_OOH",
+    "validation": {
+      "name": "MnNC_OOH",
+      "grid": [
+        252,
+        240,
+        360
+      ],
+      "net_difference_e": -2.4177557637467756e-08,
+      "full_electrons": 747.9999593784726,
+      "substrate_electrons": 734.9999580603082,
+      "adsorbate_electrons": 13.00000134234351,
+      "coordinate_max_fractional_error": 0.0,
+      "sign": "positive means electronic accumulation",
+      "density_file_convention": "VASP density values store density times cell volume; divide by cell volume for e per A3"
+    },
+    "rho_min": -0.0006249462583129455,
+    "rho_max": 0.0005074018694796833,
+    "cumulative_min_e": -0.019469967984239223,
+    "cumulative_max_e": 0.22828713070542694,
+    "last_cumulative_e": -2.417755791193736e-08,
+    "delta_density_exists": true
+  },
+  {
+    "family": "MnNC_O",
+    "state": "MnNC_O",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/cdd_20261024/MnNC_O",
+    "validation": {
+      "name": "MnNC_O",
+      "grid": [
+        252,
+        240,
+        360
+      ],
+      "net_difference_e": -4.1613506488552706e-06,
+      "full_electrons": 740.9999569562561,
+      "substrate_electrons": 734.9999595156139,
+      "adsorbate_electrons": 6.00000160199362,
+      "coordinate_max_fractional_error": 0.0,
+      "sign": "positive means electronic accumulation",
+      "density_file_convention": "VASP density values store density times cell volume; divide by cell volume for e per A3"
+    },
+    "rho_min": -0.0022730487207338864,
+    "rho_max": 0.002410448637647487,
+    "cumulative_min_e": -0.08540957815301393,
+    "cumulative_max_e": 0.3569363963897713,
+    "last_cumulative_e": -4.161350648858093e-06,
+    "delta_density_exists": true
+  },
+  {
+    "family": "MnNC_O",
+    "state": "MnNC_OH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/cdd_20261024/MnNC_OH",
+    "validation": {
+      "name": "MnNC_OH",
+      "grid": [
+        252,
+        240,
+        360
+      ],
+      "net_difference_e": -3.716235572985786e-07,
+      "full_electrons": 741.9999583293859,
+      "substrate_electrons": 734.9999582585408,
+      "adsorbate_electrons": 7.0000004424698234,
+      "coordinate_max_fractional_error": 0.0,
+      "sign": "positive means electronic accumulation",
+      "density_file_convention": "VASP density values store density times cell volume; divide by cell volume for e per A3"
+    },
+    "rho_min": -0.000797124335545857,
+    "rho_max": 0.0005243732287663629,
+    "cumulative_min_e": -0.016436364954639442,
+    "cumulative_max_e": 0.2650453541456544,
+    "last_cumulative_e": -3.716235572073611e-07,
+    "delta_density_exists": true
+  }
+]

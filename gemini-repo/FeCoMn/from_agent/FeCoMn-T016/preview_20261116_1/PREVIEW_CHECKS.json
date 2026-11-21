@@ -1,0 +1,46 @@
+{
+  "base": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\outputs\\T015_A_single_bend_20261116\\Figure_4_20261116_A_single_bend1_V2_editable.svg",
+  "base_svg_SHA256": "432b82e6fe7b225163e2385186e5117bd4e5e109f7d1e734dd2cf15852f3e111",
+  "a_b_preview_pixel_identical": true,
+  "original_canvas_mm": [
+    177.8,
+    178.0
+  ],
+  "b_height_mm": 54,
+  "gap_before_c_mm": 3.0,
+  "c_row_mm": [
+    177.8,
+    39.0
+  ],
+  "c_content_height_mm": 35,
+  "total_canvas_mm": [
+    177.8,
+    220.0
+  ],
+  "c_background_edges_mm": [
+    13,
+    161
+  ],
+  "approved_b_edges_mm": [
+    13,
+    161
+  ],
+  "alignment_error_mm": [
+    0,
+    0
+  ],
+  "water_counts_left_right": [
+    5,
+    5
+  ],
+  "water_alpha_left_right": [
+    1,
+    0.34
+  ],
+  "OOH_count_right": 3,
+  "catalyst_structure": "abstract grey bar; no Fe/Co/Mn, particles, or M-N4 sites",
+  "scope": "preview only; original figure/data and Word untouched",
+  "all_original_svg_elements_unchanged": true,
+  "all_svg_ids_unique": true,
+  "all_internal_svg_references_resolved": true
+}

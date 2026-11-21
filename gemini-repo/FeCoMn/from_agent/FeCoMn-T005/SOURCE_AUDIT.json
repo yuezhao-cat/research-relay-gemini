@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-14",
+  "scope": "本地实际取得的关键一手PDF；线上正文/摘要出处见REPORT及METALS_EVIDENCE",
+  "files": [
+    {
+      "local_path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\work\\T005_sources\\Si_phonons.pdf",
+      "url": "http://journals.ioffe.ru/articles/viewPDF/5752",
+      "sha256": "b56ece36c65d7660849ae481ddfb70693e5ac4329ce8335d694ca8ba1c05ee9f",
+      "note": "已读原文相关页"
+    },
+    {
+      "local_path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\work\\T005_sources\\Topsil.pdf",
+      "url": "https://www.topsil.com/wp-content/uploads/2023/05/hitran_application_note_october2013.pdf",
+      "sha256": "b653b2c50ed811faef3052524d0206253a80c737255a5852ff04746a3ddaf25d",
+      "note": "已读原文相关页"
+    },
+    {
+      "local_path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\work\\T005_sources\\CoCN3_SI.pdf",
+      "url": "https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41929-023-01047-7/MediaObjects/41929_2023_1047_MOESM1_ESM.pdf",
+      "sha256": "b3aeeccef67aee4bbe355d117a0f69119c0578b052bda9b28e01ffadb369b206",
+      "note": "已读原文相关页"
+    },
+    {
+      "local_path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\work\\T005_sources\\JACS_Ir_water.pdf",
+      "url": "https://www.osti.gov/servlets/purl/2274729",
+      "sha256": "add39a4af222e1ae310d84a31c7d5da03f155660c6ea9beb24bb5c228ea50914",
+      "note": "已读原文相关页"
+    },
+    {
+      "local_path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\work\\T005_sources\\Morhart_thesis.pdf",
+      "url": "https://harvest.usask.ca/server/api/core/bitstreams/d6aa7e44-af26-48bd-91f7-37e870799e90/content",
+      "sha256": "60b564cca74598f866681dd2c8828ecb92f4df273e26502cfa852181328b95f5",
+      "note": "已读原文相关页"
+    },
+    {
+      "local_path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\work\\T005_sources\\Giguere.pdf",
+      "url": "https://authors.library.caltech.edu/records/2wrvk-hv005/files/GIGjcp50.pdf?download=1",
+      "sha256": "7a6dfdadff369ec8b5b6098e07a8921bb4b7e7de835e055f2b5a7c42b57bae27",
+      "note": "Giguere扫描PDF仅摘要数值已核，正文图号未核"
+    },
+    {
+      "local_path": "D:\\Zotero\\storage\\W2F4RAIL\\Tian 等 - 2026 - Machine Learning-Guided Coordination Engineering of M–N–C Single-Atom Electrocatalysts for Superior.pdf",
+      "doi": "10.1021/jacs.5c20189",
+      "sha256": "418233f7d12b29dafb2787d7d3546066f5bd745f545a3d34086f7b903b1a6a59",
+      "note": "原文正文相关页已读"
+    },
+    {
+      "local_path": "D:\\Zotero\\storage\\QCFJW9PJ\\Yuan 等 - 2025 - Janus effect of FeCo dual atom catalyst with Co as active center in acidic oxygen reduction reaction.pdf",
+      "doi": "10.1038/s41467-025-62728-4",
+      "sha256": "9777f4cb042f62896b0b4675f8695263fbdcd7455ff09d614a282c974570873c",
+      "note": "原文正文相关页已读"
+    },
+    {
+      "local_path": "D:\\Zotero\\storage\\6KN3CSTY\\s41467-024-55116-x.pdf",
+      "doi": "10.1038/s41467-024-55116-x",
+      "sha256": "85c09a42ec4bb78a2361b2079653a80c56f602186a4d0e258c295b321a80cac7",
+      "note": "原文正文相关页已读"
+    },
+    {
+      "local_path": "D:\\Zotero\\storage\\EDKCX3R7\\s41929-023-01047-7.pdf",
+      "doi": "10.1038/s41929-023-01047-7",
+      "sha256": "a1e3a40d9386b83c0dfbc2ec5de40e97afbe990569ca71ae97b2a7ced0e5ce2a",
+      "note": "原文正文相关页已读"
+    },
+    {
+      "local_path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\work\\seiras20\\NC2024_second_sphere_SI.pdf",
+      "sha256": "5958b7d519a87771b245d536484d3a3130bf18ef16b4e58da03d9dea70b76514",
+      "note": "原始SI相关部分已读"
+    },
+    {
+      "local_path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\work\\seiras_literature_SI\\ja5c20189_si_001.pdf",
+      "sha256": "7c56c55e9d94b7b56ed36b18fc3d6bf78c191f9e03ee9a74f5f84e8155007e12",
+      "note": "原始SI相关部分已读"
+    }
+  ]
+}

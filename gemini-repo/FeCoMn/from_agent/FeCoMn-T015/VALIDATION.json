@@ -1,0 +1,80 @@
+{
+  "files": [
+    {
+      "stem": "Figure_4_20261116_1215_V1",
+      "PNG_pixels": [
+        4200,
+        4488
+      ],
+      "PNG_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "editable_SVG_Arial": true,
+      "paths_SVG_text_nodes": 0,
+      "old_voltage_labels_absent": true
+    },
+    {
+      "stem": "Figure_4_20261116_1215_V2",
+      "PNG_pixels": [
+        4200,
+        4488
+      ],
+      "PNG_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "editable_SVG_Arial": true,
+      "paths_SVG_text_nodes": 0,
+      "old_voltage_labels_absent": true
+    },
+    {
+      "stem": "Figure_4_20261116_1215_V3",
+      "PNG_pixels": [
+        4200,
+        4488
+      ],
+      "PNG_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "editable_SVG_Arial": true,
+      "paths_SVG_text_nodes": 0,
+      "old_voltage_labels_absent": true
+    },
+    {
+      "stem": "Figure_S_raw_regions_20261116_1215",
+      "PNG_pixels": [
+        4200,
+        1937
+      ],
+      "PNG_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "editable_SVG_Arial": true,
+      "paths_SVG_text_nodes": 0,
+      "old_voltage_labels_absent": true
+    },
+    {
+      "stem": "Figure_S_raw_full_20261116_1215",
+      "PNG_pixels": [
+        4200,
+        2480
+      ],
+      "PNG_dpi": [
+        599.9988,
+        599.9988
+      ],
+      "editable_SVG_Arial": true,
+      "paths_SVG_text_nodes": 0,
+      "old_voltage_labels_absent": true
+    }
+  ],
+  "all_baseline_checks_match_rounded_Claude_values": true,
+  "original_source_hashes_unchanged": true,
+  "same_b_pixels_across_all_three_views": true,
+  "b_common_data_multiplier_and_common_physical_scale": true,
+  "only_one_b_scale_bar": true,
+  "b_no_AU_unit_suffix": true
+}

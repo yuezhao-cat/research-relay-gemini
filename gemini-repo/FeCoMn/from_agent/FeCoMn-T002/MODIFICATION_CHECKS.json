@@ -1,0 +1,33 @@
+{
+  "base_script_relative": "FeCoMn\\from_agent\\FeCoMn-T001\\generate_Figure4_20261114_204757.py",
+  "base_script_sha256": "0c723a5c72ad2e1d33fd5438f0e12d5661824a9c11a1f4ee144aff0fb9897f2d",
+  "identical_arrays_vs_T001": {
+    "x": true,
+    "E": true,
+    "RAW": true,
+    "REL": true,
+    "RAWs": true,
+    "RELs": true
+  },
+  "removed_a_shadows": 3,
+  "removed_a_vertical_lines": 2,
+  "removed_c_box": 1,
+  "variants": [
+    {
+      "variant": "C_purple",
+      "low_E_deep": "#5d5aa0",
+      "high_E_light": "#d0cce5"
+    },
+    {
+      "variant": "D_red",
+      "low_E_deep": "#b8394d",
+      "high_E_light": "#f6bcc4"
+    }
+  ],
+  "C_D_lower_rows_pixels_identical": true,
+  "b_pixels_identical_vs_T001": true,
+  "changed_pixels_outside_a_and_c_box": 0,
+  "all_SVG_references_resolved": true,
+  "outlined_SVG_text_tspan_count": 0,
+  "PNG_dpi": 600
+}

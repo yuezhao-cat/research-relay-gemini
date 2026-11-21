@@ -1,0 +1,2397 @@
+[
+  {
+    "family": "MnNC_bare",
+    "state": "base",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_clean",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "S_MnNC_clean",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 1*3.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "1d2a4f58ba1232e00c344b57a04109e0c7b8b92c0d700db0a04b83e0412426ea",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [],
+    "geometry": [],
+    "initial_geometry": [],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "MnNC_bare",
+    "state": "OOH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "MnNC_OOH",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 1*3.0 2*0.5 1*0.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "96be5d7a2329d6ac8b80a7eca0123501106ea16ec51d008a56db752336458ec7",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [],
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.813685793181339,
+        "signed_Mn_plane": 1.809875128936326,
+        "OH": 1.9104127465098324
+      },
+      {
+        "atom": 181,
+        "Mn_O": 2.747890720097922,
+        "signed_Mn_plane": 2.4737552929271467,
+        "OH": 0.9803666243440918
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8499999999999988,
+        "signed_Mn_plane": 1.849999999751279,
+        "OH": 1.9949937343259998
+      },
+      {
+        "atom": 181,
+        "Mn_O": 2.934706118165835,
+        "signed_Mn_plane": 2.6999853717495435,
+        "OH": 0.9669539802906849
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "MnNC_bare",
+    "state": "O",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "MnNC_O_MnNbri",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 1*3.0 1*0.5",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "7b0cefc384587222b02a3acd47f21a7ee638f3b232b676065903f5ae382dceca",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [],
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.5770846336314752,
+        "signed_Mn_plane": 1.5770529391375612,
+        "OH": null
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.699147111225972,
+        "signed_Mn_plane": 1.4035364618273163,
+        "OH": null
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "MnNC_bare",
+    "state": "OH",
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_OH_magcheck",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "MnNC_OH_magcheck",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 1*5 1*0.5 1*0",
+      "IVDW": "12",
+      "NCORE": "14",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "96be5d7a2329d6ac8b80a7eca0123501106ea16ec51d008a56db752336458ec7",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [],
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8786024108475858,
+        "signed_Mn_plane": 1.8773978213748168,
+        "OH": 0.9733454547492867
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8788240141984345,
+        "signed_Mn_plane": 1.8776057915136724,
+        "OH": 0.9733765725478145
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0,
+      5.0
+    ],
+    "spin_start_coverage": true
+  },
+  {
+    "family": "MnNC_axOH",
+    "state": "base",
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_OH_magcheck",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "MnNC_OH_magcheck",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 1*5 1*0.5 1*0",
+      "IVDW": "12",
+      "NCORE": "14",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "96be5d7a2329d6ac8b80a7eca0123501106ea16ec51d008a56db752336458ec7",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [],
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8786024108475858,
+        "signed_Mn_plane": 1.8773978213748168,
+        "OH": 0.9733454547492867
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8788240141984345,
+        "signed_Mn_plane": 1.8776057915136724,
+        "OH": 0.9733765725478145
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0,
+      5.0
+    ],
+    "spin_start_coverage": true
+  },
+  {
+    "family": "MnNC_axOH",
+    "state": "OOH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH_OHb",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 3,
+      "H": 2
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "MnNC_OOH_OHb",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 1*3.0 3*0.5 2*0.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "96be5d7a2329d6ac8b80a7eca0123501106ea16ec51d008a56db752336458ec7",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [],
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8956802147930072,
+        "signed_Mn_plane": 1.8869245356688162,
+        "OH": 1.883747371438329
+      },
+      {
+        "atom": 181,
+        "Mn_O": 2.8285651079464125,
+        "signed_Mn_plane": 2.576399567940427,
+        "OH": 0.9781505493667647
+      },
+      {
+        "atom": 182,
+        "Mn_O": 1.8672167507131385,
+        "signed_Mn_plane": -1.8659563710199931,
+        "OH": 0.9744599786018916
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8499999999999988,
+        "signed_Mn_plane": 1.849999999751279,
+        "OH": 1.9949937343259998
+      },
+      {
+        "atom": 181,
+        "Mn_O": 2.934706118165835,
+        "signed_Mn_plane": 2.6999853717495435,
+        "OH": 0.9669539802906849
+      },
+      {
+        "atom": 182,
+        "Mn_O": 1.8499999999999994,
+        "signed_Mn_plane": -1.8499999997512797,
+        "OH": 1.0004498987955366
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0,
+      5.0
+    ],
+    "spin_start_coverage": true
+  },
+  {
+    "family": "MnNC_axOH",
+    "state": "O",
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_O_OH_magcheck",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "MnNC_O_OH_magcheck",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 1*5 2*0.5 1*0",
+      "IVDW": "12",
+      "NCORE": "14",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "96be5d7a2329d6ac8b80a7eca0123501106ea16ec51d008a56db752336458ec7",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [],
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.60350291608796,
+        "signed_Mn_plane": 1.5984662412570692,
+        "OH": 3.9848136871898214
+      },
+      {
+        "atom": 181,
+        "Mn_O": 1.8979190575488678,
+        "signed_Mn_plane": -1.8975610738685285,
+        "OH": 0.9731986779540679
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.6037876862958984,
+        "signed_Mn_plane": 1.5987589056780351,
+        "OH": 3.9842835079673864
+      },
+      {
+        "atom": 181,
+        "Mn_O": 1.8974330298436994,
+        "signed_Mn_plane": -1.897201163925117,
+        "OH": 0.9733760859990085
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0,
+      5.0
+    ],
+    "spin_start_coverage": true
+  },
+  {
+    "family": "MnNC_axOH",
+    "state": "OH",
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/MnNC_OH_OH_magcheck",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2,
+      "H": 2
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "MnNC_OH_OH_magcheck",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 1*5 2*0.5 2*0",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "96be5d7a2329d6ac8b80a7eca0123501106ea16ec51d008a56db752336458ec7",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [],
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8761614378914035,
+        "signed_Mn_plane": 1.8758105843577766,
+        "OH": 0.9737284196777508
+      },
+      {
+        "atom": 181,
+        "Mn_O": 1.8728867638177065,
+        "signed_Mn_plane": -1.8726160422407294,
+        "OH": 0.9739739729206991
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.848661621562364,
+        "signed_Mn_plane": 1.8476898447603467,
+        "OH": 0.9750370165000273
+      },
+      {
+        "atom": 181,
+        "Mn_O": 1.8463061474387634,
+        "signed_Mn_plane": -1.8450530654384392,
+        "OH": 0.9756130616053925
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0,
+      5.0
+    ],
+    "spin_start_coverage": true
+  },
+  {
+    "family": "FCM_clean_bare",
+    "state": "base",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FCM_reconstruction_check",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_reconstruction_check",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "178*0.0 27*3.0 32*2.0 1*4.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "c4503af9606217f3867ef2d7241866b75d82ea81d3cfc2cefd799ea1c9e65dce",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [],
+    "initial_geometry": [],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0,
+      4.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_clean_bare",
+    "state": "OOH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_Mn_OOH",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 2*0.5 1*0.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8019711187663092,
+        "signed_Mn_plane": 1.79743863040967,
+        "OH": 1.9119332804089115
+      },
+      {
+        "atom": 240,
+        "Mn_O": 2.745460174799153,
+        "signed_Mn_plane": 2.474093917082009,
+        "OH": 0.9802623254403142
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.85,
+        "signed_Mn_plane": 1.8497935339646092,
+        "OH": 1.994993734326001
+      },
+      {
+        "atom": 240,
+        "Mn_O": 2.9347061181658365,
+        "signed_Mn_plane": 2.682974076858374,
+        "OH": 0.9669539802906852
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_clean_bare",
+    "state": "O",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_Mn_O",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 1*0.5",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "cf8e697ac9c7b283733d11ecf33939999656525184c4612f9244426514ca3f63",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.6545738232038776,
+        "signed_Mn_plane": 1.6545255421053882,
+        "OH": null
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.62,
+        "signed_Mn_plane": 1.6198192027149552,
+        "OH": null
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_clean_bare",
+    "state": "OH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 1,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_Mn_OH",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 1*0.5 1*0.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8807611315298232,
+        "signed_Mn_plane": 1.8802182356234431,
+        "OH": 0.9733751843626092
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.85,
+        "signed_Mn_plane": 1.8497935339646092,
+        "OH": 1.0004498987955366
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_clean_axOH",
+    "state": "base",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OHb",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 1,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_Mn_OHb",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 1*0.5 1*0.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8776797034531643,
+        "signed_Mn_plane": -1.8771362082912941,
+        "OH": 0.9734212239771477
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8500000000000014,
+        "signed_Mn_plane": -1.8497935339646105,
+        "OH": 1.000449898795535
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_clean_axOH",
+    "state": "OOH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH_OHb",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 3,
+      "H": 2
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_Mn_OOH_OHb",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 3*0.5 2*0.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8977778433185337,
+        "signed_Mn_plane": 1.889407621682565,
+        "OH": 1.8840670640548232
+      },
+      {
+        "atom": 240,
+        "Mn_O": 2.836540649575722,
+        "signed_Mn_plane": 2.5951083687866876,
+        "OH": 0.9785160073605166
+      },
+      {
+        "atom": 241,
+        "Mn_O": 1.8678784177884982,
+        "signed_Mn_plane": -1.86727682859895,
+        "OH": 0.9744410781341873
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.85,
+        "signed_Mn_plane": 1.8497935339646092,
+        "OH": 1.994993734326001
+      },
+      {
+        "atom": 240,
+        "Mn_O": 2.9347061181658365,
+        "signed_Mn_plane": 2.682974076858374,
+        "OH": 0.9669539802906852
+      },
+      {
+        "atom": 241,
+        "Mn_O": 1.8500000000000014,
+        "signed_Mn_plane": -1.8497935339646105,
+        "OH": 1.000449898795535
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_clean_axOH",
+    "state": "O",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O_OHb",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_Mn_O_OHb",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 2*0.5 1*0.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.6030708812270116,
+        "signed_Mn_plane": 1.5987688955850312,
+        "OH": 3.9776529131463003
+      },
+      {
+        "atom": 240,
+        "Mn_O": 1.903611829156291,
+        "signed_Mn_plane": -1.9035150307622577,
+        "OH": 0.9733697874261769
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.62,
+        "signed_Mn_plane": 1.6198192027149552,
+        "OH": 4.105946906622149
+      },
+      {
+        "atom": 240,
+        "Mn_O": 1.8500000000000014,
+        "signed_Mn_plane": -1.8497935339646105,
+        "OH": 1.000449898795535
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_clean_axOH",
+    "state": "OH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH_OHb",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 2,
+      "H": 2
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_Mn_OH_OHb",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 2*0.5 2*0.0",
+      "IVDW": "12",
+      "NCORE": "8",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE."
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8792750647396994,
+        "signed_Mn_plane": 1.8787888244756488,
+        "OH": 0.9740248862427368
+      },
+      {
+        "atom": 240,
+        "Mn_O": 1.8768791368714257,
+        "signed_Mn_plane": -1.8766409193846068,
+        "OH": 0.9737262657377564
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.85,
+        "signed_Mn_plane": 1.8497935339646092,
+        "OH": 1.0004498987955366
+      },
+      {
+        "atom": 240,
+        "Mn_O": 1.8500000000000014,
+        "signed_Mn_plane": -1.8497935339646105,
+        "OH": 1.000449898795535
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_8O_bare",
+    "state": "base",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_rich8O_resume_20261013/FCM_rich8O_cont1",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 8
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_rich8O_cont1",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "400",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 8*0.5",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "cf8e697ac9c7b283733d11ecf33939999656525184c4612f9244426514ca3f63",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [],
+    "initial_geometry": [],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_8O_bare",
+    "state": "OOH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_cov8O_OOH",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 10*0.5 1*0",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8062219060374596,
+        "signed_Mn_plane": -1.8045357658955308,
+        "OH": 1.91163558130642
+      },
+      {
+        "atom": 248,
+        "Mn_O": 2.752700505778181,
+        "signed_Mn_plane": -2.4510649419177026,
+        "OH": 0.9800875416412467
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.949999999999999,
+        "signed_Mn_plane": -1.9499972579093325,
+        "OH": 2.111610759586151
+      },
+      {
+        "atom": 248,
+        "Mn_O": 2.7354158733179865,
+        "signed_Mn_plane": -2.352343703858492,
+        "OH": 0.9689685237405807
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_8O_bare",
+    "state": "O",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_cov8O_O",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 9*0.5",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "cf8e697ac9c7b283733d11ecf33939999656525184c4612f9244426514ca3f63",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.6540319504643684,
+        "signed_Mn_plane": -1.65402664383185,
+        "OH": null
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.949999999999999,
+        "signed_Mn_plane": -1.9499972579093325,
+        "OH": null
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_8O_bare",
+    "state": "OH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_cov8O_OH",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 9*0.5 1*0",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8694122993327138,
+        "signed_Mn_plane": -1.8688499671328562,
+        "OH": 0.9728268593974696
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.949999999999999,
+        "signed_Mn_plane": -1.9499972579093325,
+        "OH": 0.9730878685915276
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_8O_axOH",
+    "state": "base",
+    "path": "/home/pj25000114/ku50002299/FCM_OH_symmetric_fromIMR_20261102/OH_outplane_MnMinus",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "OH_outplane_MnMinus",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*-3 9*0.5 1*0",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LORBIT": "11"
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8746010511398867,
+        "signed_Mn_plane": 1.8745327577474042,
+        "OH": 0.974190664810376
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.877242172374712,
+        "signed_Mn_plane": 1.877239067458284,
+        "OH": 0.9738965818542478
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      -3.0,
+      3.0
+    ],
+    "spin_start_coverage": true
+  },
+  {
+    "family": "FCM_8O_axOH",
+    "state": "OOH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 11,
+      "H": 2
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_bg8O_MnOH_OOH",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 11*0.5 2*0",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.872833372050425,
+        "signed_Mn_plane": 1.8716655813516994,
+        "OH": 0.9749815198533303
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.8948352157843715,
+        "signed_Mn_plane": -1.8917837935263453,
+        "OH": 1.8839505733470285
+      },
+      {
+        "atom": 249,
+        "Mn_O": 2.827818543439101,
+        "signed_Mn_plane": -2.544368806801783,
+        "OH": 0.9782525464675915
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8772421723747095,
+        "signed_Mn_plane": 1.8772390674582813,
+        "OH": 0.9738965818542467
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.9500000000000004,
+        "signed_Mn_plane": -1.949996774743758,
+        "OH": 2.1116107595861506
+      },
+      {
+        "atom": 249,
+        "Mn_O": 2.7354158733179887,
+        "signed_Mn_plane": -2.3516009457467795,
+        "OH": 0.9689685237405796
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  },
+  {
+    "family": "FCM_8O_axOH",
+    "state": "O",
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_OHmag_fromIMR_20261102/FCM_bg8O_MnO_OH_magcheck",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_bg8O_MnO_OH_magcheck",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*-3 10*0.5 1*0",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.9077621757579741,
+        "signed_Mn_plane": 1.907328709069971,
+        "OH": 0.973412710374203
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.6011999563240014,
+        "signed_Mn_plane": -1.5949431540069252,
+        "OH": 3.969363200362773
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.9586706906025484,
+        "signed_Mn_plane": 1.9580192933545932,
+        "OH": 0.9733493675602118
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.6836030201295415,
+        "signed_Mn_plane": -1.6834119797175442,
+        "OH": 4.120893175800559
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      -3.0,
+      3.0
+    ],
+    "spin_start_coverage": true
+  },
+  {
+    "family": "FCM_8O_axOH",
+    "state": "OH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 2
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "settings": {
+      "SYSTEM": "FCM_bg8O_MnOH_OH",
+      "PREC": "Normal",
+      "ENCUT": "500",
+      "EDIFF": "1E-5",
+      "EDIFFG": "-0.02",
+      "NSW": "800",
+      "IBRION": "2",
+      "POTIM": "0.1",
+      "ISIF": "2",
+      "ISYM": "0",
+      "LREAL": "Auto",
+      "NELM": "150",
+      "ALGO": "Fast",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 10*0.5 2*0",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "ISTART": "0",
+      "ICHARG": "2"
+    },
+    "POTCAR_token_sha256": "8cd01b73a4dfa4e73ceba216a0aeb67966097a1ae591967d376a702cffa719f9",
+    "KPOINTS": "Gamma-only KPOINTS for large supercell (a=22.20 A, b=21.36 A)\n0\nGamma\n 1  1  1\n 0  0  0\n",
+    "frozen_indices": [
+      183,
+      189,
+      191,
+      192,
+      193,
+      195,
+      201,
+      213,
+      214,
+      217,
+      218,
+      225,
+      226,
+      229,
+      230
+    ],
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8759458426154414,
+        "signed_Mn_plane": 1.875257950551194,
+        "OH": 0.9741727149851174
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.8673985801453614,
+        "signed_Mn_plane": -1.8655924835125641,
+        "OH": 0.9731682384287396
+      }
+    ],
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8772421723747095,
+        "signed_Mn_plane": 1.8772390674582813,
+        "OH": 0.9738965818542467
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.9500000000000004,
+        "signed_Mn_plane": -1.949996774743758,
+        "OH": 0.9730878685915281
+      }
+    ],
+    "topology_changed_during_relax": false,
+    "initial_Mn_values": [
+      3.0
+    ],
+    "spin_start_coverage": false
+  }
+]
