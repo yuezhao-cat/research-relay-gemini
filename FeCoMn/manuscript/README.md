@@ -105,3 +105,4 @@
 | FeCoMn_Manuscript_revised_20261121_1725.docx / FeCoMn_SI_revised_20261121_1725.docx | 2026-11-21 17:25 | 误清除了此前各版高亮，作废，勿发导师。 |
 | FeCoMn_Manuscript_revised_20261121_1850.docx | 2026-11-21 18:50 | 以 1119_2255 为底稿，叠加高亮。图 5 覆盖度段末加颗粒作用四句（T039，同设置 +3；末句赵月定稿）；图 6 第一段末加"由颗粒决定"半句；第二段加几何机理（Mn 被轴向 OH 拉出 N4 平面 0.44 Å、吸附时拉回，OH* 削弱 0.34 eV 中结构 0.24、电子 0.10）及图 6i 总结句；6e 处补引 Figure S29 以保证升序；表号 S7→S8、S8→S9、S9→S10，新引表 S7、S11，图 S30（新），原 S30→S31。 |
 | FeCoMn_SI_revised_20261121_1850.docx | 2026-11-21 18:50 | 叠加高亮。新增表 S7（有/无颗粒 Mn 轴向配体）、表 S11（吸附能拆分）、图 S30（Mn 高度与拆分柱状图，Claude web 按 T041/T042 数据绘制）；原表 S7–S12 顺延，原图 S30–S33 → S31–S34；目录与页码同步。 |
+| FeCoMn_Manuscript_revised_20261121_1935.docx | 2026-11-21 19:35 | 基于 1850，叠加高亮。图 6 第二段几何机理几句换为 Gemini 改写并经 Claude web 修正的版本（At the same time…；OH* therefore binds so strongly…；toward the axial OH；Drawing Mn back consumes part of the binding energy；of which…）。SI 不变，沿用 FeCoMn_SI_revised_20261121_1850.docx。 |
