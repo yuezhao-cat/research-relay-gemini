@@ -1,0 +1,7 @@
+base: FeCoMn-T034/draft_20261118_v38_axial_parentheses/Figure6_T034_600dpi.png
+new: Fig6_T044_final/Figure6_T044_600dpi.png
+size 4200x4228 (identical)
+changed pixels: 13773
+changed bbox: x 3715-4049, y 3060-3297
+panel i cell: x>=2800, y>=2820
+changed pixels outside panel i cell (panels a-h): 0
