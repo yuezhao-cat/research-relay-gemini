@@ -1,0 +1,96 @@
+{
+  "MnNC_background_COHP": {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/lobster_post_v2_20261024",
+    "files": {
+      "COHPCAR.lobster": 768532,
+      "ICOHPLIST.lobster": 3468,
+      "lobsterout": 2798
+    },
+    "bonds": [
+      {
+        "atom1": "Mn179",
+        "atom2": "O180",
+        "distance_A": 1.57708,
+        "minus_ICOHP_eV": 8.032779999999999
+      }
+    ]
+  },
+  "MnNC_background_COHP_meta": {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/MnNC_base_full/lobster_post_v2_20261024",
+    "energy_sigma0": -1667.77216576,
+    "normal_end": true,
+    "magnetic_moments": {
+      "179": 0.001,
+      "180": 0.001
+    },
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1
+    },
+    "requested_distances": {
+      "179-180": 1.5770846336315383
+    }
+  },
+  "FCN_OH": {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCN_OH_full",
+    "energy_sigma0": -2154.05784783,
+    "normal_end": true,
+    "magnetic_moments": {
+      "206": 3.411,
+      "234": 1.841,
+      "235": 1.735,
+      "248": 0.121
+    },
+    "composition": {
+      "C": 180,
+      "Fe": 27,
+      "Co": 32,
+      "O": 9,
+      "H": 1
+    },
+    "requested_distances": {
+      "206-234": 3.0797658594740858,
+      "206-235": 3.0232032723760005,
+      "206-248": 2.0073615329342727,
+      "234-235": 2.6928947444082776,
+      "234-248": 2.2886017279813973,
+      "235-248": 2.242902193725003
+    },
+    "ACF_path": "/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCN_OH_full/bader_validated_20261024/ACF.dat",
+    "Bader_electrons": {
+      "206": 6.986746,
+      "234": 8.330841,
+      "235": 8.314403
+    },
+    "cohp": {
+      "path": "/home/05926/zhaoyue/WORK/FeCoMn_COHP_20261023/FCN_OH_full/lobster_post_v2_20261024",
+      "files": {
+        "COHPCAR.lobster": 1531944,
+        "ICOHPLIST.lobster": 6890,
+        "lobsterout": 2836
+      },
+      "bonds": [
+        {
+          "atom1": "Fe206",
+          "atom2": "O248",
+          "distance_A": 2.00736,
+          "minus_ICOHP_eV": 1.61789
+        },
+        {
+          "atom1": "Co234",
+          "atom2": "O248",
+          "distance_A": 2.2886,
+          "minus_ICOHP_eV": 0.7434000000000001
+        },
+        {
+          "atom1": "Co235",
+          "atom2": "O248",
+          "distance_A": 2.2429,
+          "minus_ICOHP_eV": 0.82487
+        }
+      ]
+    }
+  }
+}

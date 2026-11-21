@@ -1,0 +1,585 @@
+[
+  {
+    "path": "D:/OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\QUANBUDE-20231212-1.SPG",
+    "bytes": 3721600,
+    "attributes": 5242912,
+    "spectra": [
+      {
+        "title": "0.1V-IT-4-1800",
+        "native_time_event_not_validated": "2023-12-13 21:26:21"
+      },
+      {
+        "title": "0.1V-IT-4-120",
+        "native_time_event_not_validated": "2023-12-13 21:25:04"
+      },
+      {
+        "title": "0.1V-IT-4-60",
+        "native_time_event_not_validated": "2023-12-13 21:24:03"
+      },
+      {
+        "title": "-0.6v-3",
+        "native_time_event_not_validated": "2023-12-13 21:12:09"
+      },
+      {
+        "title": "-0.5v-3",
+        "native_time_event_not_validated": "2023-12-13 21:11:14"
+      },
+      {
+        "title": "-0.4v-3",
+        "native_time_event_not_validated": "2023-12-13 21:09:43"
+      },
+      {
+        "title": "-0.3v-3",
+        "native_time_event_not_validated": "2023-12-13 21:08:01"
+      },
+      {
+        "title": "-0,2V-3",
+        "native_time_event_not_validated": "2023-12-13 21:06:07"
+      },
+      {
+        "title": "-0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:04:37"
+      },
+      {
+        "title": "0v-3",
+        "native_time_event_not_validated": "2023-12-13 21:03:14"
+      },
+      {
+        "title": "0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:01:29"
+      },
+      {
+        "title": "-0.6v-2",
+        "native_time_event_not_validated": "2023-12-13 20:54:12"
+      },
+      {
+        "title": "-0.4v-2",
+        "native_time_event_not_validated": "2023-12-13 20:52:46"
+      },
+      {
+        "title": "-0.2V-2",
+        "native_time_event_not_validated": "2023-12-13 20:50:59"
+      },
+      {
+        "title": "0V-2",
+        "native_time_event_not_validated": "2023-12-13 20:49:49"
+      },
+      {
+        "title": "0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:14:43"
+      },
+      {
+        "title": "0.2V-1",
+        "native_time_event_not_validated": "2023-12-13 20:13:25"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 20:11:16"
+      },
+      {
+        "title": "-0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:07:37"
+      },
+      {
+        "title": "-0.6V-1",
+        "native_time_event_not_validated": "2023-12-13 20:06:11"
+      },
+      {
+        "title": "-0.86v-1",
+        "native_time_event_not_validated": "2023-12-13 20:03:58"
+      },
+      {
+        "title": "OCP-1",
+        "native_time_event_not_validated": "2023-12-13 19:57:03"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 19:53:20"
+      }
+    ],
+    "spectra_count": 23
+  },
+  {
+    "path": "D:/OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\1.SPG",
+    "bytes": 809504,
+    "attributes": 5242912,
+    "spectra": [
+      {
+        "title": "-0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:07:37"
+      },
+      {
+        "title": "-0.6V-1",
+        "native_time_event_not_validated": "2023-12-13 20:06:11"
+      },
+      {
+        "title": "-0.86v-1",
+        "native_time_event_not_validated": "2023-12-13 20:03:58"
+      },
+      {
+        "title": "OCP-1",
+        "native_time_event_not_validated": "2023-12-13 19:57:03"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 19:53:20"
+      }
+    ],
+    "spectra_count": 5
+  },
+  {
+    "path": "D:/OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\QUANBUDE-20231212-13.SPG",
+    "bytes": 1618448,
+    "attributes": 32,
+    "title": "QUANBUDE-20231212-13.SPG",
+    "spectra": [
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 19:53:20"
+      },
+      {
+        "title": "OCP-1",
+        "native_time_event_not_validated": "2023-12-13 19:57:03"
+      },
+      {
+        "title": "0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:01:29"
+      },
+      {
+        "title": "0v-3",
+        "native_time_event_not_validated": "2023-12-13 21:03:14"
+      },
+      {
+        "title": "-0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:04:37"
+      },
+      {
+        "title": "-0,2V-3",
+        "native_time_event_not_validated": "2023-12-13 21:06:07"
+      },
+      {
+        "title": "-0.3v-3",
+        "native_time_event_not_validated": "2023-12-13 21:08:01"
+      },
+      {
+        "title": "-0.4v-3",
+        "native_time_event_not_validated": "2023-12-13 21:09:43"
+      },
+      {
+        "title": "-0.5v-3",
+        "native_time_event_not_validated": "2023-12-13 21:11:14"
+      },
+      {
+        "title": "-0.6v-3",
+        "native_time_event_not_validated": "2023-12-13 21:12:09"
+      }
+    ],
+    "spectra_count": 10
+  },
+  {
+    "path": "D:/OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\QUANBUDE-20231212-1.SPG",
+    "bytes": 3721600,
+    "attributes": 32,
+    "title": "QUANBUDE-20231212-1.SPG",
+    "spectra": [
+      {
+        "title": "0.1V-IT-4-1800",
+        "native_time_event_not_validated": "2023-12-13 21:26:21"
+      },
+      {
+        "title": "0.1V-IT-4-120",
+        "native_time_event_not_validated": "2023-12-13 21:25:04"
+      },
+      {
+        "title": "0.1V-IT-4-60",
+        "native_time_event_not_validated": "2023-12-13 21:24:03"
+      },
+      {
+        "title": "-0.6v-3",
+        "native_time_event_not_validated": "2023-12-13 21:12:09"
+      },
+      {
+        "title": "-0.5v-3",
+        "native_time_event_not_validated": "2023-12-13 21:11:14"
+      },
+      {
+        "title": "-0.4v-3",
+        "native_time_event_not_validated": "2023-12-13 21:09:43"
+      },
+      {
+        "title": "-0.3v-3",
+        "native_time_event_not_validated": "2023-12-13 21:08:01"
+      },
+      {
+        "title": "-0,2V-3",
+        "native_time_event_not_validated": "2023-12-13 21:06:07"
+      },
+      {
+        "title": "-0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:04:37"
+      },
+      {
+        "title": "0v-3",
+        "native_time_event_not_validated": "2023-12-13 21:03:14"
+      },
+      {
+        "title": "0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:01:29"
+      },
+      {
+        "title": "-0.6v-2",
+        "native_time_event_not_validated": "2023-12-13 20:54:12"
+      },
+      {
+        "title": "-0.4v-2",
+        "native_time_event_not_validated": "2023-12-13 20:52:46"
+      },
+      {
+        "title": "-0.2V-2",
+        "native_time_event_not_validated": "2023-12-13 20:50:59"
+      },
+      {
+        "title": "0V-2",
+        "native_time_event_not_validated": "2023-12-13 20:49:49"
+      },
+      {
+        "title": "0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:14:43"
+      },
+      {
+        "title": "0.2V-1",
+        "native_time_event_not_validated": "2023-12-13 20:13:25"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 20:11:16"
+      },
+      {
+        "title": "-0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:07:37"
+      },
+      {
+        "title": "-0.6V-1",
+        "native_time_event_not_validated": "2023-12-13 20:06:11"
+      },
+      {
+        "title": "-0.86v-1",
+        "native_time_event_not_validated": "2023-12-13 20:03:58"
+      },
+      {
+        "title": "OCP-1",
+        "native_time_event_not_validated": "2023-12-13 19:57:03"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 19:53:20"
+      }
+    ],
+    "spectra_count": 23
+  },
+  {
+    "path": "D:/OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\1.SPG",
+    "bytes": 809504,
+    "attributes": 32,
+    "title": "1.SPG",
+    "spectra": [
+      {
+        "title": "-0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:07:37"
+      },
+      {
+        "title": "-0.6V-1",
+        "native_time_event_not_validated": "2023-12-13 20:06:11"
+      },
+      {
+        "title": "-0.86v-1",
+        "native_time_event_not_validated": "2023-12-13 20:03:58"
+      },
+      {
+        "title": "OCP-1",
+        "native_time_event_not_validated": "2023-12-13 19:57:03"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 19:53:20"
+      }
+    ],
+    "spectra_count": 5
+  },
+  {
+    "path": "D:/OneDrive\\1a1数据文档\\03_第4章_FeCo\\FeCo_FTIR_processed_20260908\\1-2-orr-oer.SPG",
+    "bytes": 3559848,
+    "attributes": 32,
+    "title": "1-2-orr-oer.SPG",
+    "spectra": [
+      {
+        "title": "1.089v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:15:58"
+      },
+      {
+        "title": "0.989v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:14:07"
+      },
+      {
+        "title": "0.889v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:12:55"
+      },
+      {
+        "title": "0.789v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:10:28"
+      },
+      {
+        "title": "0.689v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:08:38"
+      },
+      {
+        "title": "0.589v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:06:51"
+      },
+      {
+        "title": "0.489v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:05:10"
+      },
+      {
+        "title": "0.389v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:03:34"
+      },
+      {
+        "title": "0.289v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 20:01:44"
+      },
+      {
+        "title": "0.189v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:59:47"
+      },
+      {
+        "title": "0.089v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:57:38"
+      },
+      {
+        "title": "-0.011v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:55:33"
+      },
+      {
+        "title": "-0.111v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:54:05"
+      },
+      {
+        "title": "-0.211v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:52:33"
+      },
+      {
+        "title": "-0.311v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:50:33"
+      },
+      {
+        "title": "-0.411v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:48:46"
+      },
+      {
+        "title": "-0.511v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:46:45"
+      },
+      {
+        "title": "-0.611v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:45:13"
+      },
+      {
+        "title": "-0.711v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:43:12"
+      },
+      {
+        "title": "-0.811v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:41:25"
+      },
+      {
+        "title": "-0.911v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:39:33"
+      },
+      {
+        "title": "-1.011v-2-50s-orr",
+        "native_time_event_not_validated": "2024-07-17 19:37:28"
+      }
+    ],
+    "spectra_count": 22
+  },
+  {
+    "path": "D:/OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\QUANBUDE-20231212-13.SPG",
+    "bytes": 1618448,
+    "attributes": 32,
+    "title": "QUANBUDE-20231212-13.SPG",
+    "spectra": [
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 19:53:20"
+      },
+      {
+        "title": "OCP-1",
+        "native_time_event_not_validated": "2023-12-13 19:57:03"
+      },
+      {
+        "title": "0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:01:29"
+      },
+      {
+        "title": "0v-3",
+        "native_time_event_not_validated": "2023-12-13 21:03:14"
+      },
+      {
+        "title": "-0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:04:37"
+      },
+      {
+        "title": "-0,2V-3",
+        "native_time_event_not_validated": "2023-12-13 21:06:07"
+      },
+      {
+        "title": "-0.3v-3",
+        "native_time_event_not_validated": "2023-12-13 21:08:01"
+      },
+      {
+        "title": "-0.4v-3",
+        "native_time_event_not_validated": "2023-12-13 21:09:43"
+      },
+      {
+        "title": "-0.5v-3",
+        "native_time_event_not_validated": "2023-12-13 21:11:14"
+      },
+      {
+        "title": "-0.6v-3",
+        "native_time_event_not_validated": "2023-12-13 21:12:09"
+      }
+    ],
+    "spectra_count": 10
+  },
+  {
+    "path": "D:/OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\QUANBUDE-20231212-1.SPG",
+    "bytes": 3721600,
+    "attributes": 32,
+    "title": "QUANBUDE-20231212-1.SPG",
+    "spectra": [
+      {
+        "title": "0.1V-IT-4-1800",
+        "native_time_event_not_validated": "2023-12-13 21:26:21"
+      },
+      {
+        "title": "0.1V-IT-4-120",
+        "native_time_event_not_validated": "2023-12-13 21:25:04"
+      },
+      {
+        "title": "0.1V-IT-4-60",
+        "native_time_event_not_validated": "2023-12-13 21:24:03"
+      },
+      {
+        "title": "-0.6v-3",
+        "native_time_event_not_validated": "2023-12-13 21:12:09"
+      },
+      {
+        "title": "-0.5v-3",
+        "native_time_event_not_validated": "2023-12-13 21:11:14"
+      },
+      {
+        "title": "-0.4v-3",
+        "native_time_event_not_validated": "2023-12-13 21:09:43"
+      },
+      {
+        "title": "-0.3v-3",
+        "native_time_event_not_validated": "2023-12-13 21:08:01"
+      },
+      {
+        "title": "-0,2V-3",
+        "native_time_event_not_validated": "2023-12-13 21:06:07"
+      },
+      {
+        "title": "-0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:04:37"
+      },
+      {
+        "title": "0v-3",
+        "native_time_event_not_validated": "2023-12-13 21:03:14"
+      },
+      {
+        "title": "0.1V-3",
+        "native_time_event_not_validated": "2023-12-13 21:01:29"
+      },
+      {
+        "title": "-0.6v-2",
+        "native_time_event_not_validated": "2023-12-13 20:54:12"
+      },
+      {
+        "title": "-0.4v-2",
+        "native_time_event_not_validated": "2023-12-13 20:52:46"
+      },
+      {
+        "title": "-0.2V-2",
+        "native_time_event_not_validated": "2023-12-13 20:50:59"
+      },
+      {
+        "title": "0V-2",
+        "native_time_event_not_validated": "2023-12-13 20:49:49"
+      },
+      {
+        "title": "0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:14:43"
+      },
+      {
+        "title": "0.2V-1",
+        "native_time_event_not_validated": "2023-12-13 20:13:25"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 20:11:16"
+      },
+      {
+        "title": "-0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:07:37"
+      },
+      {
+        "title": "-0.6V-1",
+        "native_time_event_not_validated": "2023-12-13 20:06:11"
+      },
+      {
+        "title": "-0.86v-1",
+        "native_time_event_not_validated": "2023-12-13 20:03:58"
+      },
+      {
+        "title": "OCP-1",
+        "native_time_event_not_validated": "2023-12-13 19:57:03"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 19:53:20"
+      }
+    ],
+    "spectra_count": 23
+  },
+  {
+    "path": "D:/OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\1.SPG",
+    "bytes": 809504,
+    "attributes": 32,
+    "title": "1.SPG",
+    "spectra": [
+      {
+        "title": "-0.4V-1",
+        "native_time_event_not_validated": "2023-12-13 20:07:37"
+      },
+      {
+        "title": "-0.6V-1",
+        "native_time_event_not_validated": "2023-12-13 20:06:11"
+      },
+      {
+        "title": "-0.86v-1",
+        "native_time_event_not_validated": "2023-12-13 20:03:58"
+      },
+      {
+        "title": "OCP-1",
+        "native_time_event_not_validated": "2023-12-13 19:57:03"
+      },
+      {
+        "title": "0V-1",
+        "native_time_event_not_validated": "2023-12-13 19:53:20"
+      }
+    ],
+    "spectra_count": 5
+  }
+]

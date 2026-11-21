@@ -1,0 +1,29 @@
+family,state,h_Mn_A,MnN_mean_A,dG_eV_recalc,dG_eV_T032,UL_V_recalc,E_sigma0,path,note
+MnNC_bare,base,+0.0071,1.9154,,,0.5840,-1661.250273,FeCoMn_ch5_recalc_20261007/MnNC_clean,
+MnNC_bare,OOH,-0.2835,1.9324,3.9425,3.9425,0.5840,-1676.116615,FeCoMn_ch5_recalc_20261007/MnNC_OOH,
+MnNC_bare,O,-0.3812,1.9623,1.4303,1.4303,0.5840,-1667.380756,FeCoMn_ch5_recalc_20261007/MnNC_O,
+MnNC_bare,OH,-0.4239,1.9675,0.5840,0.5840,0.5840,-1671.920401,FeCoMn_ch5_recalc_20261007/MnNC_OH,
+MnNC_axO,base,+0.5063,1.9485,,,0.2562,-1667.742390,FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri,
+MnNC_axO,OOH,+0.1655,1.9472,4.6638,4.6638,0.2562,-1681.887464,FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_OOH,
+MnNC_axO,O,-0.0074,1.9594,2.3941,2.3941,0.2562,-1672.909045,FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_O,
+MnNC_axO,OH,+0.1335,1.9493,1.4499,1.4499,0.2562,-1677.546576,FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_OH,
+FCM_clean_bare,base,+0.0052,1.9140,,,0.4675,-2066.637151,FeCoMn_ch5_recalc_20261007/S_FeCoMnNC59_clean,
+FCM_clean_bare,OOH,-0.2877,1.9304,3.8751,3.8751,0.4675,-2081.570870,FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH,
+FCM_clean_bare,O,-0.3662,1.9476,1.4298,1.4298,0.4675,-2072.768082,FeCoMn_ch5_recalc_20261007/FCM_Mn_O,
+FCM_clean_bare,OH,-0.4507,1.9682,0.4675,0.4675,0.4675,-2077.423766,FeCoMn_ch5_recalc_20261007/FCM_Mn_OH,
+FCM_clean_axOH,base,+0.4502,1.9675,,,0.7951,-2077.449849,FeCoMn_ch5_recalc_20261007/FCM_Mn_OHb,
+FCM_clean_axOH,OOH,+0.0147,1.9412,4.1249,4.1249,0.7951,-2092.133804,FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH_OHb,
+FCM_clean_axOH,O,-0.1548,1.9458,1.9390,1.9390,0.7951,-2083.071611,FeCoMn_ch5_recalc_20261007/FCM_Mn_O_OHb,
+FCM_clean_axOH,OH,+0.0021,1.9414,0.8082,0.8082,0.7951,-2087.895775,FeCoMn_ch5_recalc_20261007/FCM_Mn_OH_OHb,
+FCM_8O_bare,base,,,,,,,n/a,base FCM_rich8O_cont1 not in T031 JSON
+FCM_8O_bare,OOH,-0.3115,1.9329,,3.9383,,-2144.264599,FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OOH,base FCM_rich8O_cont1 not in T031 JSON
+FCM_8O_bare,O,-0.4057,1.9632,,1.4385,,-2135.516288,FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_O,base FCM_rich8O_cont1 not in T031 JSON
+FCM_8O_bare,OH,-0.4562,1.9681,,0.5157,,-2140.132460,FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OH,base FCM_rich8O_cont1 not in T031 JSON
+FCM_8O_axOH,base,+0.4418,1.9684,,,0.7757,-2140.147857,FeCoMn_ch5_recalc_20261007/rich8O_joint_20261014/FCM_8O_MnOH,working state
+FCM_8O_axOH,OOH,+0.0026,1.9417,4.1443,4.1443,0.7757,-2154.812435,FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OOH,working state
+FCM_8O_axOH,O,-0.0975,1.9479,2.2331,2.2331,0.7757,-2145.475517,FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_O,working state
+FCM_8O_axOH,OH,-0.0093,1.9437,0.8485,0.8485,0.7757,-2150.553471,FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OH,working state
+MnNC_axOH_hypo,base,+0.4239,1.9675,,,0.5703,-1671.920401,FeCoMn_ch5_recalc_20261007/MnNC_OH,hypothetical; not in conclusion
+MnNC_axOH_hypo,OOH,-0.0198,1.9441,4.0349,4.0349,0.5703,-1686.694372,FeCoMn_ch5_recalc_20261007/MnNC_OOH_OHb,hypothetical; not in conclusion
+MnNC_axOH_hypo,O,+0.1422,1.9494,1.9028,1.9028,0.5703,-1677.578304,FeCoMn_ch5_recalc_20261007/MnNC_O_OH,hypothetical; not in conclusion
+MnNC_axOH_hypo,OH,-0.0050,1.9338,1.3325,1.3325,0.5703,-1681.842006,FeCoMn_ch5_recalc_20261007/MnNC_OH_OH,hypothetical; not in conclusion

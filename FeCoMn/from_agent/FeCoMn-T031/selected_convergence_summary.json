@@ -1,0 +1,140 @@
+[
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_clean",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.019104459531742845
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.015455999514751545
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.019247928979503223
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_OH_magcheck",
+    "last_electronic_iterations": 2,
+    "NELM": 150,
+    "max_unfrozen_force": 0.019605348683458805
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH_OHb",
+    "last_electronic_iterations": 3,
+    "NELM": 150,
+    "max_unfrozen_force": 0.019273256730506134
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_O_OH_magcheck",
+    "last_electronic_iterations": 3,
+    "NELM": 150,
+    "max_unfrozen_force": 0.01792203439902959
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FCM_reconstruction_check",
+    "last_electronic_iterations": 5,
+    "NELM": 150,
+    "max_unfrozen_force": 0.01782719921917069
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH",
+    "last_electronic_iterations": 3,
+    "NELM": 150,
+    "max_unfrozen_force": 0.01514300584428336
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O",
+    "last_electronic_iterations": 5,
+    "NELM": 150,
+    "max_unfrozen_force": 0.01977243247554534
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.01812023438038261
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OHb",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.0194622418544216
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH_OHb",
+    "last_electronic_iterations": 3,
+    "NELM": 150,
+    "max_unfrozen_force": 0.019817640475091883
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O_OHb",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.017527936159171736
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH_OHb",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.018129718034211123
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/MnNC_OH_OH_magcheck",
+    "last_electronic_iterations": 5,
+    "NELM": 150,
+    "max_unfrozen_force": 0.018728516465539923
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_rich8O_resume_20261013/FCM_rich8O_cont1",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.016642931172122295
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OOH",
+    "last_electronic_iterations": 3,
+    "NELM": 150,
+    "max_unfrozen_force": 0.017115983115205506
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_O",
+    "last_electronic_iterations": 63,
+    "NELM": 150,
+    "max_unfrozen_force": 0.015231250047189168
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OH",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.018397817968443975
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_OH_symmetric_fromIMR_20261102/OH_outplane_MnMinus",
+    "last_electronic_iterations": 4,
+    "NELM": 150,
+    "max_unfrozen_force": 0.017358031368792947
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OOH",
+    "last_electronic_iterations": 2,
+    "NELM": 150,
+    "max_unfrozen_force": 0.019094585881867143
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_OHmag_fromIMR_20261102/FCM_bg8O_MnO_OH_magcheck",
+    "last_electronic_iterations": 3,
+    "NELM": 150,
+    "max_unfrozen_force": 0.016367447265838372
+  },
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OH",
+    "last_electronic_iterations": 5,
+    "NELM": 150,
+    "max_unfrozen_force": 0.01952911761959562
+  }
+]

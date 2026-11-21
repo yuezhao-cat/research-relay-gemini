@@ -1,0 +1,3195 @@
+[
+  {
+    "file": "1.opju",
+    "sha256": "d4aea78654a4d95ea645d6a1dba008c045a300a2d866ebfcc4aa914fd6d2c758",
+    "books": [
+      {
+        "short_name": "Book1",
+        "long_name": "",
+        "sheets": [
+          {
+            "name": "Sheet1",
+            "rows": 4262,
+            "columns": 42,
+            "csv": "1__Book1__Sheet1.csv",
+            "column_metadata": [
+              {
+                "index_1based": 1,
+                "short_name": "A",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 2,
+                "short_name": "B",
+                "long_name": "-1",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 3,
+                "short_name": "C",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 4,
+                "short_name": "D",
+                "long_name": "-1-100",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 5,
+                "short_name": "E",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 6,
+                "short_name": "F",
+                "long_name": "-1-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 7,
+                "short_name": "G",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 8,
+                "short_name": "H",
+                "long_name": "-1-100-2",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 9,
+                "short_name": "I",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 10,
+                "short_name": "J",
+                "long_name": "-0.9",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 11,
+                "short_name": "K",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 12,
+                "short_name": "L",
+                "long_name": "-0.8",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 13,
+                "short_name": "M",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 14,
+                "short_name": "N",
+                "long_name": "-0.8-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 15,
+                "short_name": "O",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 16,
+                "short_name": "P",
+                "long_name": "-0.7",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 17,
+                "short_name": "Q",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 18,
+                "short_name": "R",
+                "long_name": "-0.7-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 19,
+                "short_name": "S",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 20,
+                "short_name": "T",
+                "long_name": "-0.6",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 21,
+                "short_name": "U",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 22,
+                "short_name": "V",
+                "long_name": "-0.6-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 23,
+                "short_name": "W",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 24,
+                "short_name": "X",
+                "long_name": "-0.5",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 25,
+                "short_name": "Y",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 26,
+                "short_name": "Z",
+                "long_name": "-0.4",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 27,
+                "short_name": "AA",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 28,
+                "short_name": "AB",
+                "long_name": "-0.3",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 29,
+                "short_name": "AC",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 30,
+                "short_name": "AD",
+                "long_name": "-0.2",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 31,
+                "short_name": "AE",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 32,
+                "short_name": "AF",
+                "long_name": "-0.1",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 33,
+                "short_name": "AG",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 34,
+                "short_name": "AH",
+                "long_name": "-0.1-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 35,
+                "short_name": "AI",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 36,
+                "short_name": "AJ",
+                "long_name": "0",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 37,
+                "short_name": "AK",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 38,
+                "short_name": "AL",
+                "long_name": "0-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 39,
+                "short_name": "AM",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 40,
+                "short_name": "AN",
+                "long_name": "0.1",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 41,
+                "short_name": "AO",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 42,
+                "short_name": "AP",
+                "long_name": "0.2",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "short_name": "Book2",
+        "long_name": "",
+        "sheets": [
+          {
+            "name": "Sheet1",
+            "rows": 4250,
+            "columns": 56,
+            "csv": "1__Book2__Sheet1.csv",
+            "column_metadata": [
+              {
+                "index_1based": 1,
+                "short_name": "A",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 2,
+                "short_name": "B",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 3,
+                "short_name": "C",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 4,
+                "short_name": "D",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 5,
+                "short_name": "E",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 6,
+                "short_name": "F",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 7,
+                "short_name": "G",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 8,
+                "short_name": "H",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 9,
+                "short_name": "I",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 10,
+                "short_name": "J",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 11,
+                "short_name": "K",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 12,
+                "short_name": "L",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 13,
+                "short_name": "M",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 14,
+                "short_name": "N",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 15,
+                "short_name": "O",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 16,
+                "short_name": "P",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 17,
+                "short_name": "Q",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 18,
+                "short_name": "R",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 19,
+                "short_name": "S",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 20,
+                "short_name": "T",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 21,
+                "short_name": "U",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 22,
+                "short_name": "V",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 23,
+                "short_name": "W",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 24,
+                "short_name": "X",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 25,
+                "short_name": "Y",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 26,
+                "short_name": "Z",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 27,
+                "short_name": "AA",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 28,
+                "short_name": "AB",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 29,
+                "short_name": "AC",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 30,
+                "short_name": "AD",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 31,
+                "short_name": "AE",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 32,
+                "short_name": "AF",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 33,
+                "short_name": "AG",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 34,
+                "short_name": "AH",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 35,
+                "short_name": "AI",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 36,
+                "short_name": "AJ",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 37,
+                "short_name": "AK",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 38,
+                "short_name": "AL",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 39,
+                "short_name": "AM",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 40,
+                "short_name": "AN",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 41,
+                "short_name": "AO",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 42,
+                "short_name": "AP",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 43,
+                "short_name": "AQ",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 44,
+                "short_name": "AR",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 45,
+                "short_name": "AS",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 46,
+                "short_name": "AT",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 47,
+                "short_name": "AU",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 48,
+                "short_name": "AV",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 49,
+                "short_name": "AW",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 50,
+                "short_name": "AX",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 51,
+                "short_name": "AY",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 52,
+                "short_name": "AZ",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 53,
+                "short_name": "BA",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 54,
+                "short_name": "BB",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 55,
+                "short_name": "BC",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 56,
+                "short_name": "BD",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "graphs": [
+      {
+        "short_name": "Graph1",
+        "long_name": "",
+        "layers": [
+          {
+            "index_1based": 1,
+            "plots": [
+              {
+                "GetRange": "[Graph1]1!Plot(1)",
+                "GetDatasetName": "Book1_B",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(2)",
+                "GetDatasetName": "Book1_D",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(3)",
+                "GetDatasetName": "Book1_F",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(4)",
+                "GetDatasetName": "Book1_H",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(5)",
+                "GetDatasetName": "Book1_J",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(6)",
+                "GetDatasetName": "Book1_L",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(7)",
+                "GetDatasetName": "Book1_N",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(8)",
+                "GetDatasetName": "Book1_P",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(9)",
+                "GetDatasetName": "Book1_R",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(10)",
+                "GetDatasetName": "Book1_T",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(11)",
+                "GetDatasetName": "Book1_V",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(12)",
+                "GetDatasetName": "Book1_X",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(13)",
+                "GetDatasetName": "Book1_Z",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(14)",
+                "GetDatasetName": "Book1_AB",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(15)",
+                "GetDatasetName": "Book1_AD",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(16)",
+                "GetDatasetName": "Book1_AF",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(17)",
+                "GetDatasetName": "Book1_AH",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(18)",
+                "GetDatasetName": "Book1_AJ",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(19)",
+                "GetDatasetName": "Book1_AL",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(20)",
+                "GetDatasetName": "Book1_AN",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(21)",
+                "GetDatasetName": "Book1_AP",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(22)",
+                "GetDatasetName": "Book1_L",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              }
+            ],
+            "objects": [
+              {
+                "Name": "__FRAMESRCDATAINFOS",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "YR",
+                "Text": "%(?Y)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "XT",
+                "Text": "%(?X)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "YL",
+                "Text": "Absorbance (a.u.)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "XB",
+                "Text": "Wavenumber (cm\\+(-1))",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "3D",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "__BCO2",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_202",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_232",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text",
+                "Text": "1.2 V",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text1",
+                "Text": "*OOH",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text2",
+                "Text": "*O-O",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text3",
+                "Text": "*OOH",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text9",
+                "Text": "HOH",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Arrow1",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text10",
+                "Text": "0 V",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Rect",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Rect1",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Rect2",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Rect3",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              }
+            ]
+          }
+        ],
+        "export_command": "expgraph -sw type:=png filename:=\"1__Graph1\" path:=\"C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\research-relay\\FeCoMn\\from_agent\\FeCoMn-T006\\1\" overwrite:=replace tr2.Unit:=1 tr2.Resolution:=300;",
+        "export_result": 0
+      }
+    ],
+    "matrices": [],
+    "folder_tree": {
+      "name": "1",
+      "path": "/1/",
+      "children": [
+        {
+          "name": "Folder1",
+          "path": "/1/Folder1/",
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "file": "1-1.opju",
+    "sha256": "7947731030ae0d7eaa21efb94370e6cc1040fe936e5c268d23df64e36be01f1b",
+    "books": [
+      {
+        "short_name": "Book1",
+        "long_name": "",
+        "sheets": [
+          {
+            "name": "Sheet1",
+            "rows": 4251,
+            "columns": 44,
+            "csv": "1-1__Book1__Sheet1.csv",
+            "column_metadata": [
+              {
+                "index_1based": 1,
+                "short_name": "A",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 2,
+                "short_name": "B",
+                "long_name": "-1",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 3,
+                "short_name": "C",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 4,
+                "short_name": "D",
+                "long_name": "-1-100",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 5,
+                "short_name": "E",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 6,
+                "short_name": "F",
+                "long_name": "-1-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 7,
+                "short_name": "G",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 8,
+                "short_name": "H",
+                "long_name": "-1-100-2",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 9,
+                "short_name": "I",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 10,
+                "short_name": "J",
+                "long_name": "-0.9",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 11,
+                "short_name": "K",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 12,
+                "short_name": "L",
+                "long_name": "-0.8",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 13,
+                "short_name": "M",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 14,
+                "short_name": "N",
+                "long_name": "-0.8-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 15,
+                "short_name": "O",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 16,
+                "short_name": "P",
+                "long_name": "-0.7",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 17,
+                "short_name": "Q",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 18,
+                "short_name": "R",
+                "long_name": "-0.7-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 19,
+                "short_name": "S",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 20,
+                "short_name": "T",
+                "long_name": "-0.6",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 21,
+                "short_name": "U",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 22,
+                "short_name": "V",
+                "long_name": "-0.6-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 23,
+                "short_name": "W",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 24,
+                "short_name": "X",
+                "long_name": "-0.5",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 25,
+                "short_name": "Y",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 26,
+                "short_name": "Z",
+                "long_name": "-0.4",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 27,
+                "short_name": "AA",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 28,
+                "short_name": "AB",
+                "long_name": "-0.3",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 29,
+                "short_name": "AC",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 30,
+                "short_name": "AD",
+                "long_name": "-0.2",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 31,
+                "short_name": "AE",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 32,
+                "short_name": "AF",
+                "long_name": "-0.1",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 33,
+                "short_name": "AG",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 34,
+                "short_name": "AH",
+                "long_name": "-0.1-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 35,
+                "short_name": "AI",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 36,
+                "short_name": "AJ",
+                "long_name": "0",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 37,
+                "short_name": "AK",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 38,
+                "short_name": "AL",
+                "long_name": "0-50",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 39,
+                "short_name": "AM",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 40,
+                "short_name": "AN",
+                "long_name": "0.1",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 41,
+                "short_name": "AO",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 42,
+                "short_name": "AP",
+                "long_name": "0.2",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 43,
+                "short_name": "AQ",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 44,
+                "short_name": "AR",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "graphs": [
+      {
+        "short_name": "Graph1",
+        "long_name": "",
+        "layers": [
+          {
+            "index_1based": 1,
+            "plots": [
+              {
+                "GetRange": "[Graph1]1!Plot(1)",
+                "GetDatasetName": "Book1_B",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(2)",
+                "GetDatasetName": "Book1_D",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(3)",
+                "GetDatasetName": "Book1_F",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(4)",
+                "GetDatasetName": "Book1_H",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(5)",
+                "GetDatasetName": "Book1_J",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(6)",
+                "GetDatasetName": "Book1_L",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(7)",
+                "GetDatasetName": "Book1_N",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(8)",
+                "GetDatasetName": "Book1_P",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(9)",
+                "GetDatasetName": "Book1_R",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(10)",
+                "GetDatasetName": "Book1_T",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(11)",
+                "GetDatasetName": "Book1_V",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(12)",
+                "GetDatasetName": "Book1_X",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(13)",
+                "GetDatasetName": "Book1_Z",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(14)",
+                "GetDatasetName": "Book1_AB",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(15)",
+                "GetDatasetName": "Book1_AD",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(16)",
+                "GetDatasetName": "Book1_AF",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(17)",
+                "GetDatasetName": "Book1_AH",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(18)",
+                "GetDatasetName": "Book1_AJ",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(19)",
+                "GetDatasetName": "Book1_AL",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(20)",
+                "GetDatasetName": "Book1_AN",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(21)",
+                "GetDatasetName": "Book1_AP",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(22)",
+                "GetDatasetName": "Book1_AQ",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(23)",
+                "GetDatasetName": "Book1_AR",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph1]1!Plot(24)",
+                "GetDatasetName": "Book1_L",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              }
+            ],
+            "objects": [
+              {
+                "Name": "__FRAMESRCDATAINFOS",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "YR",
+                "Text": "%(?Y)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "XT",
+                "Text": "%(?X)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "YL",
+                "Text": "Absorbance (a.u.)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "XB",
+                "Text": "Wavenumber (cm\\+(-1))",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "3D",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "__BCO2",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Legend",
+                "Text": "\\l(1) %(1)\r\n\\l(2) %(2)\r\n\\l(3) %(3)\r\n\\l(4) %(4)\r\n\\l(5) %(5)\r\n\\l(6) %(6)\r\n\\l(7) %(7)\r\n\\l(8) %(8)\r\n\\l(9) %(9)\r\n\\l(10) %(10)\r\n\\l(11) %(11)\r\n\\l(12) %(12)\r\n\\l(13) %(13)\r\n\\l(14) %(14)\r\n\\l(15) %(15)\r\n\\l(16) %(16)\r\n\\l(17) %(17)\r\n\\l(18) %(18)\r\n\\l(19) %(19)\r\n\\l(20) %(20)\r\n\\l(21) %(21)\r\n\\l(22) %(22)\r\n\\l(23) %(23)\r\n\\l(24) %(24)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_202",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_232",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              }
+            ]
+          }
+        ],
+        "export_command": "expgraph -sw type:=png filename:=\"1-1__Graph1\" path:=\"C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\research-relay\\FeCoMn\\from_agent\\FeCoMn-T006\\1-1\" overwrite:=replace tr2.Unit:=1 tr2.Resolution:=300;",
+        "export_result": 0
+      }
+    ],
+    "matrices": [],
+    "folder_tree": {
+      "name": "1-1",
+      "path": "/1-1/",
+      "children": [
+        {
+          "name": "Folder1",
+          "path": "/1-1/Folder1/",
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "file": "1-2.opju",
+    "sha256": "2e4c64fe19d64945318f39c1dd5fb96df05e921dc98534eaec38ae9682a0c40c",
+    "books": [
+      {
+        "short_name": "Book1",
+        "long_name": "",
+        "sheets": [
+          {
+            "name": "Sheet1",
+            "rows": 2075,
+            "columns": 14,
+            "csv": "1-2__Book1__Sheet1.csv",
+            "column_metadata": [
+              {
+                "index_1based": 1,
+                "short_name": "A",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 2,
+                "short_name": "B",
+                "long_name": "",
+                "units": "",
+                "comments": "0",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 3,
+                "short_name": "C",
+                "long_name": "",
+                "units": "",
+                "comments": "0.1",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 4,
+                "short_name": "D",
+                "long_name": "",
+                "units": "",
+                "comments": "0.2",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 5,
+                "short_name": "E",
+                "long_name": "",
+                "units": "",
+                "comments": "0.3",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 6,
+                "short_name": "F",
+                "long_name": "",
+                "units": "",
+                "comments": "0.4",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 7,
+                "short_name": "G",
+                "long_name": "",
+                "units": "",
+                "comments": "0.5",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 8,
+                "short_name": "H",
+                "long_name": "",
+                "units": "",
+                "comments": "0.6",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 9,
+                "short_name": "I",
+                "long_name": "",
+                "units": "",
+                "comments": "0.7",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 10,
+                "short_name": "J",
+                "long_name": "",
+                "units": "",
+                "comments": "0.8",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 11,
+                "short_name": "K",
+                "long_name": "",
+                "units": "",
+                "comments": "0.9",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 12,
+                "short_name": "L",
+                "long_name": "",
+                "units": "",
+                "comments": "1",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 13,
+                "short_name": "M",
+                "long_name": "",
+                "units": "",
+                "comments": "1.1",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 14,
+                "short_name": "N",
+                "long_name": "",
+                "units": "",
+                "comments": "1.2",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "graphs": [
+      {
+        "short_name": "Graph2",
+        "long_name": "",
+        "layers": [
+          {
+            "index_1based": 1,
+            "plots": [
+              {
+                "GetRange": "[Graph2]1!Plot(1)",
+                "GetDatasetName": "VM2",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph2]1!Plot(2)",
+                "GetDatasetName": "VM2",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              }
+            ],
+            "objects": [
+              {
+                "Name": "Text1",
+                "Text": "Wavenumber (cm\\+(-1))",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text",
+                "Text": "Absorbance",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "__FRAMESRCDATAINFOS",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "__BCO2",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_103",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_103",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text2",
+                "Text": "Potential (V)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              }
+            ]
+          }
+        ],
+        "export_command": "expgraph -sw type:=png filename:=\"1-2__Graph2\" path:=\"C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\research-relay\\FeCoMn\\from_agent\\FeCoMn-T006\\1-2\" overwrite:=replace tr2.Unit:=1 tr2.Resolution:=300;",
+        "export_result": 0
+      },
+      {
+        "short_name": "Graph3",
+        "long_name": "",
+        "layers": [
+          {
+            "index_1based": 1,
+            "plots": [
+              {
+                "GetRange": "[Graph3]1!Plot(1)",
+                "GetDatasetName": "Book1_B",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(2)",
+                "GetDatasetName": "Book1_C",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(3)",
+                "GetDatasetName": "Book1_D",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(4)",
+                "GetDatasetName": "Book1_E",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(5)",
+                "GetDatasetName": "Book1_F",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(6)",
+                "GetDatasetName": "Book1_G",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(7)",
+                "GetDatasetName": "Book1_H",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(8)",
+                "GetDatasetName": "Book1_I",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(9)",
+                "GetDatasetName": "Book1_J",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(10)",
+                "GetDatasetName": "Book1_K",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(11)",
+                "GetDatasetName": "Book1_L",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(12)",
+                "GetDatasetName": "Book1_M",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph3]1!Plot(13)",
+                "GetDatasetName": "Book1_N",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              }
+            ],
+            "objects": [
+              {
+                "Name": "YR",
+                "Text": "%(?Y)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "XT",
+                "Text": "%(?X)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "YL",
+                "Text": "Absorbance (a.u.)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "XB",
+                "Text": "Wavenumber (cm\\+(-1))",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "3D",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "__BCO2",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_202",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_202",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_202",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_232",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text5",
+                "Text": "*OOH",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text6",
+                "Text": "*O-O",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text7",
+                "Text": "*OOH",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text8",
+                "Text": "HOH",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Rect4",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Rect5",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Rect6",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Rect7",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text4",
+                "Text": "1.2 V",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Arrow",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text18",
+                "Text": "0 V",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              }
+            ]
+          }
+        ],
+        "export_command": "expgraph -sw type:=png filename:=\"1-2__Graph3\" path:=\"C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\research-relay\\FeCoMn\\from_agent\\FeCoMn-T006\\1-2\" overwrite:=replace tr2.Unit:=1 tr2.Resolution:=300;",
+        "export_result": 0
+      }
+    ],
+    "matrices": [],
+    "folder_tree": {
+      "name": "1-2",
+      "path": "/1-2/",
+      "children": [
+        {
+          "name": "Folder1",
+          "path": "/1-2/Folder1/",
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "file": "FeCoMn-NC(1-2).opju",
+    "sha256": "7fe94f757806931f33fcf186e3086c76f67f08a96647bbb637949ceba99b95da",
+    "books": [
+      {
+        "short_name": "Book1",
+        "long_name": "",
+        "sheets": [
+          {
+            "name": "Sheet1",
+            "rows": 2075,
+            "columns": 14,
+            "csv": "FeCoMn-NC(1-2)__Book1__Sheet1.csv",
+            "column_metadata": [
+              {
+                "index_1based": 1,
+                "short_name": "A",
+                "long_name": "",
+                "units": "",
+                "comments": "",
+                "formula": "",
+                "designation_code": 3,
+                "data_format": 9
+              },
+              {
+                "index_1based": 2,
+                "short_name": "B",
+                "long_name": "",
+                "units": "",
+                "comments": "0",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 3,
+                "short_name": "C",
+                "long_name": "",
+                "units": "",
+                "comments": "0.1",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 4,
+                "short_name": "D",
+                "long_name": "",
+                "units": "",
+                "comments": "0.2",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 5,
+                "short_name": "E",
+                "long_name": "",
+                "units": "",
+                "comments": "0.3",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 6,
+                "short_name": "F",
+                "long_name": "",
+                "units": "",
+                "comments": "0.4",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 7,
+                "short_name": "G",
+                "long_name": "",
+                "units": "",
+                "comments": "0.5",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 8,
+                "short_name": "H",
+                "long_name": "",
+                "units": "",
+                "comments": "0.6",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 9,
+                "short_name": "I",
+                "long_name": "",
+                "units": "",
+                "comments": "0.7",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 10,
+                "short_name": "J",
+                "long_name": "",
+                "units": "",
+                "comments": "0.8",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 11,
+                "short_name": "K",
+                "long_name": "",
+                "units": "",
+                "comments": "0.9",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 12,
+                "short_name": "L",
+                "long_name": "",
+                "units": "",
+                "comments": "1",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 13,
+                "short_name": "M",
+                "long_name": "",
+                "units": "",
+                "comments": "1.1",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              },
+              {
+                "index_1based": 14,
+                "short_name": "N",
+                "long_name": "",
+                "units": "",
+                "comments": "1.2",
+                "formula": "",
+                "designation_code": 0,
+                "data_format": 9
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "graphs": [
+      {
+        "short_name": "Graph2",
+        "long_name": "",
+        "layers": [
+          {
+            "index_1based": 1,
+            "plots": [
+              {
+                "GetRange": "[Graph2]1!Plot(1)",
+                "GetDatasetName": "VM2",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              },
+              {
+                "GetRange": "[Graph2]1!Plot(2)",
+                "GetDatasetName": "VM2",
+                "dataset_X": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Y": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                },
+                "dataset_Z": {
+                  "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+                }
+              }
+            ],
+            "objects": [
+              {
+                "Name": "Text1",
+                "Text": "Wavenumber (cm\\+(-1))",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text",
+                "Text": "Absorbance",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "__FRAMESRCDATAINFOS",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "__BCO2",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_103",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "_103",
+                "Text": "",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              },
+              {
+                "Name": "Text2",
+                "Text": "Potential (V)",
+                "Type": {
+                  "error": "'GraphObject' object has no attribute 'Type'"
+                }
+              }
+            ]
+          }
+        ],
+        "export_command": "expgraph -sw type:=png filename:=\"FeCoMn-NC(1-2)__Graph2\" path:=\"C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\research-relay\\FeCoMn\\from_agent\\FeCoMn-T006\\FeCoMn-NC(1-2)\" overwrite:=replace tr2.Unit:=1 tr2.Resolution:=300;",
+        "export_result": 0
+      }
+    ],
+    "matrices": [],
+    "folder_tree": {
+      "name": "FeCoMn-NC(1-2)",
+      "path": "/FeCoMn-NC(1-2)/",
+      "children": []
+    }
+  }
+]

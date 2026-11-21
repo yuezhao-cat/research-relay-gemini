@@ -1,0 +1,986 @@
+[
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\4115.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "0378948a1da0253af30ce88e4691ed4f8ba5bc5231e7be55e9ff99960c786b22",
+    "title": "ZY-0-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\4127BEKOUWAND.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "dd3c9e3d9214251ebeabefcac50d342fb96c6f2a349988120bd3c7cc6251b8ac",
+    "title": "zy-2-be"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\BE-1-2.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "8f5cba5be04f97a8d1560e981003b85f170de660e00901aaf58a74aab3dc3b01",
+    "title": "Background, Fri Jan 12 08:16:31 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\BE-1.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "aae61d39bef30c527c0ba56f45e59384bb376e0eb52612179a0f1c1adeeadab8",
+    "title": "Background, Fri Jan 12 07:27:44 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\-0.1V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "205151ba2321d8b08ca66d9b6e12991ce05d25e3d1bef82d81ec0893742c198f",
+    "title": "-0.1V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\-0.2V-zy-3.SPA",
+    "bytes": 161924,
+    "attributes": 32,
+    "sha256": "8210769b9131f3c26d6e3f722c1f5dd363e692407e4bf479e5410723fdeedb40",
+    "title": "-0.2-ZY-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\-0.3V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "2657e6e866c8b7e9bebfcaf87bfd4de6241fecd94fdf6c1906ae0d8c9e2d2e78",
+    "title": "-0.3V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\-0.4V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "09c56d9fbe171b903e858f144cf0e09530464cb1db306abe2fd8f27c748ba24e",
+    "title": "-0.4V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\-0.5V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "06a52d4865a15a5652a6eedbb69b72f9dfa0e5ff724a8600305683c9fd193b9f",
+    "title": "-0.5V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\-0.6V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "98016a3af397dc8525c0205b34189ba676b94082f2a2772beaac6fc2a00af283",
+    "title": "-0.6V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\0.1V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "b710e7389c726ff00f87bf22e42f152df2d295e9bac46bddff2653a9fb1d473a",
+    "title": "0.1V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\0.2V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "3282941b724af8a0b2be3d4ae1b2dd53422858eadea64ef499af079f9c9e32cf",
+    "title": "0.2V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\0V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "4891774282cfb114f036a8144742bdfa3eeb697ca60f391fcf44f326179a2756",
+    "title": "0V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\be-3-2.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "bf67a0c20f43c9773dc1030ea8bed596853c7fb17cd5a8d9e14786f6c7aa98a6",
+    "title": "Background, Tue Jan 16 22:24:19 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\BE-3.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "60db7468103ae874b8b4314231f983c8e30b462d4d26801e538c06c031e43951",
+    "title": "Background, Tue Jan 16 22:15:18 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\3\\OCP-3-ZY.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "822ae57371987eb472650de702e179cec02e5ec587f9ddfb29c69691ca179062",
+    "title": "ZY-3-OCP"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\-0.2V-2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "76d038810429ffe76eb031fb73e767d71718b26a45af86a56bc70603d9a5b7ea",
+    "title": "-0.2V-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\-0.4V-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "ea51af6074da4813cb377342f448bc53d2335733110bbd6971926df8995694b8",
+    "title": "-0.4V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\-0.4v-2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "44fdfd787e1e3a41cbaaf395ce55742db4996bc6275891cd7378794325853070",
+    "title": "-0.4v-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\-0.6V--2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "f3f8733722b61dc7ee6bc9179d54746656850f5501e8a4f137ee4cbe69a624b1",
+    "title": "-0.6v-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\-0.6V-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "5f895d58351e091509bfda2c2dfc475f5f39dc238a08bf07037b9102b3efbc16",
+    "title": "-0.6V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\-0.86V-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "35e4c490900504d5fabee4eecc6cc9be5b25db76ba8eccc462afdaaf9675c074",
+    "title": "-0.86v-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\0.1-3.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "97b662bfe0551949c506f3c091f383459ae151e617211c722d30c19966620e32",
+    "title": "0.1V-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\0V-1-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "0ef1492e2b2577d23050977004f72df688b85a3222dceaaf51803204d23faf7e",
+    "title": "0V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\0v-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "67a90c4c683c9e697f4a2d8480b32bc6ab0cd535741b07035014400da9da8b2b",
+    "title": "0V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\0v-2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "74e016c68a2e832476078e1117e476394e498d2097b545581be4164fa541c445",
+    "title": "0V-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\1.SPG",
+    "bytes": 809504,
+    "attributes": 32,
+    "sha256": "2dfb760c174d1b4c052b433d46beeae2d767fd6688f37d15055076ba6addb081",
+    "title": "1.SPG"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\BK.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "bb65a1cdd051c58bf1a500b5d80f88ab2d1035f83602f974cbd96db68694423a",
+    "title": "Background, Wed Dec 13 19:50:47 2023 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\OCP-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "8a776a60024805742e6747987d6e776b586ce6b57adc7496a574da1044d0250a",
+    "title": "OCP-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\QUANBUDE-20231212-1.SPG",
+    "bytes": 3721600,
+    "attributes": 32,
+    "sha256": "0ca313addab61ecbd0cbd442c1fbd53c64834952fa939bc308324507ec3026f1",
+    "title": "QUANBUDE-20231212-1.SPG"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\ZY-1\\QUANBUDE-20231212-13.SPG",
+    "bytes": 1618448,
+    "attributes": 32,
+    "sha256": "d134e38b53ade5aa26c4c88c6bb8cdd37096f2f3b3c5f549a338973193e997e6",
+    "title": "QUANBUDE-20231212-13.SPG"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.1 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "4aab75d0e8494870acabecfea3798a72b25258fbfc719fe4a597ef5c80002687",
+    "title": "-0.1 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.2 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "98d44190be2f5a0b3d41a4d4c53d1baf466e7374550f9846a8fbd652d31ca193",
+    "title": "-0.2 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.3 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "0eb47b49543d50a5c3dc69cafe158abe18c3bb76690412f7115ec0aad4190dd7",
+    "title": "-0.3 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.4 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "720a98c9642a553e8e4f39fdf0cd92d9855637c995b3623fc083952fbbf789a7",
+    "title": "-0.4 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.5v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "0023fad4434bab6b3155c6fb01ec8bea950be0b2ea2c7f6b43cb46a6391d0887",
+    "title": "-0.5 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.6v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "def4907951cc104d96af255f78717754df4eb7aacb4cf65a8ff337050c5da51f",
+    "title": "-0.6v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.8v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "4f388c5c44c868d6aa209411479b8ba4e38af6b83b05d3a0f19d9c77427f798b",
+    "title": "-0.8v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\0.1 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "7af2da7bc0dd6d209af61dda721a344c517f139ca8bf9979b44f631aded1a306",
+    "title": "0.1 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\0.v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "059c7f65ae444b7cbda39d85c1da2c4287df9508914e76d0b07c69dbdb625f07",
+    "title": "0 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-2\\0cp-ZY-2.SPA",
+    "bytes": 161852,
+    "attributes": 32,
+    "sha256": "0167950df219d380a9104bba66780627c3ef9d83729a207ed07d4bed0bed4af3",
+    "title": "zy-2-be"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-3\\-0.1--CoNSC-ZY-3.SPA",
+    "bytes": 161908,
+    "attributes": 32,
+    "sha256": "3ab6ac3e373b3671bb2f0aa41287a01ab3391d017abd44052e55763753e4a59d",
+    "title": "-0.1v-ZY-3-CoNSC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-3\\-02--CoNSC-ZY-3.SPA",
+    "bytes": 161908,
+    "attributes": 32,
+    "sha256": "1961ae014f92ba53663fb259cab2369bf5435f3564f2bd43fec07ca2484e1932",
+    "title": "-0.2v-ZY-3-CoNSC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-3\\-bD-CoNSC-ZY-3.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "08cc38438e89b26d800ecf8a7cee29f1712daa7496766f0f5afc2f88b7318327",
+    "title": "Background, Fri Jan 12 09:33:06 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-3\\0--CoNSC-ZY-3.SPA",
+    "bytes": 161908,
+    "attributes": 32,
+    "sha256": "c4076e50fac460aacb2f8fb0f322a14a4829738c84ace3f794d25ee53dc03691",
+    "title": "0 v-ZY-3-CoNSC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-3\\0.1--CoNSC-ZY-3.SPA",
+    "bytes": 161908,
+    "attributes": 32,
+    "sha256": "2eb8e9f69f38d67590680a59f3c73764afb7860358f7fb557e0dc04e3adccc8c",
+    "title": "0.1v-ZY-3-CoNSC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-3\\2345.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "cb9e21f9428697c1d00ba01b5d72f31d967c215083269814ec3664201f495374",
+    "title": "Fri Jan 12 09:29:15 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-3\\ocp-be-CoNSC-ZY-3.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "cb9e21f9428697c1d00ba01b5d72f31d967c215083269814ec3664201f495374",
+    "title": "Fri Jan 12 09:29:15 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-3\\ocp.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "cb9e21f9428697c1d00ba01b5d72f31d967c215083269814ec3664201f495374",
+    "title": "Fri Jan 12 09:29:15 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0. v-ZY-4-MnNC-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "b5decfb30f6e6570d754acfe0135850c9c50ce49cf69dbd6088eb80bd5543985",
+    "title": "0 v-ZY-4-MnNC-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.1v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "fdb64cbabf10b6aeb85bdb690d9dede5e726b93dc640579332e72469ddd683ce",
+    "title": "-0.1 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.2 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "54bae43435312d083a105469e6cbdcb7ed9a8cd05792ca7dfc412d4b4e29a3d5",
+    "title": "-0.2 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.3 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "8bfbde4f5bcd4e3711518955089fdd7addfcd71bffebb809369a25e0ed6a22de",
+    "title": "-0.3 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.4 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "a5fc3df2cbf676ab9be194e0568244d8a80f2ca1354ee8aad4791a85b5b297e4",
+    "title": "-0.4 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.5 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "1d4847ff1e8a69105c2fb1b8309751b1b65e8aa1b215aa65f825b560c1aed310",
+    "title": "-0.5 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.6 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "7aad5a82bb09b6f7f0bd1aea82bb31d8dfb9bf288b66fe3df4791a99e81a9d8c",
+    "title": "-0.6 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "acbe5f8a8c30ebf9f5ab2df21acb5780b0d0798839ec4223f3f9e264ed45c6d3",
+    "title": "0 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0.1v-ZY-4-MnNC-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "3eb273863f8274fb411fa4c466fd7215e52b1368f535e3ee1aeec8408a1557f1",
+    "title": "0.1 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0.1v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "45c028a1f252ac679844a2c411d8dc4d0818b5d9d752953b45a4b6c635a0810a",
+    "title": "0.1v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0.2 v-ZY-4-MnNC-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "b0dd50bcb94c8612f564af64b7537313a7d8d2884bb4c3e0a078405125734382",
+    "title": "0.2 v-ZY-4-MnNC-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0.2v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "643f3bb537781098251a8769f68473f53d8b12266333b772c11b79bbe8b6533a",
+    "title": "0.2v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\BD-4.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "bd97ab940305bd11099555a7f4172bd6038babd76a59d08e5cae881498bba869",
+    "title": "Background, Fri Jan 12 10:13:17 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\ocp-2.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "465d10479772e74f910deda4dacd23e55bfc3a86334a389e500143949b7d4b26",
+    "title": "Fri Jan 12 10:11:48 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\1重点！！数据图\\1重点！！数据图\\原位红外\\20240112\\zy-4\\ocp.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "465d10479772e74f910deda4dacd23e55bfc3a86334a389e500143949b7d4b26",
+    "title": "Fri Jan 12 10:11:48 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\4115.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "0378948a1da0253af30ce88e4691ed4f8ba5bc5231e7be55e9ff99960c786b22",
+    "title": "ZY-0-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\4127BEKOUWAND.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "dd3c9e3d9214251ebeabefcac50d342fb96c6f2a349988120bd3c7cc6251b8ac",
+    "title": "zy-2-be"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\BE-1-2.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "8f5cba5be04f97a8d1560e981003b85f170de660e00901aaf58a74aab3dc3b01",
+    "title": "Background, Fri Jan 12 08:16:31 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\BE-1.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "aae61d39bef30c527c0ba56f45e59384bb376e0eb52612179a0f1c1adeeadab8",
+    "title": "Background, Fri Jan 12 07:27:44 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\-0.1V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "205151ba2321d8b08ca66d9b6e12991ce05d25e3d1bef82d81ec0893742c198f",
+    "title": "-0.1V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\-0.2V-zy-3.SPA",
+    "bytes": 161924,
+    "attributes": 32,
+    "sha256": "8210769b9131f3c26d6e3f722c1f5dd363e692407e4bf479e5410723fdeedb40",
+    "title": "-0.2-ZY-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\-0.3V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "2657e6e866c8b7e9bebfcaf87bfd4de6241fecd94fdf6c1906ae0d8c9e2d2e78",
+    "title": "-0.3V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\-0.4V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "09c56d9fbe171b903e858f144cf0e09530464cb1db306abe2fd8f27c748ba24e",
+    "title": "-0.4V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\-0.5V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "06a52d4865a15a5652a6eedbb69b72f9dfa0e5ff724a8600305683c9fd193b9f",
+    "title": "-0.5V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\-0.6V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "98016a3af397dc8525c0205b34189ba676b94082f2a2772beaac6fc2a00af283",
+    "title": "-0.6V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\0.1V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "b710e7389c726ff00f87bf22e42f152df2d295e9bac46bddff2653a9fb1d473a",
+    "title": "0.1V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\0.2V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "3282941b724af8a0b2be3d4ae1b2dd53422858eadea64ef499af079f9c9e32cf",
+    "title": "0.2V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\0V-zy-3.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "4891774282cfb114f036a8144742bdfa3eeb697ca60f391fcf44f326179a2756",
+    "title": "0V-zy-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\be-3-2.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "bf67a0c20f43c9773dc1030ea8bed596853c7fb17cd5a8d9e14786f6c7aa98a6",
+    "title": "Background, Tue Jan 16 22:24:19 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\BE-3.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "60db7468103ae874b8b4314231f983c8e30b462d4d26801e538c06c031e43951",
+    "title": "Background, Tue Jan 16 22:15:18 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\3\\OCP-3-ZY.SPA",
+    "bytes": 161884,
+    "attributes": 32,
+    "sha256": "822ae57371987eb472650de702e179cec02e5ec587f9ddfb29c69691ca179062",
+    "title": "ZY-3-OCP"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.1 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "4aab75d0e8494870acabecfea3798a72b25258fbfc719fe4a597ef5c80002687",
+    "title": "-0.1 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.2 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "98d44190be2f5a0b3d41a4d4c53d1baf466e7374550f9846a8fbd652d31ca193",
+    "title": "-0.2 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.3 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "0eb47b49543d50a5c3dc69cafe158abe18c3bb76690412f7115ec0aad4190dd7",
+    "title": "-0.3 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.4 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "720a98c9642a553e8e4f39fdf0cd92d9855637c995b3623fc083952fbbf789a7",
+    "title": "-0.4 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.5v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "0023fad4434bab6b3155c6fb01ec8bea950be0b2ea2c7f6b43cb46a6391d0887",
+    "title": "-0.5 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.6v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "def4907951cc104d96af255f78717754df4eb7aacb4cf65a8ff337050c5da51f",
+    "title": "-0.6v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\-0.8v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "4f388c5c44c868d6aa209411479b8ba4e38af6b83b05d3a0f19d9c77427f798b",
+    "title": "-0.8v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\0.1 v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "7af2da7bc0dd6d209af61dda721a344c517f139ca8bf9979b44f631aded1a306",
+    "title": "0.1 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\0.v-ZY-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "059c7f65ae444b7cbda39d85c1da2c4287df9508914e76d0b07c69dbdb625f07",
+    "title": "0 v-ZY-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-2\\0cp-ZY-2.SPA",
+    "bytes": 161852,
+    "attributes": 32,
+    "sha256": "0167950df219d380a9104bba66780627c3ef9d83729a207ed07d4bed0bed4af3",
+    "title": "zy-2-be"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-3\\-0.1--CoNSC-ZY-3.SPA",
+    "bytes": 161908,
+    "attributes": 32,
+    "sha256": "3ab6ac3e373b3671bb2f0aa41287a01ab3391d017abd44052e55763753e4a59d",
+    "title": "-0.1v-ZY-3-CoNSC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-3\\-02--CoNSC-ZY-3.SPA",
+    "bytes": 161908,
+    "attributes": 32,
+    "sha256": "1961ae014f92ba53663fb259cab2369bf5435f3564f2bd43fec07ca2484e1932",
+    "title": "-0.2v-ZY-3-CoNSC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-3\\-bD-CoNSC-ZY-3.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "08cc38438e89b26d800ecf8a7cee29f1712daa7496766f0f5afc2f88b7318327",
+    "title": "Background, Fri Jan 12 09:33:06 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-3\\0--CoNSC-ZY-3.SPA",
+    "bytes": 161908,
+    "attributes": 32,
+    "sha256": "c4076e50fac460aacb2f8fb0f322a14a4829738c84ace3f794d25ee53dc03691",
+    "title": "0 v-ZY-3-CoNSC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-3\\0.1--CoNSC-ZY-3.SPA",
+    "bytes": 161908,
+    "attributes": 32,
+    "sha256": "2eb8e9f69f38d67590680a59f3c73764afb7860358f7fb557e0dc04e3adccc8c",
+    "title": "0.1v-ZY-3-CoNSC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-3\\2345.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "cb9e21f9428697c1d00ba01b5d72f31d967c215083269814ec3664201f495374",
+    "title": "Fri Jan 12 09:29:15 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-3\\ocp-be-CoNSC-ZY-3.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "cb9e21f9428697c1d00ba01b5d72f31d967c215083269814ec3664201f495374",
+    "title": "Fri Jan 12 09:29:15 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-3\\ocp.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "cb9e21f9428697c1d00ba01b5d72f31d967c215083269814ec3664201f495374",
+    "title": "Fri Jan 12 09:29:15 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0. v-ZY-4-MnNC-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "b5decfb30f6e6570d754acfe0135850c9c50ce49cf69dbd6088eb80bd5543985",
+    "title": "0 v-ZY-4-MnNC-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.1v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "fdb64cbabf10b6aeb85bdb690d9dede5e726b93dc640579332e72469ddd683ce",
+    "title": "-0.1 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.2 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "54bae43435312d083a105469e6cbdcb7ed9a8cd05792ca7dfc412d4b4e29a3d5",
+    "title": "-0.2 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.3 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "8bfbde4f5bcd4e3711518955089fdd7addfcd71bffebb809369a25e0ed6a22de",
+    "title": "-0.3 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.4 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "a5fc3df2cbf676ab9be194e0568244d8a80f2ca1354ee8aad4791a85b5b297e4",
+    "title": "-0.4 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.5 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "1d4847ff1e8a69105c2fb1b8309751b1b65e8aa1b215aa65f825b560c1aed310",
+    "title": "-0.5 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\-0.6 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "7aad5a82bb09b6f7f0bd1aea82bb31d8dfb9bf288b66fe3df4791a99e81a9d8c",
+    "title": "-0.6 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0 v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "acbe5f8a8c30ebf9f5ab2df21acb5780b0d0798839ec4223f3f9e264ed45c6d3",
+    "title": "0 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0.1v-ZY-4-MnNC-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "3eb273863f8274fb411fa4c466fd7215e52b1368f535e3ee1aeec8408a1557f1",
+    "title": "0.1 v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0.1v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "45c028a1f252ac679844a2c411d8dc4d0818b5d9d752953b45a4b6c635a0810a",
+    "title": "0.1v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0.2 v-ZY-4-MnNC-2.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "b0dd50bcb94c8612f564af64b7537313a7d8d2884bb4c3e0a078405125734382",
+    "title": "0.2 v-ZY-4-MnNC-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\0.2v-ZY-4-MnNC.SPA",
+    "bytes": 161896,
+    "attributes": 32,
+    "sha256": "643f3bb537781098251a8769f68473f53d8b12266333b772c11b79bbe8b6533a",
+    "title": "0.2v-ZY-4-MnNC"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\BD-4.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "bd97ab940305bd11099555a7f4172bd6038babd76a59d08e5cae881498bba869",
+    "title": "Background, Fri Jan 12 10:13:17 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\ocp-2.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "465d10479772e74f910deda4dacd23e55bfc3a86334a389e500143949b7d4b26",
+    "title": "Fri Jan 12 10:11:48 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\20240112\\zy-4\\ocp.SPA",
+    "bytes": 161836,
+    "attributes": 32,
+    "sha256": "465d10479772e74f910deda4dacd23e55bfc3a86334a389e500143949b7d4b26",
+    "title": "Fri Jan 12 10:11:48 2024 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\-0.2V-2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "76d038810429ffe76eb031fb73e767d71718b26a45af86a56bc70603d9a5b7ea",
+    "title": "-0.2V-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\-0.4V-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "ea51af6074da4813cb377342f448bc53d2335733110bbd6971926df8995694b8",
+    "title": "-0.4V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\-0.4v-2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "44fdfd787e1e3a41cbaaf395ce55742db4996bc6275891cd7378794325853070",
+    "title": "-0.4v-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\-0.6V--2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "f3f8733722b61dc7ee6bc9179d54746656850f5501e8a4f137ee4cbe69a624b1",
+    "title": "-0.6v-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\-0.6V-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "5f895d58351e091509bfda2c2dfc475f5f39dc238a08bf07037b9102b3efbc16",
+    "title": "-0.6V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\-0.86V-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "35e4c490900504d5fabee4eecc6cc9be5b25db76ba8eccc462afdaaf9675c074",
+    "title": "-0.86v-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\0.1-3.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "97b662bfe0551949c506f3c091f383459ae151e617211c722d30c19966620e32",
+    "title": "0.1V-3"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\0V-1-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "0ef1492e2b2577d23050977004f72df688b85a3222dceaaf51803204d23faf7e",
+    "title": "0V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\0v-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "67a90c4c683c9e697f4a2d8480b32bc6ab0cd535741b07035014400da9da8b2b",
+    "title": "0V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\0v-2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "74e016c68a2e832476078e1117e476394e498d2097b545581be4164fa541c445",
+    "title": "0V-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\1.SPG",
+    "bytes": 809504,
+    "attributes": 32,
+    "sha256": "2dfb760c174d1b4c052b433d46beeae2d767fd6688f37d15055076ba6addb081",
+    "title": "1.SPG"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\BK.SPA",
+    "bytes": 161636,
+    "attributes": 32,
+    "sha256": "bb65a1cdd051c58bf1a500b5d80f88ab2d1035f83602f974cbd96db68694423a",
+    "title": "Background, Wed Dec 13 19:50:47 2023 (GMT+08:00)"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\OCP-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "8a776a60024805742e6747987d6e776b586ce6b57adc7496a574da1044d0250a",
+    "title": "OCP-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\QUANBUDE-20231212-1.SPG",
+    "bytes": 3721600,
+    "attributes": 32,
+    "sha256": "0ca313addab61ecbd0cbd442c1fbd53c64834952fa939bc308324507ec3026f1",
+    "title": "QUANBUDE-20231212-1.SPG"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\1重点！！数据图\\原位红外\\ZHAOYUE-FTIR-1\\QUANBUDE-20231212-13.SPG",
+    "bytes": 1618448,
+    "attributes": 32,
+    "sha256": "d134e38b53ade5aa26c4c88c6bb8cdd37096f2f3b3c5f549a338973193e997e6",
+    "title": "QUANBUDE-20231212-13.SPG"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\-0.2V-2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "76d038810429ffe76eb031fb73e767d71718b26a45af86a56bc70603d9a5b7ea",
+    "title": "-0.2V-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\-0.4V-1.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "ea51af6074da4813cb377342f448bc53d2335733110bbd6971926df8995694b8",
+    "title": "-0.4V-1"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\-0.4v-2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "44fdfd787e1e3a41cbaaf395ce55742db4996bc6275891cd7378794325853070",
+    "title": "-0.4v-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\-0.6V--2.SPA",
+    "bytes": 161880,
+    "attributes": 32,
+    "sha256": "f3f8733722b61dc7ee6bc9179d54746656850f5501e8a4f137ee4cbe69a624b1",
+    "title": "-0.6v-2"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\-0.6V-1.SPA",
+    "bytes": 161880,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\-0.86V-1.SPA",
+    "bytes": 161880,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\0.1-3.SPA",
+    "bytes": 161880,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\0V-1-1.SPA",
+    "bytes": 161880,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\0v-1.SPA",
+    "bytes": 161880,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\0v-2.SPA",
+    "bytes": 161880,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\1.SPG",
+    "bytes": 809504,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\BK.SPA",
+    "bytes": 161636,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\OCP-1.SPA",
+    "bytes": 161880,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  },
+  {
+    "path": "D:\\OneDrive\\1a戴尔电脑\\2024年初\\各种存\\2023 桌面\\20231222桌面\\2023-12-12(2)\\ZHAOYUE\\QUANBUDE-20231212-1.SPG",
+    "bytes": 3721600,
+    "attributes": 5242912,
+    "note": "cloud recall/offline flagged; not read"
+  }
+]

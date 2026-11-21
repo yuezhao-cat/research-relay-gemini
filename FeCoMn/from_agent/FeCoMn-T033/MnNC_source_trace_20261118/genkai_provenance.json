@@ -1,0 +1,116 @@
+[
+  {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full",
+    "energy_sigma0": -1667.7794598,
+    "NBANDS_actual": 460.0,
+    "NELECT": 735.0,
+    "total_moment": 0.468,
+    "Mn179_moment": 0.287,
+    "normal_end": true,
+    "EDIFF_reached": true,
+    "vasp_version": " vasp.6.6.0 06Mar2026 (build Jun 17 2026 17:00:42) complex                      ",
+    "files": {
+      "POSCAR": {
+        "exists": true,
+        "size": 22616,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/POSCAR",
+        "sha256": "b01683e4a7529462e678c30f3dadb0bc48f7f50a0171734ac448895c393f41d3"
+      },
+      "CONTCAR": {
+        "exists": true,
+        "size": 21385,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/CONTCAR",
+        "sha256": "e3ef387eebceb34cdd8d763ae6e9837f49cea7f1b5f8cf1ef9865596d06067ea"
+      },
+      "POTCAR": {
+        "exists": true,
+        "size": 873378,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/POTCAR",
+        "sha256": "aa97bffe0ebf269afcf4d641832e2a3686e4885722aed9e10fc73b7812e2a5ae",
+        "token_sha256": "7b0cefc384587222b02a3acd47f21a7ee638f3b232b676065903f5ae382dceca",
+        "TITEL": [
+          "TITEL  = PAW_PBE C 08Apr2002",
+          "TITEL  = PAW_PBE N 08Apr2002",
+          "TITEL  = PAW_PBE Mn_pv 02Aug2007",
+          "TITEL  = PAW_PBE O 08Apr2002"
+        ]
+      },
+      "KPOINTS": {
+        "exists": true,
+        "size": 31,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/KPOINTS",
+        "sha256": "eb5458194ab7121b0491b77381659e7dfe887a47d2aa6dde49eb1a55c7a01036"
+      },
+      "WAVECAR": {
+        "exists": true,
+        "size": 2134691328,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/WAVECAR"
+      },
+      "CHGCAR": {
+        "exists": true,
+        "size": 792735375,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/CHGCAR",
+        "grid": [
+          252,
+          240,
+          360
+        ]
+      },
+      "AECCAR0": {
+        "exists": true,
+        "size": 396270971,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/AECCAR0",
+        "grid": [
+          252,
+          240,
+          360
+        ]
+      },
+      "AECCAR2": {
+        "exists": true,
+        "size": 396270971,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/AECCAR2",
+        "grid": [
+          252,
+          240,
+          360
+        ]
+      },
+      "DOSCAR": {
+        "exists": true,
+        "size": 82212837,
+        "symlink": false,
+        "resolved": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/DOSCAR"
+      },
+      "COHPCAR.lobster": {
+        "exists": false
+      },
+      "ICOHPLIST.lobster": {
+        "exists": false
+      },
+      "ACF.dat": {
+        "exists": false
+      }
+    },
+    "INCAR": "SYSTEM = MnNC_base_full\nPREC = Accurate\nENCUT = 500\nEDIFF = 1E-6\nNSW = 0\nIBRION = -1\nISYM = 0\nLREAL = .FALSE.\nNELM = 200\nALGO = Normal\nISMEAR = 0\nSIGMA = 0.05\nLMAXMIX = 4\nISPIN = 2\nAMIX = 0.1\nBMIX = 0.0001\nAMIX_MAG = 0.4\nBMIX_MAG = 0.0001\nIVDW = 12\nNCORE = 12\nLWAVE = .TRUE.\nLCHARG = .TRUE.\nLAECHG = .TRUE.\nLORBIT = 11\nNEDOS = 2000\nNGXF = 252\nNGYF = 240\nNGZF = 352\nISTART = 0\nICHARG = 2\nLVHAR = .TRUE.\nMAGMOM = 174*0 4*0 1*3 1*0.5\n",
+    "migration.json": "{\n  \"name\": \"MnNC_base_full\",\n  \"hashes\": {\n    \"POSCAR\": \"b01683e4a7529462e678c30f3dadb0bc48f7f50a0171734ac448895c393f41d3\",\n    \"POTCAR\": \"aa97bffe0ebf269afcf4d641832e2a3686e4885722aed9e10fc73b7812e2a5ae\",\n    \"INCAR\": \"a0adbee2a92b866935853eae96bf31a7d6b46e9e7e454041960b7089fc646bdd\",\n    \"KPOINTS\": \"eb5458194ab7121b0491b77381659e7dfe887a47d2aa6dde49eb1a55c7a01036\",\n    \"submit.sh\": \"320726044b0ed39bb9d4c41593a25916dddc9c6d96636bcb51c87e758110bf5f\"\n  },\n  \"genkai_id\": \"7158551\",\n  \"imr_retained\": true\n}",
+    "Bader": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/bader_validated_20261024/ACF.dat",
+      "Mn_electrons": 11.507781,
+      "valence_electron_sum": 734.9999560000001
+    },
+    "DOS_occupied_d_center_eV": -3.4420218129548563,
+    "DOS_window_eV": [
+      -8,
+      0
+    ]
+  }
+]

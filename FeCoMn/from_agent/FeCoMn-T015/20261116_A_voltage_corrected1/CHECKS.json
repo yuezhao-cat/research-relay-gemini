@@ -1,0 +1,371 @@
+{
+  "source": "FeCoMn/data/SEIRAS_20241021_1-2/",
+  "used_FILES": [
+    "0.2",
+    "0.1",
+    "0",
+    "-0.1",
+    "-0.2",
+    "-0.3",
+    "-0.4",
+    "-0.5",
+    "-0.6",
+    "-0.7",
+    "-0.8",
+    "-0.9",
+    "-11"
+  ],
+  "unused_duplicate": "-1.CSV",
+  "source_SHA256": {
+    "0.2.CSV": "0c6c43ba1d957314e289387a57fb452eceae8c8585936dd76eb811cffc454c56",
+    "0.1.CSV": "a5bf646d5b0b55d23dbc20b0192b7c8a5c2107a7293ea92df840d31c5fe915bd",
+    "0.CSV": "ec78cac47fac4b35382df42b7ec2be4bbff4633592926d4bafd1802970f8c8c9",
+    "-0.1.CSV": "797f03a75ae4b235a8f2163594c48516dec243bb1045491bebe852cffb1735cb",
+    "-0.2.CSV": "77a98737191d3e4ae892f2ecde8b86fcf33357c6d428ae31e9916076f1bb819e",
+    "-0.3.CSV": "087204948344f32b789d1288ab1678d978930a06240fd5c50b54ac57a13426ac",
+    "-0.4.CSV": "323ba2c54062d87beea891eac43cf3e56ac41f7430ce02dc78b2e10aa8435cc9",
+    "-0.5.CSV": "9c52f7ece000d139f7cb0c5489aa71383fefc9e5b038bd61a74940c882affd86",
+    "-0.6.CSV": "789b236df9d365ced85d12776e3c59d7d4c5ce417a355371f24cfec54050fa5a",
+    "-0.7.CSV": "58078c5d1ed9697f18189803a48fa76d7693f8c9347b71162121f0ea6a1dc453",
+    "-0.8.CSV": "10f1d27dc21e8d5848c6db00458374f1c6f03af9b5360a7345f3ed51feefe3f1",
+    "-0.9.CSV": "558061c384f8223685d9eef73e37668760ff4db30a67a4a2d0196f90ecbcfefa",
+    "-11.CSV": "788d286975b700f81190975731d3e9c231c988b42d0e7e8c6b6d4846eddfd79f"
+  },
+  "read_counts": {
+    "0.2.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "0.1.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "0.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.1.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.2.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.3.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.4.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.5.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.6.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.7.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.8.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-0.9.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    },
+    "-11.CSV": {
+      "rows": 6950,
+      "deleted_nonfinite": 7
+    }
+  },
+  "E_RHE": [
+    1.216,
+    1.116,
+    1.016,
+    0.916,
+    0.8160000000000001,
+    0.716,
+    0.616,
+    0.516,
+    0.41600000000000004,
+    0.31600000000000006,
+    0.21599999999999997,
+    0.11599999999999999,
+    0.016000000000000014
+  ],
+  "E_note": "All E_RHE = E_SCE + 1.016 V; -11.CSV is remeasured -1.0 V vs SCE per user correction 2026-11-16, E_RHE=0.016 V, displayed0V",
+  "reference": "0.2.CSV=1.216 V; display 1.22 V",
+  "anchors_cm-1": [
+    [
+      1330,
+      1370
+    ],
+    [
+      1900,
+      1950
+    ],
+    [
+      2550,
+      2650
+    ],
+    [
+      3850,
+      3950
+    ]
+  ],
+  "baseline": "per-spectrum mean x and mean y; piecewise linear np.interp; constant endpoint extension outside anchors, matching supplied Claude script",
+  "means": [
+    {
+      "window_cm-1": [
+        2500,
+        2700
+      ],
+      "unsmoothed_mean_delta_milli": -0.01735642163923537,
+      "Claude_rounded": 0.0,
+      "rounded_match": true,
+      "SG41_mean_delta_milli": -0.01745937259652783
+    },
+    {
+      "window_cm-1": [
+        2000,
+        2200
+      ],
+      "unsmoothed_mean_delta_milli": -0.2931294335935443,
+      "Claude_rounded": -0.3,
+      "rounded_match": true,
+      "SG41_mean_delta_milli": -0.2930292798701688
+    },
+    {
+      "window_cm-1": [
+        3700,
+        3800
+      ],
+      "unsmoothed_mean_delta_milli": 2.1470509003863345,
+      "Claude_rounded": 2.1,
+      "rounded_match": true,
+      "SG41_mean_delta_milli": 2.1485638607333764
+    },
+    {
+      "window_cm-1": [
+        3257,
+        3357
+      ],
+      "unsmoothed_mean_delta_milli": -9.822795853309689,
+      "Claude_rounded": -9.8,
+      "rounded_match": true,
+      "SG41_mean_delta_milli": -9.822730102985592
+    },
+    {
+      "window_cm-1": [
+        1613,
+        1653
+      ],
+      "unsmoothed_mean_delta_milli": -3.8068618961550027,
+      "Claude_rounded": -3.8,
+      "rounded_match": true,
+      "SG41_mean_delta_milli": -3.8068087900825316
+    },
+    {
+      "window_cm-1": [
+        1191,
+        1239
+      ],
+      "unsmoothed_mean_delta_milli": 7.025663828941219,
+      "Claude_rounded": 7.0,
+      "rounded_match": true,
+      "SG41_mean_delta_milli": 7.02598556211567
+    }
+  ],
+  "array_SHA256": {
+    "x": "b753b1f000ddcbfdb704b0a15c721de28af66e374578ce9574a9aa7861279653",
+    "instrument_absorbance": "e2ede01ac71e952b27eb05a0d280067bad47606e0a50533ceebc74cd710528ce",
+    "four_point_baseline": "913cf2cee9ce3aec6f123621cb4986baf9a1a37fc3a13b6adb307c7ce23c52de",
+    "corrected_absorbance": "e276bd8b84d7f4b440426f34835b0c24a390d48eaaff66eb315ac76d47dde875",
+    "difference_milli": "015578bb116edec8c8372ef541422ff8898f7a02854c9766b1ecbf5284fafb69"
+  },
+  "SI_note": "Instrument/open-circuit-background absorbance; display SG only; NO additional four-point baseline and NO subtraction of 1.22 V",
+  "variants": [
+    {
+      "name": "V2",
+      "file_stem": "Figure_4_20261116_A_voltage_corrected1_V2",
+      "elev": 26,
+      "azim": -95,
+      "projection": "perspective, focal_length=1.6",
+      "box_aspect": [
+        3.8,
+        2.9,
+        2.1
+      ],
+      "zoom": 1.1459525828403128,
+      "canvas_mm": [
+        177.8,
+        178
+      ],
+      "floor_milli": -54.0,
+      "top_milli": 12.0,
+      "full_surface_minmax_milli": [
+        -9.951740327658522,
+        9.268282151586662
+      ],
+      "surface_array_SHA256": "28cfab17e5c03683589b7bc71952507e183d102db3a144baa278030dd4d18d2e",
+      "floor_surface_same_values": true,
+      "norm_limits_milli": [
+        -10,
+        8
+      ],
+      "accent_only_below_milli": -7.4,
+      "accent_surface_fraction": 0.048470924449798974,
+      "purple_endpoint": "#8f8bc0",
+      "color_saturation_fraction": 0.0388607931860527,
+      "measured_E_line_count": 0,
+      "measured_E_node_count": 13,
+      "b_line_width_pt": 1.15,
+      "surface_display_E_rows": 100,
+      "E_interpolation_original_node_max_error": 0,
+      "front_axis_endpoints_mm": [
+        [
+          19.158468985208433,
+          89.76075533525672
+        ],
+        [
+          159.1313106660756,
+          86.62510638727234
+        ]
+      ],
+      "b_outer_edges_mm": [
+        13,
+        161.0
+      ],
+      "alignment_error_mm": [
+        3.552713678800501e-15,
+        0.0
+      ],
+      "alignment_basis": "entire projected box outermost lines, all eight corners",
+      "front_axis_vertical_difference_mm": -3.1356489479843788,
+      "minimum_floor_to_surface_screen_gap_mm": 5.004615344253885,
+      "feature_labels": [
+        {
+          "band": 3307,
+          "position_mm": [
+            30.887684415028883,
+            37.88087656667137
+          ],
+          "height_milli": 2.7
+        },
+        {
+          "band": 2340,
+          "position_mm": [
+            79.53665473330726,
+            31.202381574133362
+          ],
+          "height_milli": 4.107945577618391
+        },
+        {
+          "band": 1633,
+          "position_mm": [
+            115.03419709454958,
+            31.55670732561977
+          ],
+          "height_milli": 2.7
+        },
+        {
+          "band": 1215,
+          "position_mm": [
+            143.53397990544744,
+            29.962258720985115
+          ],
+          "height_milli": 11.648152332246795
+        }
+      ],
+      "b": [
+        {
+          "window_cm-1": [
+            3650,
+            2750
+          ],
+          "SG_points": 21,
+          "scale_divisor": 1,
+          "stack_step_milli_div_sc": 2.980513029552181,
+          "min_adjacent_gap": 1.8340479274947228,
+          "E_order_top_to_bottom": "high to low",
+          "scale_bar_absorbance": null,
+          "common_scale_bar_applies": null,
+          "common_ylim_milli": [
+            -2.8315395723543006,
+            50.023865778259314
+          ],
+          "common_absorbance_per_mm": 0.000978803802789141,
+          "bar_bottom_above_curve_max": 2.831539572354302,
+          "frame_mm": [
+            13.0,
+            109,
+            53.008620689655174,
+            54
+          ],
+          "display_array_SHA256": "29b88de399808f39e7c5caa4c4727d24e17bfa8860e270848d8ca77172914226"
+        },
+        {
+          "window_cm-1": [
+            1720,
+            1570
+          ],
+          "SG_points": 41,
+          "scale_divisor": 1,
+          "stack_step_milli_div_sc": 3.5267862060386515,
+          "min_adjacent_gap": 3.359272062488486,
+          "E_order_top_to_bottom": "high to low",
+          "scale_bar_absorbance": null,
+          "common_scale_bar_applies": null,
+          "common_ylim_milli": [
+            -2.8315395723543006,
+            50.023865778259314
+          ],
+          "common_absorbance_per_mm": 0.000978803802789141,
+          "bar_bottom_above_curve_max": 2.831539572354302,
+          "frame_mm": [
+            68.50862068965517,
+            109,
+            36.98275862068966,
+            54
+          ],
+          "display_array_SHA256": "c6d1af83a4788bf76247fb7fdaa9e695464f39d3e1bc13de0ddcb5d40cf1c7b4"
+        },
+        {
+          "window_cm-1": [
+            1330,
+            1175
+          ],
+          "SG_points": 21,
+          "scale_divisor": 1,
+          "stack_step_milli_div_sc": 3.9113969932103916,
+          "min_adjacent_gap": 1.8601822165057058,
+          "E_order_top_to_bottom": "high to low",
+          "scale_bar_absorbance": null,
+          "common_scale_bar_applies": null,
+          "common_ylim_milli": [
+            -2.8315395723543006,
+            50.023865778259314
+          ],
+          "common_absorbance_per_mm": 0.000978803802789141,
+          "bar_bottom_above_curve_max": 2.831539572354302,
+          "frame_mm": [
+            107.99137931034483,
+            109,
+            53.008620689655174,
+            54
+          ],
+          "display_array_SHA256": "6d9dd5395030a0222dedf0d74105c45c8b080ade48329225ccd31a61750adf05"
+        }
+      ],
+      "SI_baseline_applied": false
+    }
+  ],
+  "SI": []
+}

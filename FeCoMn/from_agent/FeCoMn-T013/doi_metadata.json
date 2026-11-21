@@ -1,0 +1,789 @@
+{
+  "10.1002/adma.201706758": {
+    "title": "Nitrogen‐Coordinated Single Cobalt Atom Catalysts for Oxygen Reduction in Proton Exchange Membrane Fuel Cells",
+    "abstract": " Abstract \n                   \n                    Due to the Fenton reaction, the presence of Fe and peroxide in electrodes generates free radicals causing serious degradation of the organic ionomer and the membrane. Pt‐free and Fe‐free cathode catalysts therefore are urgently needed for durable and inexpensive proton exchange membrane fuel cells (PEMFCs). Herein, a high‐performance nitrogen‐coordinated single Co atom catalyst is derived from Co‐doped metal‐organic frameworks (MOFs) through a one‐step thermal activation. Aberration‐corrected electron microscopy combined with X‐ray absorption spectroscopy virtually verifies the CoN\n                     4 \n                    coordination at an atomic level in the catalysts. Through investigating effects of Co doping contents and thermal activation temperature, an atomically Co site dispersed catalyst with optimal chemical and structural properties has achieved respectable activity and stability for the oxygen reduction reaction (ORR) in challenging acidic media (e.g., half‐wave potential of 0.80 V vs reversible hydrogen electrode (RHE). The performance is comparable to Fe‐based catalysts and 60 mV lower than Pt/C ‐60 μg Pt cm\n                     −2 \n                    ). Fuel cell tests confirm that catalyst activity and stability can translate to high‐performance cathodes in PEMFCs. The remarkably enhanced ORR performance is attributed to the presence of well‐dispersed CoN\n                     4 \n                    active sites embedded in 3D porous MOF‐derived carbon particles, omitting any inactive Co aggregates.\n                   ",
+    "source": "https://api.crossref.org/works/10.1002%2Fadma.201706758",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/adma.201706758"
+  },
+  "10.1002/adma.202211022": {
+    "title": "FeNC Oxygen Reduction Electrocatalyst with High Utilization Penta‐Coordinated Sites",
+    "abstract": " Abstract \n                   \n                    Atomic Fe in N‐doped carbon (FeNC) electrocatalysts for oxygen (O\n                     2 \n                    ) reduction at the cathode of proton exchange membrane fuel cells are the most promising alternative to platinum‐group‐metal catalysts. Despite recent progress on atomic FeNC O\n                     2 \n                     reduction, their controlled synthesis and stability for practical applications remain challenging. A two‐step synthesis approach has recently led to significant advances in terms of Fe‐loading and mass activity; however, the Fe utilization remains low owing to the difficulty of building scaffolds with sufficient porosity that electrochemically exposes the active sites. Herein, this issue is addressed by coordinating Fe in a highly porous nitrogen‐doped carbon support (≈3295 m\n                     2 \n                     g\n                     −1 \n                    ), prepared by pyrolysis of inexpensive 2,4,6‐triaminopyrimidine and a Mg\n                     2+ \n                    salt active site template and porogen. Upon Fe coordination, a high electrochemical active site density of 2.54 × 10\n                     19 \n                     sites g\n                     FeNC \n                     −1 \n                     and a record 52% FeN\n                     \n                       x \n                     \n                    electrochemical utilization based on in situ nitrite stripping are achieved. The Fe single atoms are characterized pre‐ and post‐electrochemical accelerated stress testing by aberration‐corrected high‐angle annular dark field scanning transmission electron microscopy, showing no Fe clustering. Moreover, ex situ X‐ray absorption spectroscopy and low‐temperature Mössbauer spectroscopy suggest the presence of penta‐coordinated Fe sites, which are further studied by density functional theory calculations.\n                   ",
+    "source": "https://api.crossref.org/works/10.1002%2Fadma.202211022",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/adma.202211022"
+  },
+  "10.1002/adma.202300905": {
+    "title": "Geometric and Electronic Engineering of Atomically Dispersed Copper‐Cobalt Diatomic Sites for Synergistic Promotion of Bifunctional Oxygen Electrocatalysis in Zinc–Air Batteries",
+    "abstract": " Abstract \n                   \n                    The development of rechargeable zinc–air batteries is heavily dependent on bifunctional oxygen electrocatalysts to offer exceptional oxygen reduction/evolution reaction (ORR/OER) activities. However, the design of such electrocatalysts with high activity and durability is challenging. Herein, a strategy is proposed to create an electrocatalyst comprised of copper‐cobalt diatomic sites on a highly porous nitrogen‐doped carbon matrix (Cu‐Co/NC) with abundantly accessible metal sites and optimal geometric and electronic structures. Experimental findings and theoretical calculations demonstrate that the synergistic effect of Cu‐Co dual‐metal sites with metal‐N\n                     4 \n                    coordination induce asymmetric charge distributions with moderate adsorption/desorption behavior with oxygen intermediates. This electrocatalyst exhibits extraordinary bifunctional oxygen electrocatalytic activities in alkaline media, with a half‐wave potential of 0.92 V for ORR and a low overpotential of 335 mV at 10 mA cm\n                     −2 \n                    for OER. In addition, it demonstrates exceptional ORR activity in acidic (0.85 V) and neutral (0.74 V) media. When applied to a zinc–air battery, it achieves extraordinary operational performance and outstanding durability (510 h), ranking it as one of the most efficient bifunctional electrocatalysts reported to date. This work demonstrates the importance of geometric and electronic engineering of isolated dual‐metal sites for boosting bifunctional electrocatalytic activity in electrochemical energy devices.\n                   ",
+    "source": "https://api.crossref.org/works/10.1002%2Fadma.202300905",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/adma.202300905"
+  },
+  "10.1002/adma.202210714": {
+    "title": "High Durability of Fe–N–C Single‐Atom Catalysts with Carbon Vacancies toward the Oxygen Reduction Reaction in Alkaline Media",
+    "abstract": " Abstract \n                   \n                    Single‐atom catalysts (SACs) have attracted extensive interest to catalyze the oxygen reduction reaction (ORR) in fuel cells and metal–air batteries. However, the development of SACs with high selectivity and long‐term stability is a great challenge. In this work, carbon vacancy modified Fe–N–C SACs (Fe\n                     H \n                    –N–C) are practically designed and synthesized through microenvironment modulation, achieving high‐efficient utilization of active sites and optimization of electronic structures. The Fe\n                     H \n                    –N–C catalyst exhibits a half‐wave potential (\n                     E \n                     1/2 \n                    ) of 0.91 V and sufficient durability of 100 000 voltage cycles with 29 mV\n                     E \n                     1/2 \n                    loss. Density functional theory (DFT) calculations confirm that the vacancies around metal–N\n                     4 \n                    sites can reduce the adsorption free energy of OH*, and hinder the dissolution of metal center, significantly enhancing the ORR kinetics and stability. Accordingly, Fe\n                     H \n                    –N–C SACs presented a high‐power density and long‐term stability over 1200 h in rechargeable zinc–air batteries (ZABs). This work will not only guide for developing highly active and stable SACs through rational modulation of metal–N\n                     4 \n                    sites, but also provide an insight into the optimization of the electronic structure to boost electrocatalytical performances.\n                   ",
+    "source": "https://api.crossref.org/works/10.1002%2Fadma.202210714",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/adma.202210714"
+  },
+  "10.1002/celc.201600163": {
+    "title": "Investigation of Oxygen Reduction Activity of Catalysts Derived from Co and Co/Zn Methyl‐Imidazolate Frameworks in Proton Exchange Membrane Fuel Cells",
+    "abstract": " Abstract  We demonstrated that the oxygen reduction reaction (ORR) activity over catalysts derived from pyrolyzed cobalt zeolitic imidazolate frameworks (ZIFs) depends strongly on the imidazole ligand structure and cobalt content. The activity and durability of these catalysts were tested in the proton exchange membrane fuel cell for the first time. The membrane electrode assembly containing a catalyst derived from Co/Zn bimetallic ZIF at the cathode achieved an open‐circuit voltage of 0.93 V, a current density of 28 mA cm −2  at 0.8 V  iR ‐free , and a peak power density of 374 mW cm −2 . ",
+    "source": "https://api.crossref.org/works/10.1002%2Fcelc.201600163",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/celc.201600163"
+  },
+  "10.1002/adma.201304238": {
+    "title": "Highly Efficient Non‐Precious Metal Electrocatalysts Prepared from One‐Pot Synthesized Zeolitic Imidazolate Frameworks",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1002%2Fadma.201304238",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/adma.201304238"
+  },
+  "10.1002/anie.201804958": {
+    "title": "Efficient Oxygen Reduction Reaction (ORR) Catalysts Based on Single Iron Atoms Dispersed on a Hierarchically Structured Porous Carbon Framework",
+    "abstract": " Abstract \n                   \n                    Single Fe atoms dispersed on hierarchically structured porous carbon (SA‐Fe‐HPC) frameworks are prepared by pyrolysis of unsubstituted phthalocyanine/iron phthalocyanine complexes confined within micropores of the porous carbon support. The single‐atom Fe catalysts have a well‐defined atomic dispersion of Fe atoms coordinated by N ligands on the 3D hierarchically porous carbon support. These SA‐Fe‐HPC catalysts are comparable to the commercial Pt/C electrode even in acidic electrolytes for oxygen reduction reaction (ORR) in terms of the ORR activity (\n                     E \n                     1/2 \n                    =0.81 V), but have better long‐term electrochemical stability (7 mV negative shift after 3000 potential cycles) and fuel selectivity. In alkaline media, the SA‐Fe‐HPC catalysts outperform the commercial Pt/C electrode in ORR activity (\n                     E \n                     1/2 \n                    =0.89 V), fuel selectivity, and long‐term stability (1 mV negative shift after 3000 potential cycles). Thus, these nSA‐Fe‐HPCs are promising non‐platinum‐group metal ORR catalysts for fuel‐cell technologies.\n                   ",
+    "source": "https://api.crossref.org/works/10.1002%2Fanie.201804958",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/anie.201804958"
+  },
+  "10.1002/smtd.202000085": {
+    "title": "Nanosized Zirconium Porphyrinic Metal–Organic Frameworks that Catalyze the Oxygen Reduction Reaction in Acid",
+    "abstract": " Abstract  Porphyrinic metal–organic frameworks (PMOFs) are very appealing electrocatalytic materials, in part, due to their highly porous backbone, well‐defined and dispersed metal active sites, and their long‐range order. Herein a series of (Co)PCN222 (PCN: porous coordination network) (nano)particles with different sizes are successfully prepared by coordination modulation synthesis. These particles exhibit stability in 0.1  m  HClO 4  electrolyte with no obvious particle size or compositional changes observed after being soaked for 3 days in the electrolyte or during electrocatalysis. This long‐term stability enables the in‐depth investigation into the electrocatalytic oxygen reduction, and it is further demonstrated that the (Co)PCN222 particle size correlates with its catalytic activity. Of the three particle sizes evaluated (characteristic length scales of 200, 500, and 1000 nm), the smallest size demonstrates the highest mass activity while the largest size has the highest surface area normalized activity. Together these results highlight the importance of determining the structural stability of framework catalysts and provide insights into the important roles of particle size, opening new avenues to investigate and improve the electrocatalytic performance of this class of framework material. ",
+    "source": "https://api.crossref.org/works/10.1002%2Fsmtd.202000085",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/smtd.202000085"
+  },
+  "10.1002/chem.201003080": {
+    "title": "Cobalt Imidazolate Framework as Precursor for Oxygen Reduction Reaction Electrocatalysts",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1002%2Fchem.201003080",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/chem.201003080"
+  },
+  "10.1002/chem.201300145": {
+    "title": "Zeolitic Imidazolate Framework (ZIF)‐Derived, Hollow‐Core, Nitrogen‐Doped Carbon Nanostructures for Oxygen‐Reduction Reactions in PEFCs",
+    "abstract": " Abstract  The facile synthesis of a porous carbon material that is doped with iron‐coordinated nitrogen active sites (FeNC‐70) is demonstrated by following an inexpensive synthetic pathway with a zeolitic imidazolate framework (ZIF‐70) as a template. To emphasize the possibility of tuning the porosity and surface area of the resulting carbon materials based on the structure of the parent ZIF, two other ZIFs, that is, ZIF‐68 and ZIF‐69, are also synthesized. The resulting active carbon material that is derived from ZIF‐70, that is, FeNC‐70, exhibits the highest BET surface area of 262 m 2  g −1  compared to the active carbon materials that are derived from ZIF‐68 and ZIF‐69. The HR‐TEM images of FeNC‐70 show that the carbon particles have a bimodal structure that is composed of a spherical macroscopic pore (about 200 nm) and a mesoporous shell. X‐ray photoelectron spectroscopy (XPS) reveals the presence of Fe‐N‐C moieties, which are the primary active sites for the oxygen‐reduction reaction (ORR). Quantitative estimation by using EDAX analysis reveals a nitrogen content of 14.5 wt. %, along with trace amounts of iron (0.1 wt. %), in the active FeNC‐70 catalyst. This active porous carbon material, which is enriched with Fe‐N‐C moieties, reduces the oxygen molecule with an onset potential at 0.80 V versus NHE through a pathway that involves 3.3–3.8  e  −  under acidic conditions, which is much closer to the favored 4  e  −  pathway for the ORR. The onset potential of FeNC‐70 is significantly higher than those of its counterparts (FeNC‐68 and FeNC‐69) and of other reported systems. The FeNC‐based systems also exhibit much‐higher tolerance towards MeOH oxidation and electrochemical stability during an accelerated durability test (ADT). Electrochemical analysis and structural characterizations predict that the active sites for the ORR are most likely to be the in situ generated NFeN 2+2 /C moieties, which are distributed along the carbon framework. ",
+    "source": "https://api.crossref.org/works/10.1002%2Fchem.201300145",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/chem.201300145"
+  },
+  "10.1002/smll.202311946": {
+    "title": "Co–N–C/C Bifunctional Electrocatalyst for Dual Applications in Seawater Electrolysis and Catalyst in Hydrazine Fuel Cells",
+    "abstract": " Abstract  The convergence of water electrolysis and alkaline fuel cells offers captivating solutions for sustainably harvesting energy. The research explores both hydrazine‐assisted seawater electrolysis (hydrazine oxidation reaction (HzOR) and hydrogen production reaction (HER)), as well as alkaline hydrazine fuel cell reactions (HzOR and Oxygen reduction reaction (ORR)) by using a bifunctional cobalt polyaniline derived (Co PANI/C) catalyst. The catalyst shows excellent performance for hydrazine‐assisted seawater electrolysis in harsh seawater environments to produce H 2  as fuel with nearly 85% Faradaic efficiency and during alkaline HzOR, the bifunctional catalyst generates H 2  with 95% Faradaic efficiency by acting as both anode and cathode side catalyst. Also, the same catalyst requires only a potential of 0.34 V versus RHE and 0.906 V versus RHE for HzOR and ORR, respectively, in 1  m  KOH, which makes this overall process useful for a Hz/O 2  fuel cell. ",
+    "source": "https://api.crossref.org/works/10.1002%2Fsmll.202311946",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/smll.202311946"
+  },
+  "10.1007/s11581-021-04020-1": {
+    "title": "Multi-doped carbon derived from notoginseng as a high-performance catalyst for oxygen reduction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1007%2Fs11581-021-04020-1",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1007/s11581-021-04020-1"
+  },
+  "10.1007/s12274-016-1347-8": {
+    "title": "High-performance oxygen reduction and evolution carbon catalysis: From mechanistic studies to device integration",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1007%2Fs12274-016-1347-8",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1007/s12274-016-1347-8"
+  },
+  "10.1007/s10853-021-05806-4": {
+    "title": "Nanostructured tubular carbon materials doped with cobalt as electrocatalyst for efficient oxygen reduction reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1007%2Fs10853-021-05806-4",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1007/s10853-021-05806-4"
+  },
+  "10.1016/j.apcatb.2018.10.034": {
+    "title": "Mn- and N- doped carbon as promising catalysts for oxygen reduction reaction: Theoretical prediction and experimental validation",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.apcatb.2018.10.034",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.apcatb.2018.10.034"
+  },
+  "10.1007/s40820-023-01022-8": {
+    "title": "Mutual Self-Regulation of d-Electrons of Single Atoms and Adjacent Nanoparticles for Bifunctional Oxygen Electrocatalysis and Rechargeable Zinc-Air Batteries",
+    "abstract": " Abstract  Rechargeable zinc-air batteries (ZABs) are a promising energy conversion device, which rely critically on electrocatalysts to accelerate their rate-determining reactions such as oxygen reduction (ORR) and oxygen evolution reactions (OER). Herein, we fabricate a range of bifunctional M–N–C (metal-nitrogen-carbon) catalysts containing M–N  x   coordination sites and M/M  x  C nanoparticles (M = Co, Fe, and Cu) using a new class of γ-cyclodextrin (CD) based metal–organic framework as the precursor. With the two types of active sites interacting with each other in the catalysts, the obtained Fe@C-FeNC and Co@C-CoNC display superior alkaline ORR activity in terms of low half-wave ( E  1/2 ) potential (~ 0.917 and 0.906 V, respectively), which are higher than Cu@C-CuNC (~ 0.829 V) and the commercial Pt/C (~ 0.861 V). As a bifunctional electrocatalyst, the Co@C-CoNC exhibits the best performance, showing a bifunctional ORR/OER overpotential (Δ E ) of ~ 0.732 V, which is much lower than that of Fe@C-FeNC (~ 0.831 V) and Cu@C-CuNC (~ 1.411 V), as well as most of the robust bifunctional electrocatalysts reported to date. Synchrotron X-ray absorption spectroscopy and density functional theory simulations reveal that the strong electronic correlation between metallic Co nanoparticles and the atomic Co-N 4  sites in the Co@C-CoNC catalyst can increase the d-electron density near the Fermi level and thus effectively optimize the adsorption/desorption of intermediates in ORR/OER, resulting in an enhanced bifunctional electrocatalytic performance. The Co@C-CoNC-based rechargeable ZAB exhibited a maximum power density of 162.80 mW cm −2  at 270.30 mA cm −2 , higher than the combination of commercial Pt/C + RuO 2  (~ 158.90 mW cm −2  at 265.80 mA cm −2 ) catalysts. During the galvanostatic discharge at 10 mA cm −2 , the ZAB delivered an almost stable discharge voltage of 1.2 V for ~ 140 h, signifying the virtue of excellent bifunctional ORR/OER electrocatalytic activity.  ",
+    "source": "https://api.crossref.org/works/10.1007%2Fs40820-023-01022-8",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1007/s40820-023-01022-8"
+  },
+  "10.1007/s40843-022-2207-x": {
+    "title": "Post-synthetic electrostatic adsorption-assisted fabrication of efficient single-atom Fe-N-C oxygen reduction catalysts for Zn-air batteries 后合成静电吸附辅助制备高效Fe-N-C单原子氧还原催化剂用于锌-空气电池",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1007%2Fs40843-022-2207-x",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1007/s40843-022-2207-x"
+  },
+  "10.1016/j.apcatb.2021.119888": {
+    "title": "Conferring supramolecular guanosine gel nanofiber with ZIF-67 for high-performance oxygen reduction catalysis in rechargeable zinc–air batteries",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.apcatb.2021.119888",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.apcatb.2021.119888"
+  },
+  "10.1016/j.cattod.2019.05.034": {
+    "title": "Selective H2O2 production on surface-oxidized metal-nitrogen-carbon electrocatalysts",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.cattod.2019.05.034",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.cattod.2019.05.034"
+  },
+  "10.1016/j.cclet.2022.02.041": {
+    "title": "Biomass derived Fe-N/C catalyst for efficiently catalyzing oxygen reduction reaction in both alkaline and neutral pH conditions",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.cclet.2022.02.041",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.cclet.2022.02.041"
+  },
+  "10.1016/j.carbon.2020.12.053": {
+    "title": "Ni3Fe nanoalloys embedded in N-doped carbon derived from dual-metal ZIF: Efficient bifunctional electrocatalyst for Zn-air battery",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.carbon.2020.12.053",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.carbon.2020.12.053"
+  },
+  "10.1016/j.cej.2021.130135": {
+    "title": "S, N co-doped carbon nanotube encased Co NPs as efficient bifunctional oxygen electrocatalysts for zinc-air batteries",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.cej.2021.130135",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.cej.2021.130135"
+  },
+  "10.1016/j.cej.2023.142987": {
+    "title": "Tailoring MOF structure via iron decoration to enhance ORR in alkaline polymer electrolyte membrane fuel cells",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.cej.2023.142987",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.cej.2023.142987"
+  },
+  "10.1016/j.chempr.2019.12.008": {
+    "title": "Enabling Direct H2O2 Production in Acidic Media through Rational Design of Transition Metal Single Atom Catalyst",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.chempr.2019.12.008",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.chempr.2019.12.008"
+  },
+  "10.1016/j.coco.2021.100866": {
+    "title": "Hollow high-entropy metal organic framework derived nanocomposite as efficient electrocatalyst for oxygen reduction reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.coco.2021.100866",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.coco.2021.100866"
+  },
+  "10.1016/j.elecom.2021.106960": {
+    "title": "Recovering activity of anodically challenged oxygen reduction electrocatalysts by means of reductive potential pulses",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.elecom.2021.106960",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.elecom.2021.106960"
+  },
+  "10.1016/j.electacta.2021.139200": {
+    "title": "In situ 57Fe mössbauer study of a porphyrin based FeNC catalyst for ORR",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.electacta.2021.139200",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.electacta.2021.139200"
+  },
+  "10.1016/j.gee.2022.02.005": {
+    "title": "Manipulating oxygenate adsorption on N-doped carbon by coupling with CoSn alloy for bifunctional oxygen electrocatalyst",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.gee.2022.02.005",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.gee.2022.02.005"
+  },
+  "10.1016/j.ijhydene.2021.08.047": {
+    "title": "Co–Co3O4 nanostructure with nitrogen-doped carbon as bifunctional catalyst for oxygen electrocatalysis",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.ijhydene.2021.08.047",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.ijhydene.2021.08.047"
+  },
+  "10.1016/j.jallcom.2025.182647": {
+    "title": "Stepwise-doped CoFe/ N-doped CNTs as efficient bifunctional catalysts for Zn-air batteries",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.jallcom.2025.182647",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.jallcom.2025.182647"
+  },
+  "10.1016/j.nanoen.2016.04.041": {
+    "title": "Carbon-based electrocatalyst derived from bimetallic metal-organic framework arrays for high performance oxygen reduction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.nanoen.2016.04.041",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.nanoen.2016.04.041"
+  },
+  "10.1016/j.jpowsour.2016.02.020": {
+    "title": "Porous Fe-Nx/C hybrid derived from bi-metal organic frameworks as high efficient electrocatalyst for oxygen reduction reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.jpowsour.2016.02.020",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.jpowsour.2016.02.020"
+  },
+  "10.1016/j.nanoen.2016.04.042": {
+    "title": "Directly converting Fe-doped metal–organic frameworks into highly active and stable Fe-N-C catalysts for oxygen reduction in acid",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.nanoen.2016.04.042",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.nanoen.2016.04.042"
+  },
+  "10.1016/j.jechem.2020.04.032": {
+    "title": "Electrolyte accessibility of non-precious-metal catalysts with different spherical particle sizes under alkaline conditions for oxygen reduction reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.jechem.2020.04.032",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.jechem.2020.04.032"
+  },
+  "10.1016/j.jpowsour.2021.229817": {
+    "title": "Insights into properties of non-precious metal catalyst (NPMC)-based catalyst layer for proton exchange membrane fuel cells",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.jpowsour.2021.229817",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.jpowsour.2021.229817"
+  },
+  "10.1016/j.xcrp.2020.100115": {
+    "title": "Identifying the Active Sites of a Single Atom Catalyst with pH-Universal Oxygen Reduction Reaction Activity",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.xcrp.2020.100115",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.xcrp.2020.100115"
+  },
+  "10.1016/j.xcrp.2023.101335": {
+    "title": "Ultraflexible tattoo electrodes for epidermal and in vivo electrophysiological recording",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fj.xcrp.2023.101335",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/j.xcrp.2023.101335"
+  },
+  "10.1016/s1872-2067(20)63667-1": {
+    "title": "3D-ordered macroporous N-doped carbon encapsulating Fe-N alloy derived from a single-source metal-organic framework for superior oxygen reduction reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1016%2Fs1872-2067%2820%2963667-1",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1016/s1872-2067(20)63667-1"
+  },
+  "10.1021/acs.energyfuels.1c00275": {
+    "title": "Recent Advances on Nonprecious-Metal-Based Bifunctional Oxygen Electrocatalysts for Zinc–Air Batteries",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facs.energyfuels.1c00275",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acs.energyfuels.1c00275"
+  },
+  "10.1021/acs.energyfuels.3c02221": {
+    "title": "FeCo Alloy Nanoparticles Supported on Co–N–C Cubes Derived from Imidazolate Frameworks as a Bifunctional Electrocatalyst for Rechargeable Zinc–Air Batteries",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facs.energyfuels.3c02221",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acs.energyfuels.3c02221"
+  },
+  "10.1021/acs.energyfuels.1c03198": {
+    "title": "Facile Method to Synthesize a High-Activity S-Doped Fe/SNC Single-Atom Catalyst by Metal–Organic Frameworks for Oxygen Reduction Reaction in Acidic Medium",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facs.energyfuels.1c03198",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acs.energyfuels.1c03198"
+  },
+  "10.1021/acsaem.1c01967": {
+    "title": "NiCo Alloy Nanoparticles Anchored on Carbon Nanotube-Decorated Carbon Nanorods as a Durable and Efficient Oxygen Electrocatalyst for Zinc-Air Flow Batteries",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facsaem.1c01967",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acsaem.1c01967"
+  },
+  "10.1021/acsami.1c01875": {
+    "title": "Hierarchical Hollow MOF-Derived Bamboo-like N-doped Carbon Nanotube-Encapsulated Co<sub>0.25</sub>Ni<sub>0.75</sub> Alloy: An Efficient Bifunctional Oxygen Electrocatalyst for Zinc–Air Battery",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facsami.1c01875",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acsami.1c01875"
+  },
+  "10.1021/acsaem.2c03462": {
+    "title": "Bimetallic ZIF-Based PtCuCo/NC Electrocatalyst Pt Supported with an N-Doped Porous Carbon for Oxygen Reduction Reaction in PEM Fuel Cells",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facsaem.2c03462",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acsaem.2c03462"
+  },
+  "10.1021/acsami.2c13837": {
+    "title": "Synergistic Effect of Sn and Fe in Fe–N\n                    <sub>\n                      <i>x</i>\n                    </sub>\n                    Site Formation and Activity in Fe–N–C Catalyst for ORR",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facsami.2c13837",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acsami.2c13837"
+  },
+  "10.1021/acsami.3c01947": {
+    "title": "Ni\n                    <sub>\n                      <i>x</i>\n                    </sub>\n                    Co\n                    <sub>\n                      1–\n                      <i>x</i>\n                    </sub>\n                    @Ni\n                    <sub>\n                      <i>x</i>\n                    </sub>\n                    Co\n                    <sub>\n                      1–\n                      <i>x</i>\n                    </sub>\n                    O/NCNT as Trifunctional ORR, OER, and HER Electrocatalysts and its Application in a Zn–Air Battery",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facsami.3c01947",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acsami.3c01947"
+  },
+  "10.1021/acscatal.2c06118": {
+    "title": "Promoting ZIF-8-Derived Fe–N–C Oxygen Reduction Catalysts via Zr Doping in Proton Exchange Membrane Fuel Cells: Durability and Activity Enhancements",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facscatal.2c06118",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acscatal.2c06118"
+  },
+  "10.1021/acscatal.3c01982": {
+    "title": "Bypassing Formation of Oxide Intermediate via Chemical Vapor Deposition for the Synthesis of an Mn-N-C Catalyst with Improved ORR Activity",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facscatal.3c01982",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acscatal.3c01982"
+  },
+  "10.1021/acscatal.5b01089": {
+    "title": "pH Effect on Electrochemistry of Nitrogen-Doped Carbon Catalyst for Oxygen Reduction Reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facscatal.5b01089",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acscatal.5b01089"
+  },
+  "10.1021/acscatal.5b02325": {
+    "title": "Bimetal–Organic Framework Self-Adjusted Synthesis of Support-Free Nonprecious Electrocatalysts for Efficient Oxygen Reduction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facscatal.5b02325",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acscatal.5b02325"
+  },
+  "10.1021/acscatal.7b03991": {
+    "title": "Effect of pH on the Activity of Platinum Group Metal-Free Catalysts in Oxygen Reduction Reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facscatal.7b03991",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acscatal.7b03991"
+  },
+  "10.1021/jacs.0c10636": {
+    "title": "Intrinsic Activity of Metal Centers in Metal–Nitrogen–Carbon Single-Atom Catalysts for Hydrogen Peroxide Synthesis",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Fjacs.0c10636",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/jacs.0c10636"
+  },
+  "10.1021/acssuschemeng.2c04119": {
+    "title": "High-Performance FeCo/NC-Mo<sub>2</sub>TiC<sub>2</sub>/Carbon Nanotube Hybrid Support Catalyst toward Oxygen Reduction for Alkaline Anion Exchange Membrane Fuel Cell",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facssuschemeng.2c04119",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acssuschemeng.2c04119"
+  },
+  "10.1021/cs500744x": {
+    "title": "Effect of Transition Metals on the Structure and Performance of the Doped Carbon Catalysts Derived From Polyaniline and Melamine for ORR Application",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Fcs500744x",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/cs500744x"
+  },
+  "10.1021/acssuschemeng.3c01866": {
+    "title": "Biomass-based Hierarchical Porous ORR and OER Bifunctional Catalysts with Strong Stability for Zn-Air Batteries",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Facssuschemeng.3c01866",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/acssuschemeng.3c01866"
+  },
+  "10.1021/jacs.3c11246": {
+    "title": "Unraveling the pH-Dependent Oxygen Reduction Performance on Single-Atom Catalysts: From Single- to Dual-Sabatier Optima",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Fjacs.3c11246",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/jacs.3c11246"
+  },
+  "10.1021/jacs.9b05576": {
+    "title": "Activity–Selectivity Trends in the Electrochemical Production of Hydrogen Peroxide over Single-Site Metal–Nitrogen–Carbon Catalysts",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Fjacs.9b05576",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/jacs.9b05576"
+  },
+  "10.1038/ncomms8343": {
+    "title": "Highly active oxygen reduction non-platinum group metal electrocatalyst without direct metal–nitrogen coordination",
+    "abstract": " Abstract  Replacement of noble metals in catalysts for cathodic oxygen reduction reaction with transition metals mostly create active sites based on a composite of nitrogen-coordinated transition metal in close concert with non-nitrogen-coordinated carbon-embedded metal atom clusters. Here we report a non-platinum group metal electrocatalyst with an active site devoid of any direct nitrogen coordination to iron that outperforms the benchmark platinum-based catalyst in alkaline media and is comparable to its best contemporaries in acidic media.  In situ  X-ray absorption spectroscopy in conjunction with  ex situ  microscopy clearly shows nitrided carbon fibres with embedded iron particles that are not directly involved in the oxygen reduction pathway. Instead, the reaction occurs primarily on the carbon–nitrogen structure in the outer skin of the nitrided carbon fibres. Implications include the potential of creating greater active site density and the potential elimination of any Fenton-type process involving exposed iron ions culminating in peroxide initiated free-radical formation. ",
+    "source": "https://api.crossref.org/works/10.1038%2Fncomms8343",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1038/ncomms8343"
+  },
+  "10.1038/s41563-021-01030-2": {
+    "title": "Chemical vapour deposition of Fe–N–C oxygen reduction catalysts with full utilization of dense Fe–N4 sites",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1038%2Fs41563-021-01030-2",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1038/s41563-021-01030-2"
+  },
+  "10.1038/nmat4367": {
+    "title": "Identification of catalytic sites for oxygen reduction in iron- and nitrogen-doped graphene materials",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1038%2Fnmat4367",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1038/nmat4367"
+  },
+  "10.1038/s41560-022-01062-1": {
+    "title": "Atomically dispersed iron sites with a nitrogen–carbon coating as highly active and durable oxygen reduction catalysts for fuel cells",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1038%2Fs41560-022-01062-1",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1038/s41560-022-01062-1"
+  },
+  "10.1038/s41929-018-0164-8": {
+    "title": "Atomically dispersed manganese catalysts for oxygen reduction in proton-exchange membrane fuel cells",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1038%2Fs41929-018-0164-8",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1038/s41929-018-0164-8"
+  },
+  "10.1021/nn505582e": {
+    "title": "Carbonized Nanoscale Metal–Organic Frameworks as High Performance Electrocatalyst for Oxygen Reduction Reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1021%2Fnn505582e",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1021/nn505582e"
+  },
+  "10.1038/s42004-022-00645-z": {
+    "title": "Highly efficient and selective electrocatalytic hydrogen peroxide production on Co-O-C active centers on graphene oxide",
+    "abstract": " Abstract  Electrochemical oxygen reduction provides an eco-friendly synthetic route to hydrogen peroxide (H 2 O 2 ), a widely used green chemical. However, the kinetically sluggish and low-selectivity oxygen reduction reaction (ORR) is a key challenge to electrochemical production of H 2 O 2  for practical applications. Herein, we demonstrate that single cobalt atoms anchored on oxygen functionalized graphene oxide form Co-O-C@GO active centres (abbreviated as Co 1 @GO for simplicity) that act as an efficient and durable electrocatalyst for H 2 O 2  production. This Co 1 @GO electrocatalyst shows excellent electrochemical performance in O 2 -saturated 0.1 M KOH, exhibiting high reactivity with an onset potential of 0.91 V and H 2 O 2  production of 1.0 mg cm −2  h −1  while affording high selectivity of 81.4% for H 2 O 2 . Our combined experimental observations and theoretical calculations indicate that the high reactivity and selectivity of Co 1 @GO for H 2 O 2  electrogeneration arises from a synergistic effect between the O-bonded single Co atoms and adjacent oxygen functional groups (C-O bonds) of the GO present in the Co-O-C active centres. ",
+    "source": "https://api.crossref.org/works/10.1038%2Fs42004-022-00645-z",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1038/s42004-022-00645-z"
+  },
+  "10.1039/c2sc20657a": {
+    "title": "Iron imidazolate framework as precursor for electrocatalysts in polymer electrolyte membrane fuel cells",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1039%2Fc2sc20657a",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c2sc20657a"
+  },
+  "10.1039/c4cp02882a": {
+    "title": "Degradation of Fe/N/C catalysts upon high polarization in acid medium",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1039%2Fc4cp02882a",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c4cp02882a"
+  },
+  "10.1039/c4dt03726j": {
+    "title": "From cage-in-cage MOF to N-doped and Co-nanoparticle-embedded carbon for oxygen reduction reaction",
+    "abstract": " By pyrolysis of “cage-in-cage” MOF, nitrogen-doped carbon embedded Co nanoparticles were obtained and they showed efficient electrochemical activity for oxygen reduction. ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc4dt03726j",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c4dt03726j"
+  },
+  "10.1039/c4ta01506a": {
+    "title": "MOF derived catalysts for electrochemical oxygen reduction",
+    "abstract": " ZIF-67, a MOF with N-coordinated Co atoms, can assist the formation of active sites in oxygen reduction catalysts by pyrolysis and acid leaching. ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc4ta01506a",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c4ta01506a"
+  },
+  "10.1039/c4ta01656d": {
+    "title": "Well-defined carbon polyhedrons prepared from nano metal–organic frameworks for oxygen reduction",
+    "abstract": " Well-defined porous carbon polyhedrons are synthesized directly from MOF nanocrystals and show high oxygen reduction reaction (ORR) catalytic activity in acid media. ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc4ta01656d",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c4ta01656d"
+  },
+  "10.1039/c5ee02903a": {
+    "title": "Metal–organic-framework-engaged formation of Co nanoparticle-embedded carbon@Co\n                    <sub>9</sub>\n                    S\n                    <sub>8</sub>\n                    double-shelled nanocages for efficient oxygen reduction",
+    "abstract": " \n                    Rationally designed Co nanoparticle-embedded carbon@Co\n                     9 \n                    S\n                     8 \n                    double-shelled nanocages exhibit excellent electrocatalytic performance for the oxygen reduction reaction.\n                   ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc5ee02903a",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c5ee02903a"
+  },
+  "10.1039/c5nj02892b": {
+    "title": "Porous carbon-coated cobalt sulfide nanocomposites derived from metal organic frameworks (MOFs) as an advanced oxygen reduction electrocatalyst",
+    "abstract": " \n                    PC-CoS\n                     1.097 \n                    NCs were synthesized from the ZIF-9 and sulfur powder and exhibit excellent performance for ORR in alkaline medium.\n                   ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc5nj02892b",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c5nj02892b"
+  },
+  "10.1039/c5nr02346g": {
+    "title": "MIL-100 derived nitrogen-embodied carbon shells embedded with iron nanoparticles",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.1039%2Fc5nr02346g",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c5nr02346g"
+  },
+  "10.1039/c6ra04771h": {
+    "title": "An efficient Co–N–C oxygen reduction catalyst with highly dispersed Co sites derived from a ZnCo bimetallic zeolitic imidazolate framework",
+    "abstract": " Highly dispersed Co sites loaded on porous N-doped carbon are obtained by pyrolysis of ZnCo bimetallic ZIF with low Co percentage, which exhibits excellent catalytic performance for the electrocatalytic oxygen reduction reaction (ORR). ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc6ra04771h",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c6ra04771h"
+  },
+  "10.1039/c8ee02694g": {
+    "title": "Highly active atomically dispersed CoN\n                    <sub>4</sub>\n                    fuel cell cathode catalysts derived from surfactant-assisted MOFs: carbon-shell confinement strategy",
+    "abstract": " Platinum group metal (PGM)-free catalysts for oxygen reduction reaction are essential for affordable fuel cells. ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc8ee02694g",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c8ee02694g"
+  },
+  "10.1039/c6ta03265f": {
+    "title": "An Fe–N–C hybrid electrocatalyst derived from a bimetal–organic framework for efficient oxygen reduction",
+    "abstract": " \n                    An Fe–N–C hybrid catalyst is successfully fabricated by a simple one-step pyrolysis of bimetallic Zn/Fe-ZIFs. The introduction of iron into Zn-based ZIF-7 to form the bimetallic MOF precursors could catalyze the\n                     in situ \n                    formation of CNTs crossed porous carbons, forming a 3D hybrid network, which exhibits excellent ORR activity.\n                   ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc6ta03265f",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c6ta03265f"
+  },
+  "10.1039/c9ee00877b": {
+    "title": "High-performance fuel cell cathodes exclusively containing atomically dispersed iron active sites",
+    "abstract": " \n                    Platinum group metal-free (PGM-free) catalysts for the oxygen reduction reaction (ORR) with atomically dispersed FeN\n                     4 \n                    sites have emerged as a potential replacement for low-PGM catalysts in acidic polymer electrolyte fuel cells (PEFCs).\n                   ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc9ee00877b",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c9ee00877b"
+  },
+  "10.1039/c9ee03027a": {
+    "title": "High-purity pyrrole-type FeN\n                    <sub>4</sub>\n                    sites as a superior oxygen reduction electrocatalyst",
+    "abstract": " \n                    High-purity pyrrole-type FeN\n                     4 \n                    sites have been developed as a superior oxygen reduction catalyst for proton exchange membrane fuel cells.\n                   ",
+    "source": "https://api.crossref.org/works/10.1039%2Fc9ee03027a",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/c9ee03027a"
+  },
+  "10.1039/d1ra08817c": {
+    "title": "Fe/Co/N–C/graphene derived from Fe/ZIF-67/graphene oxide three dimensional frameworks as a remarkably efficient and stable catalyst for the oxygen reduction reaction",
+    "abstract": " Fe/Co/N–C/graphene was facilely and successfully prepared by a calcination process, which has remarkable electrocatalytic ORR activity in alkali solutions and also displays an exceptional stability for the ORR and methanol tolerance. ",
+    "source": "https://api.crossref.org/works/10.1039%2Fd1ra08817c",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/d1ra08817c"
+  },
+  "10.1039/d2ra01238c": {
+    "title": "Enhanced electrocatalytic performance of N-doped carbon xerogels obtained through dual nitrogen doping for the oxygen reduction reaction",
+    "abstract": " This work presents a novel tactic to regulate the microstructure and composition of carbon-based catalysts by the facile and scalable dual-effect nitrogen doping method which may be conducive to promoting highly efficient electrocatalysts for ORR. ",
+    "source": "https://api.crossref.org/works/10.1039%2Fd2ra01238c",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/d2ra01238c"
+  },
+  "10.1039/d2ee02734h": {
+    "title": "Heterogeneous molecular Co–N–C catalysts for efficient electrochemical H\n                    <sub>2</sub>\n                    O\n                    <sub>2</sub>\n                    synthesis",
+    "abstract": " \n                    Heterogeneous molecular catalysts built from β-substituted cobalt porphyrins and carbon nanotubes afford tunable activity for H\n                     2 \n                    O\n                     2 \n                    synthesis\n                     via \n                    the two-electron transfer oxygen reduction reaction.\n                   ",
+    "source": "https://api.crossref.org/works/10.1039%2Fd2ee02734h",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/d2ee02734h"
+  },
+  "10.1039/d2ra00757f": {
+    "title": "Understanding the active sites of Fe–N–C materials and their properties in the ORR catalysis system",
+    "abstract": " Metal–N–C-based catalysts prepared by pyrolysis are frequently used in the oxygen reduction reaction (ORR). ",
+    "source": "https://api.crossref.org/works/10.1039%2Fd2ra00757f",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/d2ra00757f"
+  },
+  "10.1039/d2ra05877d": {
+    "title": "Co,N-doped carbon sheets prepared by a facile method as high-efficiency oxygen reduction catalysts",
+    "abstract": " The Co,N-doped carbon sheets as high-efficiency ORR catalysts were prepared by a facile process. ",
+    "source": "https://api.crossref.org/works/10.1039%2Fd2ra05877d",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/d2ra05877d"
+  },
+  "10.1039/d4cc03966a": {
+    "title": "<i>In situ</i>\n                    biomass-confined construction of an atomical Fe/NC catalyst towards oxygen reduction reaction",
+    "abstract": " \n                    Atomically dispersed Fe/NC was fabricated by an\n                     in situ \n                    biomass-confined strategy, which demonstrates brilliant activity towards the oxygen reduction reaction.\n                   ",
+    "source": "https://api.crossref.org/works/10.1039%2Fd4cc03966a",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1039/d4cc03966a"
+  },
+  "10.1063/5.0148045": {
+    "title": "High-efficiency oxygen electrocatalyst for Zn-air batteries on CoMn alloy encapsulated in N-doped carbon architectures",
+    "abstract": " A low-cost efficient electrocatalyst for both oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) is urgently required for the commercialization of Zn-air batteries. Herein, CoMn nanoalloys encapsulated in nitrogen-doped hollow carbon architectures (CoMn@NHC) as dual electrocatalysts for Zn-air batteries were developed successfully. The obtained CoMn@NHC nanohybrid expresses excellent electrocatalytic performances for ORR (E1/2 = 0.87 V) and OER (Ei=10 = 1.51 V). More encouragingly, a homemade aqueous Zn-air battery using CoMn@NHC catalyst delivers a larger peak power density of 92.3 mW cm−2 and excellent stability of nearly 300 h, outperforming the commercial Pt/C + RuO2. The remarkable electrocatalytic performances are owing to the unique microstructure and the synergistic effect between CoMn alloy and N-doped carbon substrate. This study opens a new way for designing high-efficient bifunctional electrocatalysts for application in renewable energy facilities. ",
+    "source": "https://api.crossref.org/works/10.1063%2F5.0148045",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1063/5.0148045"
+  },
+  "10.1073/pnas.1800771115": {
+    "title": "Unveiling the high-activity origin of single-atom iron catalysts for oxygen reduction reaction",
+    "abstract": " Significance \n                   \n                    We propose a surfactant-assisted method to synthesize single-atom iron catalysts (SA-Fe/NG) supported on nitrogen-doped graphitic carbons, and experimentally demonstrated that the SA-Fe/NG catalyst possesses extremely outstanding catalytic activities for oxygen reduction reaction (ORR) in both acidic and alkaline media. Impressively, both the SA-Fe/NG-based acidic proton exchange membrane fuel cell and Zn-air battery show excellent performance. Combining experimental results and density-functional calculations, we reveal that the origin of high-ORR activity of SA-Fe/NG is from the Fe-pyrrolic-N\n                     4 \n                    active species. The universal surfactant-assisted method can be easily extended to synthesis of other single-atom catalysts, and unveiling the origin of high-ORR activity of SA-Fe/NG will open an approach for developing other heterogeneous catalysts.\n                   ",
+    "source": "https://api.crossref.org/works/10.1073%2Fpnas.1800771115",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1073/pnas.1800771115"
+  },
+  "10.1088/1361-6528/abaf84": {
+    "title": "Rational design of a Fe/S/N/C catalyst from ZIF-8 for efficient oxygen reduction reaction",
+    "abstract": " Abstract \n                   \n                    Fe/N/C catalysts have been regarded as prospective electrocatalysts for oxygen reduction reactions (ORR). As reported, doping S into the Fe/N/C catalyst is an effective strategy to further enhance its ORR performance. Herein, a rational design is demonstrated to synthesize Fe/S/N/C catalysts with a flexible ratio of the doped Fe and S. Through atomic substitution and molecular confinement methods, Fe and S were incorporated into the ZIF-8 precursor, respectively. After further pyrolysis, the Fe/S/N/C catalyst was obtained with uniformly dispersed Fe-N\n                     x \n                    , C-S-C active sites and high specific surface area. The Fe/S/N/C catalyst shows a high half-wave potential in alkaline medium, nearly 32 mV higher than the commercial Pt/C, owing to the strong synergistic effect from Fe-N\n                     x \n                    and C-S-C active sites. Additionally, the Fe/S/N/C catalyst exhibits good long-term electrocatalytic durability and high endurance to methanol crossover, implying it is a suitable candidate to take the place of conventional Pt or Pt-based catalysts in electrochemical devices.\n                   ",
+    "source": "https://api.crossref.org/works/10.1088%2F1361-6528%2Fabaf84",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1088/1361-6528/abaf84"
+  },
+  "10.1073/pnas.2214089119": {
+    "title": "Double-atom dealloying-derived Frank partial dislocations in cobalt nanocatalysts boost metal–air batteries and fuel cells",
+    "abstract": " \n                    Oxygen reduction reaction (ORR), an essential reaction in metal–air batteries and fuel cells, still faces many challenges, such as exploiting cost-effective nonprecious metal electrocatalysts and identifying their surface catalytic sites. Here we introduce bulk defects, Frank partial dislocations (FPDs), into metallic cobalt to construct a highly active and stable catalyst and demonstrate an atomic-level insight into its surface terminal catalysis. Through thermally dealloying bimetallic carbide (Co\n                     3 \n                    ZnC), FPDs were in situ generated in the final dealloyed metallic cobalt. Both theoretical calculations and atomic characterizations uncovered that FPD-driven surface terminations create a distinctive type of surface catalytic site that combines concave geometry and compressive strain, and this two-in-one site intensively weakens oxygen binding. When being evaluated for the ORR, the catalyst exhibits onset and half-wave potentials of 1.02 and 0.90 V (versus the reversible hydrogen electrode), respectively, and negligible activity decay after 30,000 cycles. Furthermore, zinc–air batteries and H\n                     2 \n                    –O\n                     2 \n                    /air fuel cells built with this catalyst also achieve remarkable performance, making it a promising alternative to state-of-the-art Pt-based catalysts. Our findings pave the way for the use of bulk defects to upgrade the catalytic properties of nonprecious electrocatalysts.\n                   ",
+    "source": "https://api.crossref.org/works/10.1073%2Fpnas.2214089119",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1073/pnas.2214089119"
+  },
+  "10.1126/science.aan2255": {
+    "title": "Direct atomic-level insight into the active sites of a high-performance PGM-free ORR catalyst",
+    "abstract": " Replacing platinum in air-fed fuel cells \n                   \n                    Replacing expensive and scarce platinum catalysts in polymer electrolyte membrane fuel cells for the oxygen reduction reaction (ORR) with ones based on non-noble metals would speed up the adoption of hydrogen fuel vehicles. Most of the candidate replacement catalysts that have shown high performance do so only when running on pure oxygen. Chung\n                     et al. \n                    developed an iron-nitrogen-carbon catalyst from two nitrogen precursors that forms a high-porosity structure and exhibits high ORR performance when running on air. The proposed catalytically active site is FeN\n                     4 \n                    .\n                   \n                   \n                     Science \n                    , this issue p.\n                     479 \n                   ",
+    "source": "https://api.crossref.org/works/10.1126%2Fscience.aan2255",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1126/science.aan2255"
+  },
+  "10.1126/science.1200832": {
+    "title": "High-Performance Electrocatalysts for Oxygen Reduction Derived from Polyaniline, Iron, and Cobalt",
+    "abstract": " Fuel cell catalysts synthesized from abundant metals approach the performance and durability of platinum at lower cost. ",
+    "source": "https://api.crossref.org/works/10.1126%2Fscience.1200832",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1126/science.1200832"
+  },
+  "10.1149/1945-7111/ac49cd": {
+    "title": "Fabrication of Co, N-Doping Hierarchical Porous Graphene from Metal Organic Framework for Oxygen Reduction Reaction in Microbial Fuel Cell",
+    "abstract": " Graphene is a very attractive 2D carbon material, while the synthesis route of functional graphene is complex and complicated. The purpose of this study is to develop Co/N co-doped grapheme catalyst for ORR.Herein, a facile and universal pyrolysis method to explore the preparation of Co-N co-doped graphene through thermal exfoliation of 3D Co 0.5 Zn 0.5 -ZIF metal-organic framework by dimension reduction, and study the specific changes during process of dimensionality reduction, aiming at contributing to the transformation mode of 3D materials into 2D materials. The results showed that LiCl and KCl play different roles, namely the building carbon layer, pore-creating and exfoliation and acted simultaneously when they are added. A unique ultrathin 2D morphology of Co/N co-doped graphene, pores formed with the volatilization of zinc ions, and the appearance of abundant Co-N \n                      x \n                    active sites, which endow efficient catalytic activity of oxygen reduction reaction (ORR) in the alkaline electrolyte. Co/N-Go-Li/K-800 possesses the superior ORR activity among Co/N-Go-Li/K-T with an onset potential (0.15 V vs Ag/AgCl) and higher limiting current density(J@−0.8 V vs Ag/AgCl) (−5.20 mA·cm −2 ) closer to Pt/C (0.17 V vs Ag/AgCl and −5.86 mA·cm −2 ). \n                \n                   \n                      \n                   \n                ",
+    "source": "https://api.crossref.org/works/10.1149%2F1945-7111%2Fac49cd",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1149/1945-7111/ac49cd"
+  },
+  "10.1155/2023/9148994": {
+    "title": "MOF-Based Co and Mn Embedded in Nitrogen-Doped Microporous Carbon as an Efficient Catalyst for Oxygen Reduction Reaction in Anion Exchange Membrane Fuel Cell",
+    "abstract": " Developing a low-price, high catalytic activity, and strong durability electrocatalyst for alkaline oxygen reduction reaction (ORR) is significantly important for anion exchange membrane fuel cell (AEMFC). Herein, Co and Mn salts were added into ZIF-8 to obtain CoMn-ZIF-Ac-2. Co and Mn embedded in nitrogen-doped microporous carbon (CoMn-N-C-Ac-2-Ts,  \n                      \n                         T \n                         = \n                         700 \n                      \n                   , 800, 900, and 1000°C) were obtained by carbonizing CoMn-ZIF-Ac-2 at various temperature. The influence of various pyrolysis temperature and molar ratios between Co and Mn toward ORR catalytic activity was researched. For CoMn-N-C-Ac-2-Ts, CoMn-N-C-Ac-2-800 had the highest ORR catalytic activity with the half-wave potential of 0.875 V in 0.1 M KOH, only 5 mV lower than that of 20 wt % Pt/C. Besides, high 4e- selectivity, excellent stability (retaining 100% for 20 h at 0.6 V vs. RHE), and methanol tolerance are also exhibited. In addition, CoMn-N-C-Ac-2-800 exhibited better ORR activity than Mn-N-C-Ac-800 and Co-N-C-Ac-800, which was attributed to more Co-N4, more MnIII species, and higher surface area. Moreover, the AEMFC based on the CoMn-N-C-Ac-2-800 cathode catalyst obtained a maximal power density of 291 mW·cm-2, which was 78% of the  \n                      \n                         \n                            \n                               P \n                            \n                            \n                               max \n                            \n                         \n                      \n                    achieved with 20 wt % Pt/C (375 mW·cm-2). The highest ORR performance for CoMn-N-C-Ac-2-800 was contributed by the highest defect degree, the most amounts of Co/Mn-N4 active site, the maximum BET surface area, and micropore structure. ",
+    "source": "https://api.crossref.org/works/10.1155%2F2023%2F9148994",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1155/2023/9148994"
+  },
+  "10.1186/s40580-022-00308-8": {
+    "title": "Modulating the electrocatalytic activity of N-doped carbon frameworks via coupling with dual metals for Zn–air batteries",
+    "abstract": " Abstract \n                   \n                     N \n                    -Doped carbon electrocatalysts are a promising alternative to precious metal catalysts to promote oxygen reduction reaction (ORR). However, it remains a challenge to design the desired active sites on carbon skeletons in a controllable manner for ORR. Herein, we developed a facile approach based on oxygen-mediated solvothermal radical reaction (OSRR) for preparation of\n                     N \n                    -doped carbon electrocatalysts with a pre-designed active site and modulated catalytic activity for ORR. In the OSRR, 2-methylimidazole reacted with Co and Mn salts to form an active site precursor (MnCo-MIm) in\n                     N \n                    -methyl-2-pyrrolidone (NMP) at room temperature. Then, the reaction temperature increased to 140 °C under an oxygen atmosphere to generate NMP radicals, followed by their polymerization with the pre-formed MnCo-MIm to produce Mn-coupled Co nanoparticle-embedded\n                     N \n                    -doped carbon framework (MnCo-NCF). The MnCo-NCF showed uniform dispersion of nitrogen atoms and Mn-doped Co nanoparticles on the carbon skeleton with micropores and mesopores. The MnCo-NCF exhibited higher electrocatalytic activity for ORR than did a Co nanoparticle only-incorporated carbon framework due to the improved charge transfer from the Mn-doped Co nanoparticles to the carbon skeleton. In addition, the Zn–air battery assembled with MnCo-NCF had superior performance and durability to the battery using commercial Pt/C. This facile approach can be extended for designing carbon electrocatalysts with desired active sites to promote specific reactions.\n                   \n                   \n                     Graphical Abstract \n                   ",
+    "source": "https://api.crossref.org/works/10.1186%2Fs40580-022-00308-8",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1186/s40580-022-00308-8"
+  },
+  "10.16553/j.cnki.issn1000-985x.2023.04.011": {
+    "error": "404 Client Error: Not Found for url: https://api.crossref.org/works/10.16553%2Fj.cnki.issn1000-985x.2023.04.011",
+    "source": "https://api.crossref.org/works/10.16553%2Fj.cnki.issn1000-985x.2023.04.011",
+    "retrieved": "2026-11-15"
+  },
+  "10.3390/catal11010092": {
+    "title": "ZIF-67 Derived MnO2 Doped Electrocatalyst for Oxygen Reduction Reaction",
+    "abstract": " In this study, zeolitic imidazolate framework (ZIF-67) derived nano-porous carbon structures that were further hybridized with MnO2 were tested for oxygen reduction reaction (ORR) as cathode material for fuel cells. The prepared electrocatalyst was characterized by X-ray powder diffraction (XRD), scanning electron microscopy (SEM) and Energy Dispersive X-ray Analysis (EDX). Cyclic voltammetry was performed on these materials at different scan rates under dissolved oxygen in basic media (0.1 M KOH), inert and oxygen rich conditions to obtain their I–V curves. Electrochemical impedance spectroscopy (EIS) and Chronoamperometry was also performed to observe the materials’ impedance and stability. We report improved performance of hybridized catalyst for ORR based on cyclic voltammetry and EIS results, which show that it can be a potential candidate for fuel cell applications. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal11010092",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal11010092"
+  },
+  "10.20964/2021.01.71": {
+    "title": "Polymerizable Ionic Liquid-derived Non-precious Metal Catalyst Fe-N/C for Oxygen Reduction Reaction",
+    "abstract": "",
+    "source": "https://api.crossref.org/works/10.20964%2F2021.01.71",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.20964/2021.01.71"
+  },
+  "10.13208/j.electrochem.201248": {
+    "error": "404 Client Error: Not Found for url: https://api.crossref.org/works/10.13208%2Fj.electrochem.201248",
+    "source": "https://api.crossref.org/works/10.13208%2Fj.electrochem.201248",
+    "retrieved": "2026-11-15"
+  },
+  "10.3390/catal12040440": {
+    "title": "Synergetic Effects of Mixed-Metal Polyoxometalates@Carbon-Based Composites as Electrocatalysts for the Oxygen Reduction and the Oxygen Evolution Reactions",
+    "abstract": " The smart choice of polyoxometalates (POMs) and the design of POM@carbon-based composites are promising tools for producing active electrocatalysts for both the oxygen reduction (ORR) and the oxygen evolution reactions (OER). Hence, herein, we report the preparation, characterization and application of three composites based on doped, multi-walled carbon nanotubes (MWCNT_N6) and three different POMs (Na12[(FeOH2)2Fe2(As2W15O56)2]·54H2O, Na12[(NiOH2)2Ni2(As2W15O56)2]·54H2O and Na14[(FeOH2)2Ni2(As2W15O56)2]·55H2O) as ORR and OER electrocatalysts in alkaline medium (pH = 13). Overall, the three POM@MWCNT_N6 composites showed good ORR performance with onset potentials between 0.80 and 0.81 V vs. RHE and diffusion-limiting current densities ranging from −3.19 to −3.66 mA cm−2. Fe4@MWCNT_N6 and Fe2Ni2@MWCNT_N6 also showed good stability after 12 h (84% and 80% of initial current). The number of electrons transferred per O2 molecule was close to three, suggesting a mixed regime. Moreover, the Fe2Ni2@MWCNT_N6 presented remarkable OER performance with an overpotential of 0.36 V vs. RHE (for j = 10 mA cm−2), a jmax close to 135 mA cm−2 and fast kinetics with a Tafel slope of 45 mV dec−1. More importantly, this electrocatalyst outperformed not only most POM@carbon-based composites reported so far but also the state-of-the-art RuO2 electrocatalyst. Thus, this work represents a step forward towards bifunctional electrocatalysts using less expensive materials. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12040440",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12040440"
+  },
+  "10.3390/catal12070780": {
+    "title": "Ag-MnxOy on Graphene Oxide Derivatives as Oxygen Reduction Reaction Catalyst in Alkaline Direct Ethanol Fuel Cells",
+    "abstract": " In this study, Ag-MnxOy/C composite catalysts deposited on reduced graphene oxide (rGO) and, for the first time on N-doped graphene oxide (NGO), were prepared via a facile synthesis method. The influence of the carbon support material on the activity and stability of the oxygen reduction reaction (ORR) and on the tolerance to ethanol in alkaline medium was focused and investigated. The physicochemical properties of the Ag-MnxOy/C catalysts were analyzed by X-ray diffraction (XRD), scanning electron microscopy with energy dispersive X-ray spectroscopy (SEM-EDS), Brunauer–Emmett–Teller (BET) method, atomic absorption spectroscopy (AAS), inductively coupled plasma-mass spectrometry (ICP-MS), and thermogravimetric gas analysis (TGA). Electrochemical characterization was performed by rotating disk electrode (RDE) experiments. The results show that the active manganese species MnO2 was assembled as nanorods and nanospheres on rGO and NGO, respectively. Ag was assumed to be present as very small or amorphous particles. Similar redox processes for Ag-MnxOy/rGO and Ag-MnxOy/NGO were examined via cyclic voltammetry. The Ag-MnxOy/rGO resulted in a more negative diffusion limiting current density of −3.01 mA cm−2 compared to Ag-MnxOy/NGO. The onset potential of approximately 0.9 V vs. RHE and the favored 4-electron transfer pathway were independent of the support material. Ag-MnxOy/NGO exhibited a higher ORR stability, whereas Ag-MnxOy/rGO showed a better ethanol tolerance. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12070780",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12070780"
+  },
+  "10.3390/catal12080806": {
+    "title": "MIL-88-Derived N and S Co-Doped Carbon Materials with Supplemental FeSx to Enhance the Oxygen Reduction Reaction Performance",
+    "abstract": " To overcome the drawbacks of the single N-doped carbon materials, the further development of dual-heteroatoms (N and S) co-doped electrocatalysts is highly anticipated. Herein, N, S-doping and Fe-based carbon materials were synthesized by pyrolyzing a metal–organic framework (MIL-88) with the addition of N-/N, and S-containing ligands (chitosan and L-Cysteine) in the case of iron salt. The resulting electrocatalyst heat-treated at 850 °C (FeNSC-850) displays superior oxygen reduction reaction (ORR) performances to MIL-88-850, with an overall electron transfer number of 3.97 and a minor yield of HO2-% (&lt;2.6%). In addition to the comparable activity to commercial Pt/C in catalyzing the ORR in alkaline solution, the FeNSC-850 also shows higher stability, with a slight decline in half-wave potential (∆E1/2 = 15 mV) after 5000-cycle scanning of cyclic voltammetry. In view of the multiple Fe-based active sites, the additional S doping within FeNSC-850 creates more FeSx active sites for boosting the ORR performances in alkaline solution. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12080806",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12080806"
+  },
+  "10.3390/catal12111462": {
+    "title": "Metal-Organic Framework-Derived Atomically Dispersed Co-N-C Electrocatalyst for Efficient Oxygen Reduction Reaction",
+    "abstract": " In this work, an atomically dispersed cobalt-nitrogen-carbon (Co-N-C) catalyst is prepared for the oxygen reduction reaction (ORR) by using a metal-organic framework (MOF) as a self-sacrifice template under high-temperature pyrolysis. Spherical aberration-corrected electron microscopy is employed to confirm the atomic dispersion of high-density Co atoms on the nitrogen-doped carbon scaffold. The X-ray photoelectron spectroscopy results verify the existence of Co-N-C active sites and their content changes with the Co content. The electrochemical results show that the electrocatalytic activity shows a volcano-shaped relationship, which increases with the Co content from 0 to 0.99 wt.% and then decreases when the presence of Co nanoparticles at 1.61 wt.%. The atomically dispersed Co-N-C catalyst with Co content of 0.99 wt.% shows an onset potential of 0.96 V vs. reversible hydrogen electrode (RHE) and a half-wave potential of 0.89 V vs. RHE toward ORR. The excellent ORR activity is attributed to the high density of the Co-N-C sites with high intrinsic activity and high specific surface area to expose more active sites. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12111462",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12111462"
+  },
+  "10.3390/catal12091013": {
+    "title": "Effect of Modifying Carbon Materials with Metal Phthalocynines and Palladium on Their Catalytic Activity in ORR",
+    "abstract": " Bimetallic catalysts based on multi-walled carbon nanotubes (MWCNT), graphene oxide (GO) and ultradispersed diamonds (UDD) supports for the process of electroreduction of oxygen from alkaline electrolyte were obtained using high-temperature synthesis. The materials were characterized by low-temperature nitrogen adsorption, Raman spectroscopy, scanning electron microscopy and X-ray structure analysis. The synthesized bimetallic catalysts contain meso- and micropores. Based on the study by Raman spectroscopy, it is shown that high-temperature synthesis of MWCNT with metal phthalocyanines leads to doping of this material with nitrogen and the appearance of significant defects in the structure. Carbon nanotube-based catalysts showed enhanced activity compared to other carbon materials. Moreover, bimetallic catalysts based on cobalt phthalocyanine and palladium (MWCNT_CoPc_Pd) are characterized by higher activity on all carbon supports compared to materials contain on copper and palladium. The specific current density in the diffusion region of the MWCNT_CoPc_Pd catalyst is comparable to a commercial platinum electrode (Pt(20%)/C) and equals to 2.65 mA/cm2. The area of the electrochemically active surface of all the obtained catalysts was calculated from the CV data in a nitrogen atmosphere. The MWCNT_CoPc_Pd catalyst is characterized by high corrosivity: after 2500 revolutions, the current density in the diffusion region decreases by 7%, and, also, an increase in the values of E1/2 and Eonset is observed. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12091013",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12091013"
+  },
+  "10.3390/catal12091023": {
+    "title": "Iron Carbide Nanoparticles Embedded in Edge-Rich, N and F Codoped Graphene/Carbon Nanotubes Hybrid for Oxygen Electrocatalysis",
+    "abstract": " Rational design of cost-effective and efficient bifunctional oxygen electrocatalysts for sluggish oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) is urgently desired for rechargeable metal–air batteries and regenerative fuel cells. Here, the Fe3C nanoparticles encapsulated in N and F codoped and simultaneously etched graphene/CNTs architecture catalyst (Fe3C@N-F-GCNTs) was synthesized by a simple yet cost-effective strategy. The as-prepared Fe3C@N-F-GCNTs exhibited excellent ORR and OER performances, with the ORR half-wave potential positive than that of Pt/C by 14 mV, and the OER overpotential lowered to 432 mV at the current density of 10 mA·cm−2. In addition, the ΔE value (oxygen electrode activity parameter) increased to 0.827 V, which is comparable to the performance of the best nonprecious metal catalysts reported to date. When it was applied in a Zn–air battery as a cathode, it achieved a peak power density of 130 mW·cm−2, exhibiting the potential for large-scale applications. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12091023",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12091023"
+  },
+  "10.3390/catal12121528": {
+    "title": "Design of Bimetallic PtFe-Based Reduced Graphene Oxide as Efficient Catalyst for Oxidation Reduction Reaction",
+    "abstract": " Oxygen reduction reaction (ORR) is a very important reaction that occurs at the cathodic side in proton exchange membrane fuel cells (PEMFCs). The high cost associated with frequently used Pt-based electrocatalysts for ORR limits the commercialization of PEMFCs. Through bifunctional and electronic effects, theoretical calculations have proved that alloying Pt with a suitable transition metal is likely to improve ORR mass activity when compared to Pt-alone systems. Herein, we demonstrate the preparation of bimetallic Pt–Fe nanoparticles supported on reduced graphene oxide sheets (RGOs) via a simple surfactant-free chemical reduction method. The present method produces PtFe/RGO catalyst particles with a 3.2 nm diameter without agglomeration. PtFe/RGO showed a noticeable positive half-wave potential (0.503 V vs. Ag/AgCl) compared with a commercial Pt/C catalyst (0.352 V vs. Ag/AgCl) with minimal Pt-loading on a glassy carbon electrode. Further, PtFe/RGO showed a higher ORR mass activity of 4.85 mA/cm2-geo compared to the commercial Pt/C (3.60 mA/cm2-geo). This work paves the way for designing noble−transition metal alloy electrocatalysts on RGO supports as high-performance electrocatalysts for ORR application. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12121528",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12121528"
+  },
+  "10.3390/catal12121640": {
+    "title": "Electrocatalytic Oxygen Reduction Reaction by the Pd/Fe-N-C Catalyst and Application in a Zn–Air Battery",
+    "abstract": " Developing a non-platinum catalyst that effectively catalyzes the oxygen reduction reaction (ORR) is highly significant for metal–air batteries. Metal and nitrogen co-doped carbons (M-N-Cs) have emerged as alternative candidates to platinum. In this work, dual-metal Pd/Fe-N-C electrocatalysts were synthesized by the one-step pyrolysis of phytic acid, melamine, and Pd/Fe-based salts. The Pd/Fe-N-C catalyst exhibited a good catalytic ability during the ORR process and outperformed the commercial Pt/C catalyst as regards mass activity, catalytic stability, and methanol tolerance. It was found that Pd-Nx is the active center, and the synergistic effect from the Fe component introduction endowed the Pd/Fe-N-C with an excellent catalytic performance towards the ORR. When assembled into a Zn–air battery, its specific capacity was ~775 mAh gZn−1. Meanwhile, the peak power density could reach 3.85 W mgPd−1, i.e., 3.4 times that of the commercial Pt/C catalyst (1.13 W mgPt−1). This implies that the Pd/Fe-N-C catalyst has potential applications in metal–air batteries. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12121640",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12121640"
+  },
+  "10.3390/catal12080913": {
+    "title": "Monolayer CoMoS Catalysts on Hierarchically Porous Alumina Spheres as Bifunctional Nanomaterials for Hydrodesulfurization and Energy Storage Applications",
+    "abstract": " In this work, CoMoS catalysts were synthesized onto porous alumina spheres obtained using Pluronic P-123 (PS) or urea (US) and used as bifunctional nanomaterials for two energy applications: hydrodesulfurization and energy storage. For the first application, the catalysts were assessed in a hydrodesulfurization reactor using two model sulfur molecules, dibenzothiophene and 4,6-dimethyl dibenzothiophene, as well as feeding a heavy oil fraction. The results indicated that the spheres obtained by Pluronic P-123 allowed a greater dispersion degree of MoS2 slabs than US, indicating that the size and hierarchically porous structure of alumina spheres played a principal role as a booster of the HDS catalytic efficiency of DBT, 4,6 DMDBT and diesel fuel. Then, these catalysts were used for the electrocatalysis of the oxygen reduction and oxygen evolution reactions (ORR/OER), which take place in rechargeable Zn-air batteries. For the ORR, the CoMoS catalyst on PS in the presence of a conductive support (N-doped carbon nanotubes + graphene) displayed an overpotential of only 90 mV in comparison with Pt/C. Importantly, the chalcogenide enabled an increase in the stability, maintaining almost two times higher current retention than Pt/C for the ORR and IrO2/C for the OER. These results suggest that expended chalcogenides from the hydrodesulfurization industry can have a second life as co-catalysts for renewable energy storage systems, enabling a circular economy. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal12080913",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal12080913"
+  },
+  "10.3390/catal13050824": {
+    "title": "The Semi-Closed Molten Salt-Assisted One-Step Synthesis of N-P-Fe Tridoped Porous Carbon Nanotubes for an Efficient Oxygen Reduction Reaction",
+    "abstract": " Transition metal and heteroatom co-doped carbon nanomaterials (TM-H-C) are considered to be the most promising candidates to replace the expensive platinum-based catalysts for oxygen reduction reactions (ORR). Herein, we report a semi-closed molten salt-assisted one-step strategy for fabricating N-P-Fe-tridoped porous carbon nanotube (CNT) catalysts by using the evaporation of ZnCl2 and the catalysis of iron ions to control the heteroatoms doping process and CNT formation. The resultant densely packed porous CNT structure imparts final catalysts with an enhanced mass transfer ability for electron and ORR-involved species, ensuring a high performance in catalyzing the ORR. Significantly, the optimal catalysts show a half-wave potential of 0.89 V (vs. RHE), which is better than commercial platinum-based catalysts and most reported TM-H-C ORR catalysts. Impressively, when applied to a primary inc-oxygen (Zn–O2) battery, the synthesized catalyst comprehensively outperforms the state-of-the-art platinum-based catalyst in both its maximum power density and specific capacity. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fcatal13050824",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/catal13050824"
+  },
+  "10.3390/inorganics11100388": {
+    "title": "Hybrids Composed of an Fe-Containing Wells–Dawson Polyoxometalate and Carbon Nanomaterials as Promising Electrocatalysts for the Oxygen Reduction Reaction",
+    "abstract": " The oxygen reduction reaction (ORR) is a key cathodic reaction in energy-converting systems, such as fuel cells (FCs). Thus, it is of utmost importance to develop cost-effective and efficient electrocatalysts (ECs) without noble metals to substitute the Pt-based ones. This study focuses on polyoxometalate (POM)-based ECs for ORR applications. A Wells–Dawson POM salt K7 [P2W17(FeOH2)O61].·20H2O was immobilised onto graphene flakes and multiwalled carbon nanotubes doped with nitrogen, denominated as P2W17Fe@GF_N8 and P2W17Fe@MWCNT_N8. The successful preparation of the composites was proved with various characterisation techniques, including FTIR, XPS and SEM. Both materials showed good ORR performance in an alkaline medium with similar potential onset values of ~0.84 V vs. RHE and diffusion-limiting current densities of −3.9 and −3.3 mA cm−2 for P2W17Fe@MWCNT_N8 and P2W17Fe@GF_N8, respectively. Furthermore, both composites presented low Tafel slopes (48–58 mV dec−1). Chronoamperometric tests revealed that the as-prepared nanocomposites rendered a significant improvement achieving between 90 and 94% of current retention in tolerance to methanol in comparison with Pt/C, and moderate to good long-term electrochemical stability with current retentions comprised between 68 and 88%. This work reinforces the use of POMs as important electroactive species for the preparation of alternative ORR electrocatalysts, exhibiting good activity, stability and selectivity towards the ORR in the presence of methanol. ",
+    "source": "https://api.crossref.org/works/10.3390%2Finorganics11100388",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/inorganics11100388"
+  },
+  "10.3390/nano12050832": {
+    "title": "Preparation and Characterization of Multi-Doped Porous Carbon Nanofibers from Carbonization in Different Atmospheres and Their Oxygen Electrocatalytic Properties Research",
+    "abstract": " Recently, electrocatalysts for oxygen reduction reaction (ORR) as well as oxygen evolution reaction (OER) hinged on electrospun nanofiber composites have attracted wide research attention. Transition metal elements and heteroatomic doping are important methods used to enhance their catalytic performances. Lately, the construction of electrocatalysts based on metal-organic framework (MOF) electrospun nanofibers has become a research hotspot. In this work, nickel-cobalt zeolitic imidazolate frameworks with different molar ratios (NixCoy-ZIFs) were synthesized in an aqueous solution, followed by NixCoy-ZIFs/polyacrylonitrile (PAN) electrospun nanofiber precursors, which were prepared by a simple electrospinning method. Bimetal (Ni-Co) porous carbon nanofiber catalysts doped with nitrogen, oxygen, and sulfur elements were obtained at high-temperature carbonization treatment in different atmospheres (argon (Ar), Air, and hydrogen sulfide (H2S)), respectively. The morphological properties, structures, and composition were characterized by scanning electron microscopy (SEM), transmission electron microscopy (TEM), selected area electron diffraction (SAED), X-ray diffraction (XRD), and X-ray photoelectron spectroscopy (XPS). Moreover, the specific surface area of materials and their pore size distribution was characterized by Brunauer-Emmett-Teller (BET). Linear sweep voltammetry curves investigated catalyst performances towards oxygen reduction and evolution reactions. Importantly, Ni1Co2-ZIFs/PAN-Ar yielded the best ORR activity, whereas Ni1Co1-ZIFs/PAN-Air exhibited the best OER performance. This work provides significant guidance for the preparation and characterization of multi-doped porous carbon nanofibers carbonized in different atmospheres. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fnano12050832",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/nano12050832"
+  },
+  "10.3390/inorganics10030036": {
+    "title": "Nitrogen-Doped Carbon Flowers with Fe and Ni Dual Metal Centers for Effective Electroreduction of Oxygen",
+    "abstract": " Carbon-based nanocomposites have been attracting extensive attention as high-performance catalysts in alkaline media towards the electrochemical reduction of oxygen. Herein, polyacrylonitrile nanoflowers are synthesized via a free-radical polymerization route and used as a structural scaffold and precursor, whereby controlled pyrolysis leads to the ready preparation of carbon nanocomposites (FeNi-NCF) doped with both metal (Fe and Ni) and nonmetal (N) elements. Transmission electron microscopy studies show that the FeNi-NCF composites retain the flower-like morphology, with the metal species atomically dispersed into the flaky carbon petals. Remarkably, despite a similar structure, elemental composition, and total metal content, the FeNi-NCF sample with a high Fe:Ni ratio exhibits an electrocatalytic performance towards oxygen reduction reaction (ORR) in alkaline media that is similar to that by commercial Pt/C, likely due to the Ni to Fe electron transfer that promotes the adsorption and eventual reduction of oxygen, as evidenced in X-ray photoelectron spectroscopic measurements. Results from this study underline the importance of the electronic properties of metal dopants in the manipulation of the ORR activity of carbon nanocomposites. ",
+    "source": "https://api.crossref.org/works/10.3390%2Finorganics10030036",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/inorganics10030036"
+  },
+  "10.3390/nano12244369": {
+    "title": "Solid-State Synthesis of Cobalt/NCS Electrocatalyst for Oxygen Reduction Reaction in Dual Chamber Microbial Fuel Cells",
+    "abstract": " Due to the high cost of presently utilized Pt/C catalysts, a quick and sustainable synthesis of electrocatalysts made of cost-effective and earth-abundant metals is urgently needed. In this work, we demonstrated a mechanochemically synthesized cobalt nanoparticles supported on N and S doped carbons derived from a solid-state-reaction between zinc acetate and 2-amino thiazole as metal, organic ligand in presence of cobalt (Co) metal ions ZnxCox(C3H4N2S). Pyrolysis of the ZnxCox(C3H4N2S) produced, Co/NSC catalyst in which Co nanoparticles are evenly distributed on the nitrogen and sulfur doped carbon support. The Co/NSC catalyst have been characterized with various physical and electrochemical characterization techniques. The Co content in the ZnxCox(C3H4N2S) is carefully adjusted by varying the Co content and the optimized Co/NSC-3 catalyst is subjected to the oxygen reduction reaction in 0.1 M HClO4 electrolyte. The optimized Co/NSC-3 catalyst reveals acceptable ORR activity with the half-wave potential of ~0.63 V vs. RHE in acidic electrolytes. In addition, the Co/NSC-3 catalyst showed excellent stability with no loss in the ORR activity after 10,000 potential cycles. When applied as cathode catalysts in dual chamber microbial fuel cells, the Co/NCS catalyst delivered satisfactory volumetric power density in comparison with Pt/C. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fnano12244369",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/nano12244369"
+  },
+  "10.3390/polym14091784": {
+    "title": "Calcined Co(II)-Chelated Polyazomethine as Cathode Catalyst of Anion Exchange Membrane Fuel Cells",
+    "abstract": " Polyazomethine (PAM) prepared from the polycondensation between p-phenylene diamine (PDA) and p-terephthalaldehyde (PTAl) via Schiff reaction can physically crosslink (complex) with Co ions. Co-complexed PAM (Co-PAM) in the form of gel is calcined to become a Co, N-co-doped carbonaceous matrix (Co-N-C), acting as cathode catalyst of an anion exchange membrane fuel cell (AEMFC). The obtained Co-N-C catalyst demonstrates a single-atom structure with active Co centers seen under the high-resolution transmission electron microscopy (HRTEM). The Co-N-C catalysts are also characterized by XRD, SEM, TEM, XPS, BET, and Raman spectroscopy. The Co-N-C catalysts demonstrate oxygen reduction reaction (ORR) activity in the KOH(aq) by expressing an onset potential of 1.19–1.37 V vs. RHE, a half wave potential of 0.70–0.92 V, a Tafel slope of 61–89 mV/dec., and number of exchange electrons of 2.48–3.79. Significant ORR peaks appear in the current–voltage (CV) polarization curves for the Co-N-C catalysts that experience two-stage calcination higher than 900 °C, followed by double acid leaching (CoNC-1000A-900A). The reduction current of CoNC-1000A-900A is comparable to that of commercial Pt-implanted carbon (Pt/C), and the max power density of the single cell using CoNC-1000A-900A as cathode catalyst reaches 275 mW cm−2. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fpolym14091784",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/polym14091784"
+  },
+  "10.1002/eem2.12290": {
+    "title": "Recent Progress of Metal Organic Frameworks‐Based Electrocatalysts for Hydrogen Evolution, Oxygen Evolution, and Oxygen Reduction Reaction",
+    "abstract": " Exploring efficient and cost‐saving electrocatalysts is essential to the renewable energy storage and utilization, which is still in its embryonic period. MOFs have drawn tremendous attention due to their adjustability, abundant active sites, and plentiful pores. Notably, satisfactory electrocatalytic performance has been achieved by MOFs‐based electrocatalysts comparable to traditional electrocatalysts. State‐of‐the‐art works about the MOFs‐based electrocatalysts for hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and ORR were summarized in this review. This review comprises a series of modifying strategies of MOFs and their derivatives, from aspects of structure, composition, and morphology. Furthermore, the active sites and functional mechanisms’ recognition are involved in this review expecting to provide reference for rationally designing efficient electrocatalysts. At last, the current status, challenges, and perspectives of MOFs‐based electrocatalysts are also discussed. ",
+    "source": "https://api.crossref.org/works/10.1002%2Feem2.12290",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.1002/eem2.12290"
+  },
+  "10.3390/nano12091593": {
+    "title": "Iron Single Atoms Anchored on Nitrogen-Doped Carbon Matrix/Nanotube Hybrid Supports for Excellent Oxygen Reduction Properties",
+    "abstract": " Single-atom non-precious metal oxygen reduction reaction (ORR) catalysts have attracted much attention due to their low cost, high selectivity, and high activity. Herein, we successfully prepared iron single atoms anchored on nitrogen-doped carbon matrix/nanotube hybrid supports (FeSA-NC/CNTs) by the pyrolysis of Fe-doped zeolitic imidazolate frameworks. The nitrogen-doped carbon matrix/carbon nanotube hybrid supports exhibit a specific surface area of 1626.814 m2 g−1, which may facilitate electron transfer and oxygen mass transport within the catalyst and be beneficial to ORR performance. Further electrochemical results revealed that our FeSA-NC/CNTs catalyst exhibited excellent ORR activity (half-wave potential: 0.86 V; kinetic current density: 39.3 mA cm−2 at 0.8 V), superior to that of commercial Pt/C catalyst (half-wave potential: 0.846 V; kinetic current density: 14.4 mA cm−2 at 0.8 V). It also has a great stability, which makes it possible to be a valuable non-noble metal electrode material that may replace the latest commercial Pt/C catalyst in the future. ",
+    "source": "https://api.crossref.org/works/10.3390%2Fnano12091593",
+    "retrieved": "2026-11-15",
+    "doi_returned": "10.3390/nano12091593"
+  }
+}

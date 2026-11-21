@@ -1,0 +1,894 @@
+[
+  {
+    "family": "no_axial_OH",
+    "state": "base",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_full",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 8
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "Mn_index": 238,
+    "nearby_O": [],
+    "normal_end": true,
+    "energy_sigma0": "-2129.34174525",
+    "settings": {
+      "SYSTEM": "FCM_base_full",
+      "PREC": "Accurate",
+      "ENCUT": "500",
+      "EDIFF": "1E-6",
+      "NSW": "0",
+      "IBRION": "-1",
+      "ISYM": "0",
+      "LREAL": ".FALSE.",
+      "NELM": "200",
+      "ALGO": "Normal",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "LAECHG": ".TRUE.",
+      "LORBIT": "11",
+      "NEDOS": "2000",
+      "NGXF": "252",
+      "NGYF": "240",
+      "NGZF": "352",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LVHAR": ".TRUE.",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 8*0.5"
+    },
+    "files": {
+      "DOSCAR": 112313457,
+      "vasprun.xml": 162779596,
+      "CHGCAR": 792997791,
+      "AECCAR0": 396273105,
+      "AECCAR2": 396273105,
+      "WAVECAR": 3936703488
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_full/bader_validated_20261024/ACF.dat",
+    "ACF_exists": false,
+    "PDOS_processed_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/postprocess_20261023/FCM_base_full.json",
+    "PDOS_processed_exists": true,
+    "COHP_path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_base_full/lobster_post_v2_20261024",
+    "COHP_files": {
+      "COHPCAR.lobster": 0,
+      "ICOHPLIST.lobster": 0,
+      "lobsterout": 0
+    },
+    "Mn_bonds": []
+  },
+  {
+    "family": "no_axial_OH",
+    "state": "OOH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OOH_full",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "Mn_index": 238,
+    "nearby_O": [
+      {
+        "atom": 247,
+        "element": "O",
+        "d_A": 1.8062219060374451
+      }
+    ],
+    "normal_end": true,
+    "energy_sigma0": "-2144.27122470",
+    "settings": {
+      "SYSTEM": "FCM_OOH_full",
+      "PREC": "Accurate",
+      "ENCUT": "500",
+      "EDIFF": "1E-6",
+      "NSW": "0",
+      "IBRION": "-1",
+      "ISYM": "0",
+      "LREAL": ".FALSE.",
+      "NELM": "200",
+      "ALGO": "Normal",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "LAECHG": ".TRUE.",
+      "LORBIT": "11",
+      "NEDOS": "2000",
+      "NGXF": "252",
+      "NGYF": "240",
+      "NGZF": "352",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LVHAR": ".TRUE.",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 10*0.5 1*0"
+    },
+    "files": {
+      "DOSCAR": 113681667,
+      "vasprun.xml": 165207124,
+      "CHGCAR": 793000620,
+      "AECCAR0": 396273212,
+      "AECCAR2": 396273212,
+      "WAVECAR": 3982908928
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OOH_full/bader_validated_20261024/ACF.dat",
+    "ACF_exists": true,
+    "Mn_Bader_electrons": 11.499976,
+    "Bader_sum": 1293.999957,
+    "Bader_count": 249,
+    "PDOS_processed_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/postprocess_20261023/FCM_OOH_full.json",
+    "PDOS_processed_exists": true,
+    "COHP_path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_OOH_full/lobster_post_v2_20261024",
+    "COHP_files": {
+      "COHPCAR.lobster": 768532,
+      "ICOHPLIST.lobster": 3468,
+      "lobsterout": 2968
+    },
+    "Mn_bonds": [
+      {
+        "atom1": "Mn238",
+        "atom2": "O247",
+        "distance": 1.80622,
+        "minus_ICOHP": 3.79294
+      }
+    ],
+    "lobster_quality_lines": [
+      "spillings for spin channel 1",
+      "abs. charge spilling:   1.40%",
+      "spillings for spin channel 2",
+      "abs. charge spilling:   2.55%",
+      "NOTE: The spilling is a measure for the relocation, *not* the absence of electrons.",
+      "finished in 0 h 53 min 46 s 856 ms of wall time"
+    ]
+  },
+  {
+    "family": "no_axial_OH",
+    "state": "O",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_O_full",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "Mn_index": 238,
+    "nearby_O": [
+      {
+        "atom": 247,
+        "element": "O",
+        "d_A": 1.6540319504643635
+      }
+    ],
+    "normal_end": true,
+    "energy_sigma0": "-2135.71603299",
+    "settings": {
+      "SYSTEM": "FCM_O_full",
+      "PREC": "Accurate",
+      "ENCUT": "500",
+      "EDIFF": "1E-6",
+      "NSW": "0",
+      "IBRION": "-1",
+      "ISYM": "0",
+      "LREAL": ".FALSE.",
+      "NELM": "200",
+      "ALGO": "Normal",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "LAECHG": ".TRUE.",
+      "LORBIT": "11",
+      "NEDOS": "2000",
+      "NGXF": "252",
+      "NGYF": "240",
+      "NGZF": "352",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LVHAR": ".TRUE.",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 9*0.5"
+    },
+    "files": {
+      "DOSCAR": 112769527,
+      "vasprun.xml": 163443991,
+      "CHGCAR": 792998913,
+      "AECCAR0": 396273137,
+      "AECCAR2": 396273137,
+      "WAVECAR": 3936703488
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_O_full/bader_validated_20261024/ACF.dat",
+    "ACF_exists": true,
+    "Mn_Bader_electrons": 11.547557,
+    "Bader_sum": 1286.9999560000003,
+    "Bader_count": 247,
+    "PDOS_processed_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/postprocess_20261023/FCM_O_full.json",
+    "PDOS_processed_exists": true,
+    "COHP_path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_O_full/lobster_post_v2_20261024",
+    "COHP_files": {
+      "COHPCAR.lobster": 768532,
+      "ICOHPLIST.lobster": 3468,
+      "lobsterout": 2938
+    },
+    "Mn_bonds": [
+      {
+        "atom1": "Mn238",
+        "atom2": "O247",
+        "distance": 1.65403,
+        "minus_ICOHP": 6.76671
+      }
+    ],
+    "lobster_quality_lines": [
+      "spillings for spin channel 1",
+      "abs. charge spilling:   1.40%",
+      "spillings for spin channel 2",
+      "abs. charge spilling:   2.56%",
+      "NOTE: The spilling is a measure for the relocation, *not* the absence of electrons.",
+      "finished in 0 h 50 min 47 s 482 ms of wall time"
+    ]
+  },
+  {
+    "family": "no_axial_OH",
+    "state": "OH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OH_full",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "Mn_index": 238,
+    "nearby_O": [
+      {
+        "atom": 247,
+        "element": "O",
+        "d_A": 1.8694122993326765
+      }
+    ],
+    "normal_end": true,
+    "energy_sigma0": "-2140.08378759",
+    "settings": {
+      "SYSTEM": "FCM_OH_full",
+      "PREC": "Accurate",
+      "ENCUT": "500",
+      "EDIFF": "1E-6",
+      "NSW": "0",
+      "IBRION": "-1",
+      "ISYM": "0",
+      "LREAL": ".FALSE.",
+      "NELM": "200",
+      "ALGO": "Normal",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "LAECHG": ".TRUE.",
+      "LORBIT": "11",
+      "NEDOS": "2000",
+      "NGXF": "252",
+      "NGYF": "240",
+      "NGZF": "352",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LVHAR": ".TRUE.",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 9*0.5 1*0"
+    },
+    "files": {
+      "DOSCAR": 113225597,
+      "vasprun.xml": 164102161,
+      "CHGCAR": 792999498,
+      "AECCAR0": 396273180,
+      "AECCAR2": 396273180,
+      "WAVECAR": 3936703488
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_OH_full/bader_validated_20261024/ACF.dat",
+    "ACF_exists": true,
+    "Mn_Bader_electrons": 11.450359,
+    "Bader_sum": 1287.9999700000005,
+    "Bader_count": 248,
+    "PDOS_processed_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/postprocess_20261023/FCM_OH_full.json",
+    "PDOS_processed_exists": true,
+    "COHP_path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCM_OH_full/lobster_post_v2_20261024",
+    "COHP_files": {
+      "COHPCAR.lobster": 0,
+      "ICOHPLIST.lobster": 0,
+      "lobsterout": 0
+    },
+    "Mn_bonds": []
+  },
+  {
+    "family": "axial_OH",
+    "state": "base",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_full",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "Mn_index": 238,
+    "nearby_O": [
+      {
+        "atom": 247,
+        "element": "O",
+        "d_A": 1.877242172374744
+      }
+    ],
+    "normal_end": true,
+    "energy_sigma0": "-2140.09673312",
+    "settings": {
+      "SYSTEM": "FCMnew_base_full",
+      "PREC": "Accurate",
+      "ENCUT": "500",
+      "EDIFF": "1E-6",
+      "NSW": "0",
+      "IBRION": "-1",
+      "ISYM": "-1",
+      "LREAL": ".FALSE.",
+      "NELM": "200",
+      "ALGO": "Normal",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "LAECHG": ".TRUE.",
+      "LORBIT": "11",
+      "NEDOS": "2000",
+      "NGXF": "252",
+      "NGYF": "240",
+      "NGZF": "352",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LVHAR": ".TRUE.",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 9*0.5 1*0",
+      "NBANDS": "1200"
+    },
+    "files": {
+      "DOSCAR": 113225597,
+      "vasprun.xml": 179634914,
+      "CHGCAR": 792999498,
+      "AECCAR0": 396273180,
+      "AECCAR2": 396273180,
+      "WAVECAR": 5553893888
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/bader/FCMnew_base_full/ACF.dat",
+    "ACF_exists": true,
+    "Mn_Bader_electrons": 11.457649,
+    "Bader_sum": 1287.9999580000006,
+    "Bader_count": 248,
+    "PDOS_processed_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/results/pdos/FCMnew_base_full.json.gz",
+    "PDOS_processed_exists": true,
+    "COHP_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_base_full",
+    "COHP_files": {
+      "COHPCAR.lobster": 13324894,
+      "ICOHPLIST.lobster": 59443,
+      "lobsterout": 2969
+    },
+    "Mn_bonds": [
+      {
+        "atom1": "Mn238",
+        "atom2": "O247",
+        "distance": 1.87724,
+        "minus_ICOHP": 2.6403
+      }
+    ],
+    "lobster_quality_lines": [
+      "spillings for spin channel 1",
+      "abs. charge spilling:   1.39%",
+      "spillings for spin channel 2",
+      "abs. charge spilling:   2.57%",
+      "NOTE: The spilling is a measure for the relocation, *not* the absence of electrons.",
+      "finished in 1 h 15 min 45 s 350 ms of wall time"
+    ]
+  },
+  {
+    "family": "axial_OH",
+    "state": "OOH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_full",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 11,
+      "H": 2
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "Mn_index": 238,
+    "nearby_O": [
+      {
+        "atom": 247,
+        "element": "O",
+        "d_A": 1.8728333720504367
+      },
+      {
+        "atom": 248,
+        "element": "O",
+        "d_A": 1.8948352157844304
+      }
+    ],
+    "normal_end": true,
+    "energy_sigma0": "-2154.75901952",
+    "settings": {
+      "SYSTEM": "FCMnew_OOH_full",
+      "PREC": "Accurate",
+      "ENCUT": "500",
+      "EDIFF": "1E-6",
+      "NSW": "0",
+      "IBRION": "-1",
+      "ISYM": "-1",
+      "LREAL": ".FALSE.",
+      "NELM": "200",
+      "ALGO": "Normal",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "LAECHG": ".TRUE.",
+      "LORBIT": "11",
+      "NEDOS": "2000",
+      "NGXF": "252",
+      "NGYF": "240",
+      "NGZF": "352",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LVHAR": ".TRUE.",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 11*0.5 2*0",
+      "NBANDS": "1200"
+    },
+    "files": {
+      "DOSCAR": 114593807,
+      "vasprun.xml": 181801295,
+      "CHGCAR": 793002317,
+      "AECCAR0": 396273276,
+      "AECCAR2": 396273276,
+      "WAVECAR": 5553893888
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/bader/FCMnew_OOH_full/ACF.dat",
+    "ACF_exists": true,
+    "Mn_Bader_electrons": 11.366159,
+    "Bader_sum": 1300.9999609999982,
+    "Bader_count": 251,
+    "PDOS_processed_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/results/pdos/FCMnew_OOH_full.json.gz",
+    "PDOS_processed_exists": true,
+    "COHP_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_OOH_full",
+    "COHP_files": {
+      "COHPCAR.lobster": 1511831,
+      "ICOHPLIST.lobster": 6763,
+      "lobsterout": 2968
+    },
+    "Mn_bonds": [
+      {
+        "atom1": "Mn238",
+        "atom2": "O248",
+        "distance": 1.89484,
+        "minus_ICOHP": 3.11766
+      },
+      {
+        "atom1": "Mn238",
+        "atom2": "O247",
+        "distance": 1.87283,
+        "minus_ICOHP": 3.00339
+      }
+    ],
+    "lobster_quality_lines": [
+      "spillings for spin channel 1",
+      "abs. charge spilling:   1.40%",
+      "spillings for spin channel 2",
+      "abs. charge spilling:   2.55%",
+      "NOTE: The spilling is a measure for the relocation, *not* the absence of electrons.",
+      "finished in 0 h 47 min 58 s 783 ms of wall time"
+    ]
+  },
+  {
+    "family": "axial_OH",
+    "state": "O",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_O_full",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 1
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "Mn_index": 238,
+    "nearby_O": [
+      {
+        "atom": 247,
+        "element": "O",
+        "d_A": 1.958670690602496
+      },
+      {
+        "atom": 248,
+        "element": "O",
+        "d_A": 1.683603020129629
+      }
+    ],
+    "normal_end": true,
+    "energy_sigma0": "-2145.58775483",
+    "settings": {
+      "SYSTEM": "FCMnew_O_full",
+      "PREC": "Accurate",
+      "ENCUT": "500",
+      "EDIFF": "1E-6",
+      "NSW": "0",
+      "IBRION": "-1",
+      "ISYM": "-1",
+      "LREAL": ".FALSE.",
+      "NELM": "200",
+      "ALGO": "Normal",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "LAECHG": ".TRUE.",
+      "LORBIT": "11",
+      "NEDOS": "2000",
+      "NGXF": "252",
+      "NGYF": "240",
+      "NGZF": "352",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LVHAR": ".TRUE.",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 10*0.5 1*0",
+      "NBANDS": "1200"
+    },
+    "files": {
+      "DOSCAR": 113681667,
+      "vasprun.xml": 180364129,
+      "CHGCAR": 793000620,
+      "AECCAR0": 396273212,
+      "AECCAR2": 396273212,
+      "WAVECAR": 5553893888
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/bader/FCMnew_O_full/ACF.dat",
+    "ACF_exists": true,
+    "Mn_Bader_electrons": 11.400097,
+    "Bader_sum": 1293.9999659999999,
+    "Bader_count": 249,
+    "PDOS_processed_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/results/pdos/FCMnew_O_full.json.gz",
+    "PDOS_processed_exists": true,
+    "COHP_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_O_full",
+    "COHP_files": {
+      "COHPCAR.lobster": 1511757,
+      "ICOHPLIST.lobster": 6763,
+      "lobsterout": 2968
+    },
+    "Mn_bonds": [
+      {
+        "atom1": "Mn238",
+        "atom2": "O248",
+        "distance": 1.6836,
+        "minus_ICOHP": 6.4584
+      },
+      {
+        "atom1": "Mn238",
+        "atom2": "O247",
+        "distance": 1.95867,
+        "minus_ICOHP": 2.41471
+      }
+    ],
+    "lobster_quality_lines": [
+      "spillings for spin channel 1",
+      "abs. charge spilling:   1.40%",
+      "spillings for spin channel 2",
+      "abs. charge spilling:   2.55%",
+      "NOTE: The spilling is a measure for the relocation, *not* the absence of electrons.",
+      "finished in 0 h 52 min 26 s 534 ms of wall time"
+    ]
+  },
+  {
+    "family": "axial_OH",
+    "state": "OH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OH_full",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 10,
+      "H": 2
+    },
+    "cell": [
+      [
+        22.19796,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        21.36,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        24.0
+      ]
+    ],
+    "Mn_index": 238,
+    "nearby_O": [
+      {
+        "atom": 247,
+        "element": "O",
+        "d_A": 1.8759458426153959
+      },
+      {
+        "atom": 248,
+        "element": "O",
+        "d_A": 1.8673985801453534
+      }
+    ],
+    "normal_end": true,
+    "energy_sigma0": "-2150.50328291",
+    "settings": {
+      "SYSTEM": "FCMnew_OH_full",
+      "PREC": "Accurate",
+      "ENCUT": "500",
+      "EDIFF": "1E-6",
+      "NSW": "0",
+      "IBRION": "-1",
+      "ISYM": "-1",
+      "LREAL": ".FALSE.",
+      "NELM": "200",
+      "ALGO": "Normal",
+      "ISMEAR": "0",
+      "SIGMA": "0.05",
+      "LMAXMIX": "4",
+      "ISPIN": "2",
+      "AMIX": "0.1",
+      "BMIX": "0.0001",
+      "AMIX_MAG": "0.4",
+      "BMIX_MAG": "0.0001",
+      "IVDW": "12",
+      "NCORE": "12",
+      "LWAVE": ".TRUE.",
+      "LCHARG": ".TRUE.",
+      "LAECHG": ".TRUE.",
+      "LORBIT": "11",
+      "NEDOS": "2000",
+      "NGXF": "252",
+      "NGYF": "240",
+      "NGZF": "352",
+      "ISTART": "0",
+      "ICHARG": "2",
+      "LVHAR": ".TRUE.",
+      "MAGMOM": "174*0 4*0 27*3 32*2 1*3 10*0.5 2*0",
+      "NBANDS": "1200"
+    },
+    "files": {
+      "DOSCAR": 114137737,
+      "vasprun.xml": 181080192,
+      "CHGCAR": 793001194,
+      "AECCAR0": 396273244,
+      "AECCAR2": 396273244,
+      "WAVECAR": 5553893888
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/bader/FCMnew_OH_full/ACF.dat",
+    "ACF_exists": true,
+    "Mn_Bader_electrons": 11.345293,
+    "Bader_sum": 1294.9999639999999,
+    "Bader_count": 250,
+    "PDOS_processed_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/results/pdos/FCMnew_OH_full.json.gz",
+    "PDOS_processed_exists": true,
+    "COHP_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_OH_full",
+    "COHP_files": {
+      "COHPCAR.lobster": 1511831,
+      "ICOHPLIST.lobster": 6763,
+      "lobsterout": 2968
+    },
+    "Mn_bonds": [
+      {
+        "atom1": "Mn238",
+        "atom2": "O248",
+        "distance": 1.8674,
+        "minus_ICOHP": 3.0570399999999998
+      },
+      {
+        "atom1": "Mn238",
+        "atom2": "O247",
+        "distance": 1.87595,
+        "minus_ICOHP": 2.9834
+      }
+    ],
+    "lobster_quality_lines": [
+      "spillings for spin channel 1",
+      "abs. charge spilling:   1.39%",
+      "spillings for spin channel 2",
+      "abs. charge spilling:   2.56%",
+      "NOTE: The spilling is a measure for the relocation, *not* the absence of electrons.",
+      "finished in 0 h 47 min 36 s 198 ms of wall time"
+    ]
+  }
+]

@@ -1,0 +1,503 @@
+{
+  "FCM_background": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_full",
+    "energy_sigma0": -2140.09673312,
+    "normal_end": true,
+    "magnetic_moments": {
+      "238": 3.206,
+      "247": 0.167,
+      "248": 0.01
+    },
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 9,
+      "H": 1
+    },
+    "requested_distances": {
+      "238-247": 1.877242172374744,
+      "238-248": 2.471303721959758,
+      "247-248": 0.9738965818543079
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/bader/FCMnew_base_full/ACF.dat",
+    "Bader_electrons": {
+      "238": 11.457649,
+      "247": 7.096602,
+      "248": 0.415621
+    },
+    "cohp": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_base_full",
+      "files": {
+        "COHPCAR.lobster": 13324894,
+        "ICOHPLIST.lobster": 59443,
+        "lobsterout": 2969
+      },
+      "bonds": [
+        {
+          "atom1": "Fe200",
+          "atom2": "O239",
+          "distance_A": 1.91256,
+          "minus_ICOHP_eV": 2.24378
+        },
+        {
+          "atom1": "Fe203",
+          "atom2": "O239",
+          "distance_A": 1.98939,
+          "minus_ICOHP_eV": 2.0795
+        },
+        {
+          "atom1": "Co228",
+          "atom2": "O239",
+          "distance_A": 1.87203,
+          "minus_ICOHP_eV": 2.1839
+        },
+        {
+          "atom1": "Fe202",
+          "atom2": "O240",
+          "distance_A": 21.03002,
+          "minus_ICOHP_eV": 2.22073
+        },
+        {
+          "atom1": "Fe205",
+          "atom2": "O240",
+          "distance_A": 20.99374,
+          "minus_ICOHP_eV": 2.10894
+        },
+        {
+          "atom1": "Co231",
+          "atom2": "O240",
+          "distance_A": 1.87452,
+          "minus_ICOHP_eV": 2.1614500000000003
+        },
+        {
+          "atom1": "Fe201",
+          "atom2": "O241",
+          "distance_A": 19.78697,
+          "minus_ICOHP_eV": 1.02329
+        },
+        {
+          "atom1": "Co234",
+          "atom2": "O241",
+          "distance_A": 2.15158,
+          "minus_ICOHP_eV": 0.99702
+        },
+        {
+          "atom1": "Co235",
+          "atom2": "O241",
+          "distance_A": 2.21707,
+          "minus_ICOHP_eV": 0.8591500000000001
+        },
+        {
+          "atom1": "Co236",
+          "atom2": "O241",
+          "distance_A": 19.88322,
+          "minus_ICOHP_eV": 1.87979
+        },
+        {
+          "atom1": "Co237",
+          "atom2": "O241",
+          "distance_A": 20.0184,
+          "minus_ICOHP_eV": 2.1037
+        },
+        {
+          "atom1": "Fe194",
+          "atom2": "O242",
+          "distance_A": 1.8984,
+          "minus_ICOHP_eV": 2.24158
+        },
+        {
+          "atom1": "Fe203",
+          "atom2": "O242",
+          "distance_A": 1.94089,
+          "minus_ICOHP_eV": 2.25808
+        },
+        {
+          "atom1": "Co232",
+          "atom2": "O242",
+          "distance_A": 1.87251,
+          "minus_ICOHP_eV": 2.5543199999999997
+        },
+        {
+          "atom1": "Fe203",
+          "atom2": "O243",
+          "distance_A": 1.89104,
+          "minus_ICOHP_eV": 2.53194
+        },
+        {
+          "atom1": "Fe204",
+          "atom2": "O243",
+          "distance_A": 2.01301,
+          "minus_ICOHP_eV": 1.72241
+        },
+        {
+          "atom1": "Co236",
+          "atom2": "O243",
+          "distance_A": 1.86039,
+          "minus_ICOHP_eV": 2.53646
+        },
+        {
+          "atom1": "Fe204",
+          "atom2": "O244",
+          "distance_A": 2.04373,
+          "minus_ICOHP_eV": 1.61205
+        },
+        {
+          "atom1": "Fe205",
+          "atom2": "O244",
+          "distance_A": 1.88818,
+          "minus_ICOHP_eV": 2.5761000000000003
+        },
+        {
+          "atom1": "Co237",
+          "atom2": "O244",
+          "distance_A": 1.85186,
+          "minus_ICOHP_eV": 2.65334
+        },
+        {
+          "atom1": "Fe196",
+          "atom2": "O245",
+          "distance_A": 22.07103,
+          "minus_ICOHP_eV": 2.21135
+        },
+        {
+          "atom1": "Fe205",
+          "atom2": "O245",
+          "distance_A": 22.08545,
+          "minus_ICOHP_eV": 2.32825
+        },
+        {
+          "atom1": "Co233",
+          "atom2": "O245",
+          "distance_A": 20.41079,
+          "minus_ICOHP_eV": 2.54116
+        },
+        {
+          "atom1": "Co232",
+          "atom2": "O246",
+          "distance_A": 1.75654,
+          "minus_ICOHP_eV": 3.44602
+        },
+        {
+          "atom1": "Co233",
+          "atom2": "O246",
+          "distance_A": 1.75878,
+          "minus_ICOHP_eV": 3.44129
+        },
+        {
+          "atom1": "Mn238",
+          "atom2": "O247",
+          "distance_A": 1.87724,
+          "minus_ICOHP_eV": 2.6403
+        }
+      ]
+    }
+  },
+  "MnNC_background": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full",
+    "energy_sigma0": -1667.7794598,
+    "normal_end": true,
+    "magnetic_moments": {
+      "179": 0.287,
+      "180": 0.079
+    },
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1
+    },
+    "requested_distances": {
+      "179-180": 1.5770846336315383
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/bader_validated_20261024/ACF.dat",
+    "Bader_electrons": {
+      "179": 11.507781,
+      "180": 6.567849
+    }
+  },
+  "FCN_Bader_base": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_FCN_restart_check_20261024/fcn_lowspin_post_20261025/bader/ACF.dat",
+    "electrons": {
+      "206": 7.21899,
+      "234": 8.427004,
+      "235": 8.424682
+    }
+  },
+  "FCN_OOH": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_OOH_full",
+    "energy_sigma0": -2158.27954629,
+    "normal_end": true,
+    "magnetic_moments": {
+      "206": 3.341,
+      "235": 1.682,
+      "248": 0.132
+    },
+    "composition": {
+      "C": 180,
+      "Fe": 27,
+      "Co": 32,
+      "O": 10,
+      "H": 1
+    },
+    "requested_distances": {
+      "206-235": 2.946981177248239,
+      "206-248": 2.001081581766468,
+      "235-248": 2.075958048909885
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_OOH_full/bader_validated_20261024/ACF.dat",
+    "Bader_electrons": {
+      "206": 7.060928,
+      "235": 8.255173
+    },
+    "Bader_delta_electrons": {
+      "206": -0.15806200000000015,
+      "235": -0.16950900000000146
+    },
+    "cohp": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCN_OOH_full/lobster_post_v2_20261024",
+      "files": {
+        "COHPCAR.lobster": 1029657,
+        "ICOHPLIST.lobster": 4651,
+        "lobsterout": 2832
+      },
+      "bonds": [
+        {
+          "atom1": "Fe206",
+          "atom2": "O248",
+          "distance_A": 2.00108,
+          "minus_ICOHP_eV": 1.7585799999999998
+        },
+        {
+          "atom1": "Co235",
+          "atom2": "O248",
+          "distance_A": 2.07596,
+          "minus_ICOHP_eV": 1.35237
+        }
+      ]
+    }
+  },
+  "FCN_O": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_O_full",
+    "energy_sigma0": -2150.01307828,
+    "normal_end": true,
+    "magnetic_moments": {
+      "206": 2.931,
+      "234": -1.852,
+      "248": -0.084
+    },
+    "composition": {
+      "C": 180,
+      "Fe": 27,
+      "Co": 32,
+      "O": 9
+    },
+    "requested_distances": {
+      "206-234": 2.6825227722650156,
+      "206-248": 1.7665321081886538,
+      "234-248": 1.7656932862438746
+    },
+    "ACF_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCN_O_full/bader_validated_20261024/ACF.dat",
+    "Bader_electrons": {
+      "206": 7.081941,
+      "234": 8.097211
+    },
+    "Bader_delta_electrons": {
+      "206": -0.1370490000000002,
+      "234": -0.32979300000000045
+    },
+    "cohp": {
+      "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/FCN_O_full/lobster_post_v2_20261024",
+      "files": {
+        "COHPCAR.lobster": 1029707,
+        "ICOHPLIST.lobster": 4651,
+        "lobsterout": 2802
+      },
+      "bonds": [
+        {
+          "atom1": "Fe206",
+          "atom2": "O248",
+          "distance_A": 1.76653,
+          "minus_ICOHP_eV": 3.56733
+        },
+        {
+          "atom1": "Co234",
+          "atom2": "O248",
+          "distance_A": 1.76569,
+          "minus_ICOHP_eV": 3.26127
+        }
+      ]
+    }
+  },
+  "FCM_O_PDOS": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/results/pdos/FCMnew_O_full.json.gz",
+    "size": 148863,
+    "keys": [
+      "name",
+      "state",
+      "fermi_eV",
+      "E_minus_Efermi_eV",
+      "atoms",
+      "selection",
+      "d_center_window_eV",
+      "convention"
+    ],
+    "selection": {
+      "name": "FCMnew_O_full",
+      "state": "O",
+      "added_indices": [
+        248
+      ],
+      "axial_indices": [
+        247,
+        249
+      ],
+      "keep_indices": [
+        238,
+        247,
+        248,
+        249
+      ],
+      "pairs": [
+        {
+          "metal": 238,
+          "oxygen": 248,
+          "distance_A": 1.683603020129542,
+          "role": "reaction"
+        },
+        {
+          "metal": 238,
+          "oxygen": 247,
+          "distance_A": 1.9586706906025486,
+          "role": "retained_axial"
+        }
+      ],
+      "status": "magnetic_branch_review",
+      "expected_elements": {
+        "238": "Mn",
+        "247": "O",
+        "248": "O",
+        "249": "H"
+      }
+    },
+    "atom_keys": null
+  },
+  "FCN_O_PDOS": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/site_pdos_20261024/FCN_O_full.json.gz",
+    "size": 277128,
+    "keys": [
+      "name",
+      "selection",
+      "E_minus_Efermi_eV",
+      "fermi_eV",
+      "atoms",
+      "convention"
+    ],
+    "selection": {
+      "name": "FCN_O_full",
+      "adsorbate_indices_1based": [
+        248
+      ],
+      "nearby_metal_indices_1based": [
+        206,
+        234
+      ],
+      "pairs_within_2p8A": [
+        {
+          "oxygen_index_1based": 248,
+          "metal_index_1based": 206,
+          "metal": "Fe",
+          "distance_A": 1.76653210818876
+        },
+        {
+          "oxygen_index_1based": 248,
+          "metal_index_1based": 234,
+          "metal": "Co",
+          "distance_A": 1.7656932862438617
+        }
+      ],
+      "selection_rule": "geometric neighborhood only; 2.8 A is not a bond-order criterion",
+      "indices_for_pdos": [
+        206,
+        234,
+        248
+      ]
+    },
+    "atom_keys": null
+  },
+  "MnNC_O_PDOS": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/site_pdos_20261024/MnNC_O_full.json.gz",
+    "size": 88522,
+    "keys": [
+      "name",
+      "selection",
+      "E_minus_Efermi_eV",
+      "fermi_eV",
+      "atoms",
+      "convention"
+    ],
+    "selection": {
+      "name": "MnNC_O_full",
+      "adsorbate_indices_1based": [
+        181
+      ],
+      "nearby_metal_indices_1based": [
+        179
+      ],
+      "pairs_within_2p8A": [
+        {
+          "oxygen_index_1based": 181,
+          "metal_index_1based": 179,
+          "metal": "Mn",
+          "distance_A": 1.6595204945006419
+        }
+      ],
+      "selection_rule": "geometric neighborhood only; 2.8 A is not a bond-order criterion",
+      "indices_for_pdos": [
+        179,
+        181
+      ]
+    },
+    "atom_keys": null
+  },
+  "FCM_O_COHP": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_corrected_20261031/cohp/FCMnew_O_full",
+    "files": {
+      "COHPCAR.lobster": 1511757,
+      "ICOHPLIST.lobster": 6763,
+      "lobsterout": 2968
+    },
+    "bonds": [
+      {
+        "atom1": "Mn238",
+        "atom2": "O248",
+        "distance_A": 1.6836,
+        "minus_ICOHP_eV": 6.4584
+      },
+      {
+        "atom1": "Mn238",
+        "atom2": "O247",
+        "distance_A": 1.95867,
+        "minus_ICOHP_eV": 2.41471
+      }
+    ]
+  },
+  "MnNC_O_COHP": {
+    "path": "/home/pj25000114/ku50002299/FeCoMn_COHP_20261023/MnNC_O_full/lobster_post_v2_20261024",
+    "files": {
+      "COHPCAR.lobster": 768532,
+      "ICOHPLIST.lobster": 3468,
+      "lobsterout": 2795
+    },
+    "bonds": [
+      {
+        "atom1": "Mn179",
+        "atom2": "O181",
+        "distance_A": 1.65952,
+        "minus_ICOHP_eV": 6.181509999999999
+      }
+    ]
+  }
+}

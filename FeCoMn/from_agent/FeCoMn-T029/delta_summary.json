@@ -1,0 +1,48 @@
+[
+  {
+    "sample": "FCM",
+    "state": "OOH",
+    "bonded_max": 0.015085719963094935,
+    "nonbonded_max": 0.36087990026112804,
+    "nonbonded_above_01": [
+      233
+    ]
+  },
+  {
+    "sample": "FCM",
+    "state": "O",
+    "bonded_max": 0.6713032622428017,
+    "nonbonded_max": 0.01445982812581148,
+    "nonbonded_above_01": []
+  },
+  {
+    "sample": "FCM",
+    "state": "OH",
+    "bonded_max": 0.12539662316313072,
+    "nonbonded_max": 0.006791177942194748,
+    "nonbonded_above_01": []
+  },
+  {
+    "sample": "FCN",
+    "state": "OOH",
+    "bonded_max": 0.18202371909261883,
+    "nonbonded_max": 0.08565276676636069,
+    "nonbonded_above_01": []
+  },
+  {
+    "sample": "FCN",
+    "state": "O",
+    "bonded_max": 0.5663541258167992,
+    "nonbonded_max": 0.11423593128281695,
+    "nonbonded_above_01": [
+      205
+    ]
+  },
+  {
+    "sample": "FCN",
+    "state": "OH",
+    "bonded_max": 0.20058277402004787,
+    "nonbonded_max": 0.08467961186425788,
+    "nonbonded_above_01": []
+  }
+]

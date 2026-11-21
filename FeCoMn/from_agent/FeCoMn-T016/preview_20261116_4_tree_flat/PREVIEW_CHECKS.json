@@ -1,0 +1,53 @@
+{
+  "base": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\outputs\\T015_A_single_bend_20261116\\Figure_4_20261116_A_single_bend1_V2_editable.svg",
+  "base_svg_SHA256": "432b82e6fe7b225163e2385186e5117bd4e5e109f7d1e734dd2cf15852f3e111",
+  "a_b_preview_pixel_identical": true,
+  "original_canvas_mm": [
+    177.8,
+    178.0
+  ],
+  "b_height_mm": 54,
+  "gap_before_c_mm": 3.0,
+  "c_row_mm": [
+    177.8,
+    58.0
+  ],
+  "c_content_height_mm": 52,
+  "pathway_layout": "shared O2 root; left dissociative, right associative",
+  "sphere_style": "flat O/H atom balls and abstract flat grey surfaces",
+  "c_potential_labels": false,
+  "c_interface_water_panels": false,
+  "route_order": [
+    "Dissociative",
+    "Associative"
+  ],
+  "route_atoms": true,
+  "OOH_band_callout_cm-1": 1215,
+  "total_canvas_mm": [
+    177.8,
+    239.0
+  ],
+  "c_background_edges_mm": [
+    13,
+    161
+  ],
+  "approved_b_edges_mm": [
+    13,
+    161
+  ],
+  "alignment_error_mm": [
+    0,
+    0
+  ],
+  "route_step_counts_left_right": [
+    4,
+    5
+  ],
+  "OOH_route_step_highlighted": true,
+  "catalyst_structure": "abstract grey bar; no Fe/Co/Mn, particles, or M-N4 sites",
+  "scope": "preview only; original figure/data and Word untouched",
+  "ab_pixels_identical": true,
+  "ab_original_svg_elements_identical": true,
+  "svg_ids_and_references_valid": true,
+  "tree_style": "flat atom balls; common O2; left dissociation comparison, right association and DFT link"
+}

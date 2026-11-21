@@ -1,0 +1,20 @@
+[
+  {
+    "adsorbate": "OOH*",
+    "particle_without_OH": -0.027908939999861104,
+    "particle_with_OH": 0.0896459299997332,
+    "interaction": 0.1175548699995943
+  },
+  {
+    "adsorbate": "O*",
+    "particle_without_OH": 0.40065510999988874,
+    "particle_with_OH": 0.03639926999971976,
+    "interaction": -0.364255840000169
+  },
+  {
+    "adsorbate": "OH*",
+    "particle_without_OH": -0.076648060000025,
+    "particle_with_OH": 0.03635585999950308,
+    "interaction": 0.11300391999952808
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "task": "FeCoMn-T038",
+  "audit_date": "2026-11-19",
+  "auditor": "Antigravity (independent audit & data extraction)",
+  "clean_AB_exhaustive_check": {
+    "A_FCM_clean": {
+      "only_existing_dir": "IMR:/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/S_FeCoMnNC59_clean",
+      "composition": "C174 N4 Fe27 Co32 Mn1",
+      "has_LORBIT11": false,
+      "has_LAECHG": false,
+      "has_split_statics": false,
+      "TOTEN_eV": -2066.66387767,
+      "total_mag_muB": 139.1098,
+      "Mn_N_distances_A": [1.9156, 1.9144, 1.9144, 1.9115],
+      "Mn_N_mean_A": 1.9140,
+      "dz_Mn_minus_4N_A": -0.0052
+    },
+    "B_MnNC_clean": {
+      "only_existing_dir": "IMR:/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_clean",
+      "composition": "C174 N4 Mn1",
+      "has_LORBIT11": false,
+      "has_LAECHG": false,
+      "TOTEN_eV": -1661.25673727,
+      "total_mag_muB": 3.0306,
+      "Mn_N_distances_A": [1.9154, 1.9154, 1.9154, 1.9155],
+      "Mn_N_mean_A": 1.9154,
+      "dz_Mn_minus_4N_A": -0.0071
+    },
+    "note": "Confirmed across all Genkai and IMR FeCoMn* directories that no LORBIT=11 or AECCAR0/2 statics exist for A or relaxed B. Note that Near_clean_full / Far_clean_full (20261014) have composition C174 N4 Fe27 Co32 Mn1 O1 H1 (particle clean, Mn has axial OH) and MnNC_base_full (20261023) has C174 N4 Mn1 O1 (Mn=O)."
+  },
+  "C_vs_C_support_controlled_geometry_comparison": {
+    "C_full_path": "Genkai:/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_full",
+    "C_support_path": "IMR:/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/FCM_base_support",
+    "C_particle_path": "Genkai:/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_particle",
+    "C_interface_cdd_path": "IMR:/home/05926/zhaoyue/WORK/FeCoMn_electronic_20261023/cdd_remaining_20261024_cs001/FCM_interface",
+    "min_particle_Mn_distance_A": 10.129705,
+    "closest_particle_atom_index_1based": 185,
+    "closest_particle_atom_element": "Fe",
+    "binding_energy_eV": -4.1849,
+    "bader": {
+      "C_full": {
+        "source": "Genkai:.../FCM_base_full/bader_format_test_v2_20261024/ACF.dat (identical Mn/N charges to bader_20261023/ACF.dat)",
+        "total_electrons_reported": 1281.0,
+        "vacuum_charge": 0.0,
+        "Mn238_e": 11.631851,
+        "N175_to_178_e": [6.284584, 6.287164, 6.331900, 6.333652],
+        "N4_sum_e": 25.237300,
+        "Mn_plus_N4_e": 36.869151
+      },
+      "C_support": {
+        "source": "IMR:.../FCM_base_support (post-processed in /tmp from existing AECCAR0/AECCAR2/CHGCAR via chgsum.pl + bader)",
+        "total_electrons_reported": 729.0,
+        "vacuum_charge": 0.0,
+        "Mn179_e": 11.625768,
+        "N175_to_178_e": [6.284107, 6.285216, 6.332737, 6.332389],
+        "N4_sum_e": 25.234449,
+        "Mn_plus_N4_e": 36.860217
+      },
+      "delta_C_minus_C_support": {
+        "delta_Mn_e": 0.006083,
+        "delta_N4_sum_e": 0.002851,
+        "delta_Mn_plus_N4_e": 0.008934
+      }
+    },
+    "magnetization_muB": {
+      "C_full_Mn238_tot": 3.116,
+      "C_full_Mn238_d": 3.024,
+      "C_support_Mn179_tot": 3.126,
+      "C_support_Mn179_d": 3.033,
+      "delta_Mn_loc_muB": -0.010
+    },
+    "pdos_occupied_window_minus8_to_0_eV": {
+      "C_full": {
+        "fermi_eV": -2.20443632,
+        "dz2_center_eV": -3.013459,
+        "d3_center_eV": -3.083042,
+        "dz2_weight": 0.886508,
+        "d3_weight": 4.792518,
+        "dz2_spin_diff": 0.792876
+      },
+      "C_support": {
+        "fermi_eV": -2.99645721,
+        "dz2_center_eV": -3.045007,
+        "d3_center_eV": -3.114730,
+        "dz2_weight": 0.881696,
+        "d3_weight": 4.790698,
+        "dz2_spin_diff": 0.789819
+      },
+      "delta_C_minus_C_support": {
+        "delta_dz2_center_eV": 0.031548,
+        "delta_d3_center_eV": 0.031688,
+        "delta_dz2_weight": 0.004812
+      }
+    },
+    "cdd_3d_CHGDIFF_integrals": {
+      "grid": [252, 240, 360],
+      "net_difference_e_validation": 1.6295465631255337e-07,
+      "delta_q_Mn_sphere_r1.2A_e": 0.002788,
+      "delta_q_Mn_sphere_r1.5A_e": 0.003002,
+      "delta_q_Mn_sphere_r2.0A_e": 0.003354,
+      "delta_q_Mn_sphere_r2.5A_e": 0.002863,
+      "delta_q_Mn_sphere_r3.0A_e": 0.001101,
+      "delta_q_Mn_r1.8A_plus_4N_r1.5A_e": 0.002711,
+      "delta_q_slab_zMn_pm_1.0A_e": -0.074161,
+      "delta_q_slab_zMn_pm_1.5A_e": 0.163954,
+      "delta_q_slab_zMn_pm_2.0A_e": 0.008874,
+      "delta_q_slab_zMn_pm_2.5A_e": -0.005854
+    }
+  }
+}
