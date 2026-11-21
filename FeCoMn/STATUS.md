@@ -1,7 +1,7 @@
 # FeCoMn 任务看板
 
 ## 写作单元（按 ROLES.md v3；每步结束更新本表）
-Word 锁：Claude web　当前正式稿：manuscript/FeCoMn_Manuscript_revised_20261121_1935.docx、FeCoMn_SI_revised_20261121_1850.docx（Word 未上传；纯文本已推送；1725 版误清高亮作废）
+Word 锁：Claude web　当前正式稿：manuscript/FeCoMn_Manuscript_revised_20261121_1940.docx、FeCoMn_SI_revised_20261121_1850.docx（Word 未上传；纯文本已推送；1725 版误清高亮作废）
 
 | 单元 | 负责 | 当前版本（文件 / 提交） | 下一步 | 待谁 | 额度水位 |
 |---|---|---|---|---|---|
