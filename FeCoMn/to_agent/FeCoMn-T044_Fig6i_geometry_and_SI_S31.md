@@ -16,3 +16,10 @@
 吸附能拆分数值与不带 OH 的 U_L 0.52 V。
 
 交付到 from_agent/FeCoMn-T044/，REPORT.md 写明数据来源路径与复核人。
+
+
+## 更新（18:58，赵月同意）
+SI 中该图已由 Claude web 按 T041/T042 数据画好并放入 1850 版 SI，编号为图 S30（不是 S31）：from_agent/FeCoMn-T044/FigS30_ClaudeWeb_draft.png。
+本任务改为两件事：
+1. 改 6i（要求同上第 1 节）。
+2. 复核图 S30：逐个数值对照 from_agent/FeCoMn-T042_Mn_position/Antigravity.csv（8O 模型：带 OH 基态 +0.442，OOH* +0.003，O* −0.098，OH* −0.009；不带 OH 基态 −0.010，O* −0.406，OH* −0.456；不带 OH 的 OOH* 在 8O 模型未算，标 n/a）与 from_agent/FeCoMn-T041/REPORT.md（OH*：+0.336/+0.236/+0.100/0.000；OOH*：+0.267/+0.432/−0.100/−0.065 eV）；同时核 SI 表 S7、表 S11 的数值。结论写入 review/。原第 2 节"SI 图 S31（新）"作废。
