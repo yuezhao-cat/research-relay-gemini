@@ -110,3 +110,4 @@
 | FeCoMn_Manuscript_revised_20261121_1950.docx | 2026-11-21 19:50 | 基于 1940，叠加高亮。摘要、结论整段替换为 Gemini 按简报 v2 写的版本（机理与图 5、图 6 一致：颗粒保住轴向 OH，0.48 → 0.96 V；轴向 OH 不过弱不过强），赵月选定原样采用。 |
 | FeCoMn_Manuscript_revised_20261121_2025.docx | 2026-11-21 20:25 | 基于 1950，叠加高亮。前言第二段换为 Gemini 版（"These analyses considered only bare single-atom sites."，赵月定）；第三段换为 Gemini 版加 Mn–NC/FeCoMn–NC 成键能力解释两句、rate-limiting 改为 OH* removal limits the ORR；图 6 第二段 6e 句后补成键能力解释（引图 6b、6c）。 |
 | FeCoMn_Manuscript_revised_20261121_2045.docx / FeCoMn_SI_revised_20261121_2045.docx | 2026-11-21 20:45 | 文字与 2040 相同。高亮精细到词：与导师返回前的底稿（正文 1116_2010、SI 1116_2250）逐词比对，凡是底稿里原样存在且原本未标黄的词取消标黄（正文 378 词、SI 54 词，例如朱老师邮箱）；底稿里已有的标黄和真正改动的词保留。 |
+| FeCoMn_Manuscript_revised_20261121_2050.docx / FeCoMn_SI_revised_20261121_2050.docx | 2026-11-21 20:50 | 取代 2045。文字同 2040。全文标黄按词核对：与底稿（正文 1116_2010、SI 1116_2250）逐词比对，标黄 = 改动的词 + 底稿原有标黄。2045 漏标的改动词补标（如题目、图 6 段与图注）。核查结果：未改却标黄 0，改了却没标黄 0。 |
