@@ -1,0 +1,1516 @@
+Supporting Information
+
+Surface Coverage under Working Conditions Reveals That FeCo Particles
+Determine the Axial Ligand of Mn Single Atoms for Oxygen Reduction
+
+Yue Zhao^(a), Shuyao Zhang^(a), Li Ling^(a), Siwei Yan^(a), Zhonghui Gao
+^(a), Wence Xu^(a), Yanqin Liang^(a), Hui Jiang^(a), Zhaoyang Li^(a),
+Zhenduo Cui ^(a, b), Dan Luo ^(c), Wei Li ^(d), Hao Li ^(e,***),
+Zhongwei Chen ^(c,**), and Shengli Zhu^(a, b, *)
+
+^(a) School of Materials Science and Engineering, Tianjin University,
+Tianjin 300350, China
+
+^(b) State Key Laboratory of Precious Metal Functional Materials,
+Tianjin University, Tianjin 300350, China
+
+^(c) Dalian Institute of Chemical Physics Chinese Academy of Science,
+Dalian 116023, China
+
+^(d) Collaborative Innovation Center of Materials Science, Nankai
+University, Tianjin 300350, China
+
+^(e) Advanced Institute for Materials Research (WPI-AIMR), Tohoku
+University, Sendai 980-8577, Japan
+
+^(*Corresponding author at:) School of Materials Science and
+Engineering, Tianjin University:
+
+Email: slzhu@tju.edu.cn (Prof. Shengli Zhu).
+
+^(** Corresponding author at:) Dalian Institute of Chemical Physics
+Chinese Academy of Science
+
+Email: zwchen@dicp.ac.cn (Dr. Zhongwei Chen);
+
+^(*** Corresponding author at:) WPI-AIMR, Tohoku University, Sendai
+980-8577, Japan
+
+Email: li.hao.b8@tohoku.ac.jp (Prof. Hao Li).
+
+Table of Contents
+
+1. Experimental Details 4
+
+2. Computational Details 7
+
+  2.1 Computational platforms, models and atom constraints 7
+
+  2.2 Calculation settings 7
+
+  2.3 Thermochemical conventions and electrochemical potential 8
+
+  2.4 Coverage library, stoichiometric accounting and surface maps 9
+
+  2.5 Gas-reference sets and adsorbate corrections 9
+
+  2.6 ORR backgrounds, balanced steps and adsorption energies 10
+
+  2.7 Free-energy steps, diagrams, limiting potential and overpotential
+  10
+
+  2.8 Scaling relation and volcano plot 11
+
+  2.9 Magnetic references 11
+
+  2.10 PDOS, contact atoms and occupied d-band centers 12
+
+  2.11 Bader charge and electron-population accounting 12
+
+  2.12 Frozen-fragment charge-density differences and rendering 12
+
+  2.13 COHP projections and bond-set definitions 13
+
+  2.14 Particle binding and removal/recovery analysis 14
+
+  2.15 Geometry and output acceptance 14
+
+  Figure S1. Additional TEM images of FeCoMn–NC 15
+
+  Figure S2. Lattice-fringe analysis of Figure 1e 16
+
+  Figure S3. XPS spectra of FeCoMn–NC 17
+
+  Figure S4. EXAFS shell fits of FeCoMn–NC in k, R and q space 18
+
+  Figure S5. R-space EXAFS fits at the Fe, Co and Mn K-edges 19
+
+  Figure S6. Morlet wavelet transforms 20
+
+  Figure S7. Rotation-rate LSV curves 21
+
+  Figure S8. Cyclic voltammograms of FeCoMn–NC and FeCo–NC 22
+
+  Figure S9. RRDE measurements of FeCoMn–NC and Pt/C at 1600 rpm 23
+
+  Figure S10. Stability of an additional FeCoMn–NC electrode 24
+
+  Figure S11. Particle–support binding and structural recovery 25
+
+  Figure S12. Clean, 7O*-covered and recovered structures 26
+
+  Figure S13. Supported-model coverage free energies of FeCoMn–NC 27
+
+  Figure S14. Coverage free energies of the FeCo(110) particle submodel
+  28
+
+  Figure S15. Supported-model coverage free energies of FeCo–NC 29
+
+  Figure S16. Coverage free energies of Mn–NC 30
+
+  Figure S17. FeCoMn–NC coverage structures (1/2) 31
+
+  Figure S18. FeCoMn–NC coverage structures (2/2) 32
+
+  Figure S19. FeCo–NC coverage structures 33
+
+  Figure S20. Mn–NC coverage structures 34
+
+  Figure S21. FeCo(110) coverage structures (1/2) 35
+
+  Figure S22. FeCo(110) coverage structures (2/2) 36
+
+  Figure S23. FeCo(110) particle submodel 37
+
+  Figure S24. Surface structures for the ORR calculations 38
+
+  Figure S25. Optimized ORR intermediates 39
+
+  Figure S26. ORR free-energy diagrams at 0 V versus RHE 40
+
+  Figure S27. Site-projected DOS of the intermediates 41
+
+  Figure S28. Orbital-resolved PDOS of OOH* on the three models 42
+
+  Figure S29. Bond-resolved metal–O −pCOHP for OOH* and OH* 43
+
+  Figure S30. Adsorbate electron gain for OOH* and OH* 44
+
+  Figure S31. Three-dimensional Δρ upon OH* adsorption 45
+
+  Figure S32. Planar-averaged Δρ at the particle–support interface 46
+
+  Figure S33. Cumulative ΔN(z) at the particle–support interface 47
+
+  Table S1. XPS fitting results for FeCoMn–NC 48
+
+  Table S2. EXAFS fitting parameters for FeCoMn–NC 49
+
+  Table S3. ORR metrics in O₂-saturated 0.1 M KOH at 1600 rpm 50
+
+  Table S4. Half-wave potentials of selected catalysts 51
+
+  Table S5. Composition of the computational models and ORR surface
+  states under reaction conditions 52
+
+  Table S6. Particle–support binding and structural recovery 53
+
+  Table S7. Axial ligand on Mn with and without the FeCo particle 54
+
+  Table S8. ORR free energies at 0 V versus RHE 55
+
+  Table S9. Metal–O distances of the intermediates 56
+
+  Table S10. Electronic descriptors of the O-bonded metals 57
+
+  Table S11. Coverage candidates and their free energies 58
+
+  Table S12. Relaxation-stage σ → 0 energies used for the ORR pathways
+  61
+
+1. Experimental Details
+
+Materials and synthesis. Co(NO₃)₂·6H₂O, Zn(NO₃)₂·6H₂O, Fe(NO₃)₃·9H₂O,
+Mn(acac)₃, 2-methylimidazole, and methanol were analytical-grade
+reagents from Aladdin. Analytical-grade ethanol and KOH were supplied by
+Tianjin Fengchuan and Sinopharm, respectively. In addition, 5 wt% Nafion
+solution was from Sigma-Aldrich, and 20 wt% Pt/C from Johnson Matthey.
+Deionized water was used throughout, and reagents were used as received.
+The FeCoMn–NC recipe used 208, 856, 289, and 252 mg of the Co, Zn, Fe,
+and Mn precursors, respectively, in 50 mL methanol, and 2.35 g
+2-methylimidazole in another 50 mL methanol was added dropwise. The
+mixture was stirred at room temperature for 24 h. The solid was
+collected by centrifugation, washed with ethanol, and vacuum-dried at 60
+°C. The precursor was heated in a ceramic boat at 5 °C min⁻¹ to 1000 °C
+under Ar/H₂ (95:5) and held for 2 h. FeCo–NC omitted the Mn source, and
+Mn–NC omitted the Fe and Co sources. Products were not acid-washed.
+
+Electrochemical measurements. Electrochemical measurements used Gamry
+Interface 1000/1010E potentiostats and a three-electrode cell containing
+a Pine E7R9 rotating ring-disk working electrode (5.61 mm glassy-carbon
+disk and Pt ring), a saturated calomel reference electrode (SCE), and a
+graphite-rod counter electrode. The electrolyte was O₂-saturated 0.1 M
+KOH.
+
+Electrode preparation and potential scale. The catalyst ink contained 3
+mg catalyst dispersed in 150 μL deionized water, 50 μL ethanol, and 10
+μL 5 wt% Nafion solution (210 μL in total) and was sonicated for 30 min.
+An 18 μL aliquot was drop-cast onto the glassy-carbon disk and dried at
+room temperature, giving 0.257 mg catalyst per disk, i.e., 1.04 mg cm⁻²
+for the geometric disk area of 0.2472 cm². All current densities were
+obtained by dividing the recorded currents by this geometric area.
+Potentials measured against the SCE were converted to the RHE scale by
+E(RHE) = E(SCE) + 0.241 + 0.059 × pH, which gives E(RHE) = E(SCE) +
+1.016 V for the electrolyte used. iR compensation was applied by the
+potentiostat during acquisition, and no further ohmic correction was
+applied during data processing. The fixed +1.016 V conversion is used
+throughout.
+
+LSVs were recorded at 5 mV s⁻¹ at rotation rates of 400, 625, 900, 1225,
+1600, 2025, and 2500 rpm.
+
+Electrochemical definitions. E_(onset) is the potential interpolated at
+a baseline-corrected current density of −0.10 mA cm⁻². E_(1/2) is the
+potential at half of j_(L), where j_(L) is the median current density
+between 0.30 and 0.40 V versus RHE. The baseline is the median between
+1.00 and 1.05 V. The kinetic-current magnitude is |j·j_(L)/(j_(L) − j)|,
+evaluated using the mean j within ±5 mV of the stated potential. Tafel
+slopes were obtained by regression of E against log₁₀|j_(k)|. The fitted
+segments shown in Figure 3c are 0.860–0.907, 0.860–0.908, 0.863–0.911,
+and 0.879–0.928 V for FeCoMn–NC, FeCo–NC, Mn–NC, and Pt/C, respectively.
+Display smoothing was not used to calculate E_(1/2) or j_(k).
+
+RRDE acquisition and statistics. FeCoMn–NC and Pt/C were recorded at
+1600 rpm with disk scan rates of 7 and 10 mV s⁻¹, respectively. Their
+ring potentials were 0.300 and 0.389 V versus SCE (1.316 and 1.405 V
+versus RHE). The disk and ring current magnitudes were used directly,
+with nominal N = 0.37. Reported n and H₂O₂ values are averages over
+points within 0.30–0.75 V.
+
+Cyclic voltammetry and chronoamperometry. CVs were recorded on a
+stationary electrode at 10–50 mV s⁻¹ in N₂- or O₂-saturated 0.1 M KOH
+(Figure S8). Chronoamperometry was performed at 0.516 V versus RHE and
+1600 rpm. Relative current is I(t)/I_(ref) × 100%, with I_(ref) taken at
+the first point at or after 0.1 h to exclude the initial charging
+transient. The long-term stability test lasted 238 h. This test was
+accumulated from three consecutive segments on the same electrode
+(111.1, 111.1, and 16.2 h). Retention was evaluated from the final 120
+recorded points relative to the same initial reference. The shaded
+envelope in Figure 3g is the rolling minimum–maximum of the current
+trace.
+
+Characterization. Morphology was examined by field-emission SEM (Hitachi
+S-4800) and TEM/HRTEM with EDS mapping (JEOL JEM-2100F). Samples for TEM
+were ultrasonically dispersed in ethanol and drop-cast onto
+carbon-coated copper grids. XRD patterns were collected using a Bruker
+D8 Advance diffractometer with Cu Kα radiation (λ = 0.15406 nm). XPS
+measurements used a Kratos Axis Supra spectrometer with Al Kα radiation
+(1486.6 eV). Binding energies were referenced to C 1s at 284.8 eV, and
+component fitting used a Shirley background.
+
+Fe, Co, and Mn K-edge XAS spectra of the samples were acquired on a
+laboratory high-throughput X-ray absorption fine structure spectrometer
+(Anhui Absorption Spectroscopy Instrument Co., Ltd., China) at the
+Tianjin University large-scale instrument platform in transmission
+geometry, with the corresponding metal foils measured in the same
+session for energy calibration. Larch²⁵ was used for background removal,
+Fourier transformation, and fitting. The background radius R_(bkg) was
+1.0 Å (1.3 Å for the MnO reference). The k²-weighted data were
+transformed with a Hanning window (dk = 1 Å⁻¹). Fe and Co fits used k =
+2.5–11.5 Å⁻¹ and R = 1.0–3.2 Å, and Mn fits used k = 2.0–6.0 Å⁻¹ and R =
+1.0–3.0 Å. The FT spectra are not phase-corrected. Morlet wavelet
+transforms used η = 10 and σ = 1.²⁶
+
+XAS processing and fitting. The main plotted sample uses the Fe2, Co2,
+and Mn2 acquisition files. Background extraction used the recorded
+nominal edge energies Fe 7112, Co 7709, and Mn 6539 eV, while
+foil-derivative maxima defined the reference-energy alignment. Hanning
+windows with dk = 1 Å⁻¹ and k² weighting were used. Fe and Co two-shell
+fits used total metal-scattering paths with a shared occupancy factor
+for the bcc first and second shells, and the corresponding coordination
+degeneracies are 8 and 6. Foil-calibrated amplitude factors S₀² were
+0.77 for Fe and 0.78 for Co. Mn fitting used S₀² = 0.8 and σ² = 0.010 Å²
+for the reported light-atom shell.
+
+Image and spectral processing. SEM/TEM panels were cropped from the raw
+instrument files (tif/dm4/bmp) at final print size. TEM contrast was
+linearly stretched, and no filtering or denoising was applied.
+Lattice-fringe analysis (Figure S2) used a 512 × 512 px window (0.01382
+nm px⁻¹), a Hann-windowed FFT, and a grey-level profile averaged over 41
+lines normal to the fringes (σ = 1.5 px Gaussian smoothing for peak
+finding). XRD reference sticks for bcc FeCo were calculated from Bragg’s
+law with a = 2.857 Å and Cu Kα radiation. XPS components (Table S1) were
+fitted after Shirley background subtraction. All electrochemical metrics
+in Table S3 were recomputed from the raw potentiostat files with a
+single script using the definitions given above. Curve smoothing in the
+figures is for display only.
+
+ATR-SEIRAS acquisition and processing. The FTIR instrument was a Thermo
+Fisher Nicolet iS50 with an Au-film-coated Si prism. Catalyst ink was
+drop-cast onto the Au film. The background spectrum was collected at the
+open-circuit potential with the catalyst film in place, so the
+potential-independent absorption of the film and Nafion is removed from
+all spectra. Spectra were then measured in O₂-saturated 0.1 M KOH as the
+potential was stepped from approximately 1.2 to 0 V versus RHE. A
+piecewise linear baseline anchored at 1330–1370, 1900–1950, 2550–2650,
+and 3850–3950 cm⁻¹ was subtracted from each spectrum, and difference
+spectra were referenced to 1.2 V. Savitzky–Golay smoothing (second
+order) over approximately 10 or 20 cm⁻¹ was applied for display only.
+The region below 1000 cm⁻¹ is not shown because it is dominated by
+absorption of the Si prism. Si–O absorption of the Si prism was excluded
+as the origin of the band near 1215 cm⁻¹ on the basis of the control
+measurement reported by Sun et al. (Nat. Catal. 2023, 6, 1164–1173)
+
+2. Computational Details
+
+2.1 Computational platforms, models and atom constraints
+
+Calculations were carried out on the supercomputing system of the
+Institute for Materials Research (IMR), Tohoku University, Japan, and
+Genkai at Kyushu University, Japan. VASP 6.6.0 with PAW-PBE and D3(BJ)
+dispersion was used. Reference numbers in this section follow the
+main-text bibliography. Relaxation energies and higher-precision
+electronic-analysis energies are kept separate.
+
+Models and structural constraints. The supported models use the same
+orthorhombic 22.198 × 21.360 × 24.000 Å³ cell and a Γ-centered 1 × 1 × 1
+k-point mesh. Their clean compositions are C₁₇₄N₄Fe₂₇Co₃₂Mn,
+C₁₈₀Fe₂₇Co₃₂, and C₁₇₄N₄Mn. Each particle-containing model fixes 15
+interior particle atoms, and all atoms of Mn–NC are free. The relaxed
+surface states under reaction conditions (8O* + Mn–OH* for FeCoMn–NC,
+8O* for FeCo–NC, and Mn=O for Mn–NC) contain 248, 247, and 180 atoms,
+respectively. Their c-axis empty spans are approximately 12.59, 12.62,
+and 21.81 Å, calculated as the cell height minus the atomic z span. The
+fixed atoms (1-based indices) are 183, 189, 191, 192, 193, 195, 201,
+213, 214, 217, 218, 225, 226, 229 and 230 in FeCoMn–NC and 185, 191,
+193, 194, 195, 197, 203, 215, 216, 219, 220, 227, 228, 231 and 232 in
+FeCo–NC. They carry the fixed selective-dynamics flags in the deposited
+structure files (Data Availability Statement in the main text). The
+59-atom particle represents a local particle–support environment.
+
+The independent FeCo(110) model contains 16 Fe and 16 Co atoms in a
+four-layer slab. Its orthorhombic cell is 8.081 × 5.714 × 21.061 Å³, and
+the clean slab fixes 16 atoms in the lower two layers while the upper 16
+metal atoms and adsorbates can relax. Its Γ-centered k-point mesh is 5 ×
+4 × 1.
+
+2.2 Calculation settings
+
+Geometry optimization. PAW-PBE calculations used a 500 eV cutoff, D3(BJ)
+dispersion (IVDW = 12), ISPIN = 2, PREC = Normal, ALGO = Fast, EDIFF =
+10⁻⁵ eV, EDIFFG = −0.02 eV Å⁻¹, IBRION = 2, POTIM = 0.1, ISIF = 2, ISYM
+= 0, and LREAL = Auto. Gaussian smearing used SIGMA = 0.05 eV. The
+standard PAW datasets were C, N, Fe, Co, Mn_(pv), O, and H as required
+by composition, and Mn semicore p states were included. Initial moments
+were Fe/Mn 3, Co 2, O 0.5, and C/N/H 0 μB. Spin mixing used AMIX/BMIX =
+0.1/0.0001 and AMIX_MAG/BMIX_MAG = 0.4/0.0001 with LMAXMIX = 4. A
+structure was accepted from the ionic-convergence marker and normal
+termination, and the final σ → 0 energy was used.
+
+Supported-model optimizations used NELM = 150, NSW = 800 for the ORR
+runs and up to 400 steps in the binding/recovery runs. The latter retain
+their own initial moments. In particular, the FeCoMn–NC recovery input
+initialized Mn at 4 μB, whereas the ORR template initialized it at 3 μB.
+No spin constraint was imposed. The optimizations started from ISTART =
+0 and ICHARG = 2, used the automatic fine FFT grid, and wrote LWAVE and
+LCHARG output.
+
+Electronic-structure and charge analysis. Fixed-geometry calculations
+used ENCUT = 500 eV, EDIFF = 10⁻⁶ eV, PREC = Accurate, LREAL = False,
+ALGO = Normal, ISMEAR = 0, SIGMA = 0.05 eV, IVDW = 12, LMAXMIX = 4,
+LORBIT = 11, NEDOS = 2000, LAECHG = True, and Γ-point sampling. The
+realized fine charge-density grid was 252 × 240 × 360.
+
+The static calculations used NSW = 0, IBRION = −1, NELM = 200, ISYM = 0,
+ISTART = 0 and ICHARG = 2. LVHAR, LWAVE and LCHARG are True, and the
+spin-mixing parameters are the same as in the optimizations. All
+fragments are evaluated at the coordinates of their corresponding full
+state.
+
+FeCo(110) model. The adsorption calculations used ENCUT = 500 eV, PREC =
+Normal, EDIFF = 10⁻⁵ eV, EDIFFG = −0.02 eV Å⁻¹, NSW = 300, IBRION = 2,
+POTIM = 0.2, ISIF = 2, ISYM = 0, LREAL = False, ALGO = Normal, NELM =
+200, ISMEAR = 0, SIGMA = 0.10 eV, ISPIN = 2, LMAXMIX = 4 and IVDW = 12.
+Initial Fe/Co/O moments were 3/2/0.5 μB, and hydrogen initial moments
+were zero. LDIPOL = True and IDIPOL = 3 apply the dipole correction
+normal to the slab. DIPOL follows the slab/adsorbate center used in each
+input (z = 0.5310 for 6O and 0.5392 for 8O in fractional coordinates).
+Spin-mixing parameters were AMIX = 0.1, BMIX = 0.0001, AMIX_MAG = 0.4
+and BMIX_MAG = 0.0001. LWAVE and LCHARG were False.
+
+2.3 Thermochemical conventions and electrochemical potential
+
+E denotes the final converged VASP energy (σ → 0). Gas references G(H₂)
+and G(H₂O) already include their gas-phase corrections. The adsorbate
+corrections given in Section 2.5 are added to the energy of each
+adsorbed state. Temperature is 298.15 K, e is the positive elementary
+charge, and U is an electrode potential.
+
+G ≈ E + ΔZPE − TΔS (S1)
+
+μ(H⁺ + e⁻; U_(RHE)) = ½G(H₂) − eU_(RHE) (S2)
+
+U_(RHE) = U_(SHE) + [k_(B)T ln(10)/e]pH (S3)
+
+At 298.15 K, k_(B)T ln(10)/e = 0.05916 V. Thus pH 13 and 0.78 V versus
+RHE correspond to approximately 0.011 V versus SHE. Potentials used on
+an RHE axis receive no additional pH correction.
+
+2.4 Coverage library, stoichiometric accounting and surface maps
+
+Coverage free energies. The library contains 46 supported-model
+configurations for FeCoMn–NC (43 enumerated configurations plus the
+joint states 6O* + Mn–O*, 8O* + Mn–O* and 8O* + Mn–OH*, which combine
+particle O* with an axial ligand on Mn), 24 for FeCo–NC, 18 for Mn–NC,
+and 44 configurations of an independent FeCo(110) slab (Table S11 and
+Figure S23). The latter is displayed under both particle-containing
+samples but retains an independent clean reference. Each candidate is
+identified by its adsorption composition, site and configuration code in
+Table S11. Distinct optimized arrangements at the same composition
+remain distinct candidates. Adsorbate identities (O, OH, OOH and H) were
+assigned from the optimized structures.
+
+For a candidate relative to its own clean parent, let N_(O) and N_(H) be
+the total added oxygen and hydrogen atom counts. Let n_(O*), n_(OH*),
+n_(OOH*) and n_(H*) count the corresponding adsorbed species.
+
+C_(cov) = 0.066n_(O*) + 0.343n_(OH*) + 0.403n_(OOH*) + 0.210n_(H*)  [eV]
+(S4)
+
+m = 2N_(O) − N_(H) (S5)
+
+G_(form)(0) = E_(state) − E_(clean) − N_(O) G(H₂O) + ½mG(H₂) + C_(cov)
+(S6)
+
+G_(form)(U_(RHE)) = G_(form)(0) − meU_(RHE) (S7)
+
+G_(form)(U_(SHE, pH)) = G_(form)(0) − meU_(SHE) − mk_(B)T ln(10)pH (S8)
+
+G(U) plots use eV per simulation cell, relative to the clean state of
+that model family. At a specified potential and pH, the plotted surface
+map selects the lowest G_(form) only among the candidates of the same
+family. Crossovers are intersections of those formation-energy lines.
+Supported-model and independent-slab minima are kept separate.
+
+2.5 Gas-reference sets and adsorbate corrections
+
+Gas references and adsorbate corrections. The coverage curves and Table
+S11 retain the original coverage-library references G(H₂) = −6.834 eV
+and G(H₂O) = −14.341 eV. The ORR free energies in Table S8 use the
+unified references G(H₂) = −6.833 eV and G(H₂O) = −14.327 eV. Total
+adsorbate corrections ΔZPE − TΔS are +0.066 eV (O*), +0.343 eV (OH*),
++0.403 eV (OOH*), and +0.210 eV (H* in the coverage library). The O*,
+OH* and OOH* values follow Table S1 of the Supporting Information to
+main-text ref. 12. The H* value is the coverage-library correction.
+
+2.6 ORR backgrounds, balanced steps and adsorption energies
+
+Define B as the surface state under reaction conditions, which is
+particle 8O* plus axial Mn–OH for FeCoMn–NC, particle 8O* for FeCo–NC,
+and axial Mn=O for Mn–NC. The background atoms remain part of every
+state. The added OOH*, O* and OH* bind on the opposite Mn side in the
+two Mn paths, or on the particle in FeCo–NC. The four balanced acid-form
+CHE steps are listed below. On the RHE scale, they are thermodynamically
+equivalent to the alkaline form.
+
+B + O₂ + H⁺ + e⁻ → B–OOH (S9)
+
+B–OOH + H⁺ + e⁻ → B–O + H₂O (S10)
+
+B–O + H⁺ + e⁻ → B–OH (S11)
+
+B–OH + H⁺ + e⁻ → B + H₂O (S12)
+
+ΔG_(O*) = E(B–O) − E(B) − G(H₂O) + G(H₂) + 0.066 eV (S13)
+
+ΔG_(OH*) = E(B–OH) − E(B) − G(H₂O) + ½G(H₂) + 0.343 eV (S14)
+
+ΔG_(OOH*) = E(B–OOH) − E(B) − 2G(H₂O) + ³/₂G(H₂) + 0.403 eV (S15)
+
+G(O₂) + 2G(H₂) − 2G(H₂O) = 4.92 eV (S16)
+
+The last equation fixes the O₂ reference through the equilibrium
+four-electron water-formation free energy. All adsorption energy
+differences use the matched relaxation energies in Table S12.
+
+2.7 Free-energy steps, diagrams, limiting potential and overpotential
+
+ΔG₁(0) = ΔG_(OOH*) − 4.92 eV;   ΔG₂(0) = ΔG_(O*) − ΔG_(OOH*) (S17)
+
+ΔG₃(0) = ΔG_(OH*) − ΔG_(O*);   ΔG₄(0) =  − ΔG_(OH*) (S18)
+
+ΔG_(i)(U_(RHE)) = ΔG_(i)(0) + eU_(RHE) (S19)
+
+U_(L) = min_(i)[ − ΔG_(i)(0)/e];   η_(ORR) = 1.23 V − U_(L) (S20)
+
+U_(L) is the highest potential at which all four steps remain exergonic.
+At 0 V all four ΔG_(i) are negative, and the least negative one sets
+U_(L); this step is termed the potential-determining step. It follows
+from the reaction free energies alone, without activation barriers, and
+therefore does not identify the kinetically slowest step.
+
+Diagrams referenced to the regenerated background plus product water
+contain the following five levels, in order O₂, OOH*, O*, OH*, H₂O.
+
+(4.92 eV − 4eU, ΔG_(OOH*) − 3eU, ΔG_(O*) − 2eU, ΔG_(OH*) − eU, 0) (S21)
+
+For the hydroxyl-ligated FeCoMn–NC path at 0.78 V, these levels are
+1.80, 1.80, 0.67, 0.07 and 0 eV. The OH* structure retains the axial OH
+and adds the reaction-side OH. The final step is downhill by 0.07 eV and
+regenerates the same background.
+
+2.8 Scaling relation and volcano plot
+
+Volcano relation. The two-branch activity volcano in Figure 6 is
+constructed from the same CHE expressions. On the strong-binding side,
+the OH* → H₂O step limits and eU_(L) = ΔG_(OH*). On the weak-binding
+side, the O₂ → OOH* step limits and eU_(L) = 4.92 eV − ΔG_(OOH*). The
+two branches are linked by ΔG_(OOH*) = ΔG_(OH*) + 3.28 eV, where 3.28 eV
+is the mean ΔG_(OOH*) − ΔG_(OH*) of the three ORR paths (3.30, 3.33, and
+3.21 eV for FeCoMn–NC on the 8O* + Mn–OH* background, FeCo–NC, and
+Mn–NC). The apex therefore lies at ΔG_(OH*) ≈ 0.82 eV with U_(L) ≈ 0.82
+V. The three computed paths are shown at their ΔG_(OH*) values (Table
+S8). The O* level does not enter this two-branch construction. Actual
+limiting potentials are calculated from the complete four-step paths. In
+particular, O* → OH* limits the FeCo–NC path. With the commonly used
+scaling constant of about 3.2 eV,^(5,22) the apex shifts to ΔG_(OH*) ≈
+0.86 eV, and FeCoMn–NC (ΔG_(OH*) = 0.85 eV) lies about 0.01 eV from it.
+
+ΔG_(OOH*) ≈ ΔG_(OH*) + 3.28 eV (S22)
+
+U_(L, volcano) = min[ΔG_(OH*), 4.92 eV − ΔG_(OOH*)]/e (S23)
+
+2.9 Magnetic references
+
+Energy and magnetic references. The FeCo–NC background used for the ORR
+energies is the relaxed 8O* state, E = −2143.215 eV, with total
+magnetization approximately 137.5 μB. The electronic descriptors use the
+corresponding magnetic solution.
+
+2.10 PDOS, contact atoms and occupied d-band centers
+
+Metal d projections and adsorbate-O p projections are selected by
+retained parent atom identities and the added-adsorbate atom mapping.
+Spectra are spin-summed, and the occupied d-band center is computed from
+the unbroadened d-PDOS by eq S24. Site-projected spectra (Figure S27)
+are plotted in states eV⁻¹ without normalization or smoothing. The
+orbital-resolved PDOS in Figure S28 is shown as log₁₀(1 + PDOS) with
+PDOS in states eV⁻¹.
+
+ε_(d) = ∫⁻⁸⁰ E D_(d)(E)dE / ∫⁻⁸⁰ D_(d)(E)dE;   E = ε − E_(F) (S24)
+
+Here, E_(F) is the Fermi level of each state. For multiple contact
+atoms, the contact d-center is the arithmetic mean of the selected
+per-atom d-centers. For FeCo–NC, the contact sets are Fe206/Co235 for
+OOH*, Fe206/Co234 for O*, and Fe206/Co234/Co235 for OH* and the covered
+background. Element-averaged Fe/Co traces and atom-resolved heat maps
+include their stated atom sets.
+
+2.11 Bader charge and electron-population accounting
+
+Bader electron populations were obtained with an AECCAR0 + AECCAR2
+reference. The contact-metal change is ΔN_(metal) =
+Σ[N_(metal)(adsorbed) − N_(metal)(background)] over the specified atom
+set, and negative values denote electron loss. The adsorbate electron
+gain is the sum of its Bader populations minus the neutral
+valence-electron count of O, OH, or OOH.
+
+ΔN_(metal) = Σ_(i ∈ contact)[N_(i)(B–X) − N_(i)(B)] (S25)
+
+ΔN_(X) = Σ_(j ∈ X) N_(j)(B–X) − Σ_(j ∈ X) Z_(j, val) (S26)
+
+Magnitude plots use |ΣΔN|, not Σ|ΔN|. For the present
+C/N/Fe/Co/Mn_(pv)/O/H potentials, the neutral valence count of an O, OH
+and OOH adsorbate is 6, 7 and 13 electrons, respectively.
+
+2.12 Frozen-fragment charge-density differences and rendering
+
+Charge-density differences are defined by eqs S27 and S28. Positive and
+negative Δρ denote accumulation and depletion, respectively. The
+full-cell residuals of the adsorption/interface datasets are below 4.2 ×
+10⁻⁶ electrons. Neither planar amplitudes nor the origin-dependent
+cumulative extrema are Bader charges.
+
+Δρ_(ads)(r) = ρ_(B–X)(r) − ρ_(B, frozen)(r) − ρ_(X, frozen)(r) (S27)
+
+Δρ_(int)(r) = ρ_(full)(r) − ρ_(particle, frozen)(r) − ρ_(support, frozen)(r)
+(S28)
+
+$\Delta\overline{\rho}(z)\  = \ A^{- 1}\ \int_{A}\ \Delta\rho(x,y,z)dxdy$
+(S29)
+
+$\Delta N(z)\  = \ A\ \int_{0}^{z}\ \Delta\overline{\rho}(z')dz';\ \ \ {\delta N}_{cell}\  = \ \int_{cell}\ \Delta\rho(r)d^{3}r$
+(S30)
+
+A is the in-plane cell area. All three densities in a subtraction share
+identical cell, PAW settings, atom coordinates for retained atoms and
+realized FFT dimensions. Charge density is expressed as electrons per
+Å³. VASP grid values are converted using the cell volume before
+real-space integration. Positive/negative isosurfaces use ±0.005 e Å⁻³
+with accumulation/depletion distinguished in the figure legend.
+Identical isovalues and local-view scales are used when comparing
+displayed structures.
+
+The three-dimensional charge-density difference upon OH* adsorption
+shows electron accumulation around the OH* oxygen and the metal–O bond,
+with depletion on neighboring atoms. On FeCo–NC, this redistribution
+involves multiple Fe/Co atoms of the particle (Figure S31).
+
+The planar-averaged charge-density difference at the particle–support
+interface shows electron depletion above the graphene plane and below
+the lowest metal layer, with accumulation in the gap between them.
+FeCoMn–NC and FeCo–NC show similar profiles (Figure S32). The
+corresponding cumulative charge changes sign with height, reflecting the
+alternating regions of electron accumulation and depletion near the
+interface (Figure S33).
+
+2.13 COHP projections and bond-set definitions
+
+COHP analysis. Dedicated VASP wavefunction calculations used ISYM = −1
+and NBANDS = 1200 before projection with LOBSTER 5.1.1 and the
+pbeVaspFit2015 basis, with C/N/O 2s2p, Fe/Co 3d4s, Mn 3p3d4s, and H 1s
+where present. For the Mn–NC background, the Bader and PDOS analyses
+used a separate static calculation on the same structure, and the total
+energies of the two calculations differ by 0.007 eV. The COHP window was
+−15 to +10 eV and Gaussian smearing was 0.10 eV. Spin-channel absolute
+charge spillings span approximately 1.04–2.60%. Spectra are spin-summed
+and shown as −pCOHP, so bonding contributions are positive. −ICOHP is
+integrated to E_(F). For OH* on FeCo–NC, 3.19 eV is the sum of three
+metal–O contributions (1.62, 0.74, and 0.82 eV), whereas FeCoMn–NC and
+Mn–NC each have one Mn–O contact. On FeCoMn–NC, the −ICOHP of the axial
+Mn–OH bond is 2.64, 3.00 and 2.98 eV in the background, OOH* and OH*
+states. The axial Mn–OH bond therefore responds to the adsorbate on the
+opposite side.
+
+ − ICOHP(M–O) =  − ∫^(E_(F)) COHP_(M–O)(E)dE (S31)
+
+Plotted curves use E − E_(F). Contact pairs are selected from the final
+relaxed geometry, and multiple contacts are explicitly summed only when
+a Σ label is used.
+
+2.14 Particle binding and removal/recovery analysis
+
+The binding energy compares the supported clean model with the
+separately optimized matching support and isolated Fe₂₇Co₃₂ cluster. It
+is reported per 59-atom particle. Negative E_(b) indicates binding
+relative to those fragments.
+
+E_(b) = E_(supported) − E_(support) − E_(Fe₂₇Co₃₂) (S32)
+
+The recovery test follows clean → seven adsorbed O → removal of those O
+atoms → re-optimization, retaining the existing selective-dynamics
+constraints and atom identities. Each case uses one optimized
+configuration. Periodic displacement vectors are obtained with the
+minimum-image convention. A rigid translation is removed using the
+componentwise median displacement of the C/N support atoms, and no
+arbitrary rotation is fitted to minimize the particle displacement.
+
+δr_(i) = MIC(r_(i, recovered) − r_(i, clean)) − median_(C, N)[MIC(Δr)]
+(S33)
+
+RMS_(disp) = [N_(M)⁻¹ Σ_(i ∈ Fe, Co) |δr_(i)|²]^(1/2) (S34)
+
+RMS_(pair) = [2Σ_(i < j)(d_(ij, recovered) − d_(ij, clean))² / (N_(M)(N_(M)−1))]^(1/2)
+(S35)
+
+N_(M) = 59, and the maximum metal displacement is max|δr_(i)|. Pair
+distances use minimum images. The coordination-count analysis uses a 3.0
+Å metal–metal cutoff (self pairs excluded). Mn–N means are taken over
+the four retained N atoms.
+
+The binding energies of the particle to the support are −3.73 eV in
+FeCoMn–NC and −4.12 eV in FeCo–NC (Figure S11a and Table S6). After
+seven O* are adsorbed and then removed, re-optimization restores the
+metal framework of both particles, with RMS displacements of 0.040 and
+0.034 Å from the clean structures (Figures S11b, c and S12 and Table
+S6).
+
+2.15 Geometry and output acceptance
+
+A usable relaxation must show electronic convergence, ionic convergence
+and normal termination. Final structures are checked for retention of
+the particle oxygen background and axial ligand, OOH O–O integrity,
+actual Mn–O/Mn–N or Fe/Co–O contacts, Mn out-of-plane displacement and
+total/local moments where available. For Mn–N₄, the local plane is the
+least-squares plane through the four N atoms, and the height is the Mn
+displacement projected onto its normal. Dissociated or migrated
+structures are described by their final geometry.
+
+[]
+
+Figure S1. Additional TEM images of FeCoMn–NC. (a,b) TEM images of
+different particles showing dark-contrast metal particles embedded in
+the carbon matrix.
+
+[]
+
+Figure S2. Lattice-fringe analysis of Figure 1e. (a) HRTEM image with
+the analyzed window. (b) Enlarged window. (c) FFT pattern, giving d =
+0.335 nm. (d) Grey-level profile normal to the fringes, giving a mean
+spacing of 0.338 ± 0.016 nm, consistent with graphitic carbon (002).
+
+[]
+
+Figure S3. XPS spectra of FeCoMn–NC. (a) Survey, (b) C 1s, (c) N 1s, (d)
+Fe 2p (the Co LMM Auger line overlaps this region), (e) Co 2p_(3/2), and
+(f) Mn 2p_(3/2). Spectra in (b) – (f) are Shirley-background-subtracted
+and normalized. Fitting results are listed in Table S1.
+
+[]
+
+Figure S4. EXAFS shell fits of FeCoMn–NC in k, R and q space for the Fe
+(a–c), Co (d–f) and Mn (g–i) K-edges, with the individual path
+contributions.
+
+[]
+
+Figure S5. R-space EXAFS data and fits for the Fe (a), Co (b) and Mn (c)
+K-edges of FeCoMn–NC.
+
+[]
+
+Figure S6. Morlet wavelet transforms (η = 10, σ = 1, k²χ, each map
+normalized to its own maximum) of the reference compounds at the Fe
+(top), Co (middle) and Mn (bottom) K-edges. The corresponding maps of
+FeCoMn–NC are shown in Figure 2g–i.
+
+[]
+
+Figure S7. LSV curves at 400–2500 rpm in O₂-saturated 0.1 M KOH (5 mV
+s⁻¹) for (a) FeCoMn–NC, (b) FeCo–NC, (c) Mn–NC, and (d) Pt/C. Potentials
+are versus RHE.
+
+[]
+
+Figure S8. Cyclic voltammograms at 10–50 mV s⁻¹ on a stationary
+electrode for FeCoMn–NC in (a) N₂- and (b) O₂-saturated 0.1 M KOH and
+for FeCo–NC in (c) N₂- and (d) O₂-saturated 0.1 M KOH.
+
+[]
+
+Figure S9. Ring currents of FeCoMn–NC and Pt/C recorded during RRDE
+measurements in O₂-saturated 0.1 M KOH at 1600 rpm. Disk scan rates were
+7 and 10 mV s⁻¹ and ring potentials 1.316 and 1.405 V for FeCoMn–NC and
+Pt/C, respectively, with a collection efficiency of 0.37. Potentials are
+versus RHE.
+
+[]
+
+Figure S10. Stability of an additional independent FeCoMn–NC electrode
+in O₂-saturated 0.1 M KOH. Chronoamperometric response at 0.516 V versus
+RHE and 1600 rpm for 31.6 h. Current normalization is specified in
+Section 1. The LSV curves before and after this test are shown in Figure
+3h, and the 238 h test is shown in Figure 3g.
+
+[]
+
+Figure S11. Particle–support binding and structural recovery. (a)
+Particle–support binding energy per particle, E_(b) = E(supported) −
+E(support) − E(Fe₂₇Co₃₂). (b) RMS and maximum particle-atom
+displacements and (c) RMS change in intraparticle pair distances after
+removal of seven O* and re-relaxation, relative to the initial clean
+structure.
+
+[]
+
+Figure S12. Structures of (a–c) FeCoMn–NC and (d–f) FeCo–NC in the
+initial clean, seven-O*-covered, and O removed and re-relaxed states,
+all shown with the same view and scale.
+
+[]
+
+Figure S13. Supported-model coverage formation free energies of
+FeCoMn–NC versus potential, grouped by adsorbate family. The black line
+is the lowest free-energy envelope over all coverage candidates of this
+model, and the dotted line marks 0.78 V versus RHE. Configuration codes
+are listed in Table S11, and structures are shown in Figures S17 and
+S18.
+
+[]
+
+Figure S14. FeCo(110) particle-submodel coverage formation free energies
+versus potential, shared by FeCoMn–NC and FeCo–NC. Panels show H* and
+clean, single-OH* adsorption sites, multiple-OH* coverage, low-O*
+coverage, and O*-rich/mixed states. The black dashed line is the lowest
+free-energy envelope over all 44 coverage candidates of this model, and
+the dotted line marks 0.78 V versus RHE. The FeCo(110) submodel is
+referenced to its own clean surface, and its stable coverage is
+determined separately. Its structures are shown in Figures S21 and S22.
+
+[]
+
+Figure S15. Supported-model coverage formation free energies of FeCo–NC
+versus potential, grouped by adsorbate family. The black line is the
+lowest free-energy envelope over all coverage candidates of this model,
+and the dotted line marks 0.78 V versus RHE. Configuration codes are
+listed in Table S11, and structures are shown in Figure S19.
+
+[]
+
+Figure S16. Coverage formation free energies of Mn–NC versus potential,
+grouped by adsorbate family (a–d). The black line is the lowest
+free-energy envelope over all coverage candidates of this model, and the
+dotted line marks 0.78 V versus RHE. Configuration codes are listed in
+Table S11, and the corresponding structures are shown in Figure S20.
+
+[]
+
+Figure S17. Optimized structures of the FeCoMn–NC supported-model
+coverage candidates (part 1), in the order of Figure S13. NP denotes the
+particle.
+
+[]
+
+Figure S18. Optimized structures of the FeCoMn–NC supported-model
+coverage candidates (part 2), in the order of Figure S13. NP denotes the
+particle.
+
+[]
+
+Figure S19. Optimized structures of the FeCo–NC supported-model coverage
+candidates, in the order of Figure S15. NP denotes the particle.
+
+[]
+
+Figure S20. Optimized structures of the Mn–NC coverage candidates, in
+the order of Figure S16.
+
+[]
+
+Figure S21. Optimized structures of the FeCo(110) particle-submodel
+coverage candidates (part 1), in the order of Figure S14. LB and SB
+denote long-bridge and short-bridge sites, respectively.
+
+[]
+
+Figure S22. Optimized structures of the FeCo(110) particle-submodel
+coverage candidates (part 2), in the order of Figure S14. LB and SB
+denote long-bridge and short-bridge sites, respectively.
+
+[]
+
+Figure S23. FeCo(110) particle submodel. (a) Free energies of the 44
+configurations versus potential. (b) Surface Pourbaix diagram, in which
+the star marks 0.78 V versus RHE at pH 13. (c) Site dependence (hollow,
+bridge, atop) of the adsorption energy relative to the best site at each
+coverage. Panels (a,b) use the coverage-library references (Section
+2.5).
+
+[]
+
+Figure S24. Surface structures used for the ORR calculations at 0.78 V
+versus RHE and pH 13, and local geometry of the Mn sites for FeCoMn–NC
+(particle 8O* with an axial OH on Mn), FeCo–NC (particle 8O*), and Mn–NC
+(axial O on Mn). Local side views show Mn–O distances of 1.88 Å
+(FeCoMn–NC) and 1.58 Å (Mn–NC), and Mn displacements of 0.44 and 0.51 Å,
+respectively, from the least-squares plane through the four coordinating
+N atoms. The dashed line marks this N₄ plane, and h denotes the
+perpendicular Mn-to-plane distance.
+
+[]
+
+Figure S25. Optimized OOH*, O*, and OH* structures of the three
+catalysts under their respective coverage and axial coordination.
+
+[]
+
+Figure S26. ORR free-energy diagrams at 0 V versus RHE on the surface
+states under reaction conditions of FeCoMn–NC, FeCo–NC, and Mn–NC.
+
+[]
+
+Figure S27. Site-projected DOS for OOH* and OH* on (a, b) FeCoMn–NC, (c,
+d) FeCo–NC, and (e, f) Mn–NC, showing summed d projections of the
+O-bonded metals (solid) and p projections of the adsorbate O atoms
+(dashed), shown as unnormalized PDOS in states eV⁻¹. The selected metal
+atoms are listed in Table S10.
+
+[]
+
+Figure S28. Orbital-resolved PDOS of OOH* on (a) FeCoMn–NC, (b) FeCo–NC,
+and (c) Mn–NC, shown as log10(1 + PDOS) on a common color scale. Labels
+give atoms and global Cartesian orbitals.
+
+[]
+
+Figure S29. Bond-resolved metal–O −pCOHP (spin-summed, bonding positive)
+for OOH* and OH* on (a, b) FeCoMn–NC, (c, d) FeCo–NC, and (e, f) Mn–NC.
+
+[]
+
+Figure S30. Electron gain of the reacting OOH* or OH* from Bader
+analysis, given as its total Bader electron population minus the valence
+electron count of OOH (13) or OH (7). Positive values denote electron
+gain by the adsorbate. The axial OH on Mn is not included. The
+electron-population changes of the bonded metals are shown in Figure 6f.
+
+[]
+
+Figure S31. Three-dimensional charge-density difference upon OH*
+adsorption on (a) FeCoMn–NC, (b) FeCo–NC, and (c) Mn–NC on the surface
+states under reaction conditions (isosurfaces ±0.005 e Å⁻³, with red for
+electron accumulation and blue for depletion). Local views rendered at
+the same scale.
+
+[]
+
+Figure S32. Planar-averaged charge-density difference Δρ(z) at the
+particle–support interface of (a) FeCoMn–NC and (b) FeCo–NC, with Δρ =
+ρ(total) − ρ(particle) − ρ(support) from frozen fragments. Red
+(positive) and blue (negative) regions denote electron accumulation and
+depletion, respectively. z is measured along the surface normal from the
+bottom of the cell, and the graphene plane lies at z ≈ 6.2 Å and the
+lowest metal layer at z ≈ 8.3 Å.
+
+[]
+
+Figure S33. Cumulative charge ΔN(z) at the particle–support interface of
+(a) FeCoMn–NC and (b) FeCo–NC, obtained by integrating the
+planar-averaged Δρ of Figure S32 from the bottom of the cell (z = 0)
+upward (eq S30). Positive values denote net electron accumulation below
+z.
+
+Table S1. XPS fitting results for FeCoMn–NC.
+
+  -------------------------------------------------------------------------
+  Region        Component            BE (eV)      FWHM (eV)    Area (%)
+  ------------- -------------------- ------------ ------------ ------------
+  C 1s          C=C sp²              284.75       1.01         52.5
+
+                C–N/C–O              285.63       1.87         37.3
+
+                C=O                  288.84       2.60         10.2
+
+  N 1s          pyridinic N          398.57       1.24         28.8
+
+                metal–N              399.33       1.01         14.0
+
+                pyrrolic N           400.00       0.80         5.5
+
+                graphitic N          401.20       1.62         41.6
+
+                oxidized N           402.81       2.40         10.0
+
+  Fe 2p         Fe²⁺                 710.14       1.60         –
+
+                Fe³⁺                 712.30       2.80         –
+
+                Co LMM (Auger)       715.23       4.00         –
+
+                satellite            719.36       4.50         –
+
+  Co 2p_(3/2)   Co⁰                  778.63       1.02         20.0
+
+                Co³⁺                 780.40       1.80         23.2
+
+                Co²⁺                 781.86       2.28         22.7
+
+                satellite            785.04       6.20         34.1
+
+  Mn 2p_(3/2)   Mn²⁺                 641.11       1.80         28.1
+
+                Mn³⁺                 642.30       1.97         28.8
+
+                Mn⁴⁺                 643.90       2.80         19.5
+
+                satellite            646.93       4.50         23.6
+  -------------------------------------------------------------------------
+
+Areas are relative within each region. Because of the Co LMM overlap,
+the Fe 2p components are not used for quantitative Fe speciation.
+
+Table S2. EXAFS fitting parameters for FeCoMn–NC.
+
+  ----------------------------------------------------------------------------
+  Edge     Path        N         R (Å)       σ² (10⁻³ Å²) ΔE₀ (eV)  R-factor
+  -------- ----------- --------- ----------- ------------ --------- ----------
+  Fe K     M–M (1st)   8.0 ± 2.4 2.463 ±     6.8 ± 1.9    3.2 ± 3.4 0.011
+                                 0.020                              
+
+           M–M (2nd)   6.0 ± 1.8 2.836 ±     7.0 ± 3.2              
+                                 0.015                              
+
+  Co K     M–M (1st)   5.5 ± 1.5 2.454 ±     4.4 ± 2.0    2.4 ± 2.7 0.013
+                                 0.018                              
+
+           M–M (2nd)   4.1 ± 1.1 2.843 ±     5.7 ± 3.4              
+                                 0.016                              
+
+  Mn K     Mn–N/O      4.9 ± 0.6 1.99 ± 0.04 10 (fixed)   1.4 ± 3.3 0.027
+  ----------------------------------------------------------------------------
+
+k² weighting. Fe/Co were fitted with a two-shell bcc model in which the
+coordination numbers of the two shells are scaled from 8 and 6 by a
+common occupancy (13.6 independent points, 6 variables). M denotes total
+metal backscatterers. Mn was fitted with a single light-atom shell using
+only the main-sample spectrum (6.1 independent points, 3 variables). S₀²
+= 0.77 (Fe) and 0.78 (Co) from foil fits and 0.80 (Mn, fixed).
+Uncertainties are 1σ. The k and R windows are given in Section 1.
+
+Table S3. ORR metrics in O₂-saturated 0.1 M KOH at 1600 rpm.
+
+  ----------------------------------------------------------------------------------
+  Catalyst    E_(onset)   E_(1/2)   E at −3 mA j_(L)   j_(k) at    Tafel    n / H₂O₂
+              (V)         (V)       cm⁻²       (mA     0.90/0.88 V (mV      (%)
+                                    (V)        cm⁻²)   (mA cm⁻²)   dec⁻¹)   
+  ----------- ----------- --------- ---------- ------- ----------- -------- --------
+  FeCoMn–NC   0.998       0.885     0.886      −6.33   2.89/8.11   40.2     3.83 /
+                                                                            8.3
+
+  FeCo–NC     0.986       0.864     0.850      −4.77   1.17/2.43   60.3     –
+
+  Mn–NC       0.957       0.840     0.832      −5.46   0.88/1.74   69.3     –
+
+  Pt/C        0.960       0.864     0.863      −5.72   1.15/2.73   56.2     3.94 /
+                                                                            3.1
+  ----------------------------------------------------------------------------------
+
+Potentials are versus RHE. E_(onset) is defined at j = −0.10 mA cm⁻²
+after baseline subtraction, and E_(1/2) is defined at j = j_(L)/2.
+Values correspond to the curves in Figure 3. The n and H₂O₂ values are
+averages over 0.30–0.75 V in the RRDE datasets. RRDE disk scan rates and
+ring potentials are given in Section 1. All current densities use the
+geometric disk area.
+
+Table S4. Half-wave potentials of selected catalysts in 0.1 M KOH.
+
+  -----------------------------------------------------------------------
+  Catalyst                  Type                 E_(1/2) (V      Ref.
+                                                 versus RHE)     
+  ------------------------- -------------------- --------------- --------
+  FeCoMn–NC                 this work            0.885           –
+
+  Fe/N-C                    single-metal control 0.88            18
+
+  Fe₁Co₃–NC-1100            bimetallic           0.877           19
+
+  CoMn–NC (atomically       bimetallic control   0.85            17
+  dispersed)                                                     
+
+  Fe-SA@NC                  single-atom          0.84            8
+
+  Co–NSC                    single-metal control 0.82            17
+
+  Mn/N-C                    single-metal control 0.76            18
+  -----------------------------------------------------------------------
+
+Entries plotted in Figure 3e correspond to the entries in this table.
+Values were read from the article text, and reference numbers refer to
+the main-text reference list.
+
+Table S5. Composition of the computational models and ORR surface states
+under reaction conditions.
+
+  --------------------------------------------------------------------------
+  Model       Clean composition  Atoms   Coverage         Selected ORR
+                                         candidates       background
+  ----------- ------------------ ------- ---------------- ------------------
+  FeCoMn–NC   C₁₇₄N₄Fe₂₇Co₃₂Mn   238     46 supported, 44 8O* on particle
+                                         independent slab and axial OH* on
+                                                          Mn
+
+  FeCo–NC     C₁₈₀Fe₂₇Co₃₂       239     24 supported, 44 8O* on particle
+                                         independent slab 
+
+  Mn–NC       C₁₇₄N₄Mn           179     18 supported     Axial O* on Mn
+                                                          (Mn=O)
+
+  FeCo(110)   Fe₁₆Co₁₆           32      44               6O*, 0.36 eV below
+  submodel                                                8O* at 0.78 V
+  --------------------------------------------------------------------------
+
+Table S6. Particle–support binding and structural recovery of the
+FeCo-containing models.
+
+  -----------------------------------------------------------------------
+  Quantity                                FeCoMn–NC       FeCo–NC
+  --------------------------------------- --------------- ---------------
+  Particle binding energy (eV per         −3.73           −4.12
+  particle)                                               
+
+  Metal RMS displacement after recovery   0.040           0.034
+  (Å)                                                     
+
+  Maximum metal displacement (Å)          0.044           0.042
+
+  Metal-pair distance RMS change (Å)      0.002           0.002
+
+  Mean metal coordination (3 Å), clean /  9.29 / 9.29     9.29 / 9.29
+  recovered                                               
+
+  Recovered − clean energy (eV)           −0.04           −0.02
+  -----------------------------------------------------------------------
+
+E_(b) is defined in eq S32. The recovery sequence is clean → 7O* →
+removal of the adsorbates → re-optimization with the original
+constraints. In FeCoMn–NC, the Mn displacement is 0.015 Å and the mean
+Mn–N distance remains 1.914 Å.
+
+Table S7. Axial ligand on Mn in FeCoMn–NC with and without the FeCo
+particle.
+
+  ---------------------------------------------------------------------------
+  Model                 E(Mn–OH) (eV) E(Mn=O) (eV)  Mn=O length  U* (V)
+                                                    (Å)          
+  --------------------- ------------- ------------- ------------ ------------
+  FeCoMn–NC (8O*        −2140.14786   −2135.49370   1.655        0.96
+  particle and support)                                          
+
+  Particle removed      −1671.76397   −1667.58789   1.580        0.48
+  (same support atoms                                            
+  and geometry)                                                  
+  ---------------------------------------------------------------------------
+
+Energies are σ → 0 energies. The particle-removed model keeps all
+support atoms of FeCoMn–NC at the same positions, and all other
+calculation settings, including the initial Mn moment of 3 μB, are
+unchanged. U* is the potential at which Mn–OH and Mn=O have equal free
+energy, obtained with the reference energies of Table S11.
+
+Table S8. ORR free energies on the surface states under reaction
+conditions (eV, at 0 V versus RHE).
+
+  --------------------------------------------------------------------------------------------------------------------
+  Model        ΔG_(OOH*)   ΔG_(O*)   ΔG_(OH*)   ΔG₁     ΔG₂     ΔG₃     ΔG₄     Potential-determining   U_(L)   η
+               (eV)        (eV)      (eV)       (eV)    (eV)    (eV)    (eV)    step                    (V)     (V)
+  ------------ ----------- --------- ---------- ------- ------- ------- ------- ----------------------- ------- ------
+  FeCoMn–NC    4.14        2.23      0.85       −0.78   −1.91   −1.38   −0.85   O₂ → OOH*               0.78    0.45
+
+  FeCo–NC      3.67        0.69      0.35       −1.25   −2.98   −0.34   −0.35   O* → OH*                0.34    0.89
+
+  Mn–NC        4.66        2.39      1.45       −0.26   −2.27   −0.94   −1.45   O₂ → OOH*               0.26    0.97
+  --------------------------------------------------------------------------------------------------------------------
+
+Adsorption free energies are relative to the stated background and use
+the ORR reference set (Section 2.5 and eqs S13–S15). ΔG₁–ΔG₄ are the
+free energies of the four reduction steps at 0 V (eqs S17 and S18), and
+U_(L) and η follow eq S20.
+
+Table S9. Metal–O distances of the added intermediates in the relaxed
+structures.
+
+  ---------------------------------------------------------------------------
+  Model          Intermediate   Metal–O contact              Distance (Å)
+  -------------- -------------- ---------------------------- ----------------
+  FeCoMn–NC      O*             Mn238–O (added)              1.68
+
+                 OH*            Mn238–O (added)              1.87
+
+                 OOH*           Mn238–O (added)              1.89
+
+                 axial OH       Mn238–O / O–H                1.87–1.96 / 0.97
+                 (background)                                
+
+  Mn–NC          O*             Mn179–O181                   1.66
+
+                 OH*            Mn179–O181                   1.90
+
+                 OOH*           Mn179–O181                   1.94
+
+  FeCo–NC        O*             Fe206–O248 / Co234–O248      1.77 / 1.77
+
+                 OH*            Fe206–O248 / Co234–O248 /    2.01 / 2.29 /
+                                Co235–O248                   2.24
+
+                 OOH*           Fe206–O248 / Co235–O248      2.00 / 2.08
+  ---------------------------------------------------------------------------
+
+Table S10. Site-resolved electronic descriptors of the O-bonded
+metal(s).
+
+  -----------------------------------------------------------------------------
+  Model        State     Contact atoms      ε_(d)     −ICOHP    |ΣΔN_(Bader)|
+                                            (eV)      (eV)      (e)
+  ------------ --------- ------------------ --------- --------- ---------------
+  FeCoMn–NC    covered   Mn238              −3.42     –         –
+
+               OOH*      Mn238              −3.40     3.12      0.09
+
+               OH*       Mn238              −3.54     3.06      0.11
+
+  FeCo–NC      covered   Fe206, Co234,      −2.39     –         –
+                         Co235                                  
+
+               OOH*      Fe206, Co235       −2.40     3.11      0.33
+
+               OH*       Fe206, Co234,      −2.29     3.19      0.44
+                         Co235                                  
+
+  Mn–NC        covered   Mn179              −3.44     –         –
+
+               OOH*      Mn179              −2.96     2.65      0.07
+
+               OH*       Mn179              −3.27     2.72      0.09
+  -----------------------------------------------------------------------------
+
+ε_(d) is the occupied d-band center (eq S24) averaged over the contact
+atoms. −ICOHP is summed over the listed metal–O pairs. |ΣΔN_(Bader)| is
+the magnitude of the summed contact-metal electron-population change
+relative to the background. For FeCo–NC OH*, the per-atom changes are
+−0.23, −0.10, and −0.11 e for Fe206, Co234, and Co235, respectively.
+
+Table S11. Coverage candidates and their free energies.
+
+  ------------------------------------------------------------------------------------------
+  Model       Coverage          Configuration     E (eV)      G (0 V) G (0.78  Free-energy
+                                                                      V)       rank
+  ----------- ----------------- ----------------- ----------- ------- -------- -------------
+  FeCoMn–NC   8O*(particle) +   FCM 8O MnOH       −2140.148   −1.66   −14.92   1 (min)
+              OH*(Mn)           (joint)                                        
+
+  FeCoMn–NC   8O*(particle) +   FCM 8O MnO        −2135.494   −0.70   −14.74   2
+              O*(Mn)            (joint)                                        
+
+  FeCoMn–NC   8O*               FCM 8O            −2129.394   −2.17   −14.65   3
+
+  FeCoMn–NC   7O*               FCM 7O            −2121.532   −1.88   −12.80   4
+
+  FeCoMn–NC   6O*(particle) +   FCM 6O MnOH       −2124.957   −1.62   −11.76   5
+              OH*(Mn)                                                          
+
+  FeCoMn–NC   6O*(particle) +   FCM 6O MnO        −2120.279   −0.63   −11.55   6
+              O*(Mn)            (joint)                                        
+
+  FeCoMn–NC   6O*               FCM 6O            −2113.929   −1.85   −11.21   7
+
+  FeCoMn–NC   4O*+4OH*          FCM 4O₄OH         −2142.652   −0.66   −10.02   8
+
+  FeCoMn–NC   5O*(particle) +   FCM 5O MnOH       −2117.028   −1.26   −9.84    9
+              OH*(Mn)                                                          
+
+  FeCoMn–NC   5O*(particle) +   FCM 5O MnO        −2112.372   −0.30   −9.66    10
+              O*(Mn)                                                           
+
+  FeCoMn–NC   5O*               FCM 5O top        −2106.256   −1.75   −9.55    11
+
+  FeCoMn–NC   4O*+2OH*          FCM 4O₂OH         −2120.418   −0.96   −8.76    12
+
+  FeCoMn–NC   4O*(particle) +   FCM 4O MnO        −2104.512   −0.01   −7.81    13
+              O*(Mn)                                                           
+
+  FeCoMn–NC   2O*+4OH*          FCM 2O₄OH         −2128.135   −1.28   −7.52    14
+
+  FeCoMn–NC   4O*               FCM 4O            −2098.165   −1.24   −7.48    15
+
+  FeCoMn–NC   2O*+2OH*          FCM 2O₂OH         −2105.819   −1.50   −6.18    16
+
+  FeCoMn–NC   3O*               FCM 3O            −2090.252   −0.90   −5.58    17
+
+  FeCoMn–NC   2O*               FCM 2O            −2082.389   −0.61   −3.73    18
+
+  FeCoMn–NC   1O*               FCM 1O            −2074.621   −0.41   −1.97    19
+
+  FeCoMn–NC   1O*               FCM p O topFe     −2074.546   −0.34   −1.90    20
+
+  FeCoMn–NC   1O*               FCM p O hol3      −2074.504   −0.29   −1.85    21
+
+  FeCoMn–NC   1O*               FCM p O briFeCo   −2074.502   −0.29   −1.85    22
+
+  FeCoMn–NC   1OH*              FCM p OH briFeCo  −2078.297   −0.39   −1.17    23
+
+  FeCoMn–NC   1OH*              FCM p OH hol3     −2078.066   −0.16   −0.94    24
+
+  FeCoMn–NC   1OH*              FCM p OH topCo    −2077.960   −0.06   −0.84    25
+
+  FeCoMn–NC   1O*               FCM p O topCo     −2073.402   0.81    −0.75    26
+
+  FeCoMn–NC   2OH*              FCM Mn₂OH         −2088.186   0.98    −0.58    27
+
+  FeCoMn–NC   1OH*              FCM p OH topFe    −2077.629   0.28    −0.50    28
+
+  FeCoMn–NC   1OH*              FCM Mn OHb        −2077.450   0.45    −0.33    29
+
+  FeCoMn–NC   1OH*              FCM Mn OH         −2077.424   0.48    −0.30    30
+
+  FeCoMn–NC   2OH*              FCM Mn OH OHb     −2087.896   1.28    −0.28    31
+
+  FeCoMn–NC   1O*+1OH*          FCM MnO MnOH mix  −2083.373   2.10    −0.24    32
+
+  FeCoMn–NC   1O*               FCM Mn O          −2072.768   1.44    −0.12    33
+
+  FeCoMn–NC   2O*               FCM Mn₂O          −2078.675   3.11    −0.01    34
+
+  FeCoMn–NC   clean             FCM clean         −2066.637   0.00    0.00     35
+
+  FeCoMn–NC   1O*+1OH*          FCM Mn O OHb      −2083.072   2.41    0.07     36
+
+  FeCoMn–NC   1H*               FCM 1H            −2070.778   −0.51   0.27     37
+
+  FeCoMn–NC   2H*               FCM 2H            −2074.579   −0.69   0.87     38
+
+  FeCoMn–NC   1OH*+1OOH*        FCM Mn OOH OHb    −2092.134   4.60    1.48     39
+
+  FeCoMn–NC   1OOH*             FCM Mn OOH        −2081.571   3.90    1.56     40
+
+  FeCoMn–NC   3H*               FCM 3H            −2078.203   −0.68   1.66     41
+
+  FeCoMn–NC   4H*               FCM 4H            −2082.174   −1.03   2.09     42
+
+  FeCoMn–NC   5H*               FCM 5H            −2086.263   −1.49   2.41     43
+
+  FeCoMn–NC   6H*               FCM 6H            −2090.249   −1.85   2.83     44
+
+  FeCoMn–NC   7H*               FCM 7H            −2094.268   −2.24   3.22     45
+
+  FeCoMn–NC   8H*               FCM 8H            −2098.435   −2.78   3.46     46
+
+  FeCo–NC     8O*               FCN 8O            −2143.215   −2.18   −14.66   1 (min)
+
+  FeCo–NC     7O*               FCN 7O            −2135.335   −1.87   −12.79   2
+
+  FeCo–NC     6O*               FCN 6O            −2127.710   −1.82   −11.18   3
+
+  FeCo–NC     4O*+2OH*          FCN 4O₂OH         −2135.218   −1.94   −9.74    4
+
+  FeCo–NC     5O*               FCN 5O            −2120.037   −1.72   −9.52    5
+
+  FeCo–NC     4O*+4OH*          FCN 4O₄OH         −2155.545   0.27    −9.09    6
+
+  FeCo–NC     4O*               FCN 4O            −2112.221   −1.48   −7.72    7
+
+  FeCo–NC     2O*+4OH*          FCN 2O₄OH         −2141.789   −1.12   −7.36    8
+
+  FeCo–NC     2O*+2OH*          FCN 2O₂OH         −2119.314   −1.18   −5.86    9
+
+  FeCo–NC     3O*               FCN 3O            −2104.121   −0.95   −5.63    10
+
+  FeCo–NC     2O*               FCN 2O            −2096.203   −0.61   −3.73    11
+
+  FeCo–NC     1O*               FCN 1O            −2088.380   −0.36   −1.92    12
+
+  FeCo–NC     1OH*              FCN C OH near     −2091.747   −0.03   −0.81    13
+
+  FeCo–NC     clean             FCN clean         −2080.451   0.00    0.00     14
+
+  FeCo–NC     1H*               FCN 1H            −2084.576   −0.50   0.28     15
+
+  FeCo–NC     2H*               FCN 2H            −2088.393   −0.69   0.87     16
+
+  FeCo–NC     1OH*              FCN C OH mid      −2089.422   2.30    1.52     17
+
+  FeCo–NC     1OH*              FCN C OH far      −2089.348   2.37    1.59     18
+
+  FeCo–NC     3H*               FCN 3H            −2092.017   −0.68   1.66     19
+
+  FeCo–NC     4H*               FCN 4H            −2096.163   −1.20   1.92     20
+
+  FeCo–NC     5H*               FCN 5H            −2100.239   −1.65   2.25     21
+
+  FeCo–NC     6H*               FCN 6H            −2104.191   −1.98   2.70     22
+
+  FeCo–NC     7H*               FCN 7H            −2108.230   −2.39   3.07     23
+
+  FeCo–NC     8H*               FCN 8H            −2112.399   −2.93   3.31     24
+
+  Mn–NC       1O*               MnNC O bri        −1667.742   1.08    −0.48    1 (min)
+
+  Mn–NC       1OH*              MnNC OH           −1671.920   0.60    −0.18    2
+
+  Mn–NC       1O*               MnNC O            −1667.381   1.44    −0.12    3
+
+  Mn–NC       clean             MnNC clean        −1661.250   0.00    0.00     4
+
+  Mn–NC       1O*+1OH*          MnNC O OH         −1677.578   2.51    0.17     5
+
+  Mn–NC       2O*               MnNC O O          −1672.909   3.49    0.37     6
+
+  Mn–NC       2OH*              MnNC OH OH        −1681.842   1.94    0.38     7
+
+  Mn–NC       2OH*              MnNC OH Mn OH C   −1681.392   2.39    0.83     8
+
+  Mn–NC       2O*               MnNC O Mn O CC    −1672.228   4.17    1.05     9
+
+  Mn–NC       1H*               MnNC H Mn         −1664.322   0.56    1.34     10
+
+  Mn–NC       1OH*+1OOH*        MnNC OOH OHb      −1686.694   4.66    1.54     11
+
+  Mn–NC       1O*               MnNC O CC         −1665.683   3.14    1.58     12
+
+  Mn–NC       1OOH*             MnNC OOH          −1676.117   3.97    1.63     13
+
+  Mn–NC       1H*               MnNC H N          −1663.524   1.35    2.13     14
+
+  Mn–NC       1OH*              MnNC OH C         −1669.324   3.19    2.41     15
+
+  Mn–NC       2H*               MnNC H Mn H N     −1667.044   1.46    3.02     16
+
+  Mn–NC       3H*               MnNC H₃ Mn₂side N −1671.160   0.97    3.31     17
+
+  Mn–NC       2H*               MnNC H H Mn₂side  −1666.701   1.80    3.36     18
+
+  FeCo(110)   6O*               6O hol            −285.490    1.32    −8.04    1 (min)
+
+  FeCo(110)   8O*               8O hol            −297.153    4.80    −7.68    2
+
+  FeCo(110)   4O*+2OH*          4O 2OH            −293.765    0.43    −7.37    3
+
+  FeCo(110)   4O*               4O hol            −272.450    −0.79   −7.03    4
+
+  FeCo(110)   2O*+2OH*          2O 2OH            −280.241    −1.19   −5.87    5
+
+  FeCo(110)   2O*+4OH*          2O 4OH            −300.945    0.64    −5.60    6
+
+  FeCo(110)   4O*               4O lb             −270.995    0.67    −5.57    7
+
+  FeCo(110)   6OH*              6OH top           −309.762    −0.79   −5.47    8
+
+  FeCo(110)   6OH*              6OH sb            −309.199    −0.23   −4.91    9
+
+  FeCo(110)   4O*+4OH*          4O 4OH            −311.991    4.74    −4.62    10
+
+  FeCo(110)   2O*               2O hol            −257.641    −1.13   −4.25    11
+
+  FeCo(110)   4OH*              4OH sb            −287.438    −1.00   −4.12    12
+
+  FeCo(110)   2O*               2O lb             −257.263    −0.75   −3.87    13
+
+  FeCo(110)   8OH*              8OH sb            −329.006    2.50    −3.74    14
+
+  FeCo(110)   4OH*              4OH top           −286.407    0.03    −3.09    15
+
+  FeCo(110)   2OH*              2OH sb †          −264.780    −0.88   −2.44    16
+
+  FeCo(110)   2OH*              2OH top †         −264.779    −0.88   −2.44    17
+
+  FeCo(110)   1O*               1O hFe₂Co         −249.467    −0.53   −2.09    18
+
+  FeCo(110)   1O*               1O sb             −249.467    −0.53   −2.09    19
+
+  FeCo(110)   1O*               1O lbFe           −249.343    −0.40   −1.96    20
+
+  FeCo(110)   1O*               1O lbCo           −249.257    −0.32   −1.88    21
+
+  FeCo(110)   1O*               1O hFeCo₂         −249.257    −0.32   −1.88    22
+
+  FeCo(110)   1OH*              1OH topCo †       −253.146    −0.51   −1.29    23
+
+  FeCo(110)   1OH*              1OH lbFe †        −253.146    −0.51   −1.29    24
+
+  FeCo(110)   1OH*              1OH sb †          −253.146    −0.51   −1.29    25
+
+  FeCo(110)   1OH*              1OH hFe₂Co †      −253.145    −0.51   −1.29    26
+
+  FeCo(110)   1OH*              1OH topFe †       −253.145    −0.51   −1.29    27
+
+  FeCo(110)   1OH*              1OH hFeCo₂        −252.865    −0.23   −1.01    28
+
+  FeCo(110)   1OH*              1OH lbCo          −252.864    −0.23   −1.01    29
+
+  FeCo(110)   1O*               1O topFe          −247.907    1.03    −0.53    30
+
+  FeCo(110)   8OH*              8OH top           −325.763    5.74    −0.50    31
+
+  FeCo(110)   1O*               1O topCo          −247.740    1.20    −0.36    32
+
+  FeCo(110)   clean             clean             −241.369    0.00    0.00     33
+
+  FeCo(110)   1H*               1H hFe₂Co         −245.403    −0.41   0.37     34
+
+  FeCo(110)   1H*               1H sb             −245.402    −0.41   0.37     35
+
+  FeCo(110)   1H*               1H hFeCo₂         −245.383    −0.39   0.39     36
+
+  FeCo(110)   1H*               1H lbCo           −245.359    −0.36   0.42     37
+
+  FeCo(110)   1H*               1H lbFe           −245.248    −0.25   0.53     38
+
+  FeCo(110)   2H*               2H hol            −249.452    −0.83   0.73     39
+
+  FeCo(110)   1H*               1H topCo          −244.898    0.10    0.88     40
+
+  FeCo(110)   1H*               1H topFe          −244.588    0.41    1.19     41
+
+  FeCo(110)   4H*               4H hol            −257.469    −1.59   1.53     42
+
+  FeCo(110)   6H*               6H hol            −265.176    −2.05   2.63     43
+
+  FeCo(110)   8H*               8H hol            −272.730    −2.35   3.89     44
+  ------------------------------------------------------------------------------------------
+
+Free energies (eV per cell) are relative to the clean model of each
+family and use the coverage reference set (Section 2.5). E is the DFT
+total energy (σ → 0). The rank orders configurations within each family
+at 0.78 V versus RHE (1, lowest), and “min” marks the lowest. “Joint”
+marks the three FeCoMn–NC states added to the 43 enumerated
+configurations (Section 2.4). Configuration codes correspond to the
+structure panels in Figures S17–S22, in which p = particle, top = atop,
+hol/hol3 = hollow, bri = bridge, lb/sb = long/short bridge, and
+hFe₂Co/hFeCo₂ = threefold hollow formed by the indicated metals. The
+Mn–NC entry “MnNC O bri” relaxed to the axial Mn=O structure (Figure
+S20). † Names give the initial adsorption site. The five 1OH*
+calculations relaxed to symmetry-equivalent Fe₂Co threefold-hollow
+configurations, and 2OH sb and 2OH top relaxed to symmetry-equivalent
+arrangements with both OH* in Fe₂Co hollows.
+
+Table S12. Relaxation-stage σ → 0 energies used for the ORR pathways.
+
+  ------------------------------------------------------------------------
+  Model                              State        E (eV)
+  ---------------------------------- ------------ ------------------------
+  FeCoMn–NC                          Background   −2140.148
+
+  FeCoMn–NC                          OOH*         −2154.812
+
+  FeCoMn–NC                          O*           −2145.476
+
+  FeCoMn–NC                          OH*          −2150.553
+
+  FeCo–NC                            Background   −2143.215
+
+  FeCo–NC                            OOH*         −2158.351
+
+  FeCo–NC                            O*           −2150.085
+
+  FeCo–NC                            OH*          −2154.121
+
+  Mn–NC                              Background   −1667.742
+
+  Mn–NC                              OOH*         −1681.887
+
+  Mn–NC                              O*           −1672.909
+
+  Mn–NC                              OH*          −1677.547
+  ------------------------------------------------------------------------
+
+Each intermediate is referenced to its own surface state under reaction
+conditions.

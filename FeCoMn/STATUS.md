@@ -1,7 +1,7 @@
 # FeCoMn 任务看板
 
 ## 写作单元（按 ROLES.md v3；每步结束更新本表）
-Word 锁：Claude web　当前正式稿：manuscript/FeCoMn_Manuscript_revised_20261119_2255.docx、FeCoMn_SI_revised_20261119_2255.docx（8dc699c）
+Word 锁：Claude web　当前正式稿：manuscript/FeCoMn_Manuscript_revised_20261121_1725.docx、FeCoMn_SI_revised_20261121_1725.docx（Word 未上传；纯文本已推送）。改动：图 5 段末补颗粒作用（T039，同设置 +3 比较，赵月定稿句）；SI 新增 Table S7（有/无颗粒 Mn 轴向配体），原 S7–S11 顺延为 S8–S12，正文与 SI 引用、SI 目录同步
 
 | 单元 | 负责 | 当前版本（文件 / 提交） | 下一步 | 待谁 | 额度水位 |
 |---|---|---|---|---|---|
