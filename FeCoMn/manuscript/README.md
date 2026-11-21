@@ -108,3 +108,4 @@
 | FeCoMn_Manuscript_revised_20261121_1935.docx | 2026-11-21 19:35 | 基于 1850，叠加高亮。图 6 第二段几何机理几句换为 Gemini 改写并经 Claude web 修正的版本（At the same time…；OH* therefore binds so strongly…；toward the axial OH；Drawing Mn back consumes part of the binding energy；of which…）。SI 不变，沿用 FeCoMn_SI_revised_20261121_1850.docx。 |
 | FeCoMn_Manuscript_revised_20261121_1940.docx | 2026-11-21 19:40 | 基于 1935，叠加高亮。Methods 中 "Tables S10 and S11"（覆盖候选、总能量）改为 "Tables S12 and S13"，与 SI 顺延后的编号一致。 |
 | FeCoMn_Manuscript_revised_20261121_1950.docx | 2026-11-21 19:50 | 基于 1940，叠加高亮。摘要、结论整段替换为 Gemini 按简报 v2 写的版本（机理与图 5、图 6 一致：颗粒保住轴向 OH，0.48 → 0.96 V；轴向 OH 不过弱不过强），赵月选定原样采用。 |
+| FeCoMn_Manuscript_revised_20261121_2025.docx | 2026-11-21 20:25 | 基于 1950，叠加高亮。前言第二段换为 Gemini 版（"These analyses considered only bare single-atom sites."，赵月定）；第三段换为 Gemini 版加 Mn–NC/FeCoMn–NC 成键能力解释两句、rate-limiting 改为 OH* removal limits the ORR；图 6 第二段 6e 句后补成键能力解释（引图 6b、6c）。 |

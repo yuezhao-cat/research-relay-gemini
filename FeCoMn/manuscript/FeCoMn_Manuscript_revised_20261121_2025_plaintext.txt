@@ -1,0 +1,674 @@
+Surface Coverage under Working Conditions Reveals That FeCo Particles
+Determine the Axial Ligand of Mn Single Atoms for Oxygen Reduction
+
+Yue Zhao^(a), Shuyao Zhang^(a), Li Ling^(a), Siwei Yan^(a), Zhonghui Gao
+^(a), Wence Xu^(a), Yanqin Liang^(a), Hui Jiang^(a), Zhaoyang Li^(a),
+Zhenduo Cui ^(a, b), Dan Luo ^(c), Wei Li ^(d), Hao Li ^(e,***),
+Zhongwei Chen ^(c,**), and Shengli Zhu^(a, b, *)
+
+^(a) School of Materials Science and Engineering, Tianjin University,
+Tianjin 300350, China
+
+^(b) State Key Laboratory of Precious Metal Functional Materials,
+Tianjin University, Tianjin 300350, China
+
+^(c) Dalian Institute of Chemical Physics Chinese Academy of Science,
+Dalian 116023, China
+
+^(d) Collaborative Innovation Center of Materials Science, Nankai
+University, Tianjin 300350, China
+
+^(e) Advanced Institute for Materials Research (WPI-AIMR), Tohoku
+University, Sendai 980-8577, Japan
+
+^(*Corresponding author at:) School of Materials Science and
+Engineering, Tianjin University:
+
+Email: slzhu@tju.edu.cn (Prof. Shengli Zhu).
+
+^(** Corresponding author at:) Dalian Institute of Chemical Physics
+Chinese Academy of Science
+
+Email: zwchen@dicp.ac.cn (Dr. Zhongwei Chen);
+
+^(*** Corresponding author at:) WPI-AIMR, Tohoku University, Sendai
+980-8577, Japan
+
+Email: li.hao.b8@tohoku.ac.jp (Prof. Hao Li).
+
+Abstract
+
+Metal particles often coexist with single atoms in pyrolyzed
+metal–nitrogen–carbon (M–N–C) catalysts, yet models usually treat bare
+single atoms as the only active sites. How particles and surface
+coverage under working conditions affect intermediate binding at
+adjacent single atoms remains unclear. Here, we prepare an FeCoMn–NC
+catalyst combining FeCo alloy particles and Mn single atoms. In 0.1 M
+KOH, FeCoMn–NC achieves an oxygen reduction reaction (ORR) half-wave
+potential of 0.885 V versus RHE, outperforming Pt/C, FeCo–NC, and Mn–NC.
+FeCoMn–NC also retains 96.5% of its initial current after 238 h.
+Operando infrared spectroscopy shows that surface species change with
+potential, so we calculated surface coverage under working conditions.
+At 0.78 V versus RHE, O*-covered FeCo alloy particles keep an axial OH
+on adjacent Mn single atoms, whereas Mn without particles forms Mn=O.
+Compared with Mn=O, the much weaker axial Mn–OH bond lets Mn bind OOH*
+firmly enough for OOH* formation. Without the axial OH, Mn binds ORR
+intermediates too strongly. The axial OH pulls Mn out of the N₄ plane,
+and opposite-side intermediate adsorption draws Mn back. Drawing Mn back
+consumes part of the binding energy and weakens excessive adsorption. At
+0.78 V versus RHE, OH* removal turns downhill and OOH* formation stays
+nearly thermoneutral, placing FeCoMn–NC near the volcano apex. FeCo
+alloy particles thus determine the axial ligand of adjacent Mn single
+atoms, keeping intermediate binding neither too strong nor too weak.
+
+KEYWORDS: oxygen reduction reaction, M–N–C catalyst, FeCo alloy,
+dispersed Mn site, axial ligand, surface coverage, operando infrared
+spectroscopy, density functional theory
+
+INTRODUCTION
+
+Metal–nitrogen–carbon (M–N–C) catalysts are promising alternatives to
+platinum for the oxygen reduction reaction (ORR) in fuel cells and
+metal–air batteries.^(1,2,12) Their ORR activity depends on how strongly
+the active sites bind oxygen-containing intermediates.^(5,12)
+Excessively strong binding impedes the removal of the intermediates,
+whereas weak binding makes their formation unfavorable.^(5,6) Improving
+M–N–C catalysts therefore requires effective ways to tune intermediate
+binding.
+
+Researchers have tuned the binding of ORR intermediates by modifying the
+coordinating atoms and carbon framework of M–N–C catalysts or by
+introducing neighboring metal species.[D] In pyrolyzed M–N–C catalysts,
+metal atoms readily aggregate into particles, especially at high metal
+contents. Carbon-encapsulated particles also remain after acid leaching,
+so metal particles commonly coexist with single metal atoms.[F] The
+activity of such catalysts is usually attributed to the single atoms
+alone.[G] A few studies have examined the particles and shown that metal
+particles or clusters near single metal atoms can produce highly active
+catalysts.^(7,8) For example, Fe clusters change the electronic charge
+distribution around neighboring Fe–N sites and thereby adjust how
+strongly these sites bind reaction intermediates.⁸ These analyses
+considered only bare single-atom sites. Under working conditions,
+however, both metal particles and single atoms are covered by species
+from the electrolyte.[E] How metal particles and surface coverage under
+working conditions affect the binding of ORR intermediates at adjacent
+single atoms remains unclear.
+
+Here, we report an FeCoMn–NC catalyst combining FeCo alloy particles and
+Mn single atoms. In 0.1 M KOH, FeCoMn–NC reaches a half-wave potential
+of 0.885 V versus RHE, outperforming commercial Pt/C, FeCo–NC, and
+Mn–NC. FeCoMn–NC also retains 96.5% of its initial current after 238 h.
+Operando infrared spectroscopy shows that surface species change with
+potential, so we calculated surface coverage under working conditions.
+At pH 13, O*-covered FeCo alloy particles shift the Mn–OH to Mn=O
+transition from 0.48 to 0.96 V versus RHE. At 0.78 V versus RHE,
+adjacent Mn single atoms thus keep an axial OH, whereas particle-free
+Mn–NC forms Mn=O. In Mn–NC, the axial O forms a strong Mn=O double bond
+that takes up most of the bonding capacity of Mn, so Mn binds OOH* on
+the opposite side too weakly and OOH* formation is hindered. The much
+weaker axial Mn–OH bond in FeCoMn–NC leaves more bonding capacity for
+OOH*, so OOH* forms readily. Without the axial OH, Mn binds ORR
+intermediates too strongly, so that OH* removal limits the ORR. The
+axial OH pulls Mn out of the N₄ plane, and opposite-side intermediate
+adsorption draws Mn back. Drawing Mn back consumes part of the binding
+energy and weakens excessive adsorption. In FeCo–NC, by contrast,
+O*-covered FeCo alloy particles bind O* too strongly and hinder O*
+conversion to OH*. At 0.78 V versus RHE, OH* removal on FeCoMn–NC is
+downhill and OOH* formation stays nearly thermoneutral. FeCoMn–NC
+therefore lies near the activity volcano apex, accounting for its
+highest measured ORR activity. FeCo alloy particles thus determine the
+axial ligand of adjacent Mn single atoms, keeping intermediate binding
+neither too strong nor too weak.
+
+RESULTS AND DISCUSSION
+
+FeCoMn–NC was prepared by pyrolysis of an Fe/Co/Mn-containing zeolitic
+imidazolate framework (ZIF) precursor (Figure 1a). The precursor was
+synthesized from the metal sources and 2-methylimidazole in methanol and
+then pyrolyzed at 1000 °C for 2 h under Ar/H₂. The product was not
+acid-leached, so that the metal particles exposed at the surface of the
+carbon framework were retained. FeCo–NC and Mn–NC were prepared by the
+same procedure without the Mn source and without the Fe and Co sources,
+respectively.
+
+Scanning electron microscopy (SEM, Figure 1b) shows that the carbon
+framework of FeCoMn–NC retains the rhombic dodecahedral shape of the ZIF
+precursor and is approximately 1 μm across. Transmission electron
+microscopy (TEM) images show metal particles, predominantly 20–100 nm in
+size, dispersed throughout the carbon matrix (Figure 1c and Figure S1).
+These particles are primarily body-centered cubic (bcc) FeCo. Their
+X-ray diffraction (XRD) reflections at 44.77°, 65.23°, and 82.69°
+correspond to the bcc FeCo (110), (200), and (211) planes, respectively
+(Figure 1d). The reflection near 25.9° corresponds to the carbon (002)
+planes. Two weak peaks near 43.9° and 51.1°, indexed to the (111) and
+(200) planes of a face-centered cubic (fcc) structure, indicate a minor
+fcc phase. In the high-resolution TEM (HRTEM) image, a particle is
+surrounded by graphitic carbon layers with a lattice spacing of
+approximately 0.34 nm, which corresponds to the carbon (002) planes
+(Figure 1e and Figure S2). Energy-dispersive X-ray spectroscopy (EDS)
+mapping locates Fe and Co in the particles and Mn throughout the carbon
+matrix (Figure 1f). These results suggest that FeCoMn–NC consists of
+FeCo alloy particles dispersed in the carbon matrix and Mn species
+homogeneously distributed throughout the matrix.
+
+[]
+
+Figure 1. Synthesis and structure of FeCoMn–NC. (a) Schematic synthesis
+route and computational model. (b) SEM image. (c) TEM image. (d) XRD
+pattern. (e) HRTEM image. (f) Bright-field image and EDS maps of Fe, Co,
+Mn, N, and C.
+
+X-ray photoelectron spectroscopy (XPS) probes the surface composition
+and chemical states of FeCoMn–NC (Figure S3 and Table S1). The N 1s
+spectrum is deconvoluted into pyridinic, metal-coordinated, pyrrolic,
+graphitic, and oxidized N components, with graphitic N as the largest
+fraction (41.6%). The metal-coordinated N component at 399.3 eV supports
+the presence of metal–N sites. The Co 2p spectrum contains both metallic
+and oxidized components, whereas the Mn 2p spectrum contains only
+oxidized components. X-ray absorption spectroscopy (XAS) provides
+element-specific information on the local structures of Fe, Co, and Mn.
+The Fe and Co K-edge X-ray absorption near-edge structure (XANES)
+spectra resemble those of the corresponding metal foils more closely
+than those of the oxide references, indicating that Fe and Co are
+predominantly metallic (Figure 2a, b). In contrast, the Mn K-edge XANES
+spectrum resembles that of MnPc more closely than that of Mn foil,
+indicating that Mn is not metallic (Figure 2c).
+
+The Fourier-transformed extended X-ray absorption fine structure (EXAFS)
+spectra of Fe and Co exhibit strong peaks near 2.2 Å, assigned to
+metal–metal scattering (Figure 2d, e). The Mn spectrum instead shows a
+main peak near 1.3 Å without a resolved metal–metal scattering peak,
+consistent with predominantly light-element neighbors (Figure 2f).
+Fitting with a two-shell bcc structural model yields coordination-shell
+distances of 2.46 and 2.84 Å for Fe and 2.45 and 2.84 Å for Co. These
+values agree with the first- and second-shell distances of bcc FeCo
+(2.47 and 2.86 Å for a = 2.857 Å) and thus support the XRD assignment.
+First-shell fitting of the Mn spectrum yields an average Mn–N/O
+coordination number of 4.9 ± 0.6 and a bond distance of 1.99 ± 0.04 Å
+(Figures S4 and S5 and Table S2). The wavelet-transform intensity maxima
+of Fe and Co occur at relatively high k, further supporting metal–metal
+coordination (Figure 2g, h). The Mn intensity is instead concentrated at
+low k, consistent with light-element coordination (Figure 2i and Figure
+S6). Together, the XRD, EDS, XPS, and XAS results show that FeCoMn–NC
+contains bcc FeCo alloy particles and Mn single atoms.
+
+[]
+
+Figure 2. Fe, Co, and Mn K-edge X-ray absorption spectra of FeCoMn–NC.
+(a–c) Normalized XANES spectra of FeCoMn–NC and reference compounds.
+(d–f) k²-weighted FT-EXAFS spectra. (g–i) Wavelet transforms of the
+k²-weighted EXAFS of FeCoMn–NC.
+
+The ORR activity was evaluated by linear sweep voltammetry (LSV) on a
+rotating ring-disk electrode (RRDE) in O₂-saturated 0.1 M KOH. At 1600
+rpm, FeCoMn–NC exhibits a half-wave potential of 0.885 V versus RHE
+(Figure 3a, b and Table S3). This value exceeds those of FeCo–NC and
+commercial Pt/C by 21 mV and that of Mn–NC by 45 mV. The Tafel slope of
+FeCoMn–NC (40 mV dec⁻¹) is also the lowest of the four catalysts,
+indicating faster apparent ORR kinetics (Figure 3c). At 0.90 V, the
+kinetic current density of FeCoMn–NC (2.89 mA cm⁻²) is much higher than
+those of the other three catalysts (Figure 3d). The kinetic current is
+corrected for mass transport and therefore reflects the intrinsic
+activity. FeCoMn–NC outperforms both FeCo–NC and Mn–NC in all three
+metrics. Its activity therefore cannot be attributed to either component
+alone.
+
+Figure 3e and Table S4 compare the half-wave potential of FeCoMn–NC with
+those of reported M–N–C catalysts in 0.1 M KOH.^(8,17–19) FeCoMn–NC
+shows the highest value in this comparison, exceeding those of
+single-atom, single-metal, and bimetallic catalysts. The limiting
+current of all four catalysts increases with the rotation rate from 400
+to 2500 rpm, as expected for diffusion-limited O₂ reduction (Figure S7).
+Cyclic voltammetry confirms that the reduction near 0.8 V originates
+from O₂ rather than from the catalyst itself. A cathodic peak appears at
+this potential in O₂-saturated electrolyte but is absent in N₂-saturated
+electrolyte (Figure S8). FeCoMn–NC also shows a larger capacitive
+current than FeCo–NC at the same scan rates, indicating a larger
+electrochemically accessible surface area. The RRDE measurements provide
+the electron-transfer number (n) and the H₂O₂ yield (Figure 3f).
+FeCoMn–NC shows an average n of 3.83 and an average H₂O₂ yield of 8.3%
+over 0.30–0.75 V, consistent with a predominantly four-electron pathway.
+This selectivity is slightly lower than that of Pt/C (n = 3.94, 3.1%
+H₂O₂), and the difference arises mainly at low potentials. The H₂O₂
+yield of FeCoMn–NC decreases as the potential increases, and above about
+0.75 V it falls below that of Pt/C. The measured ring currents give the
+same comparison (Figure S9). FeCoMn–NC retains 96.5% of its initial
+current after 238 h at 0.516 V and 1600 rpm (Figure 3g). To examine
+whether the half-wave potential shifts, LSV curves were recorded before
+and after a 31.6 h test. The half-wave potential shows no decrease (+0.8
+mV, Figure 3h and Figure S10). Both results show that FeCoMn–NC is
+stable under prolonged operation.
+
+[]
+
+Figure 3. ORR performance in O₂-saturated 0.1 M KOH. (a) LSV curves at
+1600 rpm. (b) Half-wave potentials. (c) Tafel plots. (d) Kinetic current
+densities at 0.90 V. (e) Comparison of E_(1/2) with reported catalysts.
+(f) Electron-transfer number and H₂O₂ yield of FeCoMn–NC and Pt/C. (g)
+Chronoamperometric response of FeCoMn–NC at 0.516 V and 1600 rpm. (h)
+LSV curves of an additional independent FeCoMn–NC electrode before and
+after a 31.6 h chronoamperometric test (Figure S10). All potentials are
+versus RHE.
+
+Operando attenuated total reflection surface-enhanced infrared
+absorption spectroscopy (ATR-SEIRAS) was used to monitor the interfacial
+species on FeCoMn–NC in O₂-saturated 0.1 M KOH (Figure 4). Figure 4a
+shows the difference spectra between 3650 and 1000 cm⁻¹ at potentials
+from 1.2 to 0 V versus RHE, referenced to the spectrum at 1.2 V. The
+bands near 3307 and 1633 cm⁻¹ correspond to the O–H stretching and H–O–H
+bending modes of interfacial water, respectively, and the band near 1215
+cm⁻¹ is assigned to the ORR intermediate OOH*.^(20,21) Figure 4b shows
+these three regions enlarged, with the spectra offset by potential. As
+the potential is lowered from 1.2 to 0 V, the negative O–H and H–O–H
+bands deepen, showing that the state of the interfacial water changes
+with potential. Meanwhile, the positive OOH* band grows, indicating that
+the ORR on FeCoMn–NC follows the associative pathway (Figure 4c).
+Overall, the FeCoMn–NC surface remains covered by interfacial species
+whose composition changes with potential.
+
+[]
+
+Figure 4. Operando ATR-SEIRAS of FeCoMn–NC in O₂-saturated 0.1 M KOH.
+(a) Three-dimensional view of the difference spectra from 1.2 to 0 V.
+(b) Enlarged O–H stretching, H–O–H bending, and OOH* regions of the
+difference spectra at each potential. (c) Schematic of the dissociative
+and associative ORR pathways. All difference spectra are referenced to
+the spectrum at 1.2 V. All potentials are versus RHE.
+
+The free energies of many different coverage configurations were
+therefore compared to determine the surface states of the three
+catalysts at various potentials and pH (Figure 5 and Table S5). As shown
+in Figure 5a–c, the surfaces of all three catalysts are covered by H* at
+negative potentials, and adsorbed O-containing species become more
+stable as the potential increases. As shown in Figure 5d–f, the surface
+coverage of FeCoMn–NC changes from 8H* to 8O* with increasing potential,
+then to 8O* + Mn–OH*, and finally to 8O* + Mn–O*. The surface coverage
+of FeCo–NC changes only from 8H* to 8O*, whereas that of Mn–NC changes
+from 3H* to the clean surface and then to 1O* and 2O*. Figures S13–S16
+and S17–S22 give the corresponding free-energy data and structures,
+respectively. At 0.78 V versus RHE (a representative ORR potential)¹¹
+and pH 13, which corresponds to the 0.1 M KOH electrolyte, the surface
+coverage is 8O* + Mn–OH* for FeCoMn–NC, 8O* for FeCo–NC, and 1O* for
+Mn–NC. The corresponding structures are shown in Figure 5g and Figure
+S24. To identify the role of the FeCo particles, we removed the particle
+from the FeCoMn–NC model and kept all other atoms and calculation
+settings unchanged. Without the particle, the axial ligand on Mn changes
+from OH to O at 0.48 V, whereas with the particle this change occurs
+only at 0.96 V (Table S7). The FeCo particles therefore keep the
+adjacent Mn single atoms in the Mn–OH state at the representative ORR
+potential of 0.78 V, whereas without the particles Mn is oxidized to
+Mn=O. The FeCo particles thus determine the surface coverage of
+FeCoMn–NC under reaction conditions, namely O* on the particles and an
+axial OH on the adjacent Mn single atoms.
+
+On these covered surfaces, obtained with the actual potential and
+solution pH taken into account, the free energies of the four-step
+associative pathway of O₂ → OOH* → O* → OH* → H₂O were then calculated.
+Here, ΔG₁, ΔG₂, ΔG₃, and ΔG₄ refer to the reaction free energies of OOH*
+formation, OOH* conversion to O*, O* conversion to OH*, and OH* removal,
+respectively (Table S8). On FeCoMn–NC and Mn–NC, the intermediates bind
+to Mn, and on FeCo–NC to the O-covered particle (Table S9 and Figure
+S25). Figure 5h compares the three pathways at 0.78 V, and Figure S26
+shows them at 0 V. On FeCo–NC, O* binds too strongly, so its conversion
+to OH* is uphill by 0.44 eV. On Mn–NC, OOH* binds too weakly, so its
+formation is uphill by 0.52 eV. On FeCoMn–NC, the largest step is OOH*
+formation, which is uphill by less than 0.01 eV, and the other three
+steps are downhill. The limiting potentials of FeCoMn–NC, FeCo–NC, and
+Mn–NC are therefore 0.78, 0.34, and 0.26 V, corresponding to theoretical
+overpotentials of 0.45, 0.89, and 0.97 V (Table S8). The order of the
+limiting potentials agrees with that of the measured half-wave
+potentials (Figure 3b), and the moderate intermediate binding of
+FeCoMn–NC accounts for its higher activity than FeCo–NC and Mn–NC.
+
+[]
+
+Figure 5. Surface states under reaction conditions and ORR free
+energies. (a–c) Coverage formation free energies of the supported-model
+candidates versus potential for (a) FeCoMn–NC, (b) FeCo–NC and (c)
+Mn–NC. Dotted lines mark 0.78 V versus RHE. (d–f) Corresponding surface
+Pourbaix diagrams, with the vertical axis in V versus SHE. Stars mark
+0.78 V versus RHE at pH 13. (g) Optimized FeCoMn–NC surface state under
+reaction conditions (8O* + Mn–OH*). (h) ORR free-energy diagrams at 0.78
+V versus RHE. η is the theoretical overpotential.
+
+To understand the origin of this moderate binding, we analyzed the
+electronic structure of the reaction sites before and after the
+intermediates adsorb, together with the bonding and charge transfer
+between the sites and the intermediates (Figure 6). Before the reaction,
+the Mn atoms in FeCoMn–NC and Mn–NC have nearly the same occupied d-band
+center, and both are lower than that of the bonded metals in FeCo–NC
+(Figure 6a and Table S10). The d-band center therefore cannot explain
+why the two Mn atoms bind the intermediates differently. In contrast,
+the axial Mn–OH bond in FeCoMn–NC is much weaker than the axial Mn=O
+bond in Mn–NC, with negative integrated crystal orbital Hamilton
+population (−ICOHP) values of 2.64 and 8.03 eV (Figure 6b). The Mn atom
+in FeCoMn–NC also has a much larger local magnetic moment (Figure 6c).
+Its spin-up and spin-down 3d states are strongly unbalanced, whereas
+those of Mn in Mn–NC are nearly balanced, with almost all 3d electrons
+paired. The difference between the Mn atoms in FeCoMn–NC and Mn–NC
+therefore lies in the axial ligand adsorbed from the electrolyte before
+the reaction, and this ligand is set by the FeCo particles (Table S7).
+
+After the intermediates adsorb, the metal 3d states overlap with the O
+2p states of the intermediates below the Fermi level in each catalyst,
+forming metal–O bonds (Figure 6d, Figures S27 and S28). The Mn–O bonds
+formed with OOH* and OH* are stronger in FeCoMn–NC than in Mn–NC, as
+shown by their larger −ICOHP values (Figure 6e, Figure S29 and Table
+S10). In Mn–NC, the strong axial Mn=O double bond (Figure 6b) takes up
+most of the bonding capacity of Mn, which also pairs nearly all of its
+3d electrons (Figure 6c), so Mn binds the intermediates on the opposite
+side weakly. The much weaker axial Mn–OH bond in FeCoMn–NC leaves more
+bonding capacity for the intermediates. Mn in FeCoMn–NC therefore holds
+OOH* more firmly, which makes OOH* formation easier than on Mn–NC, where
+this step limits the ORR. At the same time, the axial OH prevents Mn
+from binding the ORR intermediates too strongly. Without the axial OH,
+Mn shifts 0.46 Å out of the N₄ plane toward adsorbed OH*. OH* therefore
+binds so strongly that its removal limits the ORR at 0.52 V (Table S11).
+By contrast, the axial OH pulls Mn 0.44 Å out of the N₄ plane toward the
+axial OH. An ORR intermediate adsorbing on the opposite side then draws
+Mn back toward the N₄ plane (Figure S30a). Drawing Mn back consumes part
+of the binding energy. Relative to Mn without the axial OH, OH*
+adsorption weakens by 0.34 eV, of which 0.24 eV arises from the
+structural deformation and 0.10 eV from the weaker electronic
+interaction between Mn and OH* (Figure S30b and Table S11). Upon
+adsorption, electrons move from the catalyst to the intermediates, and
+the amount transferred reflects how strongly they interact. Both the
+electrons lost by the bonded metals (Figure 6f) and those gained by the
+intermediates (Figure 6g and Figure S31) increase from Mn–NC to
+FeCoMn–NC to FeCo–NC. FeCoMn–NC thus binds the intermediates moderately.
+This moderate binding places FeCoMn–NC near the apex of the activity
+volcano (Figure 6h), where OOH* formation and OH* removal are relatively
+balanced. Because ΔG_(OOH*) − ΔG_(OH*) is nearly constant for the three
+catalysts (Table S8), the limiting potential can be approximated as a
+function of ΔG_(OH*) alone,^(5,22,23) which gives the volcano in Figure
+6h.^(6,24) The construction of this volcano is described in Section 2.8
+of the Supporting Information. Figure 6i summarizes the mechanism. At
+the ORR working potential and pH 13, O* and OH from the electrolyte
+adsorb on the FeCo particles and on the neighboring Mn, respectively,
+with the OH bound axially. The FeCo particles keep this axial OH on Mn,
+and the axial OH pulls Mn out of the N₄ plane, so that Mn binds the
+intermediates neither too strongly nor too weakly. The ORR proceeds on
+this Mn single atom.
+
+[]
+
+Figure 6. Electronic origin of the moderate intermediate binding on
+FeCoMn–NC. All structures correspond to the surfaces present at 0.78 V
+versus RHE and pH 13. (a) Metal 3d PDOS of the active sites before the
+reaction. Dashed lines and numbers mark the occupied d-band centers
+(ε_(d)). For FeCo–NC, the PDOS is summed over the Fe and two Co atoms
+that bind the adsorbates and then normalized, and ε_(d) is the
+arithmetic mean of the values of these three atoms (Table S10). (b)
+−pCOHP of the axial Mn–OH bond in FeCoMn–NC and the axial Mn=O bond in
+Mn–NC before the reaction. Numbers give −ICOHP integrated to E_(F) (eV).
+(c) Spin-resolved Mn 3d PDOS before the reaction, with spin-up states
+plotted upward and spin-down states downward. Numbers give the local
+magnetic moments of Mn. (d) PDOS of the bonded-metal 3d states and the O
+2p states of OOH*. (e) −pCOHP of the Mn–O bonds to OOH* and OH*. Each
+curve is normalized to its maximum absolute value between −8 and 1 eV.
+Numbers give −ICOHP integrated to E_(F) (eV). Unnormalized bond-resolved
+curves are shown in Figure S29. (f) Electron loss of the bonded metals,
+|ΣΔN|, upon adsorption of OOH* and OH*, relative to the same atoms
+before the reaction. For FeCo–NC, the value is summed over the bonded Fe
+and Co atoms (Σ). (g) Electron gain of the reacting OOH* or OH*, given
+as its total Bader electron population minus the valence electron count
+of OOH (13) or OH (7). The axial OH on Mn is not included. (h) Limiting
+potential versus ΔG_(OH*). Dashed lines show the limits set by OH*
+removal and by OOH* formation (Section 2.8, Supporting Information). (i)
+Schematic of the ORR on the Mn single atom in FeCoMn–NC.
+
+CONCLUSIONS
+
+An FeCoMn–NC catalyst with FeCo alloy particles and Mn single atoms
+reaches an ORR half-wave potential of 0.885 V versus RHE, surpassing
+Pt/C, FeCo–NC, and Mn–NC. At pH 13, O*-covered FeCo alloy particles
+shift the Mn–OH to Mn=O transition from 0.48 to 0.96 V versus RHE.
+Adjacent Mn single atoms thus keep an axial OH at 0.78 V versus RHE,
+whereas Mn–NC forms Mn=O. Compared with Mn=O, the weaker axial Mn–OH
+bond lets Mn bind OOH* more firmly. Meanwhile, the axial OH pulls Mn
+0.44 Å out of the N₄ plane, and opposite-side adsorption draws Mn back.
+Relative to overly strong binding without the axial OH, OH* adsorption
+weakens by 0.34 eV (0.24 eV from structural deformation and 0.10 eV from
+weaker electronic interaction). FeCoMn–NC thus achieves a limiting
+potential of 0.78 V versus RHE near the volcano apex, exceeding FeCo–NC
+(0.34 V) and Mn–NC (0.26 V). Coexisting particle and single-atom
+catalysts should be analyzed on covered surfaces under reaction
+conditions, where particles determine the axial ligand that balances
+intermediate binding through electronic structure and geometry.
+
+METHODS
+
+Computational and Experimental Methods. Full experimental and
+computational procedures are provided in Sections 1–2 of the Supporting
+Information. These include catalyst synthesis, structural
+characterization, electrochemical measurements, operando ATR-SEIRAS,
+structural modeling, surface coverage thermodynamics, ORR free-energy
+calculations, and electronic-structure analysis. The coverage candidates
+and the total energies used for the ORR pathways are provided in Tables
+S12 and S13, respectively. XAS spectra were processed with Larch and
+analyzed by Morlet wavelet transforms.^(25,26) Calculations used the
+spin-polarized Vienna Ab initio Simulation Package (VASP) with projector
+augmented-wave (PAW) potentials, the Perdew–Burke–Ernzerhof (PBE)
+functional, and D3(BJ) dispersion,^(27–32) together with Bader and COHP
+analyses.^(33–38) Coverage formation free energies and ORR free energies
+were evaluated with the computational hydrogen electrode method, with
+each model referenced to its own clean structure.^(15,16)
+
+ASSOCIATED CONTENT
+
+Supporting Information. Experimental and computational methods;
+supplementary structural characterization and electrochemical data;
+particle–support binding and structural recovery; coverage
+configurations and surface phase diagrams; optimized ORR intermediates
+and free-energy diagrams; and electronic-structure, bonding, and charge
+analyses (PDF).
+
+Data Availability Statement. Twelve selected optimized ORR background
+and intermediate structures, together with a manifest and model
+descriptions, are available at
+https://github.com/yuezhao-cat/FeCoMn-ORR-structures. Additional
+calculation inputs, candidate energies, and experimental source data are
+available from the authors upon request.
+
+AUTHOR INFORMATION
+
+Notes. The authors declare no competing financial interest.
+
+ACKNOWLEDGMENTS
+
+The authors acknowledge financial support from the National Natural
+Science Foundation of China (Nos. 52271152, 52371232, 52371161, and
+52472234) and the State Key Laboratory of Catalysis of China (No.
+2024SKL-C-001). The authors also acknowledge the computing resources of
+the Institute for Materials Research, Tohoku University, and the Genkai
+supercomputer at Kyushu University.
+
+REFERENCES
+
+(1) Debe, M. K. Electrocatalyst Approaches and Challenges for Automotive
+Fuel Cells. Nature 2012, 486, 43–51. DOI: 10.1038/nature11115.
+
+(2) Shao, M.; Chang, Q.; Dodelet, J.-P.; Chenitz, R. Recent Advances in
+Electrocatalysts for Oxygen Reduction Reaction. Chem. Rev. 2016, 116,
+3594–3657. DOI: 10.1021/acs.chemrev.5b00462.
+
+(3) Zitolo, A.; Goellner, V.; Armel, V.; Sougrati, M.-T.; Mineva, T.;
+Stievano, L.; Fonda, E.; Jaouen, F. Identification of Catalytic Sites
+for Oxygen Reduction in Iron- and Nitrogen-Doped Graphene Materials.
+Nat. Mater. 2015, 14, 937–942. DOI: 10.1038/nmat4367.
+
+(4) Li, J.; Chen, M.; Cullen, D. A.; Hwang, S.; Wang, M.; Li, B.; Liu,
+K.; Karakalos, S.; Lucero, M.; Zhang, H.; Lei, C.; Xu, H.; Sterbinsky,
+G. E.; Feng, Z.; Su, D.; More, K. L.; Wang, G.; Wang, Z.; Wu, G.
+Atomically Dispersed Manganese Catalysts for Oxygen Reduction in
+Proton-Exchange Membrane Fuel Cells. Nat. Catal. 2018, 1, 935–945. DOI:
+10.1038/s41929-018-0164-8.
+
+(5) Kulkarni, A.; Siahrostami, S.; Patel, A.; Nørskov, J. K.
+Understanding Catalytic Activity Trends in the Oxygen Reduction
+Reaction. Chem. Rev. 2018, 118, 2302–2312. DOI:
+10.1021/acs.chemrev.7b00488.
+
+(6) Medford, A. J.; Vojvodic, A.; Hummelshøj, J. S.; Voss, J.;
+Abild-Pedersen, F.; Studt, F.; Bligaard, T.; Nilsson, A.; Nørskov, J. K.
+From the Sabatier Principle to a Predictive Theory of Transition-Metal
+Heterogeneous Catalysis. J. Catal. 2015, 328, 36–42. DOI:
+10.1016/j.jcat.2014.12.033.
+
+(7) Jiang, W.-J.; Gu, L.; Li, L.; Zhang, Y.; Zhang, X.; Zhang, L.-J.;
+Wang, J.-Q.; Hu, J.-S.; Wei, Z.; Wan, L.-J. Understanding the High
+Activity of Fe–N–C Electrocatalysts in Oxygen Reduction: Fe/Fe₃C
+Nanoparticles Boost the Activity of Fe–N_(x). J. Am. Chem. Soc. 2016,
+138, 3570–3578. DOI: 10.1021/jacs.6b00757.
+
+(8) Huang, H.; Yu, D.; Hu, F.; Huang, S.-C.; Song, J.; Chen, H.-Y.; Li,
+L. L.; Peng, S. Clusters Induced Electron Redistribution to Tune Oxygen
+Reduction Activity of Transition Metal Single-Atom for Metal–Air
+Batteries. Angew. Chem., Int. Ed. 2022, 61, e202116068. DOI:
+10.1002/anie.202116068.
+
+(9) Wang, Y.; Tang, Y.-J.; Zhou, K. Self-Adjusting Activity Induced by
+Intrinsic Reaction Intermediate in Fe–N–C Single-Atom Catalysts. J. Am.
+Chem. Soc. 2019, 141, 14115–14119. DOI: 10.1021/jacs.9b07712.
+
+(10) Zhao, K.-M.; Wu, D.-X.; Wu, W.-K.; Nie, J.-B.; Geng, F.-S.; Li, G.;
+Shi, H.-Y.; Huang, S.-C.; Huang, H.; Zhang, J.; Zhou, Z.-Y.; Wang,
+Y.-C.; Sun, S.-G. Identifying High-Spin Hydroxyl-Coordinated Fe³⁺N₄ as
+the Active Centre for Acidic Oxygen Reduction Using Molecular Model
+Catalysts. Nat. Catal. 2025, 8, 422–435. DOI:
+10.1038/s41929-025-01324-7.
+
+(11) Yang, W.; Jia, Z.; Chen, L.; Zhou, B.; Zhang, D.; Han, Y.; Gao, Z.;
+Li, H. Effects of Intermetal Distance on the Electrochemistry-Induced
+Surface Coverage of M–N–C Dual-Atom Catalysts. Chem. Commun. 2023, 59,
+10761–10764. DOI: 10.1039/d3cc03208f.
+
+(12) Zhang, D.; She, F.; Chen, J.; Wei, L.; Li, H. Why Do Weak-Binding
+M–N–C Single-Atom Catalysts Possess Anomalously High Oxygen Reduction
+Activity? J. Am. Chem. Soc. 2025, 147, 6076–6086. DOI:
+10.1021/jacs.4c16733.
+
+(13) Zhao, X.; Liu, X.; Huang, B.; Wang, P.; Pei, Y. Hydroxyl Group
+Modification Improves the Electrocatalytic ORR and OER Activity of
+Graphene Supported Single and Bi-Metal Atomic Catalysts (Ni, Co, and
+Fe). J. Mater. Chem. A 2019, 7, 24583–24593. DOI: 10.1039/c9ta08661g.
+
+(14) Zhang, L.; Jin, N.; Yang, Y.; Miao, X.-Y.; Wang, H.; Luo, J.; Han,
+L. Advances on Axial Coordination Design of Single-Atom Catalysts for
+Energy Electrocatalysis: A Review. Nano-Micro Lett. 2023, 15, 228. DOI:
+10.1007/s40820-023-01196-1.
+
+(15) Nørskov, J. K.; Rossmeisl, J.; Logadottir, A.; Lindqvist, L.;
+Kitchin, J. R.; Bligaard, T.; Jónsson, H. Origin of the Overpotential
+for Oxygen Reduction at a Fuel-Cell Cathode. J. Phys. Chem. B 2004, 108,
+17886–17892. DOI: 10.1021/jp047349j.
+
+(16) Hansen, H. A.; Rossmeisl, J.; Nørskov, J. K. Surface Pourbaix
+Diagrams and Oxygen Reduction Activity of Pt, Ag and Ni(111) Surfaces
+Studied by DFT. Phys. Chem. Chem. Phys. 2008, 10, 3722–3730. DOI:
+10.1039/b803956a.
+
+(17) Zhao, Y.; Gao, Z.; Zhang, S.; Guan, X.; Xu, W.; Liang, Y.; Jiang,
+H.; Li, Z.; Wu, S.; Cui, Z.; Zhu, S. Asymmetric-Charge-Distributed Co–Mn
+Diatomic Catalyst Enables Efficient Oxygen Reduction Reaction. Adv.
+Funct. Mater. 2025, 35, 2504260. DOI: 10.1002/adfm.202504260.
+
+(18) Cai, H.; Zhang, G.; Zhang, X.; Chen, B.; Lu, Z.; Xu, H.; Gao, R.;
+Shi, C. Engineering the Local Coordination Environment and Density of
+FeN₄ Sites by Mn Cooperation for Electrocatalytic Oxygen Reduction.
+Small 2022, 18, 2200911. DOI: 10.1002/smll.202200911.
+
+(19) He, Y.; Yang, X.; Li, Y.; Liu, L.; Guo, S.; Shu, C.; Liu, F.; Liu,
+Y.; Tan, Q.; Wu, G. Atomically Dispersed Fe–Co Dual Metal Sites as
+Bifunctional Oxygen Electrocatalysts for Rechargeable and Flexible
+Zn–Air Batteries. ACS Catal. 2022, 12, 1216–1227. DOI:
+10.1021/acscatal.1c04550.
+
+(20) Zhou, W.; Li, B.; Liu, X.; Jiang, J.; Bo, S.; Yang, C.; An, Q.;
+Zhang, Y.; Soldatov, M. A.; Wang, H.; Wei, S.; Liu, Q. In Situ Tuning of
+Platinum 5d Valence States for Four-Electron Oxygen Reduction. Nat.
+Commun. 2024, 15, 6650. DOI: 10.1038/s41467-024-51157-4.
+
+(21) Wu, Y.; Zhang, Y.; Lan, L.; Hu, T.; Tang, S.; Lützenkirchen-Hecht,
+D.; Yuan, K.; Chen, Y. Engineering Proton-Coupled Electron Transfer to
+Break Activity–Stability Trade-Off of Oxygen Electroreduction Catalysts
+for Temperature-Adaptive Zn–Air Battery. Angew. Chem., Int. Ed. 2025,
+64, e202502019. DOI: 10.1002/anie.202502019.
+
+(22) Viswanathan, V.; Hansen, H. A.; Rossmeisl, J.; Nørskov, J. K.
+Universality in Oxygen Reduction Electrocatalysis on Metal Surfaces. ACS
+Catal. 2012, 2, 1654–1660. DOI: 10.1021/cs300227s.
+
+(23) Zhou, W.; Su, H.; Cheng, W.; Li, Y.; Jiang, J.; Liu, M.; Yu, F.;
+Wang, W.; Wei, S.; Liu, Q. Regulating the Scaling Relationship for High
+Catalytic Kinetics and Selectivity of the Oxygen Reduction Reaction.
+Nat. Commun. 2022, 13, 6414. DOI: 10.1038/s41467-022-34169-w.
+
+(24) Huang, B.; Gu, Q.; Tang, X.; Lützenkirchen-Hecht, D.; Yuan, K.;
+Chen, Y. Experimentally Validating Sabatier Plot by Molecular Level
+Microenvironment Customization for Oxygen Electroreduction. Nat. Commun.
+2024, 15, 6077. DOI: 10.1038/s41467-024-50377-y.
+
+(25) Newville, M. Larch: An Analysis Package for XAFS and Related
+Spectroscopies. J. Phys.: Conf. Ser. 2013, 430, 012007. DOI:
+10.1088/1742-6596/430/1/012007.
+
+(26) Funke, H.; Scheinost, A. C.; Chukalina, M. Wavelet Analysis of
+Extended X-ray Absorption Fine Structure Data. Phys. Rev. B 2005, 71,
+094110. DOI: 10.1103/PhysRevB.71.094110.
+
+(27) Kresse, G.; Furthmüller, J. Efficient Iterative Schemes for Ab
+Initio Total-Energy Calculations Using a Plane-Wave Basis Set. Phys.
+Rev. B 1996, 54, 11169–11186. DOI: 10.1103/PhysRevB.54.11169.
+
+(28) Blöchl, P. E. Projector Augmented-Wave Method. Phys. Rev. B 1994,
+50, 17953–17979. DOI: 10.1103/PhysRevB.50.17953.
+
+(29) Kresse, G.; Joubert, D. From Ultrasoft Pseudopotentials to the
+Projector Augmented-Wave Method. Phys. Rev. B 1999, 59, 1758–1775. DOI:
+10.1103/PhysRevB.59.1758.
+
+(30) Perdew, J. P.; Burke, K.; Ernzerhof, M. Generalized Gradient
+Approximation Made Simple. Phys. Rev. Lett. 1996, 77, 3865–3868. DOI:
+10.1103/PhysRevLett.77.3865.
+
+(31) Grimme, S.; Antony, J.; Ehrlich, S.; Krieg, H. A Consistent and
+Accurate Ab Initio Parametrization of Density Functional Dispersion
+Correction (DFT-D) for the 94 Elements H–Pu. J. Chem. Phys. 2010, 132,
+154104. DOI: 10.1063/1.3382344.
+
+(32) Grimme, S.; Ehrlich, S.; Goerigk, L. Effect of the Damping Function
+in Dispersion Corrected Density Functional Theory. J. Comput. Chem.
+2011, 32, 1456–1465. DOI: 10.1002/jcc.21759.
+
+(33) Henkelman, G.; Arnaldsson, A.; Jónsson, H. A Fast and Robust
+Algorithm for Bader Decomposition of Charge Density. Comput. Mater. Sci.
+2006, 36, 354–360. DOI: 10.1016/j.commatsci.2005.04.010.
+
+(34) Tang, W.; Sanville, E.; Henkelman, G. A Grid-Based Bader Analysis
+Algorithm without Lattice Bias. J. Phys.: Condens. Matter 2009, 21,
+084204. DOI: 10.1088/0953-8984/21/8/084204.
+
+(35) Dronskowski, R.; Blöchl, P. E. Crystal Orbital Hamilton Populations
+(COHP): Energy-Resolved Visualization of Chemical Bonding in Solids
+Based on Density-Functional Calculations. J. Phys. Chem. 1993, 97,
+8617–8624. DOI: 10.1021/j100135a014.
+
+(36) Deringer, V. L.; Tchougréeff, A. L.; Dronskowski, R. Crystal
+Orbital Hamilton Population (COHP) Analysis As Projected from Plane-Wave
+Basis Sets. J. Phys. Chem. A 2011, 115, 5461–5466. DOI:
+10.1021/jp202489s.
+
+(37) Maintz, S.; Deringer, V. L.; Tchougréeff, A. L.; Dronskowski, R.
+LOBSTER: A Tool to Extract Chemical Bonding from Plane-Wave Based DFT.
+J. Comput. Chem. 2016, 37, 1030–1035. DOI: 10.1002/jcc.24300.
+
+(38) Nelson, R.; Ertural, C.; George, J.; Deringer, V. L.; Hautier, G.;
+Dronskowski, R. LOBSTER: Local Orbital Projections, Atomic Charges, and
+Chemical-Bonding Analysis from Projector-Augmented-Wave-Based
+Density-Functional Theory. J. Comput. Chem. 2020, 41, 1931–1940. DOI:
+10.1002/jcc.26353.
+
+TOC Graphic
+
+[]
