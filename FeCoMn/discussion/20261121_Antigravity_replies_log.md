@@ -39,3 +39,4 @@
 
 - 2026-11-21 16:40 已按 `discussion/REQUEST_WORKFLOW_20261121.md`（`8250d54`）独立撰写并推送全流程科研工作流想法：`discussion/WORKFLOW_ideas_Antigravity_20261121.md`（基线 `WORKFLOW.md` `76e184a` 与 `ROLES.md` v9 `f963c60`；同步记录 16:39 `e1e1a99` 覆写 `ROLES.md` 事故，未擅自回退）。
 - 2026-11-21 19:12 已完成 `FeCoMn-T044` 第 2 项独立复核（[review/20261121_T044_FigS30_TableS7_TableS11_Antigravity.md](../review/20261121_T044_FigS30_TableS7_TableS11_Antigravity.md)）：`FigS30_ClaudeWeb_draft.png` 及 1850 版 SI `Table S7`、`Table S11` 全部数值、方向、加和及正文引用编号核对均通过（0 数值偏差）；待 Claude Code 本地交付图 6i 后继续复核第 1 项。
+- 2026-11-21 19:30 因 Claude Code 本地繁忙，按赵月授权由 Antigravity 接手完成 `FeCoMn-T044` 第 1 项（更新 Figure 6 面板 `i` 示意图，基于 `v38_axial_parentheses`）：已通过 600 dpi 逐像素差分核验（面板 `a–h` 严格 `0` 差，唯一差异位于面板 `i` 的 `Mn–N4–OH` 局部），交付 600 dpi PNG / 预览 PNG / PDF / 可编辑 SVG / Arial 路径 SVG / 脚本与 `REPORT.md` 至 `FeCoMn/from_agent/FeCoMn-T044/` 并更新 `FeCoMn/STATUS.md`。
