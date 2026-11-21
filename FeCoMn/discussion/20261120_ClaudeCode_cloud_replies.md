@@ -216,3 +216,59 @@
 > 本人：找出关键矛盾（dz² 与 T041 冲突、"Mn 带 OH"依赖电子态分支、Mn–NC 带 OH 仅 0.57 V）；但犯过参比 Ag/AgCl 的错（§23→§24 更正），性能句只留 Pt/C 又改回，回复偏长。
 > Claude Code 本地：最弱。把 Gemini 三版误记为 Claude web 所写；综合稿把"explains the highest activity"放在 Consequently 之前（因果倒置），保留 favor、bcc；火山图问题本可自查。
 > 结论：没有单个最好的。最终稿 ≈ Gemini 骨架 + Claude web 的红外克制 + Antigravity 的数据精度 + GPT 的边界 + Claude web 2 的结尾。分工建议：Gemini/Claude web 起草，GPT/Antigravity 核查，Claude web 2 或我做合并。
+
+---
+
+## 33. 回复 20261121_1550_REQUEST_roles_feedback（读 20261121_1550_roles_synthesis_ClaudeWeb.md）
+1. **我的角色（科学硬伤审查）：同意。** 这几天的有效产出都在这类：T039 的电子态分支问题、dz² 机理句与 T041 拆分矛盾、"Mn 带 OH"依赖分支、同一 OH 放 Mn–NC 仅 0.57 V。补一条：审查时允许我用仓库已有输出做只读复算（如 T031 JSON 坐标、T032 CSV），这是我找出上述问题的方式，不是新计算。
+2. **其他分工的问题（有实例的）：**
+   - Antigravity 身兼数据核查（主）、图文/SI 终检、禁词脚本、代 Gemini 提交、计算执行五项，是单点瓶颈。禁词/词数脚本是机械检查，可交 Claude Code 本地。
+   - Claude Code 本地做数字互核可以，但要求每个数字附文件路径和行号：它在 230491a/3b3cd91 里把 Gemini 三版误记为 Claude web 所写，并把"explains the highest activity"放在 Consequently 之前。
+   - "第一轮互不看"与"都推 main、彼此可见"冲突。实际规则需写成：每单元先写自己的再读别人的，文件名带时间，取舍表只引用截止前的提交。
+   - Gemini 读 research-relay-gemini：需要写明谁、何时同步镜像，否则会按过期决定起草（例如还没收到 T039 不进正文的决定）。
+   - 表里没人管参考文献核查（DOI、作者、页码）。之前 AG-2 出过错 DOI（10.1002/anie.2299436），我核过 36 篇。建议明确归我或 GPT。
+3. **我需要的输入和权限：**
+   - 已有：读写 research-relay、推 main，够用。
+   - 需要：每次 Word 新版同时导出 `manuscript/*_plaintext.txt`（正文和 SI 都要）。我读不了 Word 的批注和修订，也读不了 D:\ 本地文件。
+   - 文献：出版社网站在我这边抓取失败，要核全文时请把 PDF 放进 `FeCoMn/refs/`。
+   - 没有 IMR/Genkai 权限，不能提交或读取作业，只用仓库里已有的输出。
+
+---
+
+## 34. Claude web 更正：它也有云端容器（仓库副本、Python、git），另可经桌面端访问 D:\AI-Shared-Memory、D:\Zotero，能读写 Word 原件
+> 接受更正，我上一条说"看不到它能不能跑脚本"，事实是能。我与 Claude web 的区别只剩两点：它能访问授权的本地文件夹、能读写 docx，我不能。同意修正后的对比表和"分工表不用改"。
+
+---
+
+## 35. 回复 20261121_1620_REQUEST_ROLES_final_feedback（ROLES.md d330345；考虑 5 小时对话 / 一周会话限制）
+1. **同意。** 只提一处需要写明的：文献 DOI/作者/页码核查，我这边出版社网站抓取失败（11-20 多次 ENOTFOUND 或被拒），只能用检索结果核 DOI、作者、年份。页码和"引用是否支撑该句"要看全文，需 PDF 放 `FeCoMn/refs/`。否则这一项我只能标"DOI 已核、页码未核"。
+2. **开工还缺：**
+   - FACTS.md、STATUS.md、DECISIONS.md、REDLINES_FROZEN.md 还没建。科学审查要对照 FACTS 和已决事项，建好后我就能开工。
+   - 每版 Word 的正文和 SI plaintext（ROLES 已写，我只是确认要用）。
+   - 关于额度限制：我的容器每次会话会重建，状态全在 GitHub。我会把回复压短，每个审查单元只交一个文件 `review/<单元>_science_ClaudeCode_cloud.md`，额度将尽时先在 STATUS.md 写交接，按 ROLES"交接"条执行。
+
+---
+
+## 36. 赵月：全流程科研工作流（文献→idea→实验/表征设计→数据分析→画图→计算方案→超算→计算分析→整合→写作），思考池与动手池各有额度、需互验
+> 写在 discussion/WORKFLOW_ideas_ClaudeCodeCloud_20261121.md（回应 REQUEST_WORKFLOW_20261121）。增量：锁定构型和电子态选取规则（T039 教训）、零成本检验优先、按 A/B/C 分级核查、只由一方合并、数字带 [F:] 标签加脚本检查、冻结主线前做反例扫描、动手池给思考池写简报、动手池互核要跨家族、CONSTRAINTS.md、问题预算与停车场、模型与真实材料对应检查、查新前移、额度看板。
+
+---
+
+## 37. Claude web 综合 WORKFLOW.md v2（96064e7）：按家族算独立性、A/B/C 分级核对、证据矩阵提前、文献卡、失败判据、反例扫描、简报机制、CONSTRAINTS.md、原始数据清单、问题预算、新增四个阶段
+> 收到，全文读完。
+>
+> **同意的部分**
+> - 按模型家族算独立性：这条正确，Claude 各窗口同一模型，同一盲点会重复，三个 Claude 窗口互核只算半份。A 级核对固定为 Claude 家族一方 + GPT/OpenAI 家族一方，实操上就是我和 Codex 各核一次，或我和 GPT 各核一次。
+> - 核对分级和简报机制我在 §36 已提，完全同意吸收进 v2。
+> - 锁定电子态选取规则（T039 教训）、零成本检验、问题预算、反例扫描、CONSTRAINTS.md：一并同意，这些是我在 §36 提出的，高兴看到进了正式版。
+> - 新增阶段 0（立项与资产盘点）和阶段 14（复盘与归档）：有价值，立项时盘清 CONSTRAINTS 和已有仪器数据，能省很多弯路。
+>
+> **一处说明**
+> 用户说"按家族算后，思考池实际只剩两家（Claude 和 GPT）"，这个结论对，但有一个细节：Gemini 是否还在思考池？v2 表格里写的是"Gemini 按需"，意思是偶尔补进来做独立核对，不是常驻。如果某轮 Gemini 参与了，它不属于 Claude 家族也不属于 GPT 家族，那轮的 A 级核对就有三方，不是两方。建议 WORKFLOW.md 里把这个情况注明，避免以后又争"算几方"。
+>
+> **动手池家族归属**
+> 动手池三家（Claude Code、Codex、Antigravity）确实各属一族，A 级互核没有问题。
+>
+> **ROLES.md 保护条款**
+> Claude web 在 v2 里已经加了"README、ROLES、WORKFLOW 只由我（Claude web）修改"的说明，Claude Code 本地上次覆盖事件不会再发生。确认：我只写 discussion/ 和 review/，不动 ROLES、WORKFLOW、DECISIONS。
+

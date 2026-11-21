@@ -1,5 +1,16 @@
 # FeCoMn 任务看板
 
+## 写作单元（按 ROLES.md v3；每步结束更新本表）
+Word 锁：Claude web　当前正式稿：manuscript/FeCoMn_Manuscript_revised_20261119_2255.docx、FeCoMn_SI_revised_20261119_2255.docx（8dc699c）
+
+| 单元 | 负责 | 当前版本（文件 / 提交） | 下一步 | 待谁 | 额度水位 |
+|---|---|---|---|---|---|
+| 摘要 | Claude web | review/20261121_1430b_abstract_synthesis2_ClaudeWeb.md（22c6f52） | 先冻结，图 6/图 5 后回改 | 赵月定 DECISIONS 待定项 | |
+| 图 6 段 | Claude web | 未开 | 开单元文件 | Claude web | |
+| 图 4 电位标签 | Codex / Antigravity | 现图 4 末条标 −0.08 V | 改 0 V（标签格式待赵月定） | 赵月 | |
+| FACTS 复核 | Antigravity（复核）、Claude Code 本地（互核） | FeCoMn/FACTS.md | 逐条复核打"已复核" | Antigravity | |
+
+
 协作规则见 README.md（Claude 写作与任务单，Codex 计算出图，Antigravity 核查，赵月决定）。
 
 | 编号 | 标题 | 负责方 | 状态 | 日期 | 对应文件 |
