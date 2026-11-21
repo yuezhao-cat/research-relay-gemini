@@ -1,0 +1,44 @@
+[
+  {
+    "original": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OOH/CONTCAR",
+    "static": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OOH_full/POSCAR",
+    "composition_equal": true,
+    "cell_max_error_A": 0.0,
+    "max_atom_error_A": 3.629511505858086e-15
+  },
+  {
+    "original": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_O/CONTCAR",
+    "static": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_O_full/POSCAR",
+    "composition_equal": true,
+    "cell_max_error_A": 0.0,
+    "max_atom_error_A": 4.3355581276677975e-15
+  },
+  {
+    "original": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OH/CONTCAR",
+    "static": "/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_OH_full/POSCAR",
+    "composition_equal": true,
+    "cell_max_error_A": 0.0,
+    "max_atom_error_A": 4.3355581276677975e-15
+  },
+  {
+    "original": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_OOH/CONTCAR",
+    "static": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OOH_full/POSCAR",
+    "composition_equal": true,
+    "cell_max_error_A": 0.0,
+    "max_atom_error_A": 3.670456806467618e-15
+  },
+  {
+    "original": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_O/CONTCAR",
+    "static": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_O_full/POSCAR",
+    "composition_equal": true,
+    "cell_max_error_A": 0.0,
+    "max_atom_error_A": 3.629511505858086e-15
+  },
+  {
+    "original": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/MnNC_cov1O_OH/CONTCAR",
+    "static": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_OH_full/POSCAR",
+    "composition_equal": true,
+    "cell_max_error_A": 0.0,
+    "max_atom_error_A": 3.629511505858086e-15
+  }
+]

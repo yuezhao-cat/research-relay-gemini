@@ -1,0 +1,55 @@
+project,graph,layer,object,text_verbatim
+1.opju,Graph1,1,YR,%(?Y)
+1.opju,Graph1,1,XT,%(?X)
+1.opju,Graph1,1,YL,Absorbance (a.u.)
+1.opju,Graph1,1,XB,Wavenumber (cm\+(-1))
+1.opju,Graph1,1,Text,1.2 V
+1.opju,Graph1,1,Text1,*OOH
+1.opju,Graph1,1,Text2,*O-O
+1.opju,Graph1,1,Text3,*OOH
+1.opju,Graph1,1,Text9,HOH
+1.opju,Graph1,1,Text10,0 V
+1-1.opju,Graph1,1,YR,%(?Y)
+1-1.opju,Graph1,1,XT,%(?X)
+1-1.opju,Graph1,1,YL,Absorbance (a.u.)
+1-1.opju,Graph1,1,XB,Wavenumber (cm\+(-1))
+1-1.opju,Graph1,1,Legend,"\l(1) %(1)
+\l(2) %(2)
+\l(3) %(3)
+\l(4) %(4)
+\l(5) %(5)
+\l(6) %(6)
+\l(7) %(7)
+\l(8) %(8)
+\l(9) %(9)
+\l(10) %(10)
+\l(11) %(11)
+\l(12) %(12)
+\l(13) %(13)
+\l(14) %(14)
+\l(15) %(15)
+\l(16) %(16)
+\l(17) %(17)
+\l(18) %(18)
+\l(19) %(19)
+\l(20) %(20)
+\l(21) %(21)
+\l(22) %(22)
+\l(23) %(23)
+\l(24) %(24)"
+1-2.opju,Graph2,1,Text1,Wavenumber (cm\+(-1))
+1-2.opju,Graph2,1,Text,Absorbance
+1-2.opju,Graph2,1,Text2,Potential (V)
+1-2.opju,Graph3,1,YR,%(?Y)
+1-2.opju,Graph3,1,XT,%(?X)
+1-2.opju,Graph3,1,YL,Absorbance (a.u.)
+1-2.opju,Graph3,1,XB,Wavenumber (cm\+(-1))
+1-2.opju,Graph3,1,Text5,*OOH
+1-2.opju,Graph3,1,Text6,*O-O
+1-2.opju,Graph3,1,Text7,*OOH
+1-2.opju,Graph3,1,Text8,HOH
+1-2.opju,Graph3,1,Text4,1.2 V
+1-2.opju,Graph3,1,Text18,0 V
+FeCoMn-NC(1-2).opju,Graph2,1,Text1,Wavenumber (cm\+(-1))
+FeCoMn-NC(1-2).opju,Graph2,1,Text,Absorbance
+FeCoMn-NC(1-2).opju,Graph2,1,Text2,Potential (V)

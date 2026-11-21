@@ -1,0 +1,3 @@
+﻿model,axial_ligand,Mn_index,Bader_electrons,local_moment_muB,axial_distance_A,static_path,ACF_path
+FCM_background,OH,238,11.457649,3.206,1.877242172374744,/home/pj25000114/ku50002299/FeCoMn_MnOH_electronic_v2_20261031/FCMnew_base_full,/home/pj25000114/ku50002299/FeCoMn_MnOH_postprocess_20261031/bader/FCMnew_base_full/ACF.dat
+MnNC_background,O,179,11.507781,0.287,1.5770846336315383,/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full,/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/MnNC_base_full/bader_validated_20261024/ACF.dat

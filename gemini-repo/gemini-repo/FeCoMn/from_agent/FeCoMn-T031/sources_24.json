@@ -1,0 +1,1380 @@
+[
+  {
+    "id": 1,
+    "family": "MnNC_bare",
+    "state": "base",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_clean",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_clean",
+    "machine": "imr",
+    "energy_sigma0": -1661.25027287,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 3.0306,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 0,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 0,
+      "ON": 0
+    },
+    "geometry": [],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 0,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 0,
+      "ON": 0
+    },
+    "initial_geometry": [],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 2,
+    "family": "MnNC_bare",
+    "state": "OOH",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH",
+    "machine": "imr",
+    "energy_sigma0": -1676.11661481,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 2.1637,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 1,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0
+    },
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.813685793181339,
+        "signed_Mn_plane": 1.809875128936326,
+        "OH": 1.9104127465098324
+      },
+      {
+        "atom": 181,
+        "Mn_O": 2.747890720097922,
+        "signed_Mn_plane": 2.4737552929271467,
+        "OH": 0.9803666243440918
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 1,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8499999999999988,
+        "signed_Mn_plane": 1.849999999751279,
+        "OH": 1.9949937343259998
+      },
+      {
+        "atom": 181,
+        "Mn_O": 2.934706118165835,
+        "signed_Mn_plane": 2.6999853717495435,
+        "OH": 0.9669539802906849
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 3,
+    "family": "MnNC_bare",
+    "state": "O",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_MnNbri",
+    "machine": "imr",
+    "energy_sigma0": -1667.74239034,
+    "delta_vs_reference": -0.36163397999985136,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 0.0128,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 1,
+      "ON": 0
+    },
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.5770846336314752,
+        "signed_Mn_plane": 1.5770529391375612,
+        "OH": null
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 1,
+      "ON": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.699147111225972,
+        "signed_Mn_plane": 1.4035364618273163,
+        "OH": null
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 4,
+    "family": "MnNC_bare",
+    "state": "OH",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH",
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_OH_magcheck",
+    "machine": "imr",
+    "energy_sigma0": -1671.92077111,
+    "delta_vs_reference": -0.0003700500001286855,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 5.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 3.6499,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0
+    },
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8786024108475858,
+        "signed_Mn_plane": 1.8773978213748168,
+        "OH": 0.9733454547492867
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8788240141984345,
+        "signed_Mn_plane": 1.8776057915136724,
+        "OH": 0.9733765725478145
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 5,
+    "family": "MnNC_axOH",
+    "state": "base",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH",
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_OH_magcheck",
+    "machine": "imr",
+    "energy_sigma0": -1671.92077111,
+    "delta_vs_reference": -0.0003700500001286855,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 5.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 3.6499,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0
+    },
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8786024108475858,
+        "signed_Mn_plane": 1.8773978213748168,
+        "OH": 0.9733454547492867
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8788240141984345,
+        "signed_Mn_plane": 1.8776057915136724,
+        "OH": 0.9733765725478145
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 6,
+    "family": "MnNC_axOH",
+    "state": "OOH",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH_OHb",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH_OHb",
+    "machine": "imr",
+    "energy_sigma0": -1686.69437219,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 2.1885,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 3,
+      "OO": 1,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0
+    },
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8956802147930072,
+        "signed_Mn_plane": 1.8869245356688162,
+        "OH": 1.883747371438329
+      },
+      {
+        "atom": 181,
+        "Mn_O": 2.8285651079464125,
+        "signed_Mn_plane": 2.576399567940427,
+        "OH": 0.9781505493667647
+      },
+      {
+        "atom": 182,
+        "Mn_O": 1.8672167507131385,
+        "signed_Mn_plane": -1.8659563710199931,
+        "OH": 0.9744599786018916
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 3,
+      "OO": 1,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8499999999999988,
+        "signed_Mn_plane": 1.849999999751279,
+        "OH": 1.9949937343259998
+      },
+      {
+        "atom": 181,
+        "Mn_O": 2.934706118165835,
+        "signed_Mn_plane": 2.6999853717495435,
+        "OH": 0.9669539802906849
+      },
+      {
+        "atom": 182,
+        "Mn_O": 1.8499999999999994,
+        "signed_Mn_plane": -1.8499999997512797,
+        "OH": 1.0004498987955366
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 7,
+    "family": "MnNC_axOH",
+    "state": "O",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_OH",
+    "path": "/home/05926/zhaoyue/WORK/FCM_MnO_ORR_20261102/MnNC_O_OH_magcheck",
+    "machine": "imr",
+    "energy_sigma0": -1677.5789319,
+    "delta_vs_reference": -0.0006283600000642764,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 5.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 0.698,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 2,
+      "ON": 0
+    },
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.60350291608796,
+        "signed_Mn_plane": 1.5984662412570692,
+        "OH": 3.9848136871898214
+      },
+      {
+        "atom": 181,
+        "Mn_O": 1.8979190575488678,
+        "signed_Mn_plane": -1.8975610738685285,
+        "OH": 0.9731986779540679
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 2,
+      "ON": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.6037876862958984,
+        "signed_Mn_plane": 1.5987589056780351,
+        "OH": 3.9842835079673864
+      },
+      {
+        "atom": 181,
+        "Mn_O": 1.8974330298436994,
+        "signed_Mn_plane": -1.897201163925117,
+        "OH": 0.9733760859990085
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 8,
+    "family": "MnNC_axOH",
+    "state": "OH",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH_OH",
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_ORR_fromIMR_20261102/MnNC_OH_OH_magcheck",
+    "machine": "genkai",
+    "energy_sigma0": -1682.40305215,
+    "delta_vs_reference": -0.5610466199998427,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 5.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 1.9877,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0
+    },
+    "geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.8761614378914035,
+        "signed_Mn_plane": 1.8758105843577766,
+        "OH": 0.9737284196777508
+      },
+      {
+        "atom": 181,
+        "Mn_O": 1.8728867638177065,
+        "signed_Mn_plane": -1.8726160422407294,
+        "OH": 0.9739739729206991
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 180,
+        "Mn_O": 1.848661621562364,
+        "signed_Mn_plane": 1.8476898447603467,
+        "OH": 0.9750370165000273
+      },
+      {
+        "atom": 181,
+        "Mn_O": 1.8463061474387634,
+        "signed_Mn_plane": -1.8450530654384392,
+        "OH": 0.9756130616053925
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 9,
+    "family": "FCM_clean_bare",
+    "state": "base",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/S_FeCoMnNC59_clean",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/stability_20261015/FCM_reconstruction_check",
+    "machine": "imr",
+    "energy_sigma0": -2066.67661959,
+    "delta_vs_reference": -0.03946867000013299,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 4.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 139.1081,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 0,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 0,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 0
+    },
+    "geometry": [],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 0,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 0,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 0
+    },
+    "initial_geometry": [],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 10,
+    "family": "FCM_clean_bare",
+    "state": "OOH",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH",
+    "machine": "imr",
+    "energy_sigma0": -2081.57087047,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 137.9018,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 1,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 0
+    },
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8019711187663092,
+        "signed_Mn_plane": 1.79743863040967,
+        "OH": 1.9119332804089115
+      },
+      {
+        "atom": 240,
+        "Mn_O": 2.745460174799153,
+        "signed_Mn_plane": 2.474093917082009,
+        "OH": 0.9802623254403142
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 1,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.85,
+        "signed_Mn_plane": 1.8497935339646092,
+        "OH": 1.994993734326001
+      },
+      {
+        "atom": 240,
+        "Mn_O": 2.9347061181658365,
+        "signed_Mn_plane": 2.682974076858374,
+        "OH": 0.9669539802906852
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 11,
+    "family": "FCM_clean_bare",
+    "state": "O",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O",
+    "machine": "imr",
+    "energy_sigma0": -2072.76808195,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 137.915,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 0
+    },
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.6545738232038776,
+        "signed_Mn_plane": 1.6545255421053882,
+        "OH": null
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.62,
+        "signed_Mn_plane": 1.6198192027149552,
+        "OH": null
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 12,
+    "family": "FCM_clean_bare",
+    "state": "OH",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH",
+    "machine": "imr",
+    "energy_sigma0": -2077.42376589,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 139.3307,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 0
+    },
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8807611315298232,
+        "signed_Mn_plane": 1.8802182356234431,
+        "OH": 0.9733751843626092
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.85,
+        "signed_Mn_plane": 1.8497935339646092,
+        "OH": 1.0004498987955366
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 13,
+    "family": "FCM_clean_axOH",
+    "state": "base",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OHb",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OHb",
+    "machine": "imr",
+    "energy_sigma0": -2077.44984933,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 139.3327,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8776797034531643,
+        "signed_Mn_plane": -1.8771362082912941,
+        "OH": 0.9734212239771477
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8500000000000014,
+        "signed_Mn_plane": -1.8497935339646105,
+        "OH": 1.000449898795535
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 14,
+    "family": "FCM_clean_axOH",
+    "state": "OOH",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH_OHb",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH_OHb",
+    "machine": "imr",
+    "energy_sigma0": -2092.13380448,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 138.0123,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 3,
+      "OO": 1,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8977778433185337,
+        "signed_Mn_plane": 1.889407621682565,
+        "OH": 1.8840670640548232
+      },
+      {
+        "atom": 240,
+        "Mn_O": 2.836540649575722,
+        "signed_Mn_plane": 2.5951083687866876,
+        "OH": 0.9785160073605166
+      },
+      {
+        "atom": 241,
+        "Mn_O": 1.8678784177884982,
+        "signed_Mn_plane": -1.86727682859895,
+        "OH": 0.9744410781341873
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 3,
+      "OO": 1,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.85,
+        "signed_Mn_plane": 1.8497935339646092,
+        "OH": 1.994993734326001
+      },
+      {
+        "atom": 240,
+        "Mn_O": 2.9347061181658365,
+        "signed_Mn_plane": 2.682974076858374,
+        "OH": 0.9669539802906852
+      },
+      {
+        "atom": 241,
+        "Mn_O": 1.8500000000000014,
+        "signed_Mn_plane": -1.8497935339646105,
+        "OH": 1.000449898795535
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 15,
+    "family": "FCM_clean_axOH",
+    "state": "O",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O_OHb",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O_OHb",
+    "machine": "imr",
+    "energy_sigma0": -2083.07161085,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 135.934,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.6030708812270116,
+        "signed_Mn_plane": 1.5987688955850312,
+        "OH": 3.9776529131463003
+      },
+      {
+        "atom": 240,
+        "Mn_O": 1.903611829156291,
+        "signed_Mn_plane": -1.9035150307622577,
+        "OH": 0.9733697874261769
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.62,
+        "signed_Mn_plane": 1.6198192027149552,
+        "OH": 4.105946906622149
+      },
+      {
+        "atom": 240,
+        "Mn_O": 1.8500000000000014,
+        "signed_Mn_plane": -1.8497935339646105,
+        "OH": 1.000449898795535
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 16,
+    "family": "FCM_clean_axOH",
+    "state": "OH",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH_OHb",
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH_OHb",
+    "machine": "imr",
+    "energy_sigma0": -2087.89577451,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 133.1488,
+    "topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.8792750647396994,
+        "signed_Mn_plane": 1.8787888244756488,
+        "OH": 0.9740248862427368
+      },
+      {
+        "atom": 240,
+        "Mn_O": 1.8768791368714257,
+        "signed_Mn_plane": -1.8766409193846068,
+        "OH": 0.9737262657377564
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 0,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 239,
+        "Mn_O": 1.85,
+        "signed_Mn_plane": 1.8497935339646092,
+        "OH": 1.0004498987955366
+      },
+      {
+        "atom": 240,
+        "Mn_O": 1.8500000000000014,
+        "signed_Mn_plane": -1.8497935339646105,
+        "OH": 1.000449898795535
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 17,
+    "family": "FCM_8O_bare",
+    "state": "base",
+    "reference_path": "/home/pj25000114/ku50002299/FeCoMn_ch5_rich8O_resume_20261013/FCM_rich8O_cont1",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_rich8O_resume_20261013/FCM_rich8O_cont1",
+    "machine": "genkai",
+    "energy_sigma0": -2129.39408315,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 140.9064,
+    "topology": {
+      "particle_O": 8,
+      "reactive_O": 0,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 0,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 0
+    },
+    "geometry": [],
+    "initial_topology": {
+      "particle_O": 8,
+      "reactive_O": 0,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 0,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 0
+    },
+    "initial_geometry": [],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 18,
+    "family": "FCM_8O_bare",
+    "state": "OOH",
+    "reference_path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OOH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OOH",
+    "machine": "genkai",
+    "energy_sigma0": -2144.26459902,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 137.8693,
+    "topology": {
+      "particle_O": 8,
+      "reactive_O": 2,
+      "OO": 1,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8062219060374596,
+        "signed_Mn_plane": -1.8045357658955308,
+        "OH": 1.91163558130642
+      },
+      {
+        "atom": 248,
+        "Mn_O": 2.752700505778181,
+        "signed_Mn_plane": -2.4510649419177026,
+        "OH": 0.9800875416412467
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 8,
+      "reactive_O": 2,
+      "OO": 1,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.949999999999999,
+        "signed_Mn_plane": -1.9499972579093325,
+        "OH": 2.111610759586151
+      },
+      {
+        "atom": 248,
+        "Mn_O": 2.7354158733179865,
+        "signed_Mn_plane": -2.352343703858492,
+        "OH": 0.9689685237405807
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 19,
+    "family": "FCM_8O_bare",
+    "state": "O",
+    "reference_path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_O",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_O",
+    "machine": "genkai",
+    "energy_sigma0": -2135.51628836,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 138.0712,
+    "topology": {
+      "particle_O": 8,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.6540319504643684,
+        "signed_Mn_plane": -1.65402664383185,
+        "OH": null
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 8,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 0,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.949999999999999,
+        "signed_Mn_plane": -1.9499972579093325,
+        "OH": null
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 20,
+    "family": "FCM_8O_bare",
+    "state": "OH",
+    "reference_path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ch5_ORR_real_coverage_20261017/jobs/FCM_cov8O_OH",
+    "machine": "genkai",
+    "energy_sigma0": -2140.13246015,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 141.2332,
+    "topology": {
+      "particle_O": 8,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8694122993327138,
+        "signed_Mn_plane": -1.8688499671328562,
+        "OH": 0.9728268593974696
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 8,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 0,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.949999999999999,
+        "signed_Mn_plane": -1.9499972579093325,
+        "OH": 0.9730878685915276
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 21,
+    "family": "FCM_8O_axOH",
+    "state": "base",
+    "reference_path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/rich8O_joint_20261014/FCM_8O_MnOH",
+    "path": "/home/pj25000114/ku50002299/FCM_OH_symmetric_fromIMR_20261102/OH_outplane_MnMinus",
+    "machine": "genkai",
+    "energy_sigma0": -2140.15243322,
+    "delta_vs_reference": -0.004576040000301873,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": -3.0,
+    "Mn_local_moment": -3.184,
+    "particle_sum_moment": 132.92,
+    "total_moment": 133.8832,
+    "topology": {
+      "particle_O": 8,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 0
+    },
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8746010511398867,
+        "signed_Mn_plane": 1.8745327577474042,
+        "OH": 0.974190664810376
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 8,
+      "reactive_O": 1,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 1,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 0
+    },
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.877242172374712,
+        "signed_Mn_plane": 1.877239067458284,
+        "OH": 0.9738965818542478
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 22,
+    "family": "FCM_8O_axOH",
+    "state": "OOH",
+    "reference_path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OOH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OOH",
+    "machine": "genkai",
+    "energy_sigma0": -2154.81243475,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 138.0412,
+    "topology": {
+      "particle_O": 8,
+      "reactive_O": 3,
+      "OO": 1,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.872833372050425,
+        "signed_Mn_plane": 1.8716655813516994,
+        "OH": 0.9749815198533303
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.8948352157843715,
+        "signed_Mn_plane": -1.8917837935263453,
+        "OH": 1.8839505733470285
+      },
+      {
+        "atom": 249,
+        "Mn_O": 2.827818543439101,
+        "signed_Mn_plane": -2.544368806801783,
+        "OH": 0.9782525464675915
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 8,
+      "reactive_O": 3,
+      "OO": 1,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8772421723747095,
+        "signed_Mn_plane": 1.8772390674582813,
+        "OH": 0.9738965818542467
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.9500000000000004,
+        "signed_Mn_plane": -1.949996774743758,
+        "OH": 2.1116107595861506
+      },
+      {
+        "atom": 249,
+        "Mn_O": 2.7354158733179887,
+        "signed_Mn_plane": -2.3516009457467795,
+        "OH": 0.9689685237405796
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 23,
+    "family": "FCM_8O_axOH",
+    "state": "O",
+    "reference_path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_O",
+    "path": "/home/pj25000114/ku50002299/FCM_MnO_OHmag_fromIMR_20261102/FCM_bg8O_MnO_OH_magcheck",
+    "machine": "genkai",
+    "energy_sigma0": -2145.75154261,
+    "delta_vs_reference": -0.27602569999999105,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": -3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 135.8153,
+    "topology": {
+      "particle_O": 8,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.9077621757579741,
+        "signed_Mn_plane": 1.907328709069971,
+        "OH": 0.973412710374203
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.6011999563240014,
+        "signed_Mn_plane": -1.5949431540069252,
+        "OH": 3.969363200362773
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 8,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 1,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.9586706906025484,
+        "signed_Mn_plane": 1.9580192933545932,
+        "OH": 0.9733493675602118
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.6836030201295415,
+        "signed_Mn_plane": -1.6834119797175442,
+        "OH": 4.120893175800559
+      }
+    ],
+    "topology_changed_during_relax": false
+  },
+  {
+    "id": 24,
+    "family": "FCM_8O_axOH",
+    "state": "OH",
+    "reference_path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OH",
+    "path": "/home/pj25000114/ku50002299/FeCoMn_ORR_MnOHbackground_20261030/FCM_bg8O_MnOH_OH",
+    "machine": "genkai",
+    "energy_sigma0": -2150.55347134,
+    "delta_vs_reference": 0.0,
+    "eligible": true,
+    "reasons": [],
+    "initial_Mn": 3.0,
+    "Mn_local_moment": null,
+    "particle_sum_moment": null,
+    "total_moment": 139.9656,
+    "topology": {
+      "particle_O": 8,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8759458426154414,
+        "signed_Mn_plane": 1.875257950551194,
+        "OH": 0.9741727149851174
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.8673985801453614,
+        "signed_Mn_plane": -1.8655924835125641,
+        "OH": 0.9731682384287396
+      }
+    ],
+    "initial_topology": {
+      "particle_O": 8,
+      "reactive_O": 2,
+      "OO": 0,
+      "OH": 2,
+      "MnO": 2,
+      "ON": 0,
+      "positive_MnO": 1,
+      "negative_MnO": 1
+    },
+    "initial_geometry": [
+      {
+        "atom": 247,
+        "Mn_O": 1.8772421723747095,
+        "signed_Mn_plane": 1.8772390674582813,
+        "OH": 0.9738965818542467
+      },
+      {
+        "atom": 248,
+        "Mn_O": 1.9500000000000004,
+        "signed_Mn_plane": -1.949996774743758,
+        "OH": 0.9730878685915281
+      }
+    ],
+    "topology_changed_during_relax": false
+  }
+]

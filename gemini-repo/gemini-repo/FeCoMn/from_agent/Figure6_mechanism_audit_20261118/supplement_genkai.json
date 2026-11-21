@@ -1,0 +1,60 @@
+{
+  "base_Bader_path": "/home/pj25000114/ku50002299/FeCoMn_electronic_20261023/FCM_base_full/bader_format_test_v2_20261024/ACF.dat",
+  "base_Bader_count": 246,
+  "base_Mn_electrons": 11.631851,
+  "base_sum": 1280.999955000001,
+  "PDOS_schemas": [
+    {
+      "state": "base",
+      "keys": [
+        "name",
+        "fermi_eV",
+        "energy_relative_fermi_eV",
+        "element_pdos",
+        "metal_d_centers",
+        "d_center_window_eV"
+      ],
+      "Mn_d_center": null,
+      "window": null
+    },
+    {
+      "state": "OOH",
+      "keys": [
+        "name",
+        "fermi_eV",
+        "energy_relative_fermi_eV",
+        "element_pdos",
+        "metal_d_centers",
+        "d_center_window_eV"
+      ],
+      "Mn_d_center": null,
+      "window": null
+    },
+    {
+      "state": "O",
+      "keys": [
+        "name",
+        "fermi_eV",
+        "energy_relative_fermi_eV",
+        "element_pdos",
+        "metal_d_centers",
+        "d_center_window_eV"
+      ],
+      "Mn_d_center": null,
+      "window": null
+    },
+    {
+      "state": "OH",
+      "keys": [
+        "name",
+        "fermi_eV",
+        "energy_relative_fermi_eV",
+        "element_pdos",
+        "metal_d_centers",
+        "d_center_window_eV"
+      ],
+      "Mn_d_center": null,
+      "window": null
+    }
+  ]
+}

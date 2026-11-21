@@ -1,0 +1,3 @@
+# 交付哈希补充
+
+Git按仓库.gitattributes将文本换行统一为LF，因此先前工作副本SHA清单中以下文件与远端字节哈希不同：generate_Figure4_20261114_204757.py, REPORT.md。不涉及CSV、PNG、SVG或科学数据变化。以同目录DELIVERY_SHA256_GitBlobs_20261114_205143.json中直接从已提交Git blob计算的SHA256为跨端核对依据。旧文件按不可覆盖规则保留。

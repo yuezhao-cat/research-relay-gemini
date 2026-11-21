@@ -1,0 +1,62 @@
+[
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\电子结构后处理核查_20261031\\fig6_data\\COHPCAR_base.lobster",
+    "sha256": "2a66b60d3d934eff6ba0455e7613887d40291fb92a5a39e456f0dcb5db56175c",
+    "role": "raw axial COHP"
+  },
+  {
+    "path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\research-relay\\FeCoMn\\from_agent\\FeCoMn-T033\\MnNC_source_trace_20261118\\MnNC_axial_COHP_raw_verified_20261118.csv",
+    "sha256": "52d8ac80e0c44fe8560d3411257386c0c7672d9ef88600791d59a6ffe629d0c2",
+    "role": "verified MnNC axial total, original COHP static"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\单图汇总_journal_20261025\\10_计算_第三轮\\calc_COHP_FCM_OOH_journal_20261025.csv",
+    "sha256": "1801295483c122e4ec27e1bb141b8c5ced0b36344e2b872d70e298eb6c6a2250",
+    "role": "retained reaction-side COHP"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\单图汇总_journal_20261025\\10_计算_第三轮\\calc_COHP_FCM_OH_journal_20261025.csv",
+    "sha256": "e0abe072510dc28e698817e1a37ab659483affecb8c8fae98a8dea12f9dbef1d",
+    "role": "retained reaction-side COHP"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\单图汇总_journal_20261025\\10_计算_第三轮\\calc_COHP_MnNC_OOH_journal_20261025.csv",
+    "sha256": "601e92be17028a654f7139776bdf1fd1ce69d4bf9333634da4df730d83521eb5",
+    "role": "retained reaction-side COHP"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\单图汇总_journal_20261025\\10_计算_第三轮\\calc_COHP_MnNC_OH_journal_20261025.csv",
+    "sha256": "91a2f2be91155791e434837fcf48d44169ebd2c44a8432451fd7faa503d51ba1",
+    "role": "retained reaction-side COHP"
+  },
+  {
+    "path": "C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\research-relay\\FeCoMn\\review\\Fig6_Codex_data\\combined.json",
+    "sha256": "c223bf1050944d24360474bd348f57b4f3284f7c34bba840b67fdd830b4f65f0",
+    "role": "verified raw bond summary and source paths"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\单图汇总_journal_20261025\\92_电子结构统一原参考态_20261029\\atom_resolved_occupied_d_centers.csv",
+    "sha256": "6f3ca0b610930d29648fe03c2ab0f65a2d1e498597ca0538d736d01115ba9dee",
+    "role": "original background occupied d centers"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\单图汇总_journal_20261025\\10_计算_第三轮\\calc_Bader_contact_metal_change_journal_20261025.csv",
+    "sha256": "418c1d350e09a3d1fad893bf8d50b37beb958ccb494c14f98f88ac28f2d9729c",
+    "role": "original Mn Bader change"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\电子结构系统核对_20261029\\三样品九吸附态_统一口径对照.csv",
+    "sha256": "be405f6158ad9f3123ed702b81ece12032916da6e4a8d1b9306cabf9342c42e4",
+    "role": "original adsorbate electron excess"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\单图汇总_journal_20261025\\10_计算_第三轮\\calc_ORR_adsorption_free_energies_journal_20261025.csv",
+    "sha256": "ef53732bc89be683e681915bb82f80eaf306d785edf51840cbf8ff615d348c1f",
+    "role": "original volcano descriptors"
+  },
+  {
+    "path": "D:\\OneDrive\\Desktop\\知识库\\papers\\FeCoMn\\ACS_Catalysis_第三轮投稿\\单图汇总_journal_20261025\\10_计算_第三轮\\calc_ORR_limiting_potential_journal_20261025.csv",
+    "sha256": "1e56e52cd752909ff13e483773ebcd3924da2b41ae75f0519c09611b9b86aeb4",
+    "role": "original volcano descriptors"
+  }
+]

@@ -1,0 +1,81 @@
+REFERENCES
+
+(1) Debe, M. K. Electrocatalyst Approaches and Challenges for Automotive Fuel Cells. Nature 2012, 486, 43–51. DOI: 10.1038/nature11115.
+
+(2) Shao, M.; Chang, Q.; Dodelet, J.-P.; Chenitz, R. Recent Advances in Electrocatalysts for Oxygen Reduction Reaction. Chem. Rev. 2016, 116, 3594–3657. DOI: 10.1021/acs.chemrev.5b00462.
+
+(3) Zitolo, A.; Goellner, V.; Armel, V.; Sougrati, M.-T.; Mineva, T.; Stievano, L.; Fonda, E.; Jaouen, F. Identification of Catalytic Sites for Oxygen Reduction in Iron- and Nitrogen-Doped Graphene Materials. Nat. Mater. 2015, 14, 937–942. DOI: 10.1038/nmat4367.
+
+(4) Li, J.; Chen, M.; Cullen, D. A.; Hwang, S.; Wang, M.; Li, B.; Liu, K.; Karakalos, S.; Lucero, M.; Zhang, H.; Lei, C.; Xu, H.; Sterbinsky, G. E.; Feng, Z.; Su, D.; More, K. L.; Wang, G.; Wang, Z.; Wu, G. Atomically Dispersed Manganese Catalysts for Oxygen Reduction in Proton-Exchange Membrane Fuel Cells. Nat. Catal. 2018, 1, 935–945. DOI: 10.1038/s41929-018-0164-8.
+
+(5) Kulkarni, A.; Siahrostami, S.; Patel, A.; Nørskov, J. K. Understanding Catalytic Activity Trends in the Oxygen Reduction Reaction. Chem. Rev. 2018, 118, 2302–2312. DOI: 10.1021/acs.chemrev.7b00488.
+
+(6) Medford, A. J.; Vojvodic, A.; Hummelshøj, J. S.; Voss, J.; Abild-Pedersen, F.; Studt, F.; Bligaard, T.; Nilsson, A.; Nørskov, J. K. From the Sabatier Principle to a Predictive Theory of Transition-Metal Heterogeneous Catalysis. J. Catal. 2015, 328, 36–42. DOI: 10.1016/j.jcat.2014.12.033.
+
+(7) Jiang, W.-J.; Gu, L.; Li, L.; Zhang, Y.; Zhang, X.; Zhang, L.-J.; Wang, J.-Q.; Hu, J.-S.; Wei, Z.; Wan, L.-J. Understanding the High Activity of Fe–N–C Electrocatalysts in Oxygen Reduction: Fe/Fe₃C Nanoparticles Boost the Activity of Fe–N_(x). J. Am. Chem. Soc. 2016, 138, 3570–3578. DOI: 10.1021/jacs.6b00757.
+
+(8) Huang, H.; Yu, D.; Hu, F.; Huang, S.-C.; Song, J.; Chen, H.-Y.; Li, L. L.; Peng, S. Clusters Induced Electron Redistribution to Tune Oxygen Reduction Activity of Transition Metal Single-Atom for Metal–Air Batteries. Angew. Chem., Int. Ed. 2022, 61, e202116068. DOI: 10.1002/anie.202116068.
+
+(9) Wang, Y.; Tang, Y.-J.; Zhou, K. Self-Adjusting Activity Induced by Intrinsic Reaction Intermediate in Fe–N–C Single-Atom Catalysts. J. Am. Chem. Soc. 2019, 141, 14115–14119. DOI: 10.1021/jacs.9b07712.
+
+(10) Zhao, K.-M.; Wu, D.-X.; Wu, W.-K.; Nie, J.-B.; Geng, F.-S.; Li, G.; Shi, H.-Y.; Huang, S.-C.; Huang, H.; Zhang, J.; Zhou, Z.-Y.; Wang, Y.-C.; Sun, S.-G. Identifying High-Spin Hydroxyl-Coordinated Fe³⁺N₄ as the Active Centre for Acidic Oxygen Reduction Using Molecular Model Catalysts. Nat. Catal. 2025, 8, 422–435. DOI: 10.1038/s41929-025-01324-7.
+
+(11) Yang, W.; Jia, Z.; Chen, L.; Zhou, B.; Zhang, D.; Han, Y.; Gao, Z.; Li, H. Effects of Intermetal Distance on the Electrochemistry-Induced Surface Coverage of M–N–C Dual-Atom Catalysts. Chem. Commun. 2023, 59, 10761–10764. DOI: 10.1039/d3cc03208f.
+
+(12) Zhang, D.; She, F.; Chen, J.; Wei, L.; Li, H. Why Do Weak-Binding M–N–C Single-Atom Catalysts Possess Anomalously High Oxygen Reduction Activity? J. Am. Chem. Soc. 2025, 147, 6076–6086. DOI: 10.1021/jacs.4c16733.
+
+(13) Zhao, X.; Liu, X.; Huang, B.; Wang, P.; Pei, Y. Hydroxyl Group Modification Improves the Electrocatalytic ORR and OER Activity of Graphene Supported Single and Bi-Metal Atomic Catalysts (Ni, Co, and Fe). J. Mater. Chem. A 2019, 7, 24583–24593. DOI: 10.1039/c9ta08661g.
+
+(14) Zhang, L.; Jin, N.; Yang, Y.; Miao, X.-Y.; Wang, H.; Luo, J.; Han, L. Advances on Axial Coordination Design of Single-Atom Catalysts for Energy Electrocatalysis: A Review. Nano-Micro Lett. 2023, 15, 228. DOI: 10.1007/s40820-023-01196-1.
+
+(15) Nørskov, J. K.; Rossmeisl, J.; Logadottir, A.; Lindqvist, L.; Kitchin, J. R.; Bligaard, T.; Jónsson, H. Origin of the Overpotential for Oxygen Reduction at a Fuel-Cell Cathode. J. Phys. Chem. B 2004, 108, 17886–17892. DOI: 10.1021/jp047349j.
+
+(16) Hansen, H. A.; Rossmeisl, J.; Nørskov, J. K. Surface Pourbaix Diagrams and Oxygen Reduction Activity of Pt, Ag and Ni(111) Surfaces Studied by DFT. Phys. Chem. Chem. Phys. 2008, 10, 3722–3730. DOI: 10.1039/b803956a.
+
+(17) Zhao, Y.; Gao, Z.; Zhang, S.; Guan, X.; Xu, W.; Liang, Y.; Jiang, H.; Li, Z.; Wu, S.; Cui, Z.; Zhu, S. Asymmetric-Charge-Distributed Co–Mn Diatomic Catalyst Enables Efficient Oxygen Reduction Reaction. Adv. Funct. Mater. 2025, 35, 2504260. DOI: 10.1002/adfm.202504260.
+
+(18) Cai, H.; Zhang, G.; Zhang, X.; Chen, B.; Lu, Z.; Xu, H.; Gao, R.; Shi, C. Engineering the Local Coordination Environment and Density of FeN₄ Sites by Mn Cooperation for Electrocatalytic Oxygen Reduction. Small 2022, 18, 2200911. DOI: 10.1002/smll.202200911.
+
+(19) He, Y.; Yang, X.; Li, Y.; Liu, L.; Guo, S.; Shu, C.; Liu, F.; Liu, Y.; Tan, Q.; Wu, G. Atomically Dispersed Fe–Co Dual Metal Sites as Bifunctional Oxygen Electrocatalysts for Rechargeable and Flexible Zn–Air Batteries. ACS Catal. 2022, 12, 1216–1227. DOI: 10.1021/acscatal.1c04550.
+
+(20) Zhou, W.; Li, B.; Liu, X.; Jiang, J.; Bo, S.; Yang, C.; An, Q.; Zhang, Y.; Soldatov, M. A.; Wang, H.; Wei, S.; Liu, Q. In Situ Tuning of Platinum 5d Valence States for Four-Electron Oxygen Reduction. Nat. Commun. 2024, 15, 6650. DOI: 10.1038/s41467-024-51157-4.
+
+(21) Wu, Y.; Zhang, Y.; Lan, L.; Hu, T.; Tang, S.; Lützenkirchen-Hecht, D.; Yuan, K.; Chen, Y. Engineering Proton-Coupled Electron Transfer to Break Activity–Stability Trade-Off of Oxygen Electroreduction Catalysts for Temperature-Adaptive Zn–Air Battery. Angew. Chem., Int. Ed. 2025, 64, e202502019. DOI: 10.1002/anie.202502019.
+
+(22) Viswanathan, V.; Hansen, H. A.; Rossmeisl, J.; Nørskov, J. K. Universality in Oxygen Reduction Electrocatalysis on Metal Surfaces. ACS Catal. 2012, 2, 1654–1660. DOI: 10.1021/cs300227s.
+
+(23) Zhou, W.; Su, H.; Cheng, W.; Li, Y.; Jiang, J.; Liu, M.; Yu, F.; Wang, W.; Wei, S.; Liu, Q. Regulating the Scaling Relationship for High Catalytic Kinetics and Selectivity of the Oxygen Reduction Reaction. Nat. Commun. 2022, 13, 6414. DOI: 10.1038/s41467-022-34169-w.
+
+(24) Huang, B.; Gu, Q.; Tang, X.; Lützenkirchen-Hecht, D.; Yuan, K.; Chen, Y. Experimentally Validating Sabatier Plot by Molecular Level Microenvironment Customization for Oxygen Electroreduction. Nat. Commun. 2024, 15, 6077. DOI: 10.1038/s41467-024-50377-y.
+
+(25) Newville, M. Larch: An Analysis Package for XAFS and Related Spectroscopies. J. Phys.: Conf. Ser. 2013, 430, 012007. DOI: 10.1088/1742-6596/430/1/012007.
+
+(26) Funke, H.; Scheinost, A. C.; Chukalina, M. Wavelet Analysis of Extended X-ray Absorption Fine Structure Data. Phys. Rev. B 2005, 71, 094110. DOI: 10.1103/PhysRevB.71.094110.
+
+(27) Kresse, G.; Furthmüller, J. Efficient Iterative Schemes for Ab Initio Total-Energy Calculations Using a Plane-Wave Basis Set. Phys. Rev. B 1996, 54, 11169–11186. DOI: 10.1103/PhysRevB.54.11169.
+
+(28) Blöchl, P. E. Projector Augmented-Wave Method. Phys. Rev. B 1994, 50, 17953–17979. DOI: 10.1103/PhysRevB.50.17953.
+
+(29) Kresse, G.; Joubert, D. From Ultrasoft Pseudopotentials to the Projector Augmented-Wave Method. Phys. Rev. B 1999, 59, 1758–1775. DOI: 10.1103/PhysRevB.59.1758.
+
+(30) Perdew, J. P.; Burke, K.; Ernzerhof, M. Generalized Gradient Approximation Made Simple. Phys. Rev. Lett. 1996, 77, 3865–3868. DOI: 10.1103/PhysRevLett.77.3865.
+
+(31) Grimme, S.; Antony, J.; Ehrlich, S.; Krieg, H. A Consistent and Accurate Ab Initio Parametrization of Density Functional Dispersion Correction (DFT-D) for the 94 Elements H–Pu. J. Chem. Phys. 2010, 132, 154104. DOI: 10.1063/1.3382344.
+
+(32) Grimme, S.; Ehrlich, S.; Goerigk, L. Effect of the Damping Function in Dispersion Corrected Density Functional Theory. J. Comput. Chem. 2011, 32, 1456–1465. DOI: 10.1002/jcc.21759.
+
+(33) Henkelman, G.; Arnaldsson, A.; Jónsson, H. A Fast and Robust Algorithm for Bader Decomposition of Charge Density. Comput. Mater. Sci. 2006, 36, 354–360. DOI: 10.1016/j.commatsci.2005.04.010.
+
+(34) Tang, W.; Sanville, E.; Henkelman, G. A Grid-Based Bader Analysis Algorithm without Lattice Bias. J. Phys.: Condens. Matter 2009, 21, 084204. DOI: 10.1088/0953-8984/21/8/084204.
+
+(35) Dronskowski, R.; Blöchl, P. E. Crystal Orbital Hamilton Populations (COHP): Energy-Resolved Visualization of Chemical Bonding in Solids Based on Density-Functional Calculations. J. Phys. Chem. 1993, 97, 8617–8624. DOI: 10.1021/j100135a014.
+
+(36) Deringer, V. L.; Tchougréeff, A. L.; Dronskowski, R. Crystal Orbital Hamilton Population (COHP) Analysis As Projected from Plane-Wave Basis Sets. J. Phys. Chem. A 2011, 115, 5461–5466. DOI: 10.1021/jp202489s.
+
+(37) Maintz, S.; Deringer, V. L.; Tchougréeff, A. L.; Dronskowski, R. LOBSTER: A Tool to Extract Chemical Bonding from Plane-Wave Based DFT. J. Comput. Chem. 2016, 37, 1030–1035. DOI: 10.1002/jcc.24300.
+
+(38) Nelson, R.; Ertural, C.; George, J.; Deringer, V. L.; Hautier, G.; Dronskowski, R. LOBSTER: Local Orbital Projections, Atomic Charges, and Chemical-Bonding Analysis from Projector-Augmented-Wave-Based Density-Functional Theory. J. Comput. Chem. 2020, 41, 1931–1940. DOI: 10.1002/jcc.26353.
+
+TOC Graphic
+
+[]

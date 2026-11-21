@@ -1,0 +1,400 @@
+{
+  "data_arrays_SHA256": {
+    "RAW": "85036b1075466a8143238dba919cbf5086665c70aad2d5d87f20455439144c0c",
+    "REL": "f1cbe7f2079fd7db6275722171ae1a1c3662105d1f7b92fbae5e72dce615a14e",
+    "RAWs": "ee6a4732879640b2bc76724493ca3b1d81c17d583d1d3e45bf462d4750b9c8eb",
+    "RELs": "87c41ef0b6f76eedbd876383743b205b73e3ed7a6083708cfb6e69b2ccf6291b"
+  },
+  "arrays_equal_T008": true,
+  "arrays_equal_Claude_v3_baseline": true,
+  "raw_sha256": {
+    "0.2.CSV": "0c6c43ba1d957314e289387a57fb452eceae8c8585936dd76eb811cffc454c56",
+    "0.1.CSV": "a5bf646d5b0b55d23dbc20b0192b7c8a5c2107a7293ea92df840d31c5fe915bd",
+    "0.CSV": "ec78cac47fac4b35382df42b7ec2be4bbff4633592926d4bafd1802970f8c8c9",
+    "-0.1.CSV": "797f03a75ae4b235a8f2163594c48516dec243bb1045491bebe852cffb1735cb",
+    "-0.2.CSV": "77a98737191d3e4ae892f2ecde8b86fcf33357c6d428ae31e9916076f1bb819e",
+    "-0.3.CSV": "087204948344f32b789d1288ab1678d978930a06240fd5c50b54ac57a13426ac",
+    "-0.4.CSV": "323ba2c54062d87beea891eac43cf3e56ac41f7430ce02dc78b2e10aa8435cc9",
+    "-0.5.CSV": "9c52f7ece000d139f7cb0c5489aa71383fefc9e5b038bd61a74940c882affd86",
+    "-0.6.CSV": "789b236df9d365ced85d12776e3c59d7d4c5ce417a355371f24cfec54050fa5a",
+    "-0.7.CSV": "58078c5d1ed9697f18189803a48fa76d7693f8c9347b71162121f0ea6a1dc453",
+    "-0.8.CSV": "10f1d27dc21e8d5848c6db00458374f1c6f03af9b5360a7345f3ed51feefe3f1",
+    "-0.9.CSV": "558061c384f8223685d9eef73e37668760ff4db30a67a4a2d0196f90ecbcfefa",
+    "-11.CSV": "788d286975b700f81190975731d3e9c231c988b42d0e7e8c6b6d4846eddfd79f"
+  },
+  "reference_script_sha256": "6aed83caa00a6fa0e64a9b66dc08aa8dd1633518ec4a52b4f62fb7e82e229dbe",
+  "Claude_b_script_sha256": "0f079f9b22dd47b80806f5206195bb7b757286e0f0df10ee97911c0a627fd7d3",
+  "canvas_mm": [
+    177.8,
+    244
+  ],
+  "font": "Arial",
+  "font_pt": 8,
+  "letters_bold_pt": 10,
+  "heatmap_interpolation": "linear only between measured potential centers; 901 rows plus all original centers",
+  "regions_high_low": [
+    [
+      3650,
+      2750
+    ],
+    [
+      1720,
+      1570
+    ],
+    [
+      1330,
+      1175
+    ]
+  ],
+  "panel_width_ratios": [
+    430,
+    300,
+    430
+  ],
+  "variants": [
+    {
+      "name": "view1",
+      "elevation": 18,
+      "azimuth": -101,
+      "surface_absorbance_minmax": [
+        -0.017606716391921996,
+        0.015107722271401605
+      ],
+      "surface_color": "by absorbance, CMAP_E",
+      "surface_smoothing": "SG21 except H-O-H 1720–1570 SG41 to match b display",
+      "floor_projection": true,
+      "floor_z": -0.031606716391921995,
+      "stack_checks": [
+        {
+          "window": [
+            3650,
+            2750
+          ],
+          "scale_divisor": 4,
+          "SG_points": 21,
+          "SG_order": 2,
+          "offset_milli_scaled": 1.6,
+          "max_abs_difference_vs_Claude_v3": 0,
+          "plotted_minmax": [
+            -18.617304861342337,
+            13.643077925576971
+          ],
+          "axis_limits": [
+            -20.552927828557497,
+            19.449946827222448
+          ]
+        },
+        {
+          "window": [
+            1720,
+            1570
+          ],
+          "scale_divisor": 1,
+          "SG_points": 41,
+          "SG_order": 2,
+          "offset_milli_scaled": 1.6,
+          "max_abs_difference_vs_Claude_v3": 0,
+          "plotted_minmax": [
+            -17.288663368285587,
+            15.107722271401604
+          ],
+          "axis_limits": [
+            -19.232446506666818,
+            20.939071686545297
+          ]
+        },
+        {
+          "window": [
+            1330,
+            1175
+          ],
+          "scale_divisor": 1,
+          "SG_points": 21,
+          "SG_order": 2,
+          "offset_milli_scaled": 1.6,
+          "max_abs_difference_vs_Claude_v3": 0,
+          "plotted_minmax": [
+            -28.563891616376633,
+            -0.19657375971283253
+          ],
+          "axis_limits": [
+            -30.26593068777646,
+            4.909543454486651
+          ]
+        }
+      ],
+      "scale_bars": [
+        {
+          "window": [
+            3650,
+            2750
+          ],
+          "physical_scale_a_u": 0.01,
+          "drawn_y_scale_milli_div_sc": 2.5
+        },
+        {
+          "window": [
+            1720,
+            1570
+          ],
+          "physical_scale_a_u": 0.0025,
+          "drawn_y_scale_milli_div_sc": 2.5
+        },
+        {
+          "window": [
+            1330,
+            1175
+          ],
+          "physical_scale_a_u": 0.0025,
+          "drawn_y_scale_milli_div_sc": 2.5
+        }
+      ],
+      "lower_maps": [
+        {
+          "panel": "c",
+          "frame_mm": [
+            13.0,
+            180,
+            53.008620689655174,
+            54
+          ],
+          "window": [
+            3650,
+            2750
+          ],
+          "color_limits": [
+            -16,
+            16
+          ],
+          "display_E_grid_rows": 912,
+          "original_rows_max_error": 0.0,
+          "ylim": [
+            -0.08900000000000019,
+            1.2109999999999999
+          ],
+          "saturation_fraction": 0.0
+        },
+        {
+          "panel": "d",
+          "frame_mm": [
+            68.50862068965517,
+            180,
+            36.98275862068966,
+            54
+          ],
+          "window": [
+            1720,
+            1570
+          ],
+          "color_limits": [
+            -4,
+            4
+          ],
+          "display_E_grid_rows": 912,
+          "original_rows_max_error": 0.0,
+          "ylim": [
+            -0.08900000000000019,
+            1.2109999999999999
+          ],
+          "saturation_fraction": 0.023744744001978728
+        },
+        {
+          "panel": "e",
+          "frame_mm": [
+            107.99137931034483,
+            180,
+            53.008620689655174,
+            54
+          ],
+          "window": [
+            1330,
+            1175
+          ],
+          "color_limits": [
+            -10,
+            10
+          ],
+          "display_E_grid_rows": 912,
+          "original_rows_max_error": 0.0,
+          "ylim": [
+            -0.08900000000000019,
+            1.2109999999999999
+          ],
+          "saturation_fraction": 0.003834172058471124
+        }
+      ]
+    },
+    {
+      "name": "view2",
+      "elevation": 29,
+      "azimuth": -104,
+      "surface_absorbance_minmax": [
+        -0.017606716391921996,
+        0.015107722271401605
+      ],
+      "surface_color": "by absorbance, CMAP_E",
+      "surface_smoothing": "SG21 except H-O-H 1720–1570 SG41 to match b display",
+      "floor_projection": true,
+      "floor_z": -0.031606716391921995,
+      "stack_checks": [
+        {
+          "window": [
+            3650,
+            2750
+          ],
+          "scale_divisor": 4,
+          "SG_points": 21,
+          "SG_order": 2,
+          "offset_milli_scaled": 1.6,
+          "max_abs_difference_vs_Claude_v3": 0,
+          "plotted_minmax": [
+            -18.617304861342337,
+            13.643077925576971
+          ],
+          "axis_limits": [
+            -20.552927828557497,
+            19.449946827222448
+          ]
+        },
+        {
+          "window": [
+            1720,
+            1570
+          ],
+          "scale_divisor": 1,
+          "SG_points": 41,
+          "SG_order": 2,
+          "offset_milli_scaled": 1.6,
+          "max_abs_difference_vs_Claude_v3": 0,
+          "plotted_minmax": [
+            -17.288663368285587,
+            15.107722271401604
+          ],
+          "axis_limits": [
+            -19.232446506666818,
+            20.939071686545297
+          ]
+        },
+        {
+          "window": [
+            1330,
+            1175
+          ],
+          "scale_divisor": 1,
+          "SG_points": 21,
+          "SG_order": 2,
+          "offset_milli_scaled": 1.6,
+          "max_abs_difference_vs_Claude_v3": 0,
+          "plotted_minmax": [
+            -28.563891616376633,
+            -0.19657375971283253
+          ],
+          "axis_limits": [
+            -30.26593068777646,
+            4.909543454486651
+          ]
+        }
+      ],
+      "scale_bars": [
+        {
+          "window": [
+            3650,
+            2750
+          ],
+          "physical_scale_a_u": 0.01,
+          "drawn_y_scale_milli_div_sc": 2.5
+        },
+        {
+          "window": [
+            1720,
+            1570
+          ],
+          "physical_scale_a_u": 0.0025,
+          "drawn_y_scale_milli_div_sc": 2.5
+        },
+        {
+          "window": [
+            1330,
+            1175
+          ],
+          "physical_scale_a_u": 0.0025,
+          "drawn_y_scale_milli_div_sc": 2.5
+        }
+      ],
+      "lower_maps": [
+        {
+          "panel": "c",
+          "frame_mm": [
+            13.0,
+            180,
+            53.008620689655174,
+            54
+          ],
+          "window": [
+            3650,
+            2750
+          ],
+          "color_limits": [
+            -16,
+            16
+          ],
+          "display_E_grid_rows": 912,
+          "original_rows_max_error": 0.0,
+          "ylim": [
+            -0.08900000000000019,
+            1.2109999999999999
+          ],
+          "saturation_fraction": 0.0
+        },
+        {
+          "panel": "d",
+          "frame_mm": [
+            68.50862068965517,
+            180,
+            36.98275862068966,
+            54
+          ],
+          "window": [
+            1720,
+            1570
+          ],
+          "color_limits": [
+            -4,
+            4
+          ],
+          "display_E_grid_rows": 912,
+          "original_rows_max_error": 0.0,
+          "ylim": [
+            -0.08900000000000019,
+            1.2109999999999999
+          ],
+          "saturation_fraction": 0.023744744001978728
+        },
+        {
+          "panel": "e",
+          "frame_mm": [
+            107.99137931034483,
+            180,
+            53.008620689655174,
+            54
+          ],
+          "window": [
+            1330,
+            1175
+          ],
+          "color_limits": [
+            -10,
+            10
+          ],
+          "display_E_grid_rows": 912,
+          "original_rows_max_error": 0.0,
+          "ylim": [
+            -0.08900000000000019,
+            1.2109999999999999
+          ],
+          "saturation_fraction": 0.003834172058471124
+        }
+      ]
+    }
+  ]
+}

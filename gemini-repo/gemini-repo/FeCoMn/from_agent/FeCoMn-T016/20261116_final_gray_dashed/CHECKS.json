@@ -1,0 +1,35 @@
+{
+  "editable": {
+    "unique_ids": 505,
+    "unresolved_refs": 0,
+    "text_elements": 201,
+    "size_bytes": 5192964
+  },
+  "Arial_paths": {
+    "unique_ids": 604,
+    "unresolved_refs": 0,
+    "text_elements": 0,
+    "size_bytes": 5250019
+  },
+  "raster": {
+    "dpi": 600,
+    "pixels": [
+      4200,
+      5032
+    ],
+    "renderer": "resvg-py"
+  },
+  "c_offset_pt": 501.669291339,
+  "Greek_nu_U03BD_in_ab": true,
+  "gray_border": {
+    "color": "#808080",
+    "width_pt": 0.6,
+    "dash_pt": [
+      3,
+      2.5
+    ]
+  },
+  "b_height_mm": 54,
+  "b_gaps_mm": 4,
+  "OOH_window_left_cm-1": 1300
+}

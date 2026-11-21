@@ -1,0 +1,216 @@
+﻿row_id,catalyst_id,Formula,Elements,metals,metalloids,metal_uncertain_reason,doi_std
+12,CAT0010,0%-Fe-N/C,Fe,,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual; explicit zero Fe in Formula; source Fe Elements not treated as active Fe",10.1016/j.cclet.2022.02.041
+19,CAT0017,B-N-GNRs,"B,N",,B,"metalloid listed separately, not a metal",10.1088/2053-1591/ac9fae
+20,CAT0018,B-GNRs,"B,N",,B,"metalloid listed separately, not a metal",10.1088/2053-1591/ac9fae
+21,CAT0019,N-GNRs,"B,N",,B,"metalloid listed separately, not a metal",10.1088/2053-1591/ac9fae
+22,CAT0020,BN-GNRs,"B,N",,B,"metalloid listed separately, not a metal",10.1088/2053-1591/ac9fae
+23,CAT0020,BN-GNRs,"B,N",,B,"metalloid listed separately, not a metal",10.1088/2053-1591/ac9fae
+24,CAT0020,BN-GNRs,"B,N",,B,"metalloid listed separately, not a metal",10.1088/2053-1591/ac9fae
+25,CAT0020,BN-GNRs,"B,N",,B,"metalloid listed separately, not a metal",10.1088/2053-1591/ac9fae
+26,CAT0020,BN-GNRs,"B,N",,B,"metalloid listed separately, not a metal",10.1088/2053-1591/ac9fae
+47,CAT0033,Vo-CeO2-NC,"V,Ce",Ce-V,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsaem.1c00869
+89,CAT0059,MIL-88-850,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12080806
+101,CAT0068,N-Go,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1149/1945-7111/ac49cd
+144,CAT0079,ZIF700,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+145,CAT0080,ZIF800,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+146,CAT0080,ZIF800,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+147,CAT0080,ZIF800,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+148,CAT0080,ZIF800,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+149,CAT0080,ZIF800,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+150,CAT0080,ZIF800,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+151,CAT0080,ZIF800,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+152,CAT0081,ZIF900,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+153,CAT0082,ZIF1000,Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/sym14122496
+171,CAT0091,CSPP 1005,"Sn,Pd",Pd-Sn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12111411
+172,CAT0092,CSPP 1010,"Sn,Pd",Pd-Sn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12111411
+173,CAT0093,CSPP 1020,"Sn,Pd",Pd-Sn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12111411
+175,CAT0095,CO/NC S-1,Co,Co,,reviewed capitalization alias CO/NC S-1,10.3390/nanol12244369
+176,CAT0096,CO/NC S-2,Co,Co,,reviewed capitalization alias CO/NC S-2,10.3390/nanol12244369
+177,CAT0097,CO/NC S-3,Co,Co,,reviewed capitalization alias CO/NC S-3,10.3390/nanol12244369
+178,CAT0097,CO/NC S-3,Co,Co,,reviewed capitalization alias CO/NC S-3,10.3390/nanol12244369
+179,CAT0097,CO/NC S-3,Co,Co,,reviewed capitalization alias CO/NC S-3,10.3390/nanol12244369
+180,CAT0097,CO/NC S-3,Co,Co,,reviewed capitalization alias CO/NC S-3,10.3390/nanol12244369
+181,CAT0097,CO/NC S-3,Co,Co,,reviewed capitalization alias CO/NC S-3,10.3390/nanol12244369
+182,CAT0097,CO/NC S-3,Co,Co,,reviewed capitalization alias CO/NC S-3,10.3390/nanol12244369
+183,CAT0098,CO/NC S-4,Co,Co,,reviewed capitalization alias CO/NC S-4,10.3390/nanol12244369
+268,CAT0121,Ni0Co4-CNR,"Ni,Co",Co-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsaem.1c01967
+272,CAT0125,Ni4Co0-CNR,"Ni,Co",Co-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsaem.1c01967
+279,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+280,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+281,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+282,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+283,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+284,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+285,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+286,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+287,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+288,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+289,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+290,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+291,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+292,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+293,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+294,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+295,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+296,CAT0126,PPG,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s11581-021-04020-1
+300,CAT0130,Ni3Fe/N-C,Fe,Fe-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.carbon.2020.12.053
+312,CAT0133,ZIF-NC,Zn,Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.jmst.2020.11.061
+322,CAT0139,NixCo1-x@NixCo1-xO/NCN,"Ni,Co",Co-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsami.3c01947
+323,CAT0140,NixCo1-x@NixCo2-xO/NCN,"Ni,Co",Co-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsami.3c01947
+324,CAT0141,NixCo1-x@NixCo3-xO/NCN,"Ni,Co",Co-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsami.3c01947
+325,CAT0142,NixCo1-x@NixCo4-xO/NCN,"Ni,Co",Co-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsami.3c01947
+326,CAT0143,NixCo1-x@NixCo5-xO/NCN,"Ni,Co",Co-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsami.3c01947
+327,CAT0144,NixCo1-x@NixCo6-xO/NCN,"Ni,Co",Co-Ni,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsami.3c01947
+347,CAT0159,D-MN4-CNF,"Fe,Co",Co-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.1002/celc.202300131
+348,CAT0160,D-MN4-CNF-A,"Fe,Co",Co-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.1002/celc.202300131
+349,CAT0161,D-MN4-CNF-IL,"Fe,Co",Co-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.1002/celc.202300131
+350,CAT0162,D-MN4-CNF-IL-A,"Fe,Co",Co-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.1002/celc.202300131
+351,CAT0163,MN4-CNF-A,"Fe,Co",Co-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.1002/celc.202300131
+352,CAT0164,MN4-CNF-IL-A,"Fe,Co",Co-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.1002/celc.202300131
+358,CAT0170,0 Fe,Fe,,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual; explicit zero Fe in Formula; source Fe Elements not treated as active Fe; no confirmed metal; coded/precursor formula cannot prove metal-free",doi.org/10.1002/celc.202201115
+373,CAT0175,P-NC,Fe,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal13050824
+375,CAT0177,ZIF67-600,Zn,Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+376,CAT0178,MoC/ Co-N - C-500,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+377,CAT0179,MoC/ Co-N - C-700,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+378,CAT0180,MoC/ Co-N - C-600,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+379,CAT0180,MoC/ Co-N - C-600,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+380,CAT0180,MoC/ Co-N - C-600,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+381,CAT0180,MoC/ Co-N - C-600,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+382,CAT0180,MoC/ Co-N - C-600,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+383,CAT0180,MoC/ Co-N - C-600,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+384,CAT0180,MoC/ Co-N - C-600,Co,Co-Mo,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.gee.2021.05.008
+389,CAT0185,P2W17Fe@GF_N8,Fe,Fe-W,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/inorganics11100388
+390,CAT0186,P2W17Fe@MWCNT_N8,Fe,Fe-W,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/inorganics11100388
+466,CAT0211,Ag-MnxOy/rGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+467,CAT0211,Ag-MnxOy/rGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+468,CAT0211,Ag-MnxOy/rGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+469,CAT0211,Ag-MnxOy/rGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+470,CAT0211,Ag-MnxOy/rGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+471,CAT0211,Ag-MnxOy/rGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+472,CAT0212,Ag-MnxOy/NGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+473,CAT0212,Ag-MnxOy/NGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+474,CAT0212,Ag-MnxOy/NGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+475,CAT0212,Ag-MnxOy/NGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+476,CAT0212,Ag-MnxOy/NGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+477,CAT0212,Ag-MnxOy/NGO,"Mn,Ag",Ag-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12070780
+490,CAT0215,MOF-74-H-650,"Mn,Fe,Co,Ni,Cu,Zn",Co-Cu-Fe-Mn-Ni-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.coco.2021.100866
+491,CAT0215,MOF-74-H-650,"Mn,Fe,Co,Ni,Cu,Zn",Co-Cu-Fe-Mn-Ni-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.coco.2021.100866
+492,CAT0215,MOF-74-H-650,"Mn,Fe,Co,Ni,Cu,Zn",Co-Cu-Fe-Mn-Ni-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.coco.2021.100866
+493,CAT0215,MOF-74-H-650,"Mn,Fe,Co,Ni,Cu,Zn",Co-Cu-Fe-Mn-Ni-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.coco.2021.100866
+494,CAT0215,MOF-74-H-650,"Mn,Fe,Co,Ni,Cu,Zn",Co-Cu-Fe-Mn-Ni-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.coco.2021.100866
+495,CAT0215,MOF-74-H-650,"Mn,Fe,Co,Ni,Cu,Zn",Co-Cu-Fe-Mn-Ni-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.coco.2021.100866
+509,CAT0224,cno - cell - h,,,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1039/d0qi01089h
+510,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+511,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+512,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+513,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+514,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+515,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+516,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+517,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+518,CAT0226,MOF-700,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+519,CAT0225,MOF-800,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+520,CAT0227,MOF-900,"O,F",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1051/e3sconf/202124503017
+600,CAT0249,CuCop-NC-700,"Cu,Co",Co-Cu,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acs.energyfuels.1c00275
+601,CAT0250,CuCop-NC-600,"Cu,Co",Co-Cu,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acs.energyfuels.1c00275
+602,CAT0251,CuCop-NC-800,"Cu,Co",Co-Cu,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acs.energyfuels.1c00275
+607,CAT0256,MWCNT-Ag 10% Pd 10%,Ag,Ag-Pd,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en16031526
+608,CAT0257,MNNC-2(700℃),Ag,Ag,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.3390/inorganics11030101
+609,CAT0258,MNNC-2(800℃),Ag,Ag,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.3390/inorganics11030101
+610,CAT0259,MNNC-2(900℃),Ag,Ag,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.3390/inorganics11030101
+611,CAT0260,MNNC-1,Ag,Ag,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.3390/inorganics11030101
+612,CAT0261,MNNC-3,Ag,Ag,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",doi.org/10.3390/inorganics11030101
+613,CAT0262,ELC-1-900,"I,N",,,no confirmed metal; coded/precursor formula cannot prove metal-free,doi.org/10.3390/ma16247614
+614,CAT0263,ELC-2-900,"I,N",,,no confirmed metal; coded/precursor formula cannot prove metal-free,doi.org/10.3390/ma16247614
+615,CAT0264,ELC-4-900,"I,N",,,no confirmed metal; coded/precursor formula cannot prove metal-free,doi.org/10.3390/ma16247614
+616,CAT0265,ELC-1-800,"I,N",,,no confirmed metal; coded/precursor formula cannot prove metal-free,doi.org/10.3390/ma16247614
+617,CAT0266,ELC-1-1000,"I,N",,,no confirmed metal; coded/precursor formula cannot prove metal-free,doi.org/10.3390/ma16247614
+618,CAT0267,ELC-900,C,,,no confirmed metal; coded/precursor formula cannot prove metal-free,doi.org/10.3390/ma16247614
+670,CAT0287,NB-CNF-800,"N,B,C,F",,B,"metalloid listed separately, not a metal",10.1016/j.apcatb.2021.119888
+692,CAT0301, BN-C,"N,B,C,O",,B,"metalloid listed separately, not a metal",10.1021/jacs.8b02798
+694,CAT0303,NHC (NH3-activated N-doped hierarchical carbon),"N,C,Fe",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s12274-016-1347-8
+695,CAT0304,HS/Sb-N-C,"Sb,S,N,O,C",,Sb,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1002/adma.202402963
+721,CAT0317,Sb-N/C,"Sb,N,C",,Sb,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1021/acscatal.3c00356
+722,CAT0317,Sb-N/C,"Sb,N,C",,Sb,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1021/acscatal.3c00356
+723,CAT0317,Sb-N/C,"Sb,N,C",,Sb,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1021/acscatal.3c00356
+751,CAT0333,Pt/C,"Cu,N",Cu-Pt,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/cey2.194
+752,CAT0334,Sb NPs,Sb,,Sb,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1002/cey2.194
+766,CAT0346,ShxZnyC,"Fe,Zn,C,N",Fe-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.nanoms.2021.05.008
+828,CAT0387,SbSA–N–C,"Sb,N,C,O",,Sb,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1021/acs.nanolett.4c00808
+885,CAT0431,SCN-@ZIF-8,"S,C,N",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1088/1361-6528/abaf84
+886,CAT0432,Fe@ZIF-8,,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1088/1361-6528/abaf84
+939,CAT0467,CoNC-H2-360,"Fe,N,C",Co-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202404766
+940,CAT0467,CoNC-H2-360,"Fe,N,C",Co-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202404766
+943,CAT0468,MnNC-H2-360,"Cu,N,C",Cu-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202404766
+944,CAT0468,MnNC-H2-360,"Cu,N,C",Cu-Mn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202404766
+945,CAT0469,NINC-H2-360,"Ni,N,C",Ni,,reviewed capitalization alias NINC-H2-360,10.1002/anie.202404766
+946,CAT0469,NINC-H2-360,"Ni,N,C",Ni,,reviewed capitalization alias NINC-H2-360,10.1002/anie.202404766
+960,CAT0477,Fe-N/O-C,"Pt, C",Fe-Pt,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202405334
+961,CAT0478,Fe-N-C,"Pt, C",Fe-Pt,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202405334
+969,CAT0482,s-CN,"Fe,C,N",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1039/d1ee01602d
+975,CAT0485,SiO2@CS2,"Pt, C",Pt,Si,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.carbon.2023.118192
+976,CAT0486,SiO2@CS4.5,"Si,O,C,S",,Si,"metalloid listed separately, not a metal",10.1016/j.carbon.2023.118192
+977,CAT0487,SiO2@CS7,"Si,O,C,S",,Si,"metalloid listed separately, not a metal",10.1016/j.carbon.2023.118192
+989,CAT0498,N-C,0.5wt%Cu-N-C,Cu,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/jacs.1c03788
+998,CAT0507,FBNCΔ(1:6)-950 ,"F,B,N,C",,B,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1016/j.carbon.2024.119125
+999,CAT0508,BNCΔ(1:6)-950 ,"B,N,C",,B,"metalloid listed separately, not a metal",10.1016/j.carbon.2024.119125
+1003,CAT0512,FBNCΔ(1:6)-900,"F,B,N,C",,B,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1016/j.carbon.2024.119125
+1004,CAT0513,FBNCΔ(1:6)-1000,"F,B,N,C",,B,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1016/j.carbon.2024.119125
+1005,CAT0514,FeSA/N-PHLC,,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/adfm.202401484
+1006,CAT0515,"FeSA/N,S-PHLC",,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/adfm.202401484
+1009,CAT0515,"FeSA/N,S-PHLC",,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/adfm.202401484
+1010,CAT0514,FeSA/N-PHLC,,Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/adfm.202401484
+1011,CAT0517,FC,C,,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1002/aenm.202401008
+1012,CAT0518,FMC,"N,C",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1002/aenm.202401008
+1013,CAT0519,dFMC,"N,C",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1002/aenm.202401008
+1014,CAT0520,FCMC,"N,C",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1002/aenm.202401008
+1015,CAT0521,dFCMC,"N,C",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1002/aenm.202401008
+1096,CAT0588,Co@DMOF-700,"Pt,C",Co-Pt,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1097,CAT0589,Co@DMOF-800,"Co,Zn,C,O,N,H",Co-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1098,CAT0590,Co@DMOF-900,"Co,Zn,C,O,N,H",Co-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1099,CAT0591,Co@DMOF-1000,"Co,Zn,C,O,N,H",Co-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1100,CAT0592,DMOF-900,"Zn,C,O,N,H",Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1101,CAT0593,Co@ZIF-8-900,"Zn,C,O,N,H",Co-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1102,CAT0594,ZIF-8-900,"Zn,C,O,N,H",Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1103,CAT0595,Co@MOF-5-900,"Co,Zn,C,O,H",Co-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1104,CAT0596,Co@IRMOF-3-900,"Co,Zn,C,O,H",Co-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/anie.202107053
+1105,CAT0597,IRMOF-3-900,"C,O,H",,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1002/anie.202107053
+1130,CAT0621,MC,C,,,no confirmed metal; coded/precursor formula cannot prove metal-free,10.1021/acsanm.3c06119
+1162,CAT0645,CF-O-10 h,"Zn,O",Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.surfin.2024.105310
+1165,CAT0648,Co - WₓC,"Co , W",Co-W,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",unpublished
+1183,CAT0660,SA/OCNTs,Sn,Sn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1021/acsnano.4c04112
+1306,CAT0737,MWCNT-CuPc,"N,C",Cu,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/catal12091013
+1307,CAT0738,MWCNT-CUPc-Pd,"N,C,Cu,Pd",Cu-Pd,,reviewed capitalization alias MWCNT-CUPc-Pd,10.3390/catal12091013
+1308,CAT0739,MWCNT-CoPc,"N,C,Cu,Pd,Pc",Co-Cu-Pd,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual; non-element abbreviation in Elements; ignored as element",10.3390/catal12091013
+1309,CAT0740,MWCNT-CoPc-Pd,"N,C,Cu,Pd,Pc",Co-Cu-Pd,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual; non-element abbreviation in Elements; ignored as element",10.3390/catal12091013
+1310,CAT0741,UDD-CoPC-Pd,"C,Pd,Co,Pc",Co-Pd,,reviewed capitalization alias UDD-CoPC-Pd; non-element abbreviation in Elements; ignored as element,10.3390/catal12091013
+1311,CAT0742,GO-CuPc-Pd,"C,Pd,Co,Pc",Co-Cu-Pd,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual; non-element abbreviation in Elements; ignored as element",10.3390/catal12091013
+1312,CAT0743,GO-CoPc-Pd,"C,Pd,Co,Pc",Co-Pd,,non-element abbreviation in Elements; ignored as element,10.3390/catal12091013
+1315,CAT0744,UDD-CoPc-Pd,"C,Pc,Co,Pd",Co-Pd,,non-element abbreviation in Elements; ignored as element,10.3390/catal12091013
+1316,CAT0745,MWCNT-CuPC-Pd,"C,Pc,Cu,Pd",Cu-Pd,,reviewed capitalization alias MWCNT-CuPC-Pd; non-element abbreviation in Elements; ignored as element,10.3390/catal12091013
+1317,CAT0746,MWCNTI-CoPC-Pd,"C,Pc,Co,Pd",Co-Pd,,reviewed capitalization alias MWCNTI-CoPC-Pd; non-element abbreviation in Elements; ignored as element,10.3390/catal12091013
+1326,CAT0754,MIL-N-CNFs-1-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1327,CAT0755,MIL-N-CNFs-1.5-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1328,CAT0756,MIL-N-CNFs-2-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1329,CAT0757,MIL-N-CNFs-2.5-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1330,CAT0758,N-CNFs-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1331,CAT0759,MIL-NC-1.5-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1332,CAT0760,MIL-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1333,CAT0755,MIL-N-CNFs-1.5-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1334,CAT0761,MIL-N-CNFs-1.5-800-Acid,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1335,CAT0762,MIL-N-CNFS-2-700,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1336,CAT0763,MIL-N-CNFS-2-800,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1337,CAT0764,MIL-N-CNFs-2-900,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1338,CAT0765,MIL-N-CNFs-2-1000,"Fe,N,C",Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.3390/en15114029
+1341,CAT0768,y-Cu/NC,"Fe,N,C",Cu-Fe,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1007/s12274-024-6766-3
+1352,CAT0779,Cenc-M-0.6,Ce,Ce,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1002/aenm.202404689
+1421,CAT0843,FePc/Eu2O3,"Fe,Pc,Eu,O",Eu-Fe,,non-element abbreviation in Elements; ignored as element,10.1002/adfm.202425138
+1422,CAT0844,FePc,"Fe,Pc",Fe,,non-element abbreviation in Elements; ignored as element,10.1002/adfm.202425138
+1427,CAT0849,N-G/MOF,"C,N,O,Zn",Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.carbon.2024.119816
+1439,CAT0857,Pt/C,NA,Pt,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",unpublished
+1440,CAT0857,Pt/C,NA,Pt,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",unpublished
+1441,CAT0857,Pt/C,NA,Pt,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",unpublished
+1462,CAT0876,Ge-hG,"Ge, C",,Ge,"no confirmed metal; coded/precursor formula cannot prove metal-free; metalloid listed separately, not a metal",10.1002/cphc.202500167
+1465,CAT0879,"TM@g-ZnO/In₂Se₃（TM is a transition metal, including 3D, 4D, 5D group elements, such as Pt, Ni, PD, Co, SC, y, etc）",NA,Co-In-Ni-Pt-Zn,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual; generic TM list; composition not a unique catalyst",10.1016/j.jcis.2025.138359
+1480,CAT0891,SmPO4@PN/C,"P,O",Sm,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1016/j.jcis.2025.137921
+1481,CAT0892,co(mIm)–NC(1.0),Co,Co,,"Elements/Formula metal sets differ; union retained, possible template/precursor residual",10.1038/s41929-020-00546-1

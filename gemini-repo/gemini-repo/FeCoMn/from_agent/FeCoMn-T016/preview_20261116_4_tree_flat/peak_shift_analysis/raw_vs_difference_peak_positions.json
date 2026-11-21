@@ -1,0 +1,38 @@
+[
+  {
+    "E_RHE": 0.516,
+    "raw_absorbance_peak_cm-1": 1230.362,
+    "baseline_corrected_peak_cm-1": 1230.362,
+    "difference_peak_cm-1": 1213.488
+  },
+  {
+    "E_RHE": 0.416,
+    "raw_absorbance_peak_cm-1": 1230.362,
+    "baseline_corrected_peak_cm-1": 1230.362,
+    "difference_peak_cm-1": 1213.97
+  },
+  {
+    "E_RHE": 0.316,
+    "raw_absorbance_peak_cm-1": 1230.844,
+    "baseline_corrected_peak_cm-1": 1230.844,
+    "difference_peak_cm-1": 1215.898
+  },
+  {
+    "E_RHE": 0.216,
+    "raw_absorbance_peak_cm-1": 1230.844,
+    "baseline_corrected_peak_cm-1": 1230.844,
+    "difference_peak_cm-1": 1216.863
+  },
+  {
+    "E_RHE": 0.116,
+    "raw_absorbance_peak_cm-1": 1231.326,
+    "baseline_corrected_peak_cm-1": 1231.326,
+    "difference_peak_cm-1": 1217.827
+  },
+  {
+    "E_RHE": 0.016,
+    "raw_absorbance_peak_cm-1": 1231.326,
+    "baseline_corrected_peak_cm-1": 1231.326,
+    "difference_peak_cm-1": 1219.273
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_clean",
+    "family": "MnNC_bare",
+    "state": "base",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1661.25027287,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 3.0306,
+    "INCAR": "SYSTEM  = S_MnNC_clean\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9154141428044162,
+      1.9154151196370608,
+      1.915439480973796,
+      1.915474721792591
+    ],
+    "Mn_N_mean_A": 1.915435866301966,
+    "Mn_height_signed_A": -0.007068916345353889,
+    "local_z_angle_deg": 0.0009395219410925551,
+    "nearby_O": [],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH",
+    "family": "MnNC_bare",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1676.11661481,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 2.1637,
+    "INCAR": "SYSTEM  = MnNC_OOH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0 2*0.5 1*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.920890143771457,
+      1.9218228103732131,
+      1.9430634092950416,
+      1.9436267217915113
+    ],
+    "Mn_N_mean_A": 1.9323507713078056,
+    "Mn_height_signed_A": 0.28354447253963244,
+    "local_z_angle_deg": 0.9083031300766505,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.813685793181339,
+        "height_relative_Mn_A": 1.8098751289363262,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O",
+    "family": "MnNC_bare",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1667.38075636,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": -2.2422,
+    "INCAR": "SYSTEM  = MnNC_O\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0 1*0.5\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9612034750871323,
+      1.961236437253273,
+      1.9634165484515846,
+      1.9634609427689553
+    ],
+    "Mn_N_mean_A": 1.9623293508902364,
+    "Mn_height_signed_A": 0.3811974180021948,
+    "local_z_angle_deg": 0.169672002364611,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.654940807902405,
+        "height_relative_Mn_A": 1.6547023851719251,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH",
+    "family": "MnNC_bare",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1,
+      "H": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1671.92040106,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 3.6519,
+    "INCAR": "SYSTEM  = MnNC_OH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0 1*0.5 1*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9645303681381676,
+      1.966400764694084,
+      1.968285816374111,
+      1.970659865599439
+    ],
+    "Mn_N_mean_A": 1.9674692037014503,
+    "Mn_height_signed_A": 0.42389895362980756,
+    "local_z_angle_deg": 0.29066072978136587,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.8788240141984345,
+        "height_relative_Mn_A": 1.8776057915136726,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH",
+    "family": "MnNC_OH",
+    "state": "base",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 1,
+      "H": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1671.92040106,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 3.6519,
+    "INCAR": "SYSTEM  = MnNC_OH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0 1*0.5 1*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9645303681381676,
+      1.966400764694084,
+      1.968285816374111,
+      1.970659865599439
+    ],
+    "Mn_N_mean_A": 1.9674692037014503,
+    "Mn_height_signed_A": 0.42389895362980756,
+    "local_z_angle_deg": 0.29066072978136587,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.8788240141984345,
+        "height_relative_Mn_A": 1.8776057915136726,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OOH_OHb",
+    "family": "MnNC_OH",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 3,
+      "H": 2
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1686.69437219,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 2.1885,
+    "INCAR": "SYSTEM  = MnNC_OOH_OHb\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0 3*0.5 2*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.941351416565494,
+      1.942552268432248,
+      1.9429185588381226,
+      1.9495740456992667
+    ],
+    "Mn_N_mean_A": 1.944099072383783,
+    "Mn_height_signed_A": -0.019750639546926362,
+    "local_z_angle_deg": 1.9254158232144973,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.8956802147930072,
+        "height_relative_Mn_A": 1.8869245356688162,
+        "moment": null
+      },
+      {
+        "index": 182,
+        "distance_A": 1.8672167507131385,
+        "height_relative_Mn_A": -1.8659563710199931,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_O_OH",
+    "family": "MnNC_OH",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1677.57830354,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 0.6895,
+    "INCAR": "SYSTEM  = MnNC_O_OH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0 2*0.5 1*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9220124762512836,
+      1.9381726190735757,
+      1.9683410011102964,
+      1.969067049669592
+    ],
+    "Mn_N_mean_A": 1.949398286526187,
+    "Mn_height_signed_A": 0.1421775795458336,
+    "local_z_angle_deg": 0.9889627769309777,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.6037876862958982,
+        "height_relative_Mn_A": 1.5987589056780351,
+        "moment": null
+      },
+      {
+        "index": 181,
+        "distance_A": 1.8974330298436994,
+        "height_relative_Mn_A": -1.8972011639251165,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/MnNC_OH_OH",
+    "family": "MnNC_OH",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Mn": 1,
+      "O": 2,
+      "H": 2
+    },
+    "Mn_index": 179,
+    "energy_sigma0": -1681.84200553,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 0.3856,
+    "INCAR": "SYSTEM  = MnNC_OH_OH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 1*3.0 2*0.5 2*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.924808269749388,
+      1.9312184546986435,
+      1.937008032717649,
+      1.9419887281809327
+    ],
+    "Mn_N_mean_A": 1.9337558713366534,
+    "Mn_height_signed_A": -0.0049820842172839525,
+    "local_z_angle_deg": 0.21478854001654615,
+    "nearby_O": [
+      {
+        "index": 180,
+        "distance_A": 1.848661621562364,
+        "height_relative_Mn_A": 1.8476898447603467,
+        "moment": null
+      },
+      {
+        "index": 181,
+        "distance_A": 1.8463061474387634,
+        "height_relative_Mn_A": -1.8450530654384392,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/S_FeCoMnNC59_clean",
+    "family": "FCM_bare",
+    "state": "base",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2066.63715092,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 139.1098,
+    "INCAR": "SYSTEM  = S_FeCoMnNC59_clean\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 27*3.0 32*2.0 1*3.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9115380049236572,
+      1.9143997046176175,
+      1.9144159417594706,
+      1.9155804266100016
+    ],
+    "Mn_N_mean_A": 1.9139835194776869,
+    "Mn_height_signed_A": -0.005204680705062709,
+    "local_z_angle_deg": 0.8560125154704188,
+    "nearby_O": [],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH",
+    "family": "FCM_bare",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2081.57087047,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 137.9018,
+    "INCAR": "SYSTEM  = FCM_Mn_OOH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 2*0.5 1*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.917868673822133,
+      1.9192027643238905,
+      1.94170498359111,
+      1.9427959524245064
+    ],
+    "Mn_N_mean_A": 1.93039309354041,
+    "Mn_height_signed_A": 0.2876588509960087,
+    "local_z_angle_deg": 0.5813033331452225,
+    "nearby_O": [
+      {
+        "index": 239,
+        "distance_A": 1.801971118766309,
+        "height_relative_Mn_A": 1.7974386304096697,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O",
+    "family": "FCM_bare",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2072.76808195,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 137.915,
+    "INCAR": "SYSTEM  = FCM_Mn_O\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 1*0.5\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9455918589181989,
+      1.9482044646622578,
+      1.9482926899151094,
+      1.9483597060260274
+    ],
+    "Mn_N_mean_A": 1.9476121798803985,
+    "Mn_height_signed_A": 0.36617122808469804,
+    "local_z_angle_deg": 0.014774332008053014,
+    "nearby_O": [
+      {
+        "index": 239,
+        "distance_A": 1.6545738232038776,
+        "height_relative_Mn_A": 1.6545255421053884,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH",
+    "family": "FCM_bare",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 1,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2077.42376589,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 139.3307,
+    "INCAR": "SYSTEM  = FCM_Mn_OH\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 1*0.5 1*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.966383040965824,
+      1.9676402017126828,
+      1.9691641010286045,
+      1.9694613960774818
+    ],
+    "Mn_N_mean_A": 1.9681621849461484,
+    "Mn_height_signed_A": 0.450660164283245,
+    "local_z_angle_deg": 0.2513749571441373,
+    "nearby_O": [
+      {
+        "index": 239,
+        "distance_A": 1.8807611315298232,
+        "height_relative_Mn_A": 1.880218235623443,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OHb",
+    "family": "FCM_OH",
+    "state": "base",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 1,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2077.44984933,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 139.3327,
+    "INCAR": "SYSTEM  = FCM_Mn_OHb\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 1*0.5 1*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9650980946815815,
+      1.9666651763543976,
+      1.9688015141991373,
+      1.9693998030572928
+    ],
+    "Mn_N_mean_A": 1.9674911470731022,
+    "Mn_height_signed_A": -0.4502158930537184,
+    "local_z_angle_deg": 0.66501278228609,
+    "nearby_O": [
+      {
+        "index": 239,
+        "distance_A": 1.877679703453164,
+        "height_relative_Mn_A": -1.8771362082912944,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OOH_OHb",
+    "family": "FCM_OH",
+    "state": "OOH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 3,
+      "H": 2
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2092.13380448,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 138.0123,
+    "INCAR": "SYSTEM  = FCM_Mn_OOH_OHb\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 3*0.5 2*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9377228239544575,
+      1.940159451891561,
+      1.941990848306963,
+      1.944753666485978
+    ],
+    "Mn_N_mean_A": 1.9411566976597399,
+    "Mn_height_signed_A": -0.014659661878337702,
+    "local_z_angle_deg": 0.8410011439456826,
+    "nearby_O": [
+      {
+        "index": 239,
+        "distance_A": 1.8977778433185337,
+        "height_relative_Mn_A": 1.8894076216825648,
+        "moment": null
+      },
+      {
+        "index": 241,
+        "distance_A": 1.8678784177884982,
+        "height_relative_Mn_A": -1.8672768285989496,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_O_OHb",
+    "family": "FCM_OH",
+    "state": "O",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 2,
+      "H": 1
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2083.07161085,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 135.934,
+    "INCAR": "SYSTEM  = FCM_Mn_O_OHb\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 2*0.5 1*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9261126485294433,
+      1.932335427396135,
+      1.961324839760768,
+      1.963394683484198
+    ],
+    "Mn_N_mean_A": 1.9457918997926362,
+    "Mn_height_signed_A": 0.15479438926360192,
+    "local_z_angle_deg": 0.6621693422843647,
+    "nearby_O": [
+      {
+        "index": 239,
+        "distance_A": 1.6030708812270116,
+        "height_relative_Mn_A": 1.598768895585031,
+        "moment": null
+      },
+      {
+        "index": 240,
+        "distance_A": 1.903611829156291,
+        "height_relative_Mn_A": -1.9035150307622575,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  },
+  {
+    "path": "/home/05926/zhaoyue/WORK/FeCoMn_ch5_recalc_20261007/FCM_Mn_OH_OHb",
+    "family": "FCM_OH",
+    "state": "OH",
+    "composition": {
+      "C": 174,
+      "N": 4,
+      "Fe": 27,
+      "Co": 32,
+      "Mn": 1,
+      "O": 2,
+      "H": 2
+    },
+    "Mn_index": 238,
+    "energy_sigma0": -2087.89577451,
+    "normal_end": true,
+    "ionic_converged": true,
+    "Mn_moment": null,
+    "total_moment": 133.1488,
+    "INCAR": "SYSTEM  = FCM_Mn_OH_OHb\n# --- Precision & Basis ---\nPREC    = Normal\nENCUT   = 500\nEDIFF   = 1E-5\nEDIFFG  = -0.02\nNSW     = 400\nIBRION  = 2\nPOTIM   = 0.1\nISIF    = 2\nISYM    = 0\nLREAL   = Auto\n\n# --- Electronic & Smearing ---\nNELM    = 150\nALGO    = Fast\nISMEAR  = 0\nSIGMA   = 0.05\nLMAXMIX = 4\n\n# --- Magnetism (damped mixing) ---\nISPIN     = 2\nAMIX      = 0.1\nBMIX      = 0.0001\nAMIX_MAG  = 0.4\nBMIX_MAG  = 0.0001\nMAGMOM    = 174*0.0 4*0.0 27*3.0 32*2.0 1*3.0 2*0.5 2*0.0\n\n# --- Van der Waals Dispersion ---\nIVDW    = 12\n\n# --- Parallelization ---\nNCORE   = 8\n# --- Output & IO ---\nLWAVE   = .TRUE.\nLCHARG  = .TRUE.\n",
+    "Mn_N_distances_A": [
+      1.9367581043894746,
+      1.9387230229360752,
+      1.9447315728876842,
+      1.945548823294
+    ],
+    "Mn_N_mean_A": 1.9414403808768088,
+    "Mn_height_signed_A": -0.0020515162196699448,
+    "local_z_angle_deg": 0.19095143276555512,
+    "nearby_O": [
+      {
+        "index": 239,
+        "distance_A": 1.8792750647396996,
+        "height_relative_Mn_A": 1.878788824475649,
+        "moment": null
+      },
+      {
+        "index": 240,
+        "distance_A": 1.8768791368714257,
+        "height_relative_Mn_A": -1.876640919384607,
+        "moment": null
+      }
+    ],
+    "DOS_error": ""
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "text": "3500",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "3000",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "2500",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "2000",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1500",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1000",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "−10",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "0",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "8",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "$\\nu$(O–H)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "2600",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "2800",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "3000",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "3200",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "3400",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "3600",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "3800",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "ΔAbsorbance",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "$\\delta$(H–O–H)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1550",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1600",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1650",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1700",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1750",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "OOH*",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1150",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1200",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1250",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1300",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1350",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "Wavenumber (cm$^{-1}$)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "0",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "0.4",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "0.8",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1.2",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "$E$ (V vs. RHE)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "ΔAbsorbance",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "$\\nu$(O–H)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "CO$_2$(g)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "$\\delta$(H–O–H)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "OOH*",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "a",
+    "family": [
+      "Arial"
+    ],
+    "pt": 10.0,
+    "weight": "bold"
+  },
+  {
+    "text": "ΔAbs ($10^{-3}$)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "ref. 1.2 V",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "Wavenumber (cm$^{-1}$)",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "1.2 V",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "0 V",
+    "family": [
+      "Arial"
+    ],
+    "pt": 8.0,
+    "weight": "normal"
+  },
+  {
+    "text": "b",
+    "family": [
+      "Arial"
+    ],
+    "pt": 10.0,
+    "weight": "bold"
+  }
+]

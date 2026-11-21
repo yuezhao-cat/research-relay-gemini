@@ -1,0 +1,258 @@
+{
+  "file": "FeCoMn-NC(1-2).opju",
+  "sha256": "7fe94f757806931f33fcf186e3086c76f67f08a96647bbb637949ceba99b95da",
+  "books": [
+    {
+      "short_name": "Book1",
+      "long_name": "",
+      "sheets": [
+        {
+          "name": "Sheet1",
+          "rows": 2075,
+          "columns": 14,
+          "csv": "FeCoMn-NC(1-2)__Book1__Sheet1.csv",
+          "column_metadata": [
+            {
+              "index_1based": 1,
+              "short_name": "A",
+              "long_name": "",
+              "units": "",
+              "comments": "",
+              "formula": "",
+              "designation_code": 3,
+              "data_format": 9
+            },
+            {
+              "index_1based": 2,
+              "short_name": "B",
+              "long_name": "",
+              "units": "",
+              "comments": "0",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 3,
+              "short_name": "C",
+              "long_name": "",
+              "units": "",
+              "comments": "0.1",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 4,
+              "short_name": "D",
+              "long_name": "",
+              "units": "",
+              "comments": "0.2",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 5,
+              "short_name": "E",
+              "long_name": "",
+              "units": "",
+              "comments": "0.3",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 6,
+              "short_name": "F",
+              "long_name": "",
+              "units": "",
+              "comments": "0.4",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 7,
+              "short_name": "G",
+              "long_name": "",
+              "units": "",
+              "comments": "0.5",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 8,
+              "short_name": "H",
+              "long_name": "",
+              "units": "",
+              "comments": "0.6",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 9,
+              "short_name": "I",
+              "long_name": "",
+              "units": "",
+              "comments": "0.7",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 10,
+              "short_name": "J",
+              "long_name": "",
+              "units": "",
+              "comments": "0.8",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 11,
+              "short_name": "K",
+              "long_name": "",
+              "units": "",
+              "comments": "0.9",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 12,
+              "short_name": "L",
+              "long_name": "",
+              "units": "",
+              "comments": "1",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 13,
+              "short_name": "M",
+              "long_name": "",
+              "units": "",
+              "comments": "1.1",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            },
+            {
+              "index_1based": 14,
+              "short_name": "N",
+              "long_name": "",
+              "units": "",
+              "comments": "1.2",
+              "formula": "",
+              "designation_code": 0,
+              "data_format": 9
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "graphs": [
+    {
+      "short_name": "Graph2",
+      "long_name": "",
+      "layers": [
+        {
+          "index_1based": 1,
+          "plots": [
+            {
+              "GetRange": "[Graph2]1!Plot(1)",
+              "GetDatasetName": "VM2",
+              "dataset_X": {
+                "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+              },
+              "dataset_Y": {
+                "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+              },
+              "dataset_Z": {
+                "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+              }
+            },
+            {
+              "GetRange": "[Graph2]1!Plot(2)",
+              "GetDatasetName": "VM2",
+              "dataset_X": {
+                "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+              },
+              "dataset_Y": {
+                "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+              },
+              "dataset_Z": {
+                "error": "DataObjectBase.GetDatasetName() takes 1 positional argument but 2 were given"
+              }
+            }
+          ],
+          "objects": [
+            {
+              "Name": "Text1",
+              "Text": "Wavenumber (cm\\+(-1))",
+              "Type": {
+                "error": "'GraphObject' object has no attribute 'Type'"
+              }
+            },
+            {
+              "Name": "Text",
+              "Text": "Absorbance",
+              "Type": {
+                "error": "'GraphObject' object has no attribute 'Type'"
+              }
+            },
+            {
+              "Name": "__FRAMESRCDATAINFOS",
+              "Text": "",
+              "Type": {
+                "error": "'GraphObject' object has no attribute 'Type'"
+              }
+            },
+            {
+              "Name": "__BCO2",
+              "Text": "",
+              "Type": {
+                "error": "'GraphObject' object has no attribute 'Type'"
+              }
+            },
+            {
+              "Name": "_103",
+              "Text": "",
+              "Type": {
+                "error": "'GraphObject' object has no attribute 'Type'"
+              }
+            },
+            {
+              "Name": "_103",
+              "Text": "",
+              "Type": {
+                "error": "'GraphObject' object has no attribute 'Type'"
+              }
+            },
+            {
+              "Name": "Text2",
+              "Text": "Potential (V)",
+              "Type": {
+                "error": "'GraphObject' object has no attribute 'Type'"
+              }
+            }
+          ]
+        }
+      ],
+      "export_command": "expgraph -sw type:=png filename:=\"FeCoMn-NC(1-2)__Graph2\" path:=\"C:\\Users\\46775\\Documents\\Codex\\2026-11-13\\gu\\research-relay\\FeCoMn\\from_agent\\FeCoMn-T006\\FeCoMn-NC(1-2)\" overwrite:=replace tr2.Unit:=1 tr2.Resolution:=300;",
+      "export_result": 0
+    }
+  ],
+  "matrices": [],
+  "folder_tree": {
+    "name": "FeCoMn-NC(1-2)",
+    "path": "/FeCoMn-NC(1-2)/",
+    "children": []
+  }
+}

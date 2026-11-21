@@ -1,0 +1,204 @@
+{
+  "source_archive": "D:\\OneDrive\\1a1\u6570\u636e\u6587\u6863\\01_\u539f\u59cb\u6570\u636e_\u6309\u6280\u672f\\FTIR\\20241021.zip",
+  "source_archive_SHA256": "5b68d0f1069d36fe6c8b1536a7157f15dee0e6a4c93d3b7796116843d0377c32",
+  "files": [
+    {
+      "file": "-0,7.CSV",
+      "archive_entry": "20241021/1/-0,7.CSV",
+      "bytes": 123856,
+      "sha256": "03324fbdcea626a40fca718c8e95d01d5b9f3c53e2f2e07984e8d552a4350766",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0,8-1.CSV",
+      "archive_entry": "20241021/1/-0,8-1.CSV",
+      "bytes": 124162,
+      "sha256": "297edc29eba2758652882854177d95dcfc7d519f03d0f9c47c22b676aafd5490",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "0.1.CSV",
+      "archive_entry": "20241021/1/0.1.CSV",
+      "bytes": 123391,
+      "sha256": "65740fddce860a7ace4d1f9055bc4ddecd481c5210cf81df548a15e250ee45e5",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.1.CSV",
+      "archive_entry": "20241021/1/-0.1.CSV",
+      "bytes": 123534,
+      "sha256": "c344d90a08bc05b0f84f0921ee1dbf0b65392fd43d62f8cc94063077459a1053",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.1-50.CSV",
+      "archive_entry": "20241021/1/-0.1-50.CSV",
+      "bytes": 123426,
+      "sha256": "06ea0ce43b71c20b05bb43557556e8eaabcb55a538a16f0780ad4a89a39ff2dd",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "0.2.CSV",
+      "archive_entry": "20241021/1/0.2.CSV",
+      "bytes": 123387,
+      "sha256": "b87967c1645aec940a6f8e55d60562235e12e23cee90c33a0a97ea9693928944",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.2.CSV",
+      "archive_entry": "20241021/1/-0.2.CSV",
+      "bytes": 123555,
+      "sha256": "41d38d647edc2b9db22c4619f30b818c8037d16e9b026e44675a27778da74c25",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.3.CSV",
+      "archive_entry": "20241021/1/-0.3.CSV",
+      "bytes": 123718,
+      "sha256": "68ecea92d7b05f0fd1be85e49d2d0fb710dd0856c4f1fc9f0f3a109448c56e68",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.4.CSV",
+      "archive_entry": "20241021/1/-0.4.CSV",
+      "bytes": 123632,
+      "sha256": "31be4a721b47e4cbceb1f3cdf65de3f5df6ecef1d08aed063e21fb538c716fe9",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.5.CSV",
+      "archive_entry": "20241021/1/-0.5.CSV",
+      "bytes": 123555,
+      "sha256": "9816ecdc1812ed2b064539e36509dd442cc26d069e5e07d643624fbfa8a8b440",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.6.CSV",
+      "archive_entry": "20241021/1/-0.6.CSV",
+      "bytes": 123709,
+      "sha256": "d16a6ac40d2d3c07b92bf8443d1e4277888b73490ce70269b7846ab0c699a65c",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.6-50.CSV",
+      "archive_entry": "20241021/1/-0.6-50.CSV",
+      "bytes": 123634,
+      "sha256": "efabdff4dac0efded78d1f87c38366001c2a8440445c1ce74f3007eeb3881be6",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.7-50.CSV",
+      "archive_entry": "20241021/1/-0.7-50.CSV",
+      "bytes": 123786,
+      "sha256": "8a39aa99d5c35308efe82858ee0920a4acf7e65be7c2ea27f13aa020d21597d9",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.8-50.CSV",
+      "archive_entry": "20241021/1/-0.8-50.CSV",
+      "bytes": 124002,
+      "sha256": "ad7fa4e0fafe19a9940068799d036491b32792d51f79bfc50607f47a72614687",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-0.9v.CSV",
+      "archive_entry": "20241021/1/-0.9v.CSV",
+      "bytes": 125032,
+      "sha256": "79038101abaa7e1ee85ab3a1f44040d6fb59f590500f45b51eac4286c1e93ed8",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "0.CSV",
+      "archive_entry": "20241021/1/0.CSV",
+      "bytes": 123432,
+      "sha256": "fac9d2d53c384258e73c29f3aa57bc81999bbb849acc3b0fde3c683f697e124f",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "0-50.CSV",
+      "archive_entry": "20241021/1/0-50.CSV",
+      "bytes": 123376,
+      "sha256": "c79a28130d13942251b6b20abe8ff2302dcf6fe62f04a0bfc260e7dfed0a47d8",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "1.SPA",
+      "archive_entry": "20241021/1/1.SPA",
+      "bytes": 161636,
+      "sha256": "243eeac69c14343e2f5b8c8e9c55a490bd95fdd672e0c67e43d66a62376e6fe0",
+      "points": null,
+      "min_cm1": null,
+      "max_cm1": null
+    },
+    {
+      "file": "-1-100.CSV",
+      "archive_entry": "20241021/1/-1-100.CSV",
+      "bytes": 124535,
+      "sha256": "21fe39da5fb06061dcc3d100a8d1cd158ca3254bc73bc4809f1233f0747b9592",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-1-50.CSV",
+      "archive_entry": "20241021/1/-1-50.CSV",
+      "bytes": 124845,
+      "sha256": "258ea6478979e713c771e4a75ed02f139ad14d9121ef657b7a5ab6b71f1cc688",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-1v.CSV",
+      "archive_entry": "20241021/1/-1v.CSV",
+      "bytes": 124945,
+      "sha256": "624f11c9beb518c0b769119676e299dd41e766ff2ebb5da86b68fd50222a1252",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    },
+    {
+      "file": "-1v-100.CSV",
+      "archive_entry": "20241021/1/-1v-100.CSV",
+      "bytes": 125207,
+      "sha256": "b5b1d6e66016becd49d8d46eb29d509cb411bd688595d380cdfa8cb5e574c58f",
+      "points": 4250,
+      "min_cm1": 695.2123,
+      "max_cm1": 2743.727
+    }
+  ]
+}

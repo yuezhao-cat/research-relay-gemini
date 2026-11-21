@@ -1,0 +1,792 @@
+[
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241021.zip::20241021/1/1.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241021.zip::20241021/2/2.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/1.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/11.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/2.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.073.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.173.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.273.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.273-2.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.373.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.373-2.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.473.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.473-2.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.573.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.673.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.773.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.873.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/23/zy-1-5-6-0.973.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/3.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/4.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.073.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.173.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.273.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.373.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.473.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.573.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.673.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.773.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.873.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\20241204.zip::20241204/5-2/zy-1-5-0.973.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::1-1orr-2.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::1-4-S-ORR-OER.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::1-2-orr-oer.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/1.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/1-1oer.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/1-1orr.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/1-1orr-2.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/1-2-orr-oer.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/1-3-cl.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/1-4-S-ORR-OER.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/2.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/3.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/4.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\archive.zip::20240717.zip::20240717/5.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\zy-20240716.zip::zy-20240716/1-1.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\zy-20240716.zip::zy-20240716/1-3.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\zy-20240716.zip::zy-20240716/1-4.SPG",
+    "magic": "Spectral Data File",
+    "extension": ".spg"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.03V/20240524-zy-1-FeCo-NC-H-0.03V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.03V/20240524-zy-1-FeCo-NC-H-0.03V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.03V/20240524-zy-1-FeCo-NC-H-0.03V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.05/20240524-zy-1-FeCo-NC-H-0.05V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.05/20240524-zy-1-FeCo-NC-H-0.05V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.05/20240524-zy-1-FeCo-NC-H-0.05V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.1/20240524-zy-1-FeCo-NC-H---0.1V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.1/20240524-zy-1-FeCo-NC-H---0.1V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.1/20240524-zy-1-FeCo-NC-H---0.1V-300s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.1/20240524-zy-1-FeCo-NC-H---0.1V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H--0.1V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H-0.1V-100s-2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H-0.1V-100s-3ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H--0.1V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H-0.1V-200s-3ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H--0.1V-300s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H--0.1V-400s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H--0.1V-500s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H-0.1V-50s-2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.1V/20240524-zy-1-FeCo-NC-H-0.1V-50s-3ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.2/20240524-zy-1-FeCo-NC-H---0.2V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.2/20240524-zy-1-FeCo-NC-H---0.2V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.2/20240524-zy-1-FeCo-NC-H---0.2V-60s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H--0.2V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H-0.2V-100s-2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H--0.2V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H-0.2V-200s-2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H--0.2V-300s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H--0.2V-400s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H--0.2V-500s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H-0.2V-50s-2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H--0.2V-600s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.2V/20240524-zy-1-FeCo-NC-H--0.2V-700s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.3V/20240524-zy-1-FeCo-NC-H---0.3V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.3V/20240524-zy-1-FeCo-NC-H---0.3V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.3V/20240524-zy-1-FeCo-NC-H---0.3V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.4V/20240524-zy-1-FeCo-NC-H---0.4V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.4V/20240524-zy-1-FeCo-NC-H---0.4V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.4V/20240524-zy-1-FeCo-NC-H---0.4V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.5V/20240524-zy-1-FeCo-NC-H---0.5V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.5V/20240524-zy-1-FeCo-NC-H---0.5V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.5V/20240524-zy-1-FeCo-NC-H---0.5V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.6V/20240524-zy-1-FeCo-NC-H---0.6V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.6V/20240524-zy-1-FeCo-NC-H---0.6V-150s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.6V/20240524-zy-1-FeCo-NC-H---0.6V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.6V/20240524-zy-1-FeCo-NC-H---0.6V-250s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.6V/20240524-zy-1-FeCo-NC-H---0.6V-300s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.6V/20240524-zy-1-FeCo-NC-H---0.6V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.6V/20240524-zy-1-FeCo-NC-H---0.6V-80s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.7V/20240524-zy-1-FeCo-NC-H---0.7V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.7V/20240524-zy-1-FeCo-NC-H---0.7V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.8/20240524-zy-1-FeCo-NC-H---0.8V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.8/20240524-zy-1-FeCo-NC-H---0.8V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-0.8/20240524-zy-1-FeCo-NC-H---0.8V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.9Vand kailu/20240524-zy-1-FeCo-NC-H--0.9V-100s-----2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.9Vand kailu/20240524-zy-1-FeCo-NC-H--0.9V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.9Vand kailu/20240524-zy-1-FeCo-NC-H--0.9V-200s-----2c.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.9Vand kailu/20240524-zy-1-FeCo-NC-H--0.9V-300s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.9Vand kailu/20240524-zy-1-FeCo-NC-H--0.9V-400s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.9Vand kailu/20240524-zy-1-FeCo-NC-H--0.9V-500s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0.9Vand kailu/KAILU-.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-100s-2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-100s---3ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-200s-2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-200s---3ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-300s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-400s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-500s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-50s-2ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/0V/20240524-zy-1-FeCo-NC-H-0V-50s---3ci.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-1.011/20240524-zy-1-FeCo-NC-H--1.011V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-1.011/20240524-zy-1-FeCo-NC-H--1.011V-100s---2c.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-1.011/20240524-zy-1-FeCo-NC-H--1.011V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-1.011/20240524-zy-1-FeCo-NC-H--1.011V-200s---2c.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-1.011/20240524-zy-1-FeCo-NC-H--1.011V-300s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-1.011/20240524-zy-1-FeCo-NC-H--1.011V-400s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/1yangpin/-1.011/20240524-zy-1-FeCo-NC-H--1.011V-50s---2c.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/0.1/20240524-zy-2FeCo-NC-0.1V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.1/20240524-zy-2FeCo-NC-0.1V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/0.1/20240524-zy-2FeCo-NC-0.1V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.1/20240524-zy-2FeCo-NC-0.1V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/0.2/20240524-zy-2FeCo-NC-0.2V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.2/20240524-zy-2FeCo-NC-0.2V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/0.2/20240524-zy-2FeCo-NC-0.2V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.2/20240524-zy-2FeCo-NC-0.2V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.3/20240524-zy-2FeCo-NC-0.3V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.3/20240524-zy-2FeCo-NC-0.3V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.4/20240524-zy-2FeCo-NC-0.4V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.4/20240524-zy-2FeCo-NC-0.4V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.5/20240524-zy-2FeCo-NC-0.5V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.5/20240524-zy-2FeCo-NC-0.5V-100s-1.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.5/20240524-zy-2FeCo-NC-0.5V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/0.6/20240524-zy-2FeCo-NC-0.6V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/0.6/20240524-zy-2FeCo-NC-0.6V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.7/20240524-zy-2FeCo-NC-0.7V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.7/20240524-zy-2FeCo-NC-0.7V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.8/20240524-zy-2FeCo-NC-0.8V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.8/20240524-zy-2FeCo-NC-0.8V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.8/20240524-zy-2FeCo-NC-0.8V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.9/20240524-zy-2FeCo-NC-0.9V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.9/20240524-zy-2FeCo-NC-0.9V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-0.9/20240524-zy-2FeCo-NC-0.9V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/0/20240524-zy-2FeCo-NC-0V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/0/20240524-zy-2FeCo-NC-0V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-1.011/20240524-zy-2FeCo-NC-1.011V-100s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-1.011/20240524-zy-2FeCo-NC-1.011V-200s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-1.011/20240524-zy-2FeCo-NC-1.011V-50s.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/-1.011/20240524-zy-2FeCo-NC-1.011V-50s-2.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  },
+  {
+    "path": "D:\\OneDrive\\1a1数据文档\\01_原始数据_按技术\\FTIR\\ZY-ZSL-20240524.zip::ZY-ZSL/2yangpin-zy/kailu.SPA",
+    "magic": "Spectral Data File",
+    "extension": ".spa"
+  }
+]
