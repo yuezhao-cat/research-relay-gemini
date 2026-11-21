@@ -107,3 +107,4 @@
 | FeCoMn_SI_revised_20261121_1850.docx | 2026-11-21 18:50 | 叠加高亮。新增表 S7（有/无颗粒 Mn 轴向配体）、表 S11（吸附能拆分）、图 S30（Mn 高度与拆分柱状图，Claude web 按 T041/T042 数据绘制）；原表 S7–S12 顺延，原图 S30–S33 → S31–S34；目录与页码同步。 |
 | FeCoMn_Manuscript_revised_20261121_1935.docx | 2026-11-21 19:35 | 基于 1850，叠加高亮。图 6 第二段几何机理几句换为 Gemini 改写并经 Claude web 修正的版本（At the same time…；OH* therefore binds so strongly…；toward the axial OH；Drawing Mn back consumes part of the binding energy；of which…）。SI 不变，沿用 FeCoMn_SI_revised_20261121_1850.docx。 |
 | FeCoMn_Manuscript_revised_20261121_1940.docx | 2026-11-21 19:40 | 基于 1935，叠加高亮。Methods 中 "Tables S10 and S11"（覆盖候选、总能量）改为 "Tables S12 and S13"，与 SI 顺延后的编号一致。 |
+| FeCoMn_Manuscript_revised_20261121_1950.docx | 2026-11-21 19:50 | 基于 1940，叠加高亮。摘要、结论整段替换为 Gemini 按简报 v2 写的版本（机理与图 5、图 6 一致：颗粒保住轴向 OH，0.48 → 0.96 V；轴向 OH 不过弱不过强），赵月选定原样采用。 |
