@@ -46,3 +46,10 @@ In summary, we determined the surface coverage of FeCoMn–NC, a catalyst combin
 直译：总之，我们确定了兼具 FeCo 合金颗粒与 Mn 单原子的催化剂 FeCoMn–NC 在工作条件下的表面覆盖，并由此揭示了 FeCo 合金颗粒如何影响相邻 Mn 单原子上的中间体结合。实验上，FeCoMn–NC 在 0.1 M KOH 中的 ORR 半波电位达到 0.885 V（相对 RHE），优于 Pt/C、FeCo–NC 和 Mn–NC。计算表明，被 O* 覆盖的 FeCo 合金颗粒在工作电位下使相邻 Mn 单原子保持轴向 OH。轴向 OH 通过电子和几何作用使 ORR 中间体的结合适中，从而使 FeCoMn–NC 位于活性火山图顶点附近。由于热解 M–N–C 催化剂中金属颗粒普遍与单原子共存，此类催化剂的 ORR 活性因此也取决于颗粒，颗粒在工作条件下的表面覆盖决定了相邻单原子的轴向配体。在其他电催化反应中，电解液物种同样覆盖颗粒和单原子，因此共存颗粒在工作条件下的表面覆盖同样决定着调节这些反应中单原子的轴向配体。
 
 通读提醒：S5 和 S6 都写了 surface coverage under working conditions。这是有意保留的，用来把 ORR 的结论接到其他反应上。如果赵月嫌重复，S6 可以改成 the same surface coverage。
+
+## 14:05 精简版（赵月：太啰嗦）
+S5：In pyrolyzed M–N–C catalysts, coexisting metal particles thus shape the activity of single atoms through the axial ligand that their surface coverage sets under working conditions.
+直译：由此可见，在热解 M–N–C 催化剂中，共存的金属颗粒通过其表面覆盖在工作条件下决定的轴向配体，影响单原子的活性。
+S6：Because electrolyte species cover both particles and single atoms in any electrocatalytic reaction, this effect extends to other reactions on M–N–C catalysts.
+直译：由于在任何电催化反应中，电解液物种都会覆盖颗粒和单原子，这一作用也适用于 M–N–C 催化剂上的其他反应。
+（两句分别为 26 词和 22 词。不点名具体反应，理由同上：OER 电位下 Mn 已经是 Mn=O。）
