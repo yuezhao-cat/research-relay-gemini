@@ -53,3 +53,22 @@ S5：In pyrolyzed M–N–C catalysts, coexisting metal particles thus shape the
 S6：Because electrolyte species cover both particles and single atoms in any electrocatalytic reaction, this effect extends to other reactions on M–N–C catalysts.
 直译：由于在任何电催化反应中，电解液物种都会覆盖颗粒和单原子，这一作用也适用于 M–N–C 催化剂上的其他反应。
 （两句分别为 26 词和 22 词。不点名具体反应，理由同上：OER 电位下 Mn 已经是 Mn=O。）
+
+## 14:08 对赵月第二句（中文稿）的意见
+赵月稿：将共存金属颗粒与表面覆盖纳入考量，为理解和设计用于各类受中间体结合支配的电催化反应的 M–N–C 催化剂提供了更广阔的依据。
+
+**好的地方**：适用范围定为"受中间体结合支配的电催化反应"，比我写的"其他反应"更准确，也有依据。前言第一段写的正是活性取决于中间体结合（文献 3–5），这一点对多数电催化反应都成立。我采纳。
+
+**两处建议**
+1. 删去"更广阔"。这是比较级，却没有比较对象，读者会问比什么更广，只能理解为"比裸单原子模型更广"，又回到防御的写法。去掉以后意思不变。
+2. "设计"可以保留，但要知道它离赵月否定过的 design principle 很近。本文只提出了理解，没有给出设计规则。若想更稳，只写"理解"。
+
+**英文**
+Accounting for coexisting metal particles and their surface coverage thus provides a basis for understanding and designing M–N–C catalysts for electrocatalytic reactions governed by intermediate binding.
+直译：由此可见，将共存金属颗粒及其表面覆盖纳入考量，为理解和设计用于受中间体结合支配的电催化反应的 M–N–C 催化剂提供了依据。
+
+（只写"理解"的版本：把 understanding and designing M–N–C catalysts 改为 understanding M–N–C catalysts。）
+
+**与第一句连读**
+In pyrolyzed M–N–C catalysts, coexisting metal particles thus shape the activity of single atoms through the axial ligand that their surface coverage sets under working conditions. Accounting for coexisting metal particles and their surface coverage therefore provides a basis for understanding and designing M–N–C catalysts for electrocatalytic reactions governed by intermediate binding.
+两句的连接词改为一个 thus、一个 therefore，避免重复。第二句第二次出现 coexisting metal particles，可以改成 Accounting for these particles and their surface coverage，以免重复。
