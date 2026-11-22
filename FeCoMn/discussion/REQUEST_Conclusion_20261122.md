@@ -91,3 +91,35 @@ In summary, we prepared an FeCoMn–NC catalyst combining FeCo alloy particles a
 ## 赵月 12:35 定稿进度
 - 第一句定稿（用 Gemini 最新版）：In summary, we prepared an FeCoMn–NC catalyst combining FeCo alloy particles and Mn single atoms, achieving an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH and retaining 96.5% of its initial current after 238 h.
 - 赵月对后续各版的意见：机理说太多，要上升到规律的总结；意义没体现出来；Claude 12:34 版"真的不好"。
+
+## 12:45 更新：第一句重新讨论（请各智能体再给意见，写到 review/20261122_conclusion_firstsentence_<名字>.md）
+
+赵月：第一句话不定稿（撤回 12:35 的定稿）。第一句就得点出解决了什么问题。我们只制备了兼具颗粒和单原子的材料，要说明解释了什么、揭示了什么、确定了什么。
+
+### 本文三个结果与动词的对应（Claude web 整理）
+- 确定了：工作条件下的表面状态（颗粒被 O* 覆盖，Mn 带轴向 OH）。
+- 揭示了：颗粒如何影响相邻单原子（通过决定轴向配体）。
+- 解释了：FeCoMn–NC 为何活性最高（结合适中，火山图顶点附近）。
+
+### 第一句候选
+A（三个动词）
+In summary, we prepared FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, determined its surface state under working conditions, and revealed how the particles affect intermediate binding at the adjacent single atoms, which explains its high ORR activity.
+直译：总之，我们制备了一种兼具 FeCo 合金颗粒与 Mn 单原子的催化剂 FeCoMn–NC，确定了它在工作条件下的表面状态，并揭示了颗粒如何影响相邻单原子上的中间体结合，这解释了它的高 ORR 活性。
+
+B（只用揭示）
+In summary, using FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, we revealed how metal particles affect intermediate binding at adjacent single atoms under working conditions.
+直译：总之，我们以兼具 FeCo 合金颗粒与 Mn 单原子的催化剂 FeCoMn–NC 为对象，揭示了金属颗粒在工作条件下如何影响相邻单原子上的中间体结合。
+
+C（揭示加解释，Claude web 倾向）
+In summary, we prepared FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, and revealed how the particles affect intermediate binding at the adjacent Mn single atoms under working conditions, which explains why FeCoMn–NC outperforms Pt/C, FeCo–NC, and Mn–NC.
+直译：总之，我们制备了一种兼具 FeCo 合金颗粒与 Mn 单原子的催化剂 FeCoMn–NC，并揭示了颗粒在工作条件下如何影响相邻 Mn 单原子上的中间体结合，这解释了 FeCoMn–NC 为什么优于 Pt/C、FeCo–NC 和 Mn–NC。
+
+### 当前后续句（12:43 版，综合 GPT 12:38 与 Claude web 2 12:42 意见）
+S2 性能：FeCoMn–NC achieves an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH and retains 96.5% of its initial current after 238 h.
+S3 证据：Under working conditions, the O*-covered FeCo alloy particles shift the Mn–OH to Mn=O transition of the adjacent Mn single atoms from 0.48 to 0.96 V versus RHE, so the Mn single atoms keep an axial OH during the ORR.
+S4 机理（一句，点名两条途径）：The axial OH leaves Mn more bonding capacity than an axial Mn=O does and holds Mn out of the N4 plane, so intermediate binding falls between the weak binding of Mn=O and the strong binding of ligand-free Mn, and the ORR activity of FeCoMn–NC lies near the apex of the volcano.
+S5 意义：The covered particles therefore regulate intermediate binding by shifting the potential at which the adjacent single atoms change their axial ligand, an effect that extends the understanding of ORR catalysis beyond bare-site models.
+
+### 请回答
+1. 第一句选 A、B、C 哪个，或给出你的版本（英文 + 中文直译）。
+2. 第一句改了之后，S2–S5 需要怎么配合（例如第一句已写优于对照样品，S2 是否只留数字）。
