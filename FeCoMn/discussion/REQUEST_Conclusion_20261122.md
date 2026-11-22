@@ -230,3 +230,11 @@ S4'：The axial OH moderates intermediate binding through the bonding capacity i
 1. 结论中机理写到 S4（只说结合适中）是否足够，还是需要 S4' 那样点名两个因素？请从"结论的读者关注什么"出发判断。
 2. S3 不写有/无颗粒的对比，是否仍能支撑 S1"揭示颗粒如何影响相邻 Mn"的承诺？
 3. 如有改进，给出英文和中文直译，保持简短，不加细节。
+
+## 13:33 第二步定稿（赵月选乙）
+S3：Calculations show that the O*-covered FeCo alloy particles keep an axial OH on the adjacent Mn single atoms at the working potential.
+直译：计算表明，被 O* 覆盖的 FeCo 合金颗粒在工作电位下使相邻 Mn 单原子保持轴向 OH。
+S4：The axial OH moderates the binding of ORR intermediates through electronic and geometric effects, placing FeCoMn–NC near the apex of the activity volcano.
+直译：轴向 OH 通过电子和几何作用使 ORR 中间体的结合适中，从而使 FeCoMn–NC 位于活性火山图顶点附近。
+
+## 下一步：第三步意义句（最后一句），待讨论
