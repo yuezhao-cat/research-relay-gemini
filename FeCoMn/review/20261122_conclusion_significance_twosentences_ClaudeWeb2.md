@@ -98,3 +98,18 @@ The ORR activity of M–N–C catalysts therefore depends not only on the single
 因此，M–N–C 催化剂的 ORR 活性不仅取决于单原子，也取决于通常被忽略的金属颗粒。考量工作条件下颗粒与单原子两者的表面覆盖，为理解和设计用于受中间体结合支配的电催化反应的 M–N–C 催化剂提供了指导。
 
 规则自查：没有冒号、分号、破折号，没有 can 或 should，没有数字，主语明确。全段只有第一句用了 therefore，与 S4 的 placing 不冲突。
+
+## 14:38 对"为理解热解型 M–N–C 催化剂提供了新的思路"的意见
+- **"热解型"加得好。** 它和摘要第 1 句的 pyrolyzed M–N–C 对上了。颗粒与单原子共存，正是热解材料的特点，范围也因此限定得准确。
+- **"新的思路"建议改。** new 与禁用的 novel 意思几乎相同，写作规则不允许。而且"新思路"是任何论文都能用的套话，没有说出本文给了什么。改为"提供了依据"（a basis），语气肯定，也不自夸。
+- **范围缩回去了，需要赵月确认。** 这样写，结尾只讲"理解热解 M–N–C"，前一版"各类受中间体结合支配的电催化反应"的推广就没有了。如果仍要推广，可以两者都保留，见下面的乙版。
+
+甲（只讲热解 M–N–C）：
+Considering the surface coverage of both particles and single atoms under working conditions thus provides a basis for understanding pyrolyzed M–N–C catalysts.
+直译：因此，考量工作条件下颗粒与单原子两者的表面覆盖，为理解热解型 M–N–C 催化剂提供了依据。
+
+乙（保留推广）：
+Considering the surface coverage of both particles and single atoms under working conditions thus provides a basis for understanding pyrolyzed M–N–C catalysts in electrocatalytic reactions governed by intermediate binding.
+直译：因此，考量工作条件下颗粒与单原子两者的表面覆盖，为理解受中间体结合支配的电催化反应中的热解型 M–N–C 催化剂提供了依据。
+
+我倾向乙。它多了 7 个词，但"意义提升"正是赵月 14:00 提出的要求，这几个词就是用来实现它的。
