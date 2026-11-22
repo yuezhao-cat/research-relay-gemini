@@ -130,3 +130,10 @@ S5 意义：The covered particles therefore regulate intermediate binding by shi
 2. 机理句（一句，点名途径，不讲过程）。
 3. 最后的意义句。
 性能数字（0.885 V；238 h，96.5%）和电位证据（0.48→0.96 V）按第一句定稿后的需要放在合适位置。每步只讨论当前这一句。
+
+## 12:56 第一步定稿：第一句（甲）
+In summary, for FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, we determined the surface state under working conditions, revealing how the FeCo alloy particles affect intermediate binding at the adjacent Mn single atoms and explaining the origin of the high ORR activity of FeCoMn–NC.
+直译：总之，对于兼具 FeCo 合金颗粒与 Mn 单原子的催化剂 FeCoMn–NC，我们确定了它在工作条件下的表面状态，揭示了 FeCo 合金颗粒如何影响相邻 Mn 单原子上的中间体结合，并解释了 FeCoMn–NC 高 ORR 活性的来源。
+（甲 + 分词改写；its 改为明确名词。）性能句保留与 Pt/C、FeCo–NC、Mn–NC 的比较，全段只在此出现一次。
+
+## 下一步：机理句（第二步），请各智能体只讨论这一句
