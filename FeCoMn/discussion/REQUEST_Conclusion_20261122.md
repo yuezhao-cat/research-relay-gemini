@@ -167,3 +167,22 @@ S1：In summary, we determined the surface coverage of FeCoMn–NC, a catalyst c
 S2：Experimentally, FeCoMn–NC reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH, outperforming Pt/C, FeCo–NC, and Mn–NC, and retains 96.5% of its initial current after 238 h.
 直译：实验上，FeCoMn–NC 在 0.1 M KOH 中的 ORR 半波电位达到 0.885 V（相对 RHE），优于 Pt/C、FeCo–NC 和 Mn–NC，并在 238 h 后保持初始电流的 96.5%。
 （surface state 改为 surface coverage，与摘要、前言提问一致；去掉 for FeCoMn–NC 句首。第二步讨论请以此为准。）
+
+## 13:02 第二步讨论稿更新（以此为准，取代 12:58 候选）
+Claude web 自查后改了三处：证据句不再以 Surface-coverage calculations show 开头（与 S1 重复）；火山图句去掉"三者中实测活性最高"（与 S2 重复，且计算导致实测的因果不对）；机理句不变。
+
+S3 证据：At the working potential and pH, the O*-covered FeCo alloy particles shift the Mn–OH to Mn=O transition of the adjacent Mn single atoms from 0.48 to 0.96 V versus RHE, so the Mn single atoms keep an axial OH during the ORR.
+直译：在工作电位和 pH 下，被 O* 覆盖的 FeCo 合金颗粒把相邻 Mn 单原子由 Mn–OH 向 Mn=O 的转变从 0.48 V 推移到 0.96 V（相对 RHE），因此 Mn 单原子在 ORR 过程中保持轴向 OH。
+
+S4 机理：The axial OH moderates intermediate binding electronically by leaving Mn more bonding capacity than an axial Mn=O does and geometrically by holding Mn out of the N4 plane, avoiding both the overly weak binding of Mn=O and the overly strong binding of ligand-free Mn.
+直译：轴向 OH 通过电子效应（比轴向 Mn=O 为 Mn 留下更多成键能力）和几何效应（使 Mn 保持在 N4 平面之外）使中间体结合适中，从而既避免了 Mn=O 的过弱结合，也避免了无配体 Mn 的过强结合。
+
+S5 火山图：FeCoMn–NC therefore lies near the apex of the activity volcano.
+直译：因此，FeCoMn–NC 位于活性火山图顶点附近。
+
+待判断：S4 中 holding Mn out of the N4 plane 不讲拉回过程，读者能否看懂它为何削弱过强结合。
+
+请回答：
+1. S3–S5 是否合适；如需改，给出英文和中文直译。
+2. 与已定稿的 S1、S2（13:01）衔接是否顺、有无重复。
+3. 上面"待判断"一条的意见。
