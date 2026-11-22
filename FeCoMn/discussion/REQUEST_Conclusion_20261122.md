@@ -155,3 +155,8 @@ S5 火山图（不牵扯 Pt/C，不用 consistent with）：As a result, FeCoMn�
 ### 请回答
 1. S4 是否合适（只讲机理，不讲拉回、消耗结合能的过程）；如需改，给出英文和中文直译。
 2. S3、S5 与 S1、S4 衔接是否顺，是否有重复。
+
+## 12:59 第一句修订定稿（赵月：并解释了高 ORR 活性来源不需要）
+In summary, for FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, we determined the surface state under working conditions and thereby revealed how the FeCo alloy particles affect intermediate binding at the adjacent Mn single atoms.
+直译：总之，对于兼具 FeCo 合金颗粒与 Mn 单原子的催化剂 FeCoMn–NC，我们确定了它在工作条件下的表面状态，并由此揭示了 FeCo 合金颗粒如何影响相邻 Mn 单原子上的中间体结合。
+（取代 12:56 版。活性来源由第二步的火山图句交代。）
