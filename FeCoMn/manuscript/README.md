@@ -129,3 +129,4 @@
 | FeCoMn_Manuscript_revised_20261122_1100.docx / FeCoMn_SI_revised_20261122_1100.docx（及 _clean） | 2026-11-22 11:00 | 基于 Antigravity 2200（桌面）。Claude web 复核：前言 [F][G] 措辞与编号、SI 三处漏改编号（Larch、2.8 节、Table S4）均正确，批注 30/30 嵌套；标黄按词重核（正文 0 多 0 漏，SI 0 多 0 漏）。文字同 2200。 |
 | FeCoMn_Manuscript_revised_20261122_1110.docx（及 _clean、_for_HaoLi） | 2026-11-22 11:10 | 基于 1100。图 4 裁掉顶部约 11% 空白（图内容、布局、配色不变）；图 1–6 图注行距由 1.5 倍改为单倍，图 6 图注与图回到同一页（渲染核对：六张图都和图注同页）。文字不变。 |
 | FeCoMn_Manuscript/SI_revised_20261122_1120（标黄、_clean、_for_HaoLi） | 2026-11-22 11:20 | 基于 1110/1100。格式全文检查：图 6 图注 (a)–(i) 恢复加粗（11-18 重写时丢失），图 3 (h) 加粗，SI 图 S8、S27、S29、S30 分图标号加粗，与其他图注统一；图注中斜体 versus 改正体，与正文一致。文字不变，标黄 0 多 0 漏。 |
+| FeCoMn_Manuscript_revised_20261122_1130（标黄、_clean、_for_HaoLi） | 2026-11-22 11:30 | 基于 1120。删除 238 h 计时电流的电压：图 3g 图内标签改为 238 h, 1600 rpm；正文 after 238 h at 1600 rpm；图注 (g) at 1600 rpm。SI 未动（方法与图 S10 仍写 0.516 V，待定）。 |
