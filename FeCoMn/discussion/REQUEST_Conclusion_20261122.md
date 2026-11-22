@@ -87,3 +87,7 @@ In summary, we prepared an FeCoMn–NC catalyst combining FeCo alloy particles a
 
 ### 版本索引
 导师返回版 → V0（现 Word）→ C1 → C2 → C3 → C4 → C5 → C6(=V1 前身) → C7 → C8 → C9/C10 → C11 → V1 → C12 → V2 → V3 → V4（Gemini 终稿，12:16）。
+
+## 赵月 12:35 定稿进度
+- 第一句定稿（用 Gemini 最新版）：In summary, we prepared an FeCoMn–NC catalyst combining FeCo alloy particles and Mn single atoms, achieving an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH and retaining 96.5% of its initial current after 238 h.
+- 赵月对后续各版的意见：机理说太多，要上升到规律的总结；意义没体现出来；Claude 12:34 版"真的不好"。
