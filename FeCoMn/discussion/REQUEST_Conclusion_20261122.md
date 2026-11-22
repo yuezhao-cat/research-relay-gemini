@@ -273,3 +273,13 @@ In summary, we determined the surface coverage of FeCoMn–NC, a catalyst combin
 S2：Experimentally, FeCoMn–NC reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH, outperforming Pt/C, FeCo–NC, and Mn–NC.
 直译：实验上，FeCoMn–NC 在 0.1 M KOH 中的 ORR 半波电位达到 0.885 V（相对 RHE），优于 Pt/C、FeCo–NC 和 Mn–NC。
 （删去 238 h 与 96.5%；第三步讨论以此 S2 为准。）
+
+### 13:36 补充问题（与第三步一起回答）
+赵月：性能句里"优于 Pt/C、FeCo–NC 和 Mn–NC"也可写可不写。请判断 S2 用哪一种：
+A：Experimentally, FeCoMn–NC reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH, outperforming Pt/C, FeCo–NC, and Mn–NC.
+直译：实验上，FeCoMn–NC 在 0.1 M KOH 中的 ORR 半波电位达到 0.885 V（相对 RHE），优于 Pt/C、FeCo–NC 和 Mn–NC。
+B（无数字，只留对比，Claude web 倾向）：Experimentally, FeCoMn–NC shows higher ORR activity than Pt/C, FeCo–NC, and Mn–NC.
+直译：实验上，FeCoMn–NC 的 ORR 活性高于 Pt/C、FeCo–NC 和 Mn–NC。
+C（只留数字，不写对比）：Experimentally, FeCoMn–NC reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH.
+D：整句删掉。
+请说明理由（结论读者需要什么；与 S4 火山图顶点的呼应）。
