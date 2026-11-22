@@ -208,3 +208,25 @@ S4（机理与火山图合并）：The axial OH leaves Mn bonding capacity for O
 
 ### 13:16 补充问题 4（赵月）
 4. S3 中 whereas Mn without the particles forms Mn=O 是否必须写？赵月认为不一定需要；改成 rather than an axial O 又很突兀。请判断这个有颗粒/无颗粒的对比在结论里要不要出现、放在哪里。
+
+## 13:27 第二步新稿：机理压到结论层面（写到 review/20261122_conclusion_step2final_<名字>.md）
+
+赵月意见（13:21–13:26）：
+- 不要带"提高转变电位"的比较，直接说工作电位下 Mn 是轴向 OH；不比无颗粒。
+- "把 Mn 拉向自身、使 OH* 消耗结合能"读者看不懂；后又认为成键能力加出平面这些都太细节。
+- 这是结论，大家关注的是结论，不是细枝末节。
+
+### 当前稿（S1、S2 不变，13:01 定稿）
+S3：Calculations show that the O*-covered FeCo alloy particles keep an axial OH on the adjacent Mn single atoms at the working potential.
+直译：计算表明，被 O* 覆盖的 FeCo 合金颗粒在工作电位下使相邻 Mn 单原子保持轴向 OH。
+S4：The axial OH keeps the binding of ORR intermediates moderate, placing FeCoMn–NC near the apex of the activity volcano.
+直译：轴向 OH 使 ORR 中间体的结合保持适中，从而使 FeCoMn–NC 位于活性火山图顶点附近。
+
+### 曾考虑的中间版（供比较）
+S4'：The axial OH moderates intermediate binding through the bonding capacity it leaves on Mn and the out-of-plane position of Mn, placing FeCoMn–NC near the volcano apex.
+直译：轴向 OH 通过它给 Mn 留下的成键能力和 Mn 的出平面位置使中间体结合适中，从而使 FeCoMn–NC 位于火山图顶点附近。
+
+### 请回答
+1. 结论中机理写到 S4（只说结合适中）是否足够，还是需要 S4' 那样点名两个因素？请从"结论的读者关注什么"出发判断。
+2. S3 不写有/无颗粒的对比，是否仍能支撑 S1"揭示颗粒如何影响相邻 Mn"的承诺？
+3. 如有改进，给出英文和中文直译，保持简短，不加细节。
