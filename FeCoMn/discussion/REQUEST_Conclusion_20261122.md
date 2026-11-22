@@ -238,3 +238,33 @@ S4：The axial OH moderates the binding of ORR intermediates through electronic 
 直译：轴向 OH 通过电子和几何作用使 ORR 中间体的结合适中，从而使 FeCoMn–NC 位于活性火山图顶点附近。
 
 ## 下一步：第三步意义句（最后一句），待讨论
+
+## 13:35 第三步：意义句（最后一句）。请写到 review/20261122_conclusion_significance_<名字>.md
+
+### 已定稿 S1–S4
+In summary, we determined the surface coverage of FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, under working conditions and thereby revealed how the FeCo alloy particles affect intermediate binding at the adjacent Mn single atoms. Experimentally, FeCoMn–NC reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH, outperforming Pt/C, FeCo–NC, and Mn–NC, and retains 96.5% of its initial current after 238 h. Calculations show that the O*-covered FeCo alloy particles keep an axial OH on the adjacent Mn single atoms at the working potential. The axial OH moderates the binding of ORR intermediates through electronic and geometric effects, placing FeCoMn–NC near the apex of the activity volcano.
+（性能句数字的取舍待全段定后再议。）
+
+### 意义句要做的事
+- 回到前言的问题与空白：热解 M–N–C 中颗粒与单原子常共存，活性通常只归给单原子，模型只用裸露单原子；前言问的是颗粒和工作条件下的覆盖如何影响相邻单原子的中间体结合。
+- 落在本文独有的认识（赵月价值 c）：共存颗粒在工作条件下决定相邻单原子的轴向配体，进而调控中间体结合。与 Wan 2022（团簇诱导永久轴向 OH）区分。
+- 结论层面一句话，不加机理细节，不加数字。
+- 注意：S3 已不写转变电位，意义句不要再依赖"推移转变电位"。
+
+### 赵月否定过的写法
+- 泛化到多组分电催化体系、generalizable design principle 一类套话。
+- should / is essential / requires 一类对读者提要求。
+- not spectators、do not capture、beyond bare-site models 一类否定或防御式写法（是否允许 beyond bare-site models 请表态）。
+- 未经证明的规律（例如活性取决于电位范围宽窄）。
+
+### 之前各方提过的意义句（供参考，不必沿用）
+1. Claude Code：The activity of single atoms next to metal particles thus depends on the potential range over which the covered particles keep a suitable axial ligand on these single atoms.（GPT 指出电位范围宽窄未经证明）
+2. Claude web 2：The activity of single atoms beside metal particles thus depends on the axial ligand that the covered particles maintain on them under working conditions.
+3. Claude web 2（早）：...the axial ligand of a single atom beside a metal particle is a working-condition state controlled by the particle.
+4. GPT：The findings identify working-condition axial coordination as the link between covered metal particles and neighboring single-atom reactivity, establishing the particle–ligand–single-atom ensemble as a functional unit for understanding ORR catalysis.（Antigravity 指出 functional unit 正文没有）
+5. Antigravity：In M–N–C catalysts where metal particles coexist with single atoms, covered particles under working conditions determine the axial ligand of adjacent single atoms and thereby regulate intermediate binding, a surface-coverage mechanism that extends understanding of ORR catalysis beyond bare-site models and guides catalyst design.
+
+### 请回答
+1. 你的意义句（英文 + 中文直译），一句。
+2. 它回应了前言的哪一点，体现了哪项本文独有价值。
+3. 对上面 1–5 的简短评价。
