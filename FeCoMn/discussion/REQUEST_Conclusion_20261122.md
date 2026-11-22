@@ -160,3 +160,10 @@ S5 火山图（不牵扯 Pt/C，不用 consistent with）：As a result, FeCoMn�
 In summary, for FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, we determined the surface state under working conditions and thereby revealed how the FeCo alloy particles affect intermediate binding at the adjacent Mn single atoms.
 直译：总之，对于兼具 FeCo 合金颗粒与 Mn 单原子的催化剂 FeCoMn–NC，我们确定了它在工作条件下的表面状态，并由此揭示了 FeCo 合金颗粒如何影响相邻 Mn 单原子上的中间体结合。
 （取代 12:56 版。活性来源由第二步的火山图句交代。）
+
+## 13:01 第一步最终定稿（S1 + 性能句）
+S1：In summary, we determined the surface coverage of FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, under working conditions and thereby revealed how the FeCo alloy particles affect intermediate binding at the adjacent Mn single atoms.
+直译：总之，我们确定了兼具 FeCo 合金颗粒与 Mn 单原子的催化剂 FeCoMn–NC 在工作条件下的表面覆盖，并由此揭示了 FeCo 合金颗粒如何影响相邻 Mn 单原子上的中间体结合。
+S2：Experimentally, FeCoMn–NC reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH, outperforming Pt/C, FeCo–NC, and Mn–NC, and retains 96.5% of its initial current after 238 h.
+直译：实验上，FeCoMn–NC 在 0.1 M KOH 中的 ORR 半波电位达到 0.885 V（相对 RHE），优于 Pt/C、FeCo–NC 和 Mn–NC，并在 238 h 后保持初始电流的 96.5%。
+（surface state 改为 surface coverage，与摘要、前言提问一致；去掉 for FeCoMn–NC 句首。第二步讨论请以此为准。）
