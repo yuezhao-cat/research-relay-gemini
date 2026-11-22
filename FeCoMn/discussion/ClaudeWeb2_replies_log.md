@@ -422,3 +422,18 @@ The axial OH moderates intermediate binding by leaving Mn more bonding capacity 
 直译：轴向 OH 通过比轴向 Mn=O 为 Mn 留下更多成键能力，以及使 Mn 保持在 N₄ 平面之外，使中间体结合适中，从而使结合处于 Mn=O 的过弱结合与无配体 Mn 的过强结合之间。
 
 另：0.48→0.96 V 那句（颗粒的作用）要保留，它是意义句的依据。
+
+---
+## 2026-11-22 13:50 结论是否要呼应摘要/前言的前两句
+要呼应，而且当前稿（321026a 的 S1–S5）已经呼应了。方式是同一个问题、同一组关键词，不照抄句子。
+
+| 摘要/前言 | 结论 | 怎么呼应 |
+|---|---|---|
+| 第 2 句：问题。How particles and surface coverage under working conditions affect intermediate binding at adjacent single atoms remains unclear. | S1：determined the surface coverage ... under working conditions and thereby revealed how the FeCo alloy particles affect intermediate binding at the adjacent Mn single atoms. | 问题怎么提，S1 就怎么答。关键词一一对应：surface coverage、under working conditions、intermediate binding、adjacent single atoms。 |
+| 第 1 句：空白。Metal particles often coexist with single atoms ..., yet models usually treat bare single atoms as the only active sites. | S5：The ORR activity of single atoms beside metal particles thus also depends on the particles, whose surface coverage ... determines the axial ligand ... | also depends on the particles 用肯定句回应"只看裸单原子"。没有说颗粒是活性位，与正文"ORR 在 Mn 上进行"一致。 |
+
+这样摘要和前言是先提空白、再提问题，结论是先答问题（S1）、最后回到空白（S5），首尾闭环。
+
+要避免的两点：
+- 不照抄原句。比如结论里再写 models usually treat bare single atoms，就成了复述，而且带防御意味。
+- 不在 S2–S4 中间插入呼应，中间几句只负责交付证据和机理。
