@@ -131,3 +131,4 @@
 | FeCoMn_Manuscript/SI_revised_20261122_1120（标黄、_clean、_for_HaoLi） | 2026-11-22 11:20 | 基于 1110/1100。格式全文检查：图 6 图注 (a)–(i) 恢复加粗（11-18 重写时丢失），图 3 (h) 加粗，SI 图 S8、S27、S29、S30 分图标号加粗，与其他图注统一；图注中斜体 versus 改正体，与正文一致。文字不变，标黄 0 多 0 漏。 |
 | FeCoMn_Manuscript_revised_20261122_1130（标黄、_clean、_for_HaoLi） | 2026-11-22 11:30 | 基于 1120。删除 238 h 计时电流的电压：图 3g 图内标签改为 238 h, 1600 rpm；正文 after 238 h at 1600 rpm；图注 (g) at 1600 rpm。SI 未动（方法与图 S10 仍写 0.516 V，待定）。 |
 | FeCoMn_Manuscript/SI_revised_20261122_1140（标黄、_clean、_for_HaoLi） | 2026-11-22 11:40 | 基于 1130/1120。图 6 图注精简为每个分图画什么，方法细节指向 SI 2.8、2.10–2.13 节；SI 2.13 节末补 6e 归一化一句（标黄）。表 S10 正文仍有引用，表格首次引用顺序不变。标黄 0 多 0 漏。 |
+| FeCoMn_SI_revised_20261122_1155（标黄、_clean、_for_HaoLi） | 2026-11-22 11:55 | 基于 SI 1140。删去 0.516 V：方法部分 Chronoamperometry was performed at 1600 rpm；图 S10 图注 at 1600 rpm for 31.6 h。删字无法标黄。 |
