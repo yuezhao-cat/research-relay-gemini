@@ -79,3 +79,22 @@ Because coexisting metal particles set the axial ligand of adjacent single atoms
 - 前半句回应摘要第 1、2 句（颗粒共存、工作条件下的表面覆盖），并落在本文独有价值上：颗粒决定轴向配体。
 - 后半句把适用范围扩大到受中间体结合支配的电催化反应，这一点依据前言第一段。
 - 后半句只写"理解"，不写"设计"。若要加上，改为 understanding and designing。
+
+## 14:35 对赵月两句中文稿的意见与英文
+赵月稿：因此，M-N-C的性能不仅受到单原子的影响还受到通常被忽略的颗粒的影响。在工作条件下，考量材料的表面覆盖，可指导各类受中间体结合支配的电催化反应中 M–N–C 催化剂的理解与设计。
+
+**同意的部分。** 第一句用"不仅……还……"正面回应前言"活性常只归给单原子"的说法，讲清了 M–N–C 层面的意义。第二句把适用范围扩大到受中间体结合支配的反应。两句分工清楚。
+
+**四处建议**
+1. **"性能"改为"ORR 活性"。** 本文解释的只是活性，没有解释稳定性，而且性能句已经删去了稳定性。
+2. **"通常被忽略的"可以保留。** 它和前言 often attributed to the single atoms alone 一一对应，属于陈述事实，不是防御写法。如果赵月想完全避开评价别人，可以删掉，句意不受影响。
+3. **"可指导"去掉"可"。** can guide 是限定写法，会削弱结论。改为 provides guidance for，语气肯定，也不夸大。
+4. **"材料的表面覆盖"写明是谁的覆盖。** 本文的关键是颗粒和单原子两者的覆盖，写成 the surface coverage of both particles and single atoms，就和摘要第 2 句对上了。另外，"在工作条件下"放在 surface coverage 后面作修饰，不放句首，避免主语悬空。
+
+**英文**
+The ORR activity of M–N–C catalysts therefore depends not only on the single atoms but also on the often overlooked metal particles. Considering the surface coverage of both particles and single atoms under working conditions provides guidance for understanding and designing M–N–C catalysts for electrocatalytic reactions governed by intermediate binding.
+
+**直译**
+因此，M–N–C 催化剂的 ORR 活性不仅取决于单原子，也取决于通常被忽略的金属颗粒。考量工作条件下颗粒与单原子两者的表面覆盖，为理解和设计用于受中间体结合支配的电催化反应的 M–N–C 催化剂提供了指导。
+
+规则自查：没有冒号、分号、破折号，没有 can 或 should，没有数字，主语明确。全段只有第一句用了 therefore，与 S4 的 placing 不冲突。
