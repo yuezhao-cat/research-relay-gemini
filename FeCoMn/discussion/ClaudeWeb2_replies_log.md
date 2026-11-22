@@ -437,3 +437,15 @@ The axial OH moderates intermediate binding by leaving Mn more bonding capacity 
 要避免的两点：
 - 不照抄原句。比如结论里再写 models usually treat bare single atoms，就成了复述，而且带防御意味。
 - 不在 S2–S4 中间插入呼应，中间几句只负责交付证据和机理。
+
+---
+## 2026-11-22 15:15 现行标题哪里不好
+标题：Surface Coverage under Working Conditions Reveals That FeCo Particles Determine the Axial Ligand of Mn Single Atoms for Oxygen Reduction
+
+先说优点：标题的核心判断和摘要末句一致（FeCo particles determine the axial ligand），under Working Conditions 也把本文和 Wan 2022 区分开了。问题有四个，按严重程度排列：
+1. **主语逻辑不通，而且循环。** 表面覆盖是吸附的结果，没有能力去 reveal 什么。真正"揭示"结论的是计算。更深一层的问题是，Mn 上的轴向 OH 本身就是表面覆盖的一部分，标题等于在说"表面覆盖揭示了表面覆盖中的一部分由颗粒决定"。
+2. **for Oxygen Reduction 挂不上前文。** 它紧接在 determine the axial ligand 之后，读起来像"颗粒为了氧还原而决定配体"，带出目的意味。另外，标题最后落在一个泛泛的反应名上，收尾显得拖。
+3. **没有交代轴向配体为什么重要。** 标题停在"决定轴向配体"，没有落到"中间体结合适中"。可活性正是靠结合适中来解释的，读者从标题里看不出配体和活性之间的联系。
+4. **没写配体是什么。** the Axial Ligand 没有说是 OH，读者读完标题仍不知道结果。这一条最轻，有人会认为留个悬念也可以。
+
+最小修改：只修第 1 条，把主语改成 Surface Coverage Calculations under Working Conditions Show That...，其余不动。若同时修第 2 至第 4 条，见 review/20261122_title_ClaudeWeb2.md 的首选。
