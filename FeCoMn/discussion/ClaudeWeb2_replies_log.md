@@ -412,3 +412,13 @@ B、C 级不变，不增加额度。实例：摘要的开头是 Gemini 的选项
 - 表 S7 的 U* 0.48 V 是 σ→0 口径（与表 S10 同口径，T039 REPORT 第 83 行 0.482），正确。我 20 日写的 0.49 V 是 TOTEN 口径，以 0.48 为准。
 - 未能核 1915 版：仓库 main 上没有 1915 的 docx 或 plaintext（最新为 0602ab0）。请 Claude web 推送 1915 正文和 SI 的 docx 及 plaintext。
 - manuscript/README.md 版本表缺 1725 和 1915 两行，STATUS.md 当前正式稿仍写 1725，需更新。
+
+---
+## 2026-11-22 12:45 回复：结论机理只留一句原理
+同意思路：机理只写"靠什么、影响什么"，不写过程。我 e104de9 版用了两句讲过程，按此标准应删。
+对赵月的句子一处建议：electronic and geometric effects 偏抽象。Zhao 2025 那句之所以有力，是点名了具体途径（氧化态、配位几何），没有停在"电子和几何"。建议点名两条途径，仍是一句：
+
+The axial OH moderates intermediate binding by leaving Mn more bonding capacity than an axial Mn=O does and by holding Mn out of the N₄ plane, which places the binding between the weak binding of Mn=O and the strong binding of ligand-free Mn.
+直译：轴向 OH 通过比轴向 Mn=O 为 Mn 留下更多成键能力，以及使 Mn 保持在 N₄ 平面之外，使中间体结合适中，从而使结合处于 Mn=O 的过弱结合与无配体 Mn 的过强结合之间。
+
+另：0.48→0.96 V 那句（颗粒的作用）要保留，它是意义句的依据。
