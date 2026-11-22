@@ -283,3 +283,6 @@ B（无数字，只留对比，Claude web 倾向）：Experimentally, FeCoMn–N
 C（只留数字，不写对比）：Experimentally, FeCoMn–NC reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH.
 D：整句删掉。
 请说明理由（结论读者需要什么；与 S4 火山图顶点的呼应）。
+
+## 13:48 结论全段（三步合成，意义句按多数采用 Claude Code 版并去掉 adjacent；S2 四家一致选 A）
+In summary, we determined the surface coverage of FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn single atoms, under working conditions and thereby revealed how the FeCo alloy particles affect intermediate binding at the adjacent Mn single atoms. Experimentally, FeCoMn–NC reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH, outperforming Pt/C, FeCo–NC, and Mn–NC. Calculations show that the O*-covered FeCo alloy particles keep an axial OH on the adjacent Mn single atoms at the working potential. The axial OH moderates the binding of ORR intermediates through electronic and geometric effects, placing FeCoMn–NC near the apex of the activity volcano. The ORR activity of single atoms beside metal particles thus also depends on the particles, whose surface coverage under working conditions determines the axial ligand of the single atoms.
