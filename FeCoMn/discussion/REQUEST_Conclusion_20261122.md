@@ -12,6 +12,7 @@
 3. Gemini 指出和摘要重复太多；Gemini 改写版结尾泛泛（适用于多组分体系之类），冲淡了本文独有价值。
 4. 本文独有价值三点：(a) 工作电位和 pH 下的表面覆盖，颗粒把 Mn–OH→Mn=O 从 0.48 V 推迟到 0.96 V；(b) 轴向配体同时避免过弱（Mn=O 占成键能力）和过强（无轴向配体时 OH* 过强；轴向 OH 使 Mn 出平面，对侧吸附拉回消耗结合能）；(c) 共存颗粒在工作条件下决定相邻单原子轴向配体，进而调控中间体结合。
 5. Claude 版 B 只能给 80 分；之后又说依旧没做好结论的角色。
+6. Claude 答案先行版 V3：这更差了（比 V2 差）。
 
 ## 写作规则
 不堆计算数字；不写 first/novel；不写防御性语句；不对读者提要求（should）；主语明确，不用 It/This 指代；不用纯否定句；不用破折号；内容与正文一致。
@@ -28,7 +29,7 @@ Claude 指出的问题：Mn–O 应为 Mn=O；Examining... shows 悬垂；while 
 ### V2 Claude 版 B（赵月：80 分）
 FeCoMn–NC, in which FeCo alloy particles coexist with Mn single atoms, reaches an ORR half-wave potential of 0.885 V versus RHE in 0.1 M KOH and retains 96.5% of its initial current after 238 h. Surface coverage calculations at the working potential and pH show that the O*-covered FeCo particles shift the Mn–OH to Mn=O transition of the adjacent Mn single atoms from 0.48 to 0.96 V versus RHE, so the Mn single atoms keep an axial OH during the ORR. The axial OH balances intermediate binding at Mn in two ways. The weak Mn–OH bond leaves Mn enough bonding capacity for OOH*, whereas an axial Mn=O double bond makes OOH* binding too weak. The axial OH also pulls Mn out of the N4 plane, so opposite-side adsorption consumes binding energy to pull Mn back, which prevents the overly strong OH* binding of Mn without an axial ligand. Under working conditions, the coexisting metal particles thus determine the axial ligand of the adjacent single atoms and thereby set the intermediate binding that places FeCoMn–NC near the apex of the activity volcano.
 
-### V3 Claude 答案先行版（赵月尚未评价）
+### V3 Claude 答案先行版（赵月：这更差了）
 In FeCoMn–NC, FeCo alloy particles affect the adjacent Mn single atoms by determining their axial ligand under working conditions. Surface coverage calculations at the working potential and pH show that the O*-covered particles keep an axial OH on the adjacent Mn single atoms, whereas Mn single atoms without particles carry an axial O. Through bonding capacity and out-of-plane geometry, the axial OH keeps Mn binding the ORR intermediates neither too strongly nor too weakly, consistent with the measured half-wave potential of 0.885 V versus RHE, which exceeds those of Pt/C, FeCo–NC, and Mn–NC. The activity of catalysts in which metal particles coexist with single atoms therefore depends on the axial ligand that the particles impose on the single atoms, a factor that analyses based on bare single-atom sites leave out.
 思路：结论 = 回答前言问题（答案先行）+ 一句证据 + 一句机理 + 一句意义；不复述摘要。
 
