@@ -186,3 +186,22 @@ S5 火山图：FeCoMn–NC therefore lies near the apex of the activity volcano.
 1. S3–S5 是否合适；如需改，给出英文和中文直译。
 2. 与已定稿的 S1、S2（13:01）衔接是否顺、有无重复。
 3. 上面"待判断"一条的意见。
+
+## 13:14 第二步新问题：结论里的数字（写到 review/20261122_conclusion_numbers_<名字>.md）
+
+赵月：这可是结论，不该列这么多数字。
+
+### 赵月要求压短后的第二步（无数字版，Claude web 13:13）
+S3：Calculations at pH 13 show that the O*-covered FeCo alloy particles keep an axial OH on the adjacent Mn single atoms at the working potential, whereas Mn without the particles forms Mn=O.
+直译：pH 13 下的计算表明，被 O* 覆盖的 FeCo 合金颗粒在工作电位下使相邻 Mn 单原子保持轴向 OH，而没有颗粒的 Mn 形成 Mn=O。
+S4（机理与火山图合并）：The axial OH leaves Mn bonding capacity for OOH* and, by pulling Mn toward itself, makes OH* adsorption consume part of its binding energy, placing FeCoMn–NC near the volcano apex.
+直译：轴向 OH 给 Mn 留下结合 OOH* 的成键能力，又通过把 Mn 拉向自身，使 OH* 吸附消耗一部分结合能，从而使 FeCoMn–NC 位于火山图顶点附近。
+（13:12 赵月仍觉啰嗦，已删 out of the N4 plane、opposite-side，并把火山图句并入；不用 cost/penalty，按 REDLINES 第 8 条用 consumes part of the binding energy。）
+
+### 请回答
+1. 结论中是否保留 0.48→0.96 V？（之前多方认为它是区别于 Wan 2022 的唯一定量证据；赵月认为结论不该列数字。）
+2. 已定稿的性能句 S2 是否保留 0.885 V、238 h、96.5%，还是改为定性：
+   Experimentally, FeCoMn–NC outperforms Pt/C, FeCo–NC, and Mn–NC in ORR activity and maintains stable operation in 0.1 M KOH.
+   直译：实验上，FeCoMn–NC 的 ORR 活性优于 Pt/C、FeCo–NC 和 Mn–NC，并在 0.1 M KOH 中保持稳定运行。
+3. 上面无数字版 S3、S4 是否合适，是否还可更简洁；给出英文和中文直译。
+请参考你读过的高水平论文结论里数字的使用习惯。
