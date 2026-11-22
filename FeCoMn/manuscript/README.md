@@ -126,3 +126,4 @@
 | FeCoMn_SI_revised_20261121_2150.docx | 2026-11-21 21:50 | 基于 SI 2050。2.x 节 main-text ref. 12 随正文重新编号改为 ref. 3（Zhang 2025 JACS），标黄。 |
 | FeCoMn_SI_revised_20261121_2155.docx（及 _clean） | 2026-11-21 21:55 | 基于 SI 2150。修复 S31–S34 图注：1850 版重编号时图注段被拆成两段且各多插了一份图片（Word 中图重复、Figure 与编号分两端），已删重复图并合并图注；标黄按词重核。 |
 | FeCoMn_Manuscript_revised_20261121_2155.docx（及 _clean） | 2026-11-21 21:55 | 基于 2150。#366（回 #272）和 #373（回 #197）原来的父批注 ID 指向不存在的段落，Word 里显示成独立批注；已改为挂在老师批注下面的回复。文字不变。 |
+| FeCoMn_Manuscript_revised_20261122_1100.docx / FeCoMn_SI_revised_20261122_1100.docx（及 _clean） | 2026-11-22 11:00 | 基于 Antigravity 2200（桌面）。Claude web 复核：前言 [F][G] 措辞与编号、SI 三处漏改编号（Larch、2.8 节、Table S4）均正确，批注 30/30 嵌套；标黄按词重核（正文 0 多 0 漏，SI 0 多 0 漏）。文字同 2200。 |
