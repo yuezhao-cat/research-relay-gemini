@@ -205,3 +205,6 @@ S4（机理与火山图合并）：The axial OH leaves Mn bonding capacity for O
    直译：实验上，FeCoMn–NC 的 ORR 活性优于 Pt/C、FeCo–NC 和 Mn–NC，并在 0.1 M KOH 中保持稳定运行。
 3. 上面无数字版 S3、S4 是否合适，是否还可更简洁；给出英文和中文直译。
 请参考你读过的高水平论文结论里数字的使用习惯。
+
+### 13:16 补充问题 4（赵月）
+4. S3 中 whereas Mn without the particles forms Mn=O 是否必须写？赵月认为不一定需要；改成 rather than an axial O 又很突兀。请判断这个有颗粒/无颗粒的对比在结论里要不要出现、放在哪里。
