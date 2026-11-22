@@ -72,3 +72,10 @@ Accounting for coexisting metal particles and their surface coverage thus provid
 **与第一句连读**
 In pyrolyzed M–N–C catalysts, coexisting metal particles thus shape the activity of single atoms through the axial ligand that their surface coverage sets under working conditions. Accounting for coexisting metal particles and their surface coverage therefore provides a basis for understanding and designing M–N–C catalysts for electrocatalytic reactions governed by intermediate binding.
 两句的连接词改为一个 thus、一个 therefore，避免重复。第二句第二次出现 coexisting metal particles，可以改成 Accounting for these particles and their surface coverage，以免重复。
+
+## 14:10 合成一句（赵月：结尾就一句）
+Because coexisting metal particles set the axial ligand of adjacent single atoms through their surface coverage under working conditions, accounting for these particles provides a basis for understanding M–N–C catalysts in electrocatalytic reactions governed by intermediate binding.
+直译：由于共存的金属颗粒通过其在工作条件下的表面覆盖决定相邻单原子的轴向配体，将这些颗粒纳入考量，为理解受中间体结合支配的电催化反应中的 M–N–C 催化剂提供了依据。
+- 前半句回应摘要第 1、2 句（颗粒共存、工作条件下的表面覆盖），并落在本文独有价值上：颗粒决定轴向配体。
+- 后半句把适用范围扩大到受中间体结合支配的电催化反应，这一点依据前言第一段。
+- 后半句只写"理解"，不写"设计"。若要加上，改为 understanding and designing。
