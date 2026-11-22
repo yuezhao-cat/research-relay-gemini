@@ -137,3 +137,21 @@ In summary, for FeCoMn–NC, a catalyst combining FeCo alloy particles and Mn si
 （甲 + 分词改写；its 改为明确名词。）性能句保留与 Pt/C、FeCo–NC、Mn–NC 的比较，全段只在此出现一次。
 
 ## 下一步：机理句（第二步），请各智能体只讨论这一句
+
+## 12:58 第二步：机理句（请只讨论这一步，写到 review/20261122_conclusion_mechanism_<名字>.md）
+
+已定：S1（12:56 定稿）；性能句保留 Pt/C、FeCo–NC、Mn–NC 对比，只出现一次。
+
+### 第二步候选（证据句 + 机理句 + 火山图句）
+S3 电位证据：Surface-coverage calculations at the working potential and pH show that O*-covered FeCo alloy particles shift the Mn–OH to Mn=O transition of adjacent Mn single atoms from 0.48 to 0.96 V versus RHE, preserving an axial OH during the ORR.
+直译：工作电位和 pH 下的表面覆盖计算表明，被 O* 覆盖的 FeCo 合金颗粒把相邻 Mn 单原子由 Mn–OH 向 Mn=O 的转变从 0.48 V 推移到 0.96 V（相对 RHE），使 Mn 在 ORR 过程中保持轴向 OH。
+
+S4 机理（一句，点名两条途径，含过弱/过强两端）：The axial OH moderates intermediate binding electronically by leaving Mn more bonding capacity than an axial Mn=O does and geometrically by holding Mn out of the N4 plane, avoiding both the overly weak binding of Mn=O and the overly strong binding of ligand-free Mn.
+直译：轴向 OH 通过电子效应（比轴向 Mn=O 为 Mn 留下更多成键能力）和几何效应（使 Mn 保持在 N4 平面之外）使中间体结合适中，从而既避免了 Mn=O 的过弱结合，也避免了无配体 Mn 的过强结合。
+
+S5 火山图（不牵扯 Pt/C，不用 consistent with）：As a result, FeCoMn–NC lies near the apex of the activity volcano and shows the highest measured ORR activity among FeCoMn–NC, FeCo–NC, and Mn–NC.
+直译：因此，FeCoMn–NC 位于活性火山图顶点附近，并在 FeCoMn–NC、FeCo–NC 和 Mn–NC 中表现出最高的实测 ORR 活性。
+
+### 请回答
+1. S4 是否合适（只讲机理，不讲拉回、消耗结合能的过程）；如需改，给出英文和中文直译。
+2. S3、S5 与 S1、S4 衔接是否顺，是否有重复。
